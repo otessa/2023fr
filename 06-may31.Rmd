@@ -1,0 +1,452 @@
+# Wednesday, May 31 | In Person at York University
+
+```{block, type='protip'}
+
+#### Join us for the #OTESSA23 Morning Radio Show every morning Monday-Thursday 9:30-10:30 (Eastern) at https://voiced.ca
+```
+
+### Session Types {-}
+
+```{block, type='protip'}
+
+
+#### ✨ Note{-}
+
+***All times are in Eastern Time (Canada)***
+```
+
+```{block, type='keynote'}
+
+#### Keynote
+
+```
+
+```{block, type='speaker'}
+
+#### Invited Speaker
+
+```
+
+```{block, type='session'}
+
+
+#### Regular Session
+
+```
+
+```{block, type='social'}
+
+#### Social Session
+
+```
+
+```{block, type='vendor'}
+
+
+#### Vendor
+
+```
+
+```{block, type='workshop'}
+
+
+#### Workshop
+
+```
+
+---
+
+## Continental Breakfast Provided | 8:00-9:00 {-}
+
+## Welcome Desk Open | 8:00 - 11:30 {-}
+
+## Conference Welcome, Announcements & Land Acknowledgement | 9:00-9:15 {-}
+
+## Break | 9:15-9:30 {-}
+
+## Concurrent Session 13 | 9:30-10:30 {-}
+
+1 Hour
+
+### Concurrent Session 13.1 |  Transitions of Online Learning & Teaching {-}
+
+```{block, type='session'}
+
+
+#### 9:30-10:00 | **Designing Group Work in Online Courses to Develop Preservice Teachers’ Professional Collaboration Skills** |  Research {-}
+
+***Amber Hartwell, Christy Thomas, Barbara Brown & Bruna Nogueria*** | *University of Calgary*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+```{block, type='session'}
+
+
+#### 10:00-10:30 | **TBA** |  TBA {-}
+
+***TBA*** | *TBA*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+### Concurrent Session 13.2 |  Addressing Inequities {-}
+
+```{block, type='workshop'}
+
+
+#### 9:30-10:30 | **Students as Expert Designers of Equity Courses: The New Normal in a Post-Digital Era** |  Workshop {-}
+
+***Lorayne Robertson*** | *Ontario Tech University*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+### Concurrent Session 13.3 |  Transitions of Online Learning & Teaching {-}
+
+```{block, type='session'}
+
+
+#### 9:30-10:00 | **Online Collaborative Testing: Design and Implementation in a Large First-Year Undergraduate Course** |  Practice {-}
+
+***Mariel Miller, Safoura Askari & Syed Qudsia*** | *University of Victoria*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+```{block, type='session'}
+
+#### 10:00-10:30 | **Hidden Curriculum of Education Technologies** |  Practice {-}
+
+***Danielle Dilkes*** | *Western University*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+## Break | 10:30-11:00 {-}
+
+## Keynote | 11:00-12:00 {-}
+
+```{block, type='keynote'}
+ 
+
+#### Progressing truth, confronting complacency, and unleashing the possibility of healing through education.  {-}
+
+***Nick Bertrand*** | *University of Calgary*
+
+
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+Education as a tool for both healing and reconciliation has been an evolving movement over the years, and in particular since the release the of the Truth and Reconciliation Commission 94 Calls to Action.  Eight years later in a post TRC society, what truths remain untold?  What lessons have we learned in trying to mobilize meaningful change?  How can we as educators, uphold our responsibilities in the work of rebuilding the broken relationship that has brought us to this space? As the reconciliatory bridge continues to be constructed, education systems will continue to play a keystone role in the process of building awareness, understanding, and creating action.
+</p>
+</details>
+
+
+##### [Session Link](){target="_blank"} {-}
+
+```
+
+## Break | 12:00-1:30 {-}
+
+## Concurrent Session 14 | Invited Speakers | 1:30-2:15 {-}
+
+45 Minutes
+
+### Concurrent Session 14.1 {-}
+
+```{block, type='speaker'}
+
+#### Session Speaker: **TBA** 
+
+*Session title: TBA*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+### Concurrent Session 14.2 {-}
+
+```{block, type='speaker'}
+
+#### Session Speaker: **TBA** 
+
+*Session title: TBA*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+## Break | 2:15-2:30 {-}
+
+## Concurrent Session 15 | 2:30-3:00 {-}
+
+30 Minutes
+
+### Concurrent Session 15.1 |  Addressing Inequities {-}
+
+```{block, type='session'}
+
+
+#### 2:30-3:00 | **Open Educational Practices in Canada’s Higher Education in a French- speaking Minority Environment: Reckonings on Language Justice** |  Research {-}
+
+***Catherine Lachaîne*** | *University of Ottawa*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+### Concurrent Session 15.2 |  Addressing Inequities {-}
+
+```{block, type='session'}
+
+
+
+#### 2:30-3:00 | **Les Effets d’une initiative pour brancher sur Internet les familles à faible revenu (in French)** |  Research {-}
+
+***Normand Roy*** | *Université de Montréal*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+### Concurrent Session 15.3 |  Sustaining Positive Change {-}
+
+```{block, type='session'}
+
+
+
+#### 2:30-3:00 | **Beyond Covid-19: Infusing Advanced Technologies into a New Model for Children’s Adaptation to the New Normal** |  Research {-}
+
+***Liton Furukawa*** | *Royal Roads University*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+## Break with Coffee and Snack Provided | 3:00-3:30 {-}
+
+## Concurrent Session 16 | 3:30-5:00 {-}
+
+### Concurrent Session 16.1 |  Wildcard {-}
+
+```{block, type='session'}
+
+
+
+#### 3:30-4:30 | **The Interconnectivity of Heutagogy and Education 4.0 in Higher Online Education** |  Research {-}
+
+***Jeanne Kim*** | *Athabasca University*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+```{block, type='session'}
+
+
+
+#### 4:30-5:00 | **An Interwoven Course: Reflective Practice and Portfolio** |  Practice {-}
+
+***Christine Ho Younghusband*** | *University of Northern British Columbia*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+### Concurrent Session 16.2 |  Wildcard {-}
+
+```{block, type='session'}
+
+#### 3:30-4:30 | **Designing Agile Skill Development Pathways for Climate Adaptation: Leveraging Open Competency Frameworks and Open Educational Resources to Develop Micro-credential** |  Practice {-}
+
+***David Porter*** | *DP+Associates*
+
+***Robin S Cox*** | *Royal Roads University*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+```{block, type='session'}
+
+
+
+#### 4:30-5:00 | **What Happened to OpenCourseWare? A Discussion of the Open Education Movement’s Shift from Course Content to Textbooks** |  Practice {-}
+
+***Erik Christiansen*** | *Mount Royal University*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+### Concurrent Session 16.3 |  Wildcard {-}
+
+```{block, type='session'}
+
+
+
+#### 3:30-5:00 | **Leadership for Digital Transformation** |  Research {-}
+
+***Don Eldridge, Monica Shah & Alissa Bigelow*** | *eCampusOntario*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+### Concurrent Session 16.4 |  Sustaining Positive Change {-}
+
+```{block, type='session'}
+
+
+
+#### 3:30-4:00 | **Opening-Up Digital Platforms to Community-Based Research** |  Research {-}
+
+***Robyn Hall*** | *MacEwan University*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+```{block, type='session'}
+
+
+
+#### 4:00-4:30 | **The Role of Teachers’ Assessment Literacy in an Inquiry-Based Learning Environment** |  Research {-}
+
+***Maryam Shirdel Pour & Michael Paskevicius*** | *University of Victoria*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+```{block, type='session'}
+
+
+
+#### 4:30-5:00 | **TBA** |  Research {-}
+
+***TBA*** | *TBA*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+## Congress President Reception | 5:00-7:00 {-}
+
+## OTESSA Social |  Life Sciences Building Lobby | 7:00-11:59 {-}

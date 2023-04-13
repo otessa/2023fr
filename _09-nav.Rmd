@@ -1,0 +1,71 @@
+# Navigation Information {-}
+
+## Navigating Forj {-}
+Forj is the Congress virtual platform, where you will find links to all Zoom sessions. Panelists and speakers and attendees will need to sign in to the platform and navigate to their event.
+
+
+
+There are three ways to do this.
+
+1. Follow the link from the **OTESSA Program**
+2. From the Congress Homepage, go to the **Your Sessions / Open events** tab  
+3. From the Congress Homepage, go to the **Associations tab**   
+
+### **OPTION 1** {-}
+
+In the bottom corner of each session on the [OTESSA Program page](https://otessa.org/2022/program), there is a 'Session Link', which will take you to the Events listing page in the Congress virtual platform. You may need to sign in.
+
+Each session contains the same link to the events listing page, so if you don't see one, pick another!
+
+![OTESSA Program Link](assets/media/nav/image9.png)
+
+Find your date, and then select **Attend Webcast** or **More info**
+
+![OTESSA Events listing in Forj](assets/media/nav/image2.png)
+
+- If you choose **Attend Webcast**, the Zoom session will launch  
+- If you choose **More info**, select the **Attend Webcast** button in the popup to launch Zoom and join the session.  
+  
+![More Info option](assets/media/nav/image3.png)
+
+### **OPTION 2** {-}
+Go to **Your Sessions / Open events** tab and choose '314-OTESSA Sessions' from the dropdown menu.
+
+You will also see that you have access to several other Associations' programs. We have reciprocal attendance agreements with these associations and you are welcome to attend their sessions as a paid OTESSA registrant.
+
+![Congress Homepage; Your Sessions/Open Events tab](assets/media/nav/image1.png)
+
+Find your date, and then select **Attend Webcast** or **More info**
+
+![OTESSA Events Listing in Forj](assets/media/nav/image2.png)
+
+- If you choose **Attend Webcast**, the Zoom session will launch  
+- If you choose **More info**, select the **Attend Webcast** button in the popup to launch Zoom and join the session.
+
+![More Info option](assets/media/nav/image3.png)
+
+### **OPTION 3** {-}
+
+Hover over the **Associations** tab and choose **Association Hall B**.
+
+![Congress Homepage; Associations tab](assets/media/nav/image4.png)
+
+OTESSA is **Association #314**.
+
+![](assets/media/nav/image6.png)
+
+Here you will be brought to the Greeting lounge. When you are in the Greeting lounge, click on “Go to your sessions”
+
+![](assets/media/nav/image7.png)
+
+Find your date, and then select **Attend Webcast** or **More info**
+
+![OTESSA Events listing in Forj](assets/media/nav/image2.png)
+
+- If you choose **Attend Webcast**, the Zoom session will launch  
+- If you choose **More info**, select the **Attend Webcast** button in the popup to launch Zoom and join the session.  
+  
+![More Info option](assets/media/nav/image3.png)
+
+
+

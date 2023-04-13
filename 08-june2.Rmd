@@ -1,0 +1,558 @@
+# Friday, June 2 - Online Sessions Only
+
+```{block, type='protip'}
+
+#### Join us for the #OTESSA23 Morning Radio Show every morning Monday-Thursday 9:30-10:30 (Eastern) at https://voiced.ca
+```
+
+### Session Types {-}
+
+```{block, type='protip'}
+
+
+#### ✨ Note{-}
+
+***All times are in Eastern Time (Canada)***
+```
+
+```{block, type='keynote'}
+
+#### Keynote
+
+```
+
+```{block, type='speaker'}
+
+#### Invited Speaker
+
+```
+
+```{block, type='session'}
+
+#### Regular Session
+
+```
+
+```{block, type='social'}
+
+#### Social Session
+
+```
+
+```{block, type='vendor'}
+
+
+#### Vendor
+
+```
+
+```{block, type='workshop'}
+
+
+#### Workshop
+
+```
+
+---
+
+## Welcome Desk Open | 10:00 - 12:30 {-}
+
+## Conference Welcome, Announcements & Land Acknowledgement | 10:30-11:00 {-}
+
+## Keynote | 11:00-12:00    {-}
+
+```{block, type='keynote'}
+ 
+
+#### TBA {-}
+
+*Paul Prinsloo*
+*University of South Africa*
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+
+
+##### [Session Link](){target="_blank"} {-}
+
+```
+
+## Break | 12:00-12:30 {-}
+
+## Concurrent Session 17 | Invited Speakers | 12:30-1:15 {-}
+
+45 Minutes
+
+### Concurrent Session 17.1 {-}
+
+```{block, type='speaker'}
+
+#### Session Speaker: **TBA** 
+
+*Session title: TBA*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+### Concurrent Session 17.2 {-}
+
+```{block, type='speaker'}
+
+#### Session Speaker: **TBA** 
+
+*Session title: TBA*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+## Break | 1:05-1:30 {-}
+
+## Concurrent Session 18 | 1:30-3:00 {-}
+
+1.5 Hours
+
+### Concurrent Session 18.1 |  Transitions of Online Learning & Teaching {-}
+
+```{block, type='workshop'}
+
+
+#### 1:30-2:30 | **Assessment in a Digital Age: Learning within the Continuum for Pedagogy, Technology, and Assessment** |  Workshop {-}
+
+***Barbara Brown & Nadia Delanoy*** | *University of Calgary*
+
+***Jodie Walz*** | *Calgary Catholic School District*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+```{block, type='session'}
+
+#### 2:30-3:00 | **TBA** |  TBA {-}
+
+***TBA*** | *TBA*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+### Concurrent Session 18.2 |  Transitions of Online Learning & Teaching {-}
+
+```{block, type='session'}
+
+#### 1:30-2:00 | **Open Education Research: Past, Present, Future** |  Research {-}
+
+***Robert Farrow, Beck Pitt, Martin Weller, Paco Iniesto & Carina Bossu*** | *The Open University*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+```{block, type='session'}
+
+
+#### 2:00-2:30 | **Using Qualitative Online Survey as a Research Method Amid Covid Pandemic** |  Practice {-}
+
+***Yina Liu*** | *University of Alberta*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+```{block, type='session'}
+
+
+#### 2:30-3:00 | **TBA** |  TBA {-}
+
+***TBA*** | *TBA*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+### Concurrent Session 18.3 |  Wildcard {-}
+
+```{block, type='session'}
+
+
+#### 1:30-2:00 | **Non-Directive Strength-Based Online Coaching in Graduate Education** |  Research {-}
+
+***Carolyn Kristjansson*** | *Trinity Western University*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+```{block, type='session'}
+
+
+#### 2:30-3:00 | **The Teacher’s Self-efficacy and Belief in Implementing S STEM, iSTEM or STEAM in their Classroom** |  Research {-}
+
+***Atiya Razi*** | *University of Windsor*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+```{block, type='vendor'}
+
+#### 2:30-3:00 | **The Impact of Social Annotation on Learning** |  Research {-}
+
+**Repeated from Session 7.1**
+
+***Sean O'Reilly*** | *hypothes.is*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+### Concurrent Session 18.4 |  Sustaining Positive Change {-}
+
+```{block, type='session'}
+
+
+#### 1:30-2:00 | **A Framework for Evaluating the Creation and Adaptation of Open Textbooks** |  Research {-}
+
+***Melissa Ashman*** | *Kwantlen Polytechnic University*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+```{block, type='session'}
+
+
+#### 2:00-2:30 | **Interprofessional Healthcare Simulation Co-Creation: A Pilot Study** |  Research {-}
+
+***Laura Killam*** | *Queen’s University Canada*
+
+***Jacqueline Vaughn, Alicia Sellon, Chase DuBois, Amelia Huelskamp, Andrea Smith, Colette Waddill & Justine Reel*** | *University of North Carolina Wilmington*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+### Concurrent Session 18.5 |  Addressing Inequities {-}
+
+```{block, type='session'}
+
+#### 9:30-10:30 | **Four Perspectives of Learner-Educator Co-Creation** |  Practice {-}
+
+***Mercedes Lock*** | *Cambrian College*
+
+***Jane Tyerman*** | *University of Ottawa*
+
+***Lillian Chumbley*** | *Trent University*
+
+***Laura Killam*** | *Queen's University Canada*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+```{block, type='session'}
+
+#### 2:30 - 3:00  | **A Learner-Educator Co-Creation Toolkit** |  Practice {-}
+
+***Laura Killam*** | *Queen’s University Canada*
+
+***Lillian Chumbley*** | *Trent University *
+
+***Jane Tyerman*** | *University of Ottawa*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+## Break | 3:00-3:15 {-}
+
+## Social | 3:15-3:45 {-}
+## Concurrent Session 19 | 3:45-5:15 {-}
+
+1.5 Hours
+### Concurrent Session 19.1 |  Wildcard {-}
+
+```{block, type='session'}
+
+
+#### 3:45-4:45 | **On Speculative Education Fiction for Hopeful Learning Futures** |  Research {-}
+
+***Shandell Houlden & George Veletsianos*** | *Royal Roads University*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+```{block, type='session'}
+
+#### 4:45-5:15 | **TBA** |  TBA {-}
+
+***TBA*** | *TBA*
+
+**Keywords:**
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+### Concurrent Session 19.2 |  Sustaining Positive Change {-}
+
+```{block, type='session'}
+
+
+#### 3:45-4:45 | **“No Longer Silent!” Racialized Academic Women Speak Out** |  Research {-}
+
+***Sandra Dixon*** | *University of Lethbridge*
+
+***Cecille DePass*** | *University of Calgary*
+
+***Dawn Edge*** | *The University of Manchester*
+
+***Mille Batta*** | *University of Lethbridge*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+```{block, type='session'}
+
+
+#### 4:45-5:15 | **Peace Education in the Platformed Society: Lessons from Colombia** |  Research {-}
+
+***Estaban Morales*** | *University of British Columbia*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+### Concurrent Session 19.3 |  Sustaining Positive Change {-}
+
+```{block, type='session'}
+
+
+#### 3:45-4:45 | **Scaling Small: The Open Book Collective Launch and Platform** |  Practice {-}
+
+***Judith Fathallah*** | *Lancaster University*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+### Concurrent Session 19.4 |  Sustaining Positive Change {-}
+
+```{block, type='session'}
+
+
+#### 3:45-4:15 | **Discovery Based Learning with Open Technologies, for Positive Change** |  Practice {-}
+
+***Brian Sutherland*** | *University of Toronto*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+```{block, type='session'}
+
+
+#### 4:15-4:45 | **Interprofessional Healthcare Simulation Co-Creation: A Pilot Study** |  Research {-}
+
+***Laura Killam*** | *Queen's University Canada*
+
+***Jacqueline Vaughn, Alicia Sellon, Chase DuBois, Amelia Huelskamp, Andrea Smith, Colette Waddill & Justine Reel*** | *University of North Carolina Wilmington*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+```{block, type='session'}
+
+
+#### 4:45-5:15 | **Negotiating an Informed Personal Theory and Philosophy of Open Education in a Professional Development Setting** |  Research {-}
+
+***Irwin DeVries*** | *Royal Roads University*
+
+***Emily Schudel & Kimberlee Carter*** | *Kwantlen Polytechnic University*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+## Break | 5:15-5:30 {-}
+
+## Concurrent Session 20 | Invited Speakers | 5:30-6:15 {-}
+
+45 Minutes
+
+### Concurrent Session 20.1 {-}
+
+```{block, type='speaker'}
+
+#### Session Speaker: **TBA** 
+
+*Session title: TBA*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+### Concurrent Session 20.2 {-}
+
+```{block, type='speaker'}
+
+#### Session Speaker: **TBA** 
+
+*Session title: TBA*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+## Conference Closing | 6:15-6:30 {-}

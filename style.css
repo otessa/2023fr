@@ -1,0 +1,85 @@
+p.caption {
+  color: #777;
+  margin-top: 10px;
+}
+p code {
+  white-space: inherit;
+}
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+pre code {
+  white-space: inherit;
+}
+
+/* Styling for all custom environments: */
+div.session, div.keynote, div.speaker, div.social, div.todo, div.workshop, div.vendor, div.protip{
+  padding: 0.1em 0.5em 0.5em 1.0em;
+  margin-bottom: 0.5em;
+  position:relative;
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+  border-radius: 10px;
+}
+
+
+
+div.session:before,
+div.keynote:before,
+div.speaker:before,
+div.social:before,
+div.todo:before,
+div.workshop:before,
+div.vendor:before
+div.protip:before{
+    left:0.5em;
+    position:absolute;
+    top:0.1em;
+    font-weisocialt:bold;
+    font-style:italic;
+    font-size: 1.5em;
+}
+
+
+/* Style hyperlinks */
+.book .book-body .page-wrapper .page-inner .normal div.session a:link,
+.book .book-body .page-wrapper .page-inner .normal div.keynote a:link,
+.book .book-body .page-wrapper .page-inner .normal div.speaker a:link,
+.book .book-body .page-wrapper .page-inner .normal div.social a:link,
+.book .book-body .page-wrapper .page-inner .normal div.todo a:link,
+.book .book-body .page-wrapper .page-inner .normal div.workshop a:link,
+.book .book-body .page-wrapper .page-inner .normal div.vendor a:link
+.book .book-body .page-wrapper .page-inner .normal div.protip a:link{
+  text-decoration: underline;
+  font-weisocialt: bold;
+  color: rgb(3, 3, 3);
+}
+
+
+/* Styling unique to each environment: */
+div.session{
+  background: #71c7ec;
+}
+div.keynote{
+  background: #e7f4e4;
+}
+div.speaker{
+  background: #e1f3f8;
+}
+div.social{
+  background: #bba3cc;
+}
+div.todo{
+  background: #fff1d2;
+}
+div.workshop{
+  background: #f9dede;
+}
+div.vendor{
+  background: #d6d7d9;
+}
+div.protip{
+  color: rgb(255, 255, 255); background: #34495e;
+}

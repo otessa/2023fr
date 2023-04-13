@@ -1,0 +1,587 @@
+# Saturday, May 27 | Online Only
+
+```{block, type='protip'}
+
+
+#### Join us for the #OTESSA23 Morning Radio Show every morning (times TBA) at https://voiced.ca
+
+```
+
+### Session Types {-}
+
+```{block, type='protip'}
+
+
+
+#### ✨ Note{-}
+
+***All times are in Eastern Time (Canada)***
+```
+
+```{block, type='keynote'}
+
+
+#### Keynote
+
+```
+
+```{block, type='speaker'}
+
+
+#### Invited Speaker
+
+```
+
+```{block, type='session'}
+
+#### Regular Session
+
+```
+
+```{block, type='social'}
+
+#### Social Session
+
+```
+
+```{block, type='vendor'}
+
+
+#### Vendor
+
+```
+
+```{block, type='workshop'}
+
+
+#### Workshop
+
+```
+
+---
+
+## Welcome Desk Open | 10:30 - 12:30 {-}
+
+## Conference Welcome, Announcements & Land Acknowledgement | 10:30 - 11:00 {-}
+
+## Keynote | 11:00 - 12:00 {-}
+
+```{block, type='keynote'}
+
+
+
+#### Enabling ‘Students as Partners’: Open Textbooks, Power Shifts and Curriculum Transformation {-}
+
+*Glenda Cox & Bianca Masuku*
+
+<details>
+<summary>Abstract</summary>
+<p>
+Work done with open textbook creators at UCT has enabled the DOT4D initiative to articulate models of open textbook production that are being employed by academics at UCT who are using their open textbooks to address social (in)justice in the classroom. Building on this background work, we explore the values and attitudes of the academics who undertake open textbook production with student co- creators. Student inclusion is lauded in research as essential for student belonging, but little work has been done to look for the challenges involved when traditional power dynamics are disrupted. In this research, we describe a potential nexus of three complementary components: open textbooks, social justice, and students as partners. We investigate the affordances of the open textbook to facilitate change in the power dynamics of content production as well as in classroom practice.
+
+</p>
+</details>
+
+
+##### [Session Link](){target="_blank"} {-}
+
+```
+
+## Break  | 12:00-12:30 {-}
+
+## Concurrent Session 1 | Invited Speakers | 12:30-1:15 {-}
+
+45 Minutes
+### Concurrent Session 1.1 {-}
+
+```{block, type='speaker'}
+
+
+#### Session Speaker: **TBA** 
+
+*Session title: TBA*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+### Concurrent Session 1.2 {-}
+
+```{block, type='speaker'}
+
+
+#### Session Speaker: **TBA** 
+
+*Session title: TBA*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+## Break | 1:15-1:30 {-}
+
+## Concurrent Session 2 | 1:30-3:00 {-}
+
+### Concurrent Session 2.1 |  Wildcard {-}
+
+```{block, type='session'}
+
+#### 1:30-2:30 | **Escape Rooms for Education** |  Practice {-}
+
+***Ava Chow & Nazlee Sharmin*** | *University of Alberta*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+
+```
+
+```{block, type='session'}
+
+#### 2:30-3:00 | **A(nother) Guide for Resisting EdTech: The Case Against (or For?) Course Hero** |  Practice {-}
+
+***Brenna Clarke Gray*** | *Thompson Rivers University*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+### Concurrent Session 2.2 |  Sustaining Positive Change {-}
+
+```{block, type='session'}
+
+#### 1:30-2:30 | **Engaging in Open Pedagogy: Insights from Designing and Teaching Post-Secondary STEM Courses** |  Practice {-}
+
+***Elena Chudaeva*** | *George Brown College*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+```{block, type='session'}
+
+#### 2:30-3:00 | **An Upgrade to Ungrading: Alternative Grading in Higher Education** |  Practice {-}
+
+***Sharon Lauricella*** | *Ontario Tech University*
+
+***Rebekah Bennetch*** | *University of Saskatchewan*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+### Concurrent Session 2.3 |  Transitions of Online Learning & Teaching {-}
+
+```{block, type='session'}
+
+#### 1:30-2:00 | **Mediating Relationship and Sexual Health Education** |  Practice {-}
+
+***Andrea Hasenbank*** | *Onlea Studios*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+```{block, type='session'}
+
+#### 2:00-2:30 | **“Leave No One Behind.” Peer Support for Teachers: Reflections on a Digital Pedagogy Development Project** |  Practice {-}
+
+***Susanna Kohonen, Helena Kantanen, Kati Kasanen, Vesa Paajanen & Piia Siitonen*** | *University of Eastern Finland*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+```{block, type='session'}
+
+#### 2:30-3:00 | **Creating Capacity for Capabilities: Using Professional Development within Learning Design in Capstone** |  Practice {-}
+
+***Sonja Johnston*** | *University of Calgary*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+
+```
+
+### Concurrent Session 2.4 |  Sustaining Positive Change {-}
+
+```{block, type='session'}
+
+#### 1:30-2:00 | **Sharing Experience Regarding OER Creation and Adoption as a Tool to Manage Student Engagement** |  Research {-}
+
+***Kiranjot Kaur & Kimberlee Carter*** | *Conestoga College ITAL*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+```{block, type='session'}
+
+#### 2:00-2:30 | **Developing a Learning Design Framework: A Collective Process Intended to Foster Collaboration** |  Practice {-}
+
+***Melissa Jakubec & Michelle Harrison*** | *Thompson Rivers University*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+```{block, type='session'}
+
+#### 2:30-3:00 | **Reimagining Art and Culture by Decolonizing Digitization** |  Practice {-}
+
+***Amanda Figueroa*** | *Curationist*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+### Concurrent Session 2.5 |  Sustaining Positive Change {-}
+
+```{block, type='session'}
+
+#### 1:30-2:00 | **Qu’en est-il de l’enseignement et de l’apprentissage de la danse à distance ? Adaptations et défis (in French)** |  Research {-}
+
+***Cathia Papi*** | *Université TÉLUQ*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+```{block, type='session'}
+
+#### 2:00-2:30 | **Que dit la recherche des approches pour contrer l’isolement en FAD ? (in French)** |  Research {-}
+
+***Cathia Papi, Serge Gérin-Lajoie & Wanderlucy Czeszak*** | *Université TÉLUQ*
+
+***Aristide Tsayem Tchoupou*** | *Université Laval*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+```{block, type='session'}
+
+#### 2:30-3:00 | **TBA** |   {-}
+
+***TBA*** | *TBA*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+## Break | 3:00-3:15 {-}
+
+## Social  | 3:15-3:45 {-}
+
+## Concurrent Session 3 | 3:45-5:15 {-}
+
+1.5 Hours
+
+### Concurrent Session 3.1 |  Addressing Inequities {-}
+
+```{block, type='session'}
+
+#### 3:45-4:45 | **The Seemingly Small Details that are Easily Overlooked in Designing Inclusive Online Courses** |  Practice {-}
+
+***Tai Munro, Ashley Stasiewich & Susan Cauti*** | *MacEwan University*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+```{block, type='session'}
+
+#### 4:45-5:15 | **Podcasting for Student Agency** |  Research {-}
+
+***Yu-Ling Lee & Nina Lui*** | *Trinity Western University*
+
+**Keywords:**
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+### Concurrent Session 3.2 |  Sustaining Positive Change {-}
+
+```{block, type='session'}
+
+#### 3:45-4:45 | **The Slow Trend Toward K-12 OER Sharing** |  Practice {-}
+
+***Connie Blomgren*** | *Athabasca University*
+
+***Beth Cormier*** | *University of Lethbridge*
+
+***Kathy Wise*** | *University of Calgary*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+```{block, type='session'}
+
+#### 4:45-5:15 | **Letting Go of Holding On: Promoting Student Choice in a Post- Pandemic Classroom** |  Practice {-}
+
+***Rebekah Bennetch*** | *University of Saskatchewan*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+### Concurrent Session 3.3 |  Wildcard {-}
+
+```{block, type='session'}
+
+#### 3:45 - 4:45 | **Whiteboard Animation for Dental Education** |  Research {-}
+
+***Nazlee Sharmin, Ava K Chow & Mike Carbonaro*** | *University of Alberta*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+```{block, type='session'}
+
+#### 4:45 - 5:15 | **In-class gaming to improve students’ learning experiences in dental education** |  Research {-}
+
+***Nazlee Sharmin & Ava K Chow*** | *University of Alberta*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+### Concurrent Session 3.4 |  Transitions of Online Learning & Teaching {-}
+
+```{block, type='session'}
+
+#### 3:45 - 4:45 | **Encadrer des étudiant.es à distance : Description des pratiques de nouveaux professeure.s (in French)** |  Research {-}
+
+***Serge Gérin-Lajoie*** | *Université TÉLUQ*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+```{block, type='session'}
+
+#### 4:45 - 5:15 | **Face to Face, Online or Something in Between – Student Perceptions of Student Engagement in Different Learning Environments** |  Research {-}
+
+***Hongran Cui, Michelle Harrison & Victoria Handford*** | *Thompson Rivers University*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+### Concurrent Session 3.5 |  Sustaining Positive Change {-}
+
+```{block, type='session'}
+
+#### 3:45 - 4:45 | **Be(com)ing OE Librarians in Ukraine During Wartime: Taking Down Language Barriers and Practising Inclusion** |  Practice {-}
+
+***Paola Corti*** | *SPARC Europe*
+
+***Tetiana Kolesnykova*** | *Ukrainian State University of Science and Technologies*
+
+***Mira Buist- Zhuk*** | *University of Groningen*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+```{block, type='session'}
+
+#### 4:45 - 5:15 | **The Role of Academic Libraries in Fostering of Algorithmic Literacy in Canadian Universities: A Metaliterate** |  Research {-}
+
+***Marta Samokishyn*** | *Saint Paul University*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+## Break | 5:15-5:30 {-}
+
+### Concurrent Session 4 | 5:30-6:15 {-}
+
+45 Minutes
+
+```{block, type='speaker'}
+
+
+#### Session Speaker: **TBA** 
+
+*Session title: TBA*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+```{block, type='speaker'}
+
+
+#### **Title** 
+
+*Speaker*
+
+**Keywords:** 
+
+<details>
+<summary>ABSTRACT</summary>
+<p>
+
+</p>
+</details>
+```
+
+## Discussion/Networking Pod | 6:15-6:30 {-}

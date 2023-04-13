@@ -1,0 +1,3156 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{book}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+\usepackage{booktabs}
+\usepackage{amsthm}
+\makeatletter
+\def\thm@space@setup{%
+  \thm@preskip=8pt plus 2pt minus 4pt
+  \thm@postskip=\thm@preskip
+}
+\makeatother
+
+\usepackage{tcolorbox}
+
+
+\newtcolorbox{protip}{
+  colback=black,
+  coltext=white,
+  colframe=black,
+  boxsep=5pt,
+  arc=4pt}
+\newtcolorbox{speaker}{
+  colback=blue!15,
+  colframe=blue!15,
+  coltext=black!80,
+  boxsep=5pt,
+  arc=4pt}
+\newtcolorbox{keynote}{
+  colback=green!5,
+  colframe=green!5,
+  coltext=black!80,
+  boxsep=5pt,
+  arc=4pt}
+\newtcolorbox{session}{
+  colback=blue!5,
+  colframe=blue!5,
+  coltext=black!80,
+  boxsep=5pt,
+  arc=4pt}
+\newtcolorbox{social}{
+  colback=purple!10,
+  colframe=purple!10,
+  coltext=black!80,
+  boxsep=5pt,
+  arc=4pt}
+\newtcolorbox{video}{
+  colback=yellow!5,
+  colframe=yellow!5,
+  coltext=black!80,
+  boxsep=5pt,
+  arc=4pt}
+\newtcolorbox{workshop}{
+  colback=red!5,
+  colframe=red!5,
+  coltext=black!80,
+  boxsep=5pt,
+  arc=4pt}
+\newtcolorbox{vendor}{
+  colback=black!5,
+  colframe=black!5,
+  coltext=black!80,
+  boxsep=5pt,
+  arc=4pt}
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\usepackage[]{natbib}
+\bibliographystyle{apalike}
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={Conference 2023 Program},
+  pdfauthor={OTESSA Program Committee},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{Conference 2023 Program}
+\author{OTESSA Program Committee}
+\date{Last updated Wednesday, Apr 12, 18:13 PM, PDT}
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{1}
+\tableofcontents
+}
+\hypertarget{welcome-and-acknowledgements}{%
+\chapter*{Welcome and Acknowledgements}\label{welcome-and-acknowledgements}}
+\addcontentsline{toc}{chapter}{Welcome and Acknowledgements}
+
+\begin{protip}
+✨ Check the OTESSA conference website at https://otessa.org/2023 for
+abstracts and any changes to this program.
+
+Information about any changes to the program will also be available via
+the OTESSA Welcome Desk on the conference platform once the conference
+opens.
+\end{protip}
+
+All OTESSA Participants can attend the \href{https://www.federationhss.ca/en/congress/congress-2022/open-programming}{Congress ``Big Thinking'' lecture series}. These take place each day of the conference. Congress has \href{https://www.federationhss.ca/en/congress/congress-2022/calendar-open-events}{``open events''} available as well (open to registrants across association conferences at Congress as well as those who hold community passes).
+
+All OTESSA Registrants can also attend conference sessions offered by the \href{https://csse-scee.ca/}{Canadian Association for the Study of Education (CSSE)}, \href{https://csshe-scees.ca/}{Canadian Association for the Study of Higher Education (CSSHE)}, and \href{https://www.calj-acrs.ca/}{Canadian Association of Learned Journals (CALJ)} as we have reciprocity agreements in place. Please note that presenters must register in each conference in which they are presenting.
+
+Join us at the \#OTESSA23 Morning Radio Show every morning times TBA (Eastern) at \url{https://voiced.ca/}
+
+\hypertarget{keynotes}{%
+\chapter*{Keynotes}\label{keynotes}}
+\addcontentsline{toc}{chapter}{Keynotes}
+
+\begin{protip}
+\hypertarget{join-us-for-the-otessa23-morning-radio-show-every-morning-monday-thursday-930-1030-eastern-at-httpsvoiced.ca}{%
+\paragraph{Join us for the \#OTESSA23 Morning Radio Show every morning
+Monday-Thursday 9:30-10:30 (Eastern) at
+https://voiced.ca}\label{join-us-for-the-otessa23-morning-radio-show-every-morning-monday-thursday-930-1030-eastern-at-httpsvoiced.ca}}
+\end{protip}
+
+\hypertarget{glenda-cox-bianca-masuku}{%
+\section*{Glenda Cox \& Bianca Masuku}\label{glenda-cox-bianca-masuku}}
+\addcontentsline{toc}{section}{Glenda Cox \& Bianca Masuku}
+
+\emph{University of Cape Town}
+
+\textbf{\emph{Saturday, May 27, 11:00 AM}}
+
+\begin{keynote}
+\hypertarget{enabling-students-as-partners-open-textbooks-power-shifts-and-curriculum-transformation}{%
+\subsubsection*{Enabling `Students as Partners': Open Textbooks, Power
+Shifts and Curriculum
+Transformation}\label{enabling-students-as-partners-open-textbooks-power-shifts-and-curriculum-transformation}}
+\addcontentsline{toc}{subsubsection}{Enabling `Students as Partners':
+Open Textbooks, Power Shifts and Curriculum Transformation}
+
+Work done with open textbook creators at UCT has enabled the DOT4D
+initiative to articulate models of open textbook production that are
+being employed by academics at UCT who are using their open textbooks to
+address social (in)justice in the classroom. Building on this background
+work, we explore the values and attitudes of the academics who undertake
+open textbook production with student co- creators. Student inclusion is
+lauded in research as essential for student belonging, but little work
+has been done to look for the challenges involved when traditional power
+dynamics are disrupted. In this research, we describe a potential nexus
+of three complementary components: open textbooks, social justice, and
+students as partners. We investigate the affordances of the open
+textbook to facilitate change in the power dynamics of content
+production as well as in classroom practice.
+
+\hypertarget{session-link-link}{%
+\subparagraph{\texorpdfstring{\href{}{Session Link}
+\{++link++\}}{Session Link \{++link++\}}}\label{session-link-link}}
+\end{keynote}
+
+\hypertarget{sarah-elaine-eaton}{%
+\section*{Sarah Elaine Eaton}\label{sarah-elaine-eaton}}
+\addcontentsline{toc}{section}{Sarah Elaine Eaton}
+
+\emph{University of Calgary}
+
+\textbf{\emph{Monday, May 29, 11:00 AM}}
+
+\begin{keynote}
+\hypertarget{academic-integrity-in-the-age-of-artificial-intelligence}{%
+\subsubsection*{Academic Integrity in the Age of Artificial
+Intelligence}\label{academic-integrity-in-the-age-of-artificial-intelligence}}
+\addcontentsline{toc}{subsubsection}{Academic Integrity in the Age of
+Artificial Intelligence}
+
+How worried do we need to be that students are going to cheat more
+because of artificial intelligence? Does writing generated by an
+artificial intelligence (AI) writing app constitute plagiarism? How can
+artificial intelligence be used ethically for teaching, learning, and
+assessment? Will a robot take my job? These questions have dominated
+teaching and learning circles and social media since late 2022 when
+ChatGPT emerged. In this Keynote, Sarah provides insights into how AI
+tools are impacting higher education. She will share insights from
+recent research project at the University of Calgary that explores the
+question: What are the ethical implications of artificial intelligence
+technologies for teaching, learning, and assessment?
+
+\hypertarget{session-link-link}{%
+\subparagraph{\texorpdfstring{\href{}{Session Link}
+\{++link++\}}{Session Link \{++link++\}}}\label{session-link-link}}
+\end{keynote}
+
+\hypertarget{nick-bertrand}{%
+\section*{Nick Bertrand}\label{nick-bertrand}}
+\addcontentsline{toc}{section}{Nick Bertrand}
+
+\emph{University of Calgary
+}\textbf{Wednesday, May 31, 11:00 AM}*
+
+\begin{keynote}
+\hypertarget{progressing-truth-confronting-complacency-and-unleashing-the-possibility-of-healing-through-education.}{%
+\subsubsection*{Progressing truth, confronting complacency, and
+unleashing the possibility of healing through
+education.}\label{progressing-truth-confronting-complacency-and-unleashing-the-possibility-of-healing-through-education.}}
+\addcontentsline{toc}{subsubsection}{Progressing truth, confronting
+complacency, and unleashing the possibility of healing through
+education.}
+
+Education as a tool for both healing and reconciliation has been an
+evolving movement over the years, and in particular since the release
+the of the Truth and Reconciliation Commission 94 Calls to Action. Eight
+years later in a post TRC society, what truths remain untold? What
+lessons have we learned in trying to mobilize meaningful change? How can
+we as educators, uphold our responsibilities in the work of rebuilding
+the broken relationship that has brought us to this space? As the
+reconciliatory bridge continues to be constructed, education systems
+will continue to play a keystone role in the process of building
+awareness, understanding, and creating action.
+
+\hypertarget{session-link-link}{%
+\subparagraph{\texorpdfstring{\href{}{Session Link}
+\{++link++\}}{Session Link \{++link++\}}}\label{session-link-link}}
+\end{keynote}
+
+\hypertarget{paul-prinsloo}{%
+\section*{Paul Prinsloo}\label{paul-prinsloo}}
+\addcontentsline{toc}{section}{Paul Prinsloo}
+
+\textbf{\emph{Friday, June 2, 11:00 AM}}
+
+\begin{keynote}
+\hypertarget{title-and-abstract-tba}{%
+\subsubsection{Title and Abstract TBA}\label{title-and-abstract-tba}}
+
+\hypertarget{session-link}{%
+\subparagraph{\texorpdfstring{\href{}{Session
+Link}}{Session Link}}\label{session-link}}
+\end{keynote}
+
+\hypertarget{congress-events}{%
+\section*{Congress Events}\label{congress-events}}
+\addcontentsline{toc}{section}{Congress Events}
+
+\begin{vendor}
+\hypertarget{link-click-here-to-access-a-schedule-of-all-open-congress-events.}{%
+\subsubsection{\texorpdfstring{\{++link++\} \href{}{Click here to access
+a schedule of all open Congress
+events.}}{\{++link++\} Click here to access a schedule of all open Congress events.}}\label{link-click-here-to-access-a-schedule-of-all-open-congress-events.}}
+\end{vendor}
+
+\hypertarget{saturday-may-27-online-only}{%
+\chapter{Saturday, May 27 \textbar{} Online Only}\label{saturday-may-27-online-only}}
+
+\begin{protip}
+\hypertarget{join-us-for-the-otessa23-morning-radio-show-every-morning-times-tba-at-httpsvoiced.ca}{%
+\paragraph{Join us for the \#OTESSA23 Morning Radio Show every morning
+(times TBA) at
+https://voiced.ca}\label{join-us-for-the-otessa23-morning-radio-show-every-morning-times-tba-at-httpsvoiced.ca}}
+\end{protip}
+
+\hypertarget{session-types}{%
+\subsection*{Session Types}\label{session-types}}
+\addcontentsline{toc}{subsection}{Session Types}
+
+\begin{protip}
+\hypertarget{note}{%
+\paragraph*{✨ Note}\label{note}}
+\addcontentsline{toc}{paragraph}{✨ Note}
+
+\textbf{\emph{All times are in Eastern Time (Canada)}}
+\end{protip}
+
+\begin{keynote}
+\hypertarget{keynote}{%
+\paragraph{Keynote}\label{keynote}}
+\end{keynote}
+
+\begin{speaker}
+\hypertarget{invited-speaker}{%
+\paragraph{Invited Speaker}\label{invited-speaker}}
+\end{speaker}
+
+\begin{session}
+\hypertarget{regular-session}{%
+\paragraph{Regular Session}\label{regular-session}}
+\end{session}
+
+\begin{social}
+\hypertarget{social-session}{%
+\paragraph{Social Session}\label{social-session}}
+\end{social}
+
+\begin{vendor}
+\hypertarget{vendor}{%
+\paragraph{Vendor}\label{vendor}}
+\end{vendor}
+
+\begin{workshop}
+\hypertarget{workshop}{%
+\paragraph{Workshop}\label{workshop}}
+\end{workshop}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{welcome-desk-open-1030---1230}{%
+\section*{Welcome Desk Open \textbar{} 10:30 - 12:30}\label{welcome-desk-open-1030---1230}}
+\addcontentsline{toc}{section}{Welcome Desk Open \textbar{} 10:30 - 12:30}
+
+\hypertarget{conference-welcome-announcements-land-acknowledgement-1030---1100}{%
+\section*{Conference Welcome, Announcements \& Land Acknowledgement \textbar{} 10:30 - 11:00}\label{conference-welcome-announcements-land-acknowledgement-1030---1100}}
+\addcontentsline{toc}{section}{Conference Welcome, Announcements \& Land Acknowledgement \textbar{} 10:30 - 11:00}
+
+\hypertarget{keynote-1100---1200}{%
+\section*{Keynote \textbar{} 11:00 - 12:00}\label{keynote-1100---1200}}
+\addcontentsline{toc}{section}{Keynote \textbar{} 11:00 - 12:00}
+
+\begin{keynote}
+\hypertarget{enabling-students-as-partners-open-textbooks-power-shifts-and-curriculum-transformation}{%
+\paragraph*{Enabling `Students as Partners': Open Textbooks, Power
+Shifts and Curriculum
+Transformation}\label{enabling-students-as-partners-open-textbooks-power-shifts-and-curriculum-transformation}}
+\addcontentsline{toc}{paragraph}{Enabling `Students as Partners': Open
+Textbooks, Power Shifts and Curriculum Transformation}
+
+\emph{Glenda Cox \& Bianca Masuku}
+
+Abstract
+
+Work done with open textbook creators at UCT has enabled the DOT4D
+initiative to articulate models of open textbook production that are
+being employed by academics at UCT who are using their open textbooks to
+address social (in)justice in the classroom. Building on this background
+work, we explore the values and attitudes of the academics who undertake
+open textbook production with student co- creators. Student inclusion is
+lauded in research as essential for student belonging, but little work
+has been done to look for the challenges involved when traditional power
+dynamics are disrupted. In this research, we describe a potential nexus
+of three complementary components: open textbooks, social justice, and
+students as partners. We investigate the affordances of the open
+textbook to facilitate change in the power dynamics of content
+production as well as in classroom practice.
+
+\hypertarget{session-link}{%
+\subparagraph*{\texorpdfstring{\href{}{Session
+Link}}{Session Link}}\label{session-link}}
+\addcontentsline{toc}{subparagraph}{\href{}{Session Link}}
+\end{keynote}
+
+\hypertarget{break-1200-1230}{%
+\section*{Break \textbar{} 12:00-12:30}\label{break-1200-1230}}
+\addcontentsline{toc}{section}{Break \textbar{} 12:00-12:30}
+
+\hypertarget{concurrent-session-1-invited-speakers-1230-115}{%
+\section*{Concurrent Session 1 \textbar{} Invited Speakers \textbar{} 12:30-1:15}\label{concurrent-session-1-invited-speakers-1230-115}}
+\addcontentsline{toc}{section}{Concurrent Session 1 \textbar{} Invited Speakers \textbar{} 12:30-1:15}
+
+45 Minutes
+\#\#\# Concurrent Session 1.1 \{-\}
+
+\begin{speaker}
+\hypertarget{session-speaker-tba}{%
+\paragraph{\texorpdfstring{Session Speaker:
+\textbf{TBA}}{Session Speaker: TBA}}\label{session-speaker-tba}}
+
+\emph{Session title: TBA}
+
+\textbf{Keywords:}
+
+Abstract
+\end{speaker}
+
+\hypertarget{concurrent-session-1.2}{%
+\subsection*{Concurrent Session 1.2}\label{concurrent-session-1.2}}
+\addcontentsline{toc}{subsection}{Concurrent Session 1.2}
+
+\begin{speaker}
+\hypertarget{session-speaker-tba}{%
+\paragraph{\texorpdfstring{Session Speaker:
+\textbf{TBA}}{Session Speaker: TBA}}\label{session-speaker-tba}}
+
+\emph{Session title: TBA}
+
+\textbf{Keywords:}
+
+Abstract
+\end{speaker}
+
+\hypertarget{break-115-130}{%
+\section*{Break \textbar{} 1:15-1:30}\label{break-115-130}}
+\addcontentsline{toc}{section}{Break \textbar{} 1:15-1:30}
+
+\hypertarget{concurrent-session-2-130-300}{%
+\section*{Concurrent Session 2 \textbar{} 1:30-3:00}\label{concurrent-session-2-130-300}}
+\addcontentsline{toc}{section}{Concurrent Session 2 \textbar{} 1:30-3:00}
+
+\hypertarget{concurrent-session-2.1-wildcard}{%
+\subsection*{Concurrent Session 2.1 \textbar{} Wildcard}\label{concurrent-session-2.1-wildcard}}
+\addcontentsline{toc}{subsection}{Concurrent Session 2.1 \textbar{} Wildcard}
+
+\begin{session}
+\hypertarget{escape-rooms-for-education-practice}{%
+\paragraph*{\texorpdfstring{1:30-2:30 \textbar{} \textbf{Escape Rooms
+for Education} \textbar{}
+Practice}{1:30-2:30 \textbar{} Escape Rooms for Education \textbar{} Practice}}\label{escape-rooms-for-education-practice}}
+\addcontentsline{toc}{paragraph}{1:30-2:30 \textbar{} \textbf{Escape
+Rooms for Education} \textbar{} Practice}
+
+\textbf{\emph{Ava Chow \& Nazlee Sharmin}} \textbar{} \emph{University
+of Alberta}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\begin{session}
+\hypertarget{another-guide-for-resisting-edtech-the-case-against-or-for-course-hero-practice}{%
+\paragraph*{\texorpdfstring{2:30-3:00 \textbar{} \textbf{A(nother) Guide
+for Resisting EdTech: The Case Against (or For?) Course Hero} \textbar{}
+Practice}{2:30-3:00 \textbar{} A(nother) Guide for Resisting EdTech: The Case Against (or For?) Course Hero \textbar{} Practice}}\label{another-guide-for-resisting-edtech-the-case-against-or-for-course-hero-practice}}
+\addcontentsline{toc}{paragraph}{2:30-3:00 \textbar{} \textbf{A(nother)
+Guide for Resisting EdTech: The Case Against (or For?) Course Hero}
+\textbar{} Practice}
+
+\textbf{\emph{Brenna Clarke Gray}} \textbar{} \emph{Thompson Rivers
+University}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{concurrent-session-2.2-sustaining-positive-change}{%
+\subsection*{Concurrent Session 2.2 \textbar{} Sustaining Positive Change}\label{concurrent-session-2.2-sustaining-positive-change}}
+\addcontentsline{toc}{subsection}{Concurrent Session 2.2 \textbar{} Sustaining Positive Change}
+
+\begin{session}
+\hypertarget{engaging-in-open-pedagogy-insights-from-designing-and-teaching-post-secondary-stem-courses-practice}{%
+\paragraph*{\texorpdfstring{1:30-2:30 \textbar{} \textbf{Engaging in
+Open Pedagogy: Insights from Designing and Teaching Post-Secondary STEM
+Courses} \textbar{}
+Practice}{1:30-2:30 \textbar{} Engaging in Open Pedagogy: Insights from Designing and Teaching Post-Secondary STEM Courses \textbar{} Practice}}\label{engaging-in-open-pedagogy-insights-from-designing-and-teaching-post-secondary-stem-courses-practice}}
+\addcontentsline{toc}{paragraph}{1:30-2:30 \textbar{} \textbf{Engaging
+in Open Pedagogy: Insights from Designing and Teaching Post-Secondary
+STEM Courses} \textbar{} Practice}
+
+\textbf{\emph{Elena Chudaeva}} \textbar{} \emph{George Brown College}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\begin{session}
+\hypertarget{an-upgrade-to-ungrading-alternative-grading-in-higher-education-practice}{%
+\paragraph*{\texorpdfstring{2:30-3:00 \textbar{} \textbf{An Upgrade to
+Ungrading: Alternative Grading in Higher Education} \textbar{}
+Practice}{2:30-3:00 \textbar{} An Upgrade to Ungrading: Alternative Grading in Higher Education \textbar{} Practice}}\label{an-upgrade-to-ungrading-alternative-grading-in-higher-education-practice}}
+\addcontentsline{toc}{paragraph}{2:30-3:00 \textbar{} \textbf{An Upgrade
+to Ungrading: Alternative Grading in Higher Education} \textbar{}
+Practice}
+
+\textbf{\emph{Sharon Lauricella}} \textbar{} \emph{Ontario Tech
+University}
+
+\textbf{\emph{Rebekah Bennetch}} \textbar{} \emph{University of
+Saskatchewan}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{concurrent-session-2.3-transitions-of-online-learning-teaching}{%
+\subsection*{Concurrent Session 2.3 \textbar{} Transitions of Online Learning \& Teaching}\label{concurrent-session-2.3-transitions-of-online-learning-teaching}}
+\addcontentsline{toc}{subsection}{Concurrent Session 2.3 \textbar{} Transitions of Online Learning \& Teaching}
+
+\begin{session}
+\hypertarget{mediating-relationship-and-sexual-health-education-practice}{%
+\paragraph*{\texorpdfstring{1:30-2:00 \textbar{} \textbf{Mediating
+Relationship and Sexual Health Education} \textbar{}
+Practice}{1:30-2:00 \textbar{} Mediating Relationship and Sexual Health Education \textbar{} Practice}}\label{mediating-relationship-and-sexual-health-education-practice}}
+\addcontentsline{toc}{paragraph}{1:30-2:00 \textbar{} \textbf{Mediating
+Relationship and Sexual Health Education} \textbar{} Practice}
+
+\textbf{\emph{Andrea Hasenbank}} \textbar{} \emph{Onlea Studios}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\begin{session}
+\hypertarget{leave-no-one-behind.-peer-support-for-teachers-reflections-on-a-digital-pedagogy-development-project-practice}{%
+\paragraph*{\texorpdfstring{2:00-2:30 \textbar{} \textbf{``Leave No One
+Behind.'' Peer Support for Teachers: Reflections on a Digital Pedagogy
+Development Project} \textbar{}
+Practice}{2:00-2:30 \textbar{} ``Leave No One Behind.'' Peer Support for Teachers: Reflections on a Digital Pedagogy Development Project \textbar{} Practice}}\label{leave-no-one-behind.-peer-support-for-teachers-reflections-on-a-digital-pedagogy-development-project-practice}}
+\addcontentsline{toc}{paragraph}{2:00-2:30 \textbar{} \textbf{``Leave No
+One Behind.'' Peer Support for Teachers: Reflections on a Digital
+Pedagogy Development Project} \textbar{} Practice}
+
+\textbf{\emph{Susanna Kohonen, Helena Kantanen, Kati Kasanen, Vesa
+Paajanen \& Piia Siitonen}} \textbar{} \emph{University of Eastern
+Finland}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\begin{session}
+\hypertarget{creating-capacity-for-capabilities-using-professional-development-within-learning-design-in-capstone-practice}{%
+\paragraph*{\texorpdfstring{2:30-3:00 \textbar{} \textbf{Creating
+Capacity for Capabilities: Using Professional Development within
+Learning Design in Capstone} \textbar{}
+Practice}{2:30-3:00 \textbar{} Creating Capacity for Capabilities: Using Professional Development within Learning Design in Capstone \textbar{} Practice}}\label{creating-capacity-for-capabilities-using-professional-development-within-learning-design-in-capstone-practice}}
+\addcontentsline{toc}{paragraph}{2:30-3:00 \textbar{} \textbf{Creating
+Capacity for Capabilities: Using Professional Development within
+Learning Design in Capstone} \textbar{} Practice}
+
+\textbf{\emph{Sonja Johnston}} \textbar{} \emph{University of Calgary}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{concurrent-session-2.4-sustaining-positive-change}{%
+\subsection*{Concurrent Session 2.4 \textbar{} Sustaining Positive Change}\label{concurrent-session-2.4-sustaining-positive-change}}
+\addcontentsline{toc}{subsection}{Concurrent Session 2.4 \textbar{} Sustaining Positive Change}
+
+\begin{session}
+\hypertarget{sharing-experience-regarding-oer-creation-and-adoption-as-a-tool-to-manage-student-engagement-research}{%
+\paragraph*{\texorpdfstring{1:30-2:00 \textbar{} \textbf{Sharing
+Experience Regarding OER Creation and Adoption as a Tool to Manage
+Student Engagement} \textbar{}
+Research}{1:30-2:00 \textbar{} Sharing Experience Regarding OER Creation and Adoption as a Tool to Manage Student Engagement \textbar{} Research}}\label{sharing-experience-regarding-oer-creation-and-adoption-as-a-tool-to-manage-student-engagement-research}}
+\addcontentsline{toc}{paragraph}{1:30-2:00 \textbar{} \textbf{Sharing
+Experience Regarding OER Creation and Adoption as a Tool to Manage
+Student Engagement} \textbar{} Research}
+
+\textbf{\emph{Kiranjot Kaur \& Kimberlee Carter}} \textbar{}
+\emph{Conestoga College ITAL}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\begin{session}
+\hypertarget{developing-a-learning-design-framework-a-collective-process-intended-to-foster-collaboration-practice}{%
+\paragraph*{\texorpdfstring{2:00-2:30 \textbar{} \textbf{Developing a
+Learning Design Framework: A Collective Process Intended to Foster
+Collaboration} \textbar{}
+Practice}{2:00-2:30 \textbar{} Developing a Learning Design Framework: A Collective Process Intended to Foster Collaboration \textbar{} Practice}}\label{developing-a-learning-design-framework-a-collective-process-intended-to-foster-collaboration-practice}}
+\addcontentsline{toc}{paragraph}{2:00-2:30 \textbar{} \textbf{Developing
+a Learning Design Framework: A Collective Process Intended to Foster
+Collaboration} \textbar{} Practice}
+
+\textbf{\emph{Melissa Jakubec \& Michelle Harrison}} \textbar{}
+\emph{Thompson Rivers University}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\begin{session}
+\hypertarget{reimagining-art-and-culture-by-decolonizing-digitization-practice}{%
+\paragraph*{\texorpdfstring{2:30-3:00 \textbar{} \textbf{Reimagining Art
+and Culture by Decolonizing Digitization} \textbar{}
+Practice}{2:30-3:00 \textbar{} Reimagining Art and Culture by Decolonizing Digitization \textbar{} Practice}}\label{reimagining-art-and-culture-by-decolonizing-digitization-practice}}
+\addcontentsline{toc}{paragraph}{2:30-3:00 \textbar{}
+\textbf{Reimagining Art and Culture by Decolonizing Digitization}
+\textbar{} Practice}
+
+\textbf{\emph{Amanda Figueroa}} \textbar{} \emph{Curationist}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{concurrent-session-2.5-sustaining-positive-change}{%
+\subsection*{Concurrent Session 2.5 \textbar{} Sustaining Positive Change}\label{concurrent-session-2.5-sustaining-positive-change}}
+\addcontentsline{toc}{subsection}{Concurrent Session 2.5 \textbar{} Sustaining Positive Change}
+
+\begin{session}
+\hypertarget{quen-est-il-de-lenseignement-et-de-lapprentissage-de-la-danse-uxe0-distance-adaptations-et-duxe9fis-in-french-research}{%
+\paragraph*{\texorpdfstring{1:30-2:00 \textbar{} \textbf{Qu'en est-il de
+l'enseignement et de l'apprentissage de la danse à distance ?
+Adaptations et défis (in French)} \textbar{}
+Research}{1:30-2:00 \textbar{} Qu'en est-il de l'enseignement et de l'apprentissage de la danse à distance ? Adaptations et défis (in French) \textbar{} Research}}\label{quen-est-il-de-lenseignement-et-de-lapprentissage-de-la-danse-uxe0-distance-adaptations-et-duxe9fis-in-french-research}}
+\addcontentsline{toc}{paragraph}{1:30-2:00 \textbar{} \textbf{Qu'en
+est-il de l'enseignement et de l'apprentissage de la danse à distance ?
+Adaptations et défis (in French)} \textbar{} Research}
+
+\textbf{\emph{Cathia Papi}} \textbar{} \emph{Université TÉLUQ}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\begin{session}
+\hypertarget{que-dit-la-recherche-des-approches-pour-contrer-lisolement-en-fad-in-french-research}{%
+\paragraph*{\texorpdfstring{2:00-2:30 \textbar{} \textbf{Que dit la
+recherche des approches pour contrer l'isolement en FAD ? (in French)}
+\textbar{}
+Research}{2:00-2:30 \textbar{} Que dit la recherche des approches pour contrer l'isolement en FAD ? (in French) \textbar{} Research}}\label{que-dit-la-recherche-des-approches-pour-contrer-lisolement-en-fad-in-french-research}}
+\addcontentsline{toc}{paragraph}{2:00-2:30 \textbar{} \textbf{Que dit la
+recherche des approches pour contrer l'isolement en FAD ? (in French)}
+\textbar{} Research}
+
+\textbf{\emph{Cathia Papi, Serge Gérin-Lajoie \& Wanderlucy Czeszak}}
+\textbar{} \emph{Université TÉLUQ}
+
+\textbf{\emph{Aristide Tsayem Tchoupou}} \textbar{} \emph{Université
+Laval}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\begin{session}
+\hypertarget{tba}{%
+\paragraph*{\texorpdfstring{2:30-3:00 \textbar{} \textbf{TBA}
+\textbar{}}{2:30-3:00 \textbar{} TBA \textbar{}}}\label{tba}}
+\addcontentsline{toc}{paragraph}{2:30-3:00 \textbar{} \textbf{TBA}
+\textbar{}}
+
+\textbf{\emph{TBA}} \textbar{} \emph{TBA}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{break-300-315}{%
+\section*{Break \textbar{} 3:00-3:15}\label{break-300-315}}
+\addcontentsline{toc}{section}{Break \textbar{} 3:00-3:15}
+
+\hypertarget{social-315-345}{%
+\section*{Social \textbar{} 3:15-3:45}\label{social-315-345}}
+\addcontentsline{toc}{section}{Social \textbar{} 3:15-3:45}
+
+\hypertarget{concurrent-session-3-345-515}{%
+\section*{Concurrent Session 3 \textbar{} 3:45-5:15}\label{concurrent-session-3-345-515}}
+\addcontentsline{toc}{section}{Concurrent Session 3 \textbar{} 3:45-5:15}
+
+1.5 Hours
+
+\hypertarget{concurrent-session-3.1-addressing-inequities}{%
+\subsection*{Concurrent Session 3.1 \textbar{} Addressing Inequities}\label{concurrent-session-3.1-addressing-inequities}}
+\addcontentsline{toc}{subsection}{Concurrent Session 3.1 \textbar{} Addressing Inequities}
+
+\begin{session}
+\hypertarget{the-seemingly-small-details-that-are-easily-overlooked-in-designing-inclusive-online-courses-practice}{%
+\paragraph*{\texorpdfstring{3:45-4:45 \textbar{} \textbf{The Seemingly
+Small Details that are Easily Overlooked in Designing Inclusive Online
+Courses} \textbar{}
+Practice}{3:45-4:45 \textbar{} The Seemingly Small Details that are Easily Overlooked in Designing Inclusive Online Courses \textbar{} Practice}}\label{the-seemingly-small-details-that-are-easily-overlooked-in-designing-inclusive-online-courses-practice}}
+\addcontentsline{toc}{paragraph}{3:45-4:45 \textbar{} \textbf{The
+Seemingly Small Details that are Easily Overlooked in Designing
+Inclusive Online Courses} \textbar{} Practice}
+
+\textbf{\emph{Tai Munro, Ashley Stasiewich \& Susan Cauti}} \textbar{}
+\emph{MacEwan University}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\begin{session}
+\hypertarget{podcasting-for-student-agency-research}{%
+\paragraph*{\texorpdfstring{4:45-5:15 \textbar{} \textbf{Podcasting for
+Student Agency} \textbar{}
+Research}{4:45-5:15 \textbar{} Podcasting for Student Agency \textbar{} Research}}\label{podcasting-for-student-agency-research}}
+\addcontentsline{toc}{paragraph}{4:45-5:15 \textbar{} \textbf{Podcasting
+for Student Agency} \textbar{} Research}
+
+\textbf{\emph{Yu-Ling Lee \& Nina Lui}} \textbar{} \emph{Trinity Western
+University}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{concurrent-session-3.2-sustaining-positive-change}{%
+\subsection*{Concurrent Session 3.2 \textbar{} Sustaining Positive Change}\label{concurrent-session-3.2-sustaining-positive-change}}
+\addcontentsline{toc}{subsection}{Concurrent Session 3.2 \textbar{} Sustaining Positive Change}
+
+\begin{session}
+\hypertarget{the-slow-trend-toward-k-12-oer-sharing-practice}{%
+\paragraph*{\texorpdfstring{3:45-4:45 \textbar{} \textbf{The Slow Trend
+Toward K-12 OER Sharing} \textbar{}
+Practice}{3:45-4:45 \textbar{} The Slow Trend Toward K-12 OER Sharing \textbar{} Practice}}\label{the-slow-trend-toward-k-12-oer-sharing-practice}}
+\addcontentsline{toc}{paragraph}{3:45-4:45 \textbar{} \textbf{The Slow
+Trend Toward K-12 OER Sharing} \textbar{} Practice}
+
+\textbf{\emph{Connie Blomgren}} \textbar{} \emph{Athabasca University}
+
+\textbf{\emph{Beth Cormier}} \textbar{} \emph{University of Lethbridge}
+
+\textbf{\emph{Kathy Wise}} \textbar{} \emph{University of Calgary}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\begin{session}
+\hypertarget{letting-go-of-holding-on-promoting-student-choice-in-a-post--pandemic-classroom-practice}{%
+\paragraph*{\texorpdfstring{4:45-5:15 \textbar{} \textbf{Letting Go of
+Holding On: Promoting Student Choice in a Post- Pandemic Classroom}
+\textbar{}
+Practice}{4:45-5:15 \textbar{} Letting Go of Holding On: Promoting Student Choice in a Post- Pandemic Classroom \textbar{} Practice}}\label{letting-go-of-holding-on-promoting-student-choice-in-a-post--pandemic-classroom-practice}}
+\addcontentsline{toc}{paragraph}{4:45-5:15 \textbar{} \textbf{Letting Go
+of Holding On: Promoting Student Choice in a Post- Pandemic Classroom}
+\textbar{} Practice}
+
+\textbf{\emph{Rebekah Bennetch}} \textbar{} \emph{University of
+Saskatchewan}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{concurrent-session-3.3-wildcard}{%
+\subsection*{Concurrent Session 3.3 \textbar{} Wildcard}\label{concurrent-session-3.3-wildcard}}
+\addcontentsline{toc}{subsection}{Concurrent Session 3.3 \textbar{} Wildcard}
+
+\begin{session}
+\hypertarget{whiteboard-animation-for-dental-education-research}{%
+\paragraph*{\texorpdfstring{3:45 - 4:45 \textbar{} \textbf{Whiteboard
+Animation for Dental Education} \textbar{}
+Research}{3:45 - 4:45 \textbar{} Whiteboard Animation for Dental Education \textbar{} Research}}\label{whiteboard-animation-for-dental-education-research}}
+\addcontentsline{toc}{paragraph}{3:45 - 4:45 \textbar{}
+\textbf{Whiteboard Animation for Dental Education} \textbar{} Research}
+
+\textbf{\emph{Nazlee Sharmin, Ava K Chow \& Mike Carbonaro}} \textbar{}
+\emph{University of Alberta}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\begin{session}
+\hypertarget{in-class-gaming-to-improve-students-learning-experiences-in-dental-education-research}{%
+\paragraph*{\texorpdfstring{4:45 - 5:15 \textbar{} \textbf{In-class
+gaming to improve students' learning experiences in dental education}
+\textbar{}
+Research}{4:45 - 5:15 \textbar{} In-class gaming to improve students' learning experiences in dental education \textbar{} Research}}\label{in-class-gaming-to-improve-students-learning-experiences-in-dental-education-research}}
+\addcontentsline{toc}{paragraph}{4:45 - 5:15 \textbar{} \textbf{In-class
+gaming to improve students' learning experiences in dental education}
+\textbar{} Research}
+
+\textbf{\emph{Nazlee Sharmin \& Ava K Chow}} \textbar{} \emph{University
+of Alberta}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{concurrent-session-3.4-transitions-of-online-learning-teaching}{%
+\subsection*{Concurrent Session 3.4 \textbar{} Transitions of Online Learning \& Teaching}\label{concurrent-session-3.4-transitions-of-online-learning-teaching}}
+\addcontentsline{toc}{subsection}{Concurrent Session 3.4 \textbar{} Transitions of Online Learning \& Teaching}
+
+\begin{session}
+\hypertarget{encadrer-des-uxe9tudiant.es-uxe0-distance-description-des-pratiques-de-nouveaux-professeure.s-in-french-research}{%
+\paragraph*{\texorpdfstring{3:45 - 4:45 \textbar{} \textbf{Encadrer des
+étudiant.es à distance : Description des pratiques de nouveaux
+professeure.s (in French)} \textbar{}
+Research}{3:45 - 4:45 \textbar{} Encadrer des étudiant.es à distance : Description des pratiques de nouveaux professeure.s (in French) \textbar{} Research}}\label{encadrer-des-uxe9tudiant.es-uxe0-distance-description-des-pratiques-de-nouveaux-professeure.s-in-french-research}}
+\addcontentsline{toc}{paragraph}{3:45 - 4:45 \textbar{} \textbf{Encadrer
+des étudiant.es à distance : Description des pratiques de nouveaux
+professeure.s (in French)} \textbar{} Research}
+
+\textbf{\emph{Serge Gérin-Lajoie}} \textbar{} \emph{Université TÉLUQ}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\begin{session}
+\hypertarget{face-to-face-online-or-something-in-between-student-perceptions-of-student-engagement-in-different-learning-environments-research}{%
+\paragraph*{\texorpdfstring{4:45 - 5:15 \textbar{} \textbf{Face to Face,
+Online or Something in Between -- Student Perceptions of Student
+Engagement in Different Learning Environments} \textbar{}
+Research}{4:45 - 5:15 \textbar{} Face to Face, Online or Something in Between -- Student Perceptions of Student Engagement in Different Learning Environments \textbar{} Research}}\label{face-to-face-online-or-something-in-between-student-perceptions-of-student-engagement-in-different-learning-environments-research}}
+\addcontentsline{toc}{paragraph}{4:45 - 5:15 \textbar{} \textbf{Face to
+Face, Online or Something in Between -- Student Perceptions of Student
+Engagement in Different Learning Environments} \textbar{} Research}
+
+\textbf{\emph{Hongran Cui, Michelle Harrison \& Victoria Handford}}
+\textbar{} \emph{Thompson Rivers University}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{concurrent-session-3.5-sustaining-positive-change}{%
+\subsection*{Concurrent Session 3.5 \textbar{} Sustaining Positive Change}\label{concurrent-session-3.5-sustaining-positive-change}}
+\addcontentsline{toc}{subsection}{Concurrent Session 3.5 \textbar{} Sustaining Positive Change}
+
+\begin{session}
+\hypertarget{becoming-oe-librarians-in-ukraine-during-wartime-taking-down-language-barriers-and-practising-inclusion-practice}{%
+\paragraph*{\texorpdfstring{3:45 - 4:45 \textbar{} \textbf{Be(com)ing OE
+Librarians in Ukraine During Wartime: Taking Down Language Barriers and
+Practising Inclusion} \textbar{}
+Practice}{3:45 - 4:45 \textbar{} Be(com)ing OE Librarians in Ukraine During Wartime: Taking Down Language Barriers and Practising Inclusion \textbar{} Practice}}\label{becoming-oe-librarians-in-ukraine-during-wartime-taking-down-language-barriers-and-practising-inclusion-practice}}
+\addcontentsline{toc}{paragraph}{3:45 - 4:45 \textbar{}
+\textbf{Be(com)ing OE Librarians in Ukraine During Wartime: Taking Down
+Language Barriers and Practising Inclusion} \textbar{} Practice}
+
+\textbf{\emph{Paola Corti}} \textbar{} \emph{SPARC Europe}
+
+\textbf{\emph{Tetiana Kolesnykova}} \textbar{} \emph{Ukrainian State
+University of Science and Technologies}
+
+\textbf{\emph{Mira Buist- Zhuk}} \textbar{} \emph{University of
+Groningen}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\begin{session}
+\hypertarget{the-role-of-academic-libraries-in-fostering-of-algorithmic-literacy-in-canadian-universities-a-metaliterate-research}{%
+\paragraph*{\texorpdfstring{4:45 - 5:15 \textbar{} \textbf{The Role of
+Academic Libraries in Fostering of Algorithmic Literacy in Canadian
+Universities: A Metaliterate} \textbar{}
+Research}{4:45 - 5:15 \textbar{} The Role of Academic Libraries in Fostering of Algorithmic Literacy in Canadian Universities: A Metaliterate \textbar{} Research}}\label{the-role-of-academic-libraries-in-fostering-of-algorithmic-literacy-in-canadian-universities-a-metaliterate-research}}
+\addcontentsline{toc}{paragraph}{4:45 - 5:15 \textbar{} \textbf{The Role
+of Academic Libraries in Fostering of Algorithmic Literacy in Canadian
+Universities: A Metaliterate} \textbar{} Research}
+
+\textbf{\emph{Marta Samokishyn}} \textbar{} \emph{Saint Paul University}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{break-515-530}{%
+\section*{Break \textbar{} 5:15-5:30}\label{break-515-530}}
+\addcontentsline{toc}{section}{Break \textbar{} 5:15-5:30}
+
+\hypertarget{concurrent-session-4-530-615}{%
+\subsection*{Concurrent Session 4 \textbar{} 5:30-6:15}\label{concurrent-session-4-530-615}}
+\addcontentsline{toc}{subsection}{Concurrent Session 4 \textbar{} 5:30-6:15}
+
+45 Minutes
+
+\begin{speaker}
+\hypertarget{session-speaker-tba}{%
+\paragraph{\texorpdfstring{Session Speaker:
+\textbf{TBA}}{Session Speaker: TBA}}\label{session-speaker-tba}}
+
+\emph{Session title: TBA}
+
+\textbf{Keywords:}
+
+Abstract
+\end{speaker}
+
+\begin{speaker}
+\hypertarget{title}{%
+\paragraph{\texorpdfstring{\textbf{Title}}{Title}}\label{title}}
+
+\emph{Speaker}
+
+\textbf{Keywords:}
+
+ABSTRACT
+\end{speaker}
+
+\hypertarget{discussionnetworking-pod-615-630}{%
+\section*{Discussion/Networking Pod \textbar{} 6:15-6:30}\label{discussionnetworking-pod-615-630}}
+\addcontentsline{toc}{section}{Discussion/Networking Pod \textbar{} 6:15-6:30}
+
+\hypertarget{sunday-may-28-no-sessions-travel-day}{%
+\chapter{Sunday, May 28 \textbar{} No Sessions Travel Day}\label{sunday-may-28-no-sessions-travel-day}}
+
+For those heading to York University, we wish you safe travels! See you soon!
+
+\begin{figure}
+\centering
+\includegraphics{docs/assets/aditya-chinchure-3mlAZQuGgIQ-unsplash.jpg}
+\caption{Image of cars travelling on a mountain highway beside a lake.}
+\end{figure}
+
+Photo by Aditya Chinchure on Unsplash
+
+\hypertarget{monday-may-29-in-person-at-york-university}{%
+\chapter{Monday, May 29 \textbar{} In Person at York University}\label{monday-may-29-in-person-at-york-university}}
+
+\begin{protip}
+\hypertarget{join-us-for-the-otessa23-morning-radio-show-every-morning-monday-thursday-930-1030-eastern-at-httpsvoiced.ca}{%
+\paragraph{Join us for the \#OTESSA23 Morning Radio Show every morning
+Monday-Thursday 9:30-10:30 (Eastern) at
+https://voiced.ca}\label{join-us-for-the-otessa23-morning-radio-show-every-morning-monday-thursday-930-1030-eastern-at-httpsvoiced.ca}}
+\end{protip}
+
+\hypertarget{session-types-1}{%
+\subsection*{Session Types}\label{session-types-1}}
+\addcontentsline{toc}{subsection}{Session Types}
+
+\begin{protip}
+\hypertarget{note}{%
+\paragraph*{✨ Note}\label{note}}
+\addcontentsline{toc}{paragraph}{✨ Note}
+
+\textbf{\emph{All times are in Eastern Time (Canada)}}
+\end{protip}
+
+\begin{keynote}
+\hypertarget{keynote}{%
+\paragraph{Keynote}\label{keynote}}
+\end{keynote}
+
+\begin{speaker}
+\hypertarget{invited-speaker}{%
+\paragraph{Invited Speaker}\label{invited-speaker}}
+\end{speaker}
+
+\begin{session}
+\hypertarget{regular-session}{%
+\paragraph{Regular Session}\label{regular-session}}
+\end{session}
+
+\begin{social}
+\hypertarget{social-session}{%
+\paragraph{Social Session}\label{social-session}}
+\end{social}
+
+\begin{vendor}
+\hypertarget{vendor}{%
+\paragraph{Vendor}\label{vendor}}
+\end{vendor}
+
+\begin{workshop}
+\hypertarget{workshop}{%
+\paragraph{Workshop}\label{workshop}}
+\end{workshop}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{continental-breakfast-provided-800-900}{%
+\section*{Continental Breakfast Provided \textbar{} 8:00-9:00}\label{continental-breakfast-provided-800-900}}
+\addcontentsline{toc}{section}{Continental Breakfast Provided \textbar{} 8:00-9:00}
+
+\hypertarget{welcome-desk-open-800---1130}{%
+\section*{Welcome Desk Open \textbar{} 8:00 - 11:30}\label{welcome-desk-open-800---1130}}
+\addcontentsline{toc}{section}{Welcome Desk Open \textbar{} 8:00 - 11:30}
+
+\hypertarget{conference-welcome-announcements-land-acknowledgement-900-915}{%
+\section*{Conference Welcome, Announcements \& Land Acknowledgement \textbar{} 9:00-9:15}\label{conference-welcome-announcements-land-acknowledgement-900-915}}
+\addcontentsline{toc}{section}{Conference Welcome, Announcements \& Land Acknowledgement \textbar{} 9:00-9:15}
+
+\hypertarget{break-915-930}{%
+\section*{Break \textbar{} 9:15-9:30}\label{break-915-930}}
+\addcontentsline{toc}{section}{Break \textbar{} 9:15-9:30}
+
+\hypertarget{concurrent-session-5-930-1030}{%
+\section*{Concurrent Session 5 \textbar{} 9:30-10:30}\label{concurrent-session-5-930-1030}}
+\addcontentsline{toc}{section}{Concurrent Session 5 \textbar{} 9:30-10:30}
+
+\hypertarget{concurrent-session-5.1-sustaining-positive-change}{%
+\subsection*{Concurrent Session 5.1 \textbar{} Sustaining Positive Change}\label{concurrent-session-5.1-sustaining-positive-change}}
+\addcontentsline{toc}{subsection}{Concurrent Session 5.1 \textbar{} Sustaining Positive Change}
+
+\begin{session}
+\hypertarget{cultivating-essential-leadership-skills-for-digital-transformation-in-ontario-postsecondary-education-practice}{%
+\paragraph{\texorpdfstring{9:30 - 10:30 \textbar{} \textbf{Cultivating
+Essential Leadership Skills for Digital Transformation in Ontario
+Postsecondary Education} \textbar{}
+Practice}{9:30 - 10:30 \textbar{} Cultivating Essential Leadership Skills for Digital Transformation in Ontario Postsecondary Education \textbar{} Practice}}\label{cultivating-essential-leadership-skills-for-digital-transformation-in-ontario-postsecondary-education-practice}}
+
+\{-\}
+
+\textbf{\emph{Alissa Bigelow \& Monica Shah}} \textbar{}
+\emph{eCampusOntario}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{concurrent-session-5.2-sustaining-positive-change}{%
+\subsection*{Concurrent Session 5.2 \textbar{} Sustaining Positive Change}\label{concurrent-session-5.2-sustaining-positive-change}}
+\addcontentsline{toc}{subsection}{Concurrent Session 5.2 \textbar{} Sustaining Positive Change}
+
+\begin{session}
+\hypertarget{ascending-the-mountain-examining-national-open-educational-resource-oer-practice}{%
+\paragraph*{\texorpdfstring{9:30 - 10:30 \textbar{} \textbf{Ascending
+the Mountain: Examining National Open Educational Resource (OER)}
+\textbar{}
+Practice}{9:30 - 10:30 \textbar{} Ascending the Mountain: Examining National Open Educational Resource (OER) \textbar{} Practice}}\label{ascending-the-mountain-examining-national-open-educational-resource-oer-practice}}
+\addcontentsline{toc}{paragraph}{9:30 - 10:30 \textbar{}
+\textbf{Ascending the Mountain: Examining National Open Educational
+Resource (OER)} \textbar{} Practice}
+
+\textbf{\emph{Michael McNally}} \textbar{} \emph{University of Alberta}
+
+\textbf{\emph{Catherine Lachaîne}} \textbar{} \emph{University of
+Ottawa}
+
+\textbf{\emph{Ann Ludbrook}} \textbar{} \emph{Toronto Metropolitan
+University}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{concurrent-session-5.3-sustaining-positive-change}{%
+\subsection*{Concurrent Session 5.3 \textbar{} Sustaining Positive Change}\label{concurrent-session-5.3-sustaining-positive-change}}
+\addcontentsline{toc}{subsection}{Concurrent Session 5.3 \textbar{} Sustaining Positive Change}
+
+\begin{session}
+\hypertarget{mythical-beast-panacea-or-breaking-news-open-education-policy-in-higher-education-institutions-research}{%
+\paragraph*{\texorpdfstring{9:30 - 10:00 \textbar{} \textbf{Mythical
+Beast, Panacea or Breaking News: Open Education Policy in Higher
+Education Institutions} \textbar{}
+Research}{9:30 - 10:00 \textbar{} Mythical Beast, Panacea or Breaking News: Open Education Policy in Higher Education Institutions \textbar{} Research}}\label{mythical-beast-panacea-or-breaking-news-open-education-policy-in-higher-education-institutions-research}}
+\addcontentsline{toc}{paragraph}{9:30 - 10:00 \textbar{}
+\textbf{Mythical Beast, Panacea or Breaking News: Open Education Policy
+in Higher Education Institutions} \textbar{} Research}
+
+\textbf{\emph{Leo Havemann}} \textbar{} \emph{University College London
+/ Open University}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\begin{session}
+\hypertarget{mywatershed-a-serious-game-for-fostering-sustainability-champions-of-the-future-research}{%
+\paragraph*{\texorpdfstring{10:00-10:30 \textbar{} \textbf{myWATERSHED:
+A Serious Game for Fostering Sustainability Champions of the Future}
+\textbar{}
+Research}{10:00-10:30 \textbar{} myWATERSHED: A Serious Game for Fostering Sustainability Champions of the Future \textbar{} Research}}\label{mywatershed-a-serious-game-for-fostering-sustainability-champions-of-the-future-research}}
+\addcontentsline{toc}{paragraph}{10:00-10:30 \textbar{}
+\textbf{myWATERSHED: A Serious Game for Fostering Sustainability
+Champions of the Future} \textbar{} Research}
+
+\textbf{\emph{Isabelle Barrette-Ng}} \textbar{} \emph{University of
+Windsor}
+
+\textbf{\emph{Adam Clare}} \textbar{} \emph{Sheridan College}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{concurrent-session-5.4-transitions-of-online-learning-teaching}{%
+\subsection*{Concurrent Session 5.4 \textbar{} Transitions of Online Learning \& Teaching}\label{concurrent-session-5.4-transitions-of-online-learning-teaching}}
+\addcontentsline{toc}{subsection}{Concurrent Session 5.4 \textbar{} Transitions of Online Learning \& Teaching}
+
+\begin{session}
+\hypertarget{early-findings-on-an-experiment-in-distance-education-with-high-school-students-research}{%
+\paragraph*{\texorpdfstring{9:30 - 10:00 \textbar{} \textbf{Early
+Findings on an Experiment in Distance Education with High School
+Students} \textbar{}
+Research}{9:30 - 10:00 \textbar{} Early Findings on an Experiment in Distance Education with High School Students \textbar{} Research}}\label{early-findings-on-an-experiment-in-distance-education-with-high-school-students-research}}
+\addcontentsline{toc}{paragraph}{9:30 - 10:00 \textbar{} \textbf{Early
+Findings on an Experiment in Distance Education with High School
+Students} \textbar{} Research}
+
+\textbf{\emph{Alexandre Lanoix, Normand Roy, Marc-André Éthier}}
+\textbar{} \emph{Université de Montréal}
+
+\textbf{\emph{Serge Gérin-Lajoie}} \textbar{} \emph{Université TÉLUQ}
+
+\textbf{\emph{Bruno Poellhuber}} \textbar{} \emph{Université de
+Montréal}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\begin{session}
+\hypertarget{over-the-threshold-graduate-student-needs-in-academic-publishing-research}{%
+\paragraph*{\texorpdfstring{10:00-10:30 \textbar{} \textbf{Over the
+Threshold: Graduate Student Needs in Academic Publishing} \textbar{}
+Research}{10:00-10:30 \textbar{} Over the Threshold: Graduate Student Needs in Academic Publishing \textbar{} Research}}\label{over-the-threshold-graduate-student-needs-in-academic-publishing-research}}
+\addcontentsline{toc}{paragraph}{10:00-10:30 \textbar{} \textbf{Over the
+Threshold: Graduate Student Needs in Academic Publishing} \textbar{}
+Research}
+
+\textbf{\emph{Christie Hurrell, Susan Beatty}} \textbar{}
+\emph{University of Calgary}
+
+\textbf{\emph{Dana Cramer}} \textbar{} \emph{Toronto Metropolitan
+University}
+
+\textbf{\emph{Jennifer Lee, James Murphy \& Caitlin McClurg}} \textbar{}
+\emph{University of Calgary} \textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{break-1030-1100}{%
+\section*{Break \textbar{} 10:30-11:00}\label{break-1030-1100}}
+\addcontentsline{toc}{section}{Break \textbar{} 10:30-11:00}
+
+\hypertarget{keynote-1100-1200}{%
+\section*{Keynote \textbar{} 11:00-12:00}\label{keynote-1100-1200}}
+\addcontentsline{toc}{section}{Keynote \textbar{} 11:00-12:00}
+
+\begin{keynote}
+\hypertarget{academic-integrity-in-the-age-of-artificial-intelligence}{%
+\paragraph*{Academic Integrity in the Age of Artificial
+Intelligence}\label{academic-integrity-in-the-age-of-artificial-intelligence}}
+\addcontentsline{toc}{paragraph}{Academic Integrity in the Age of
+Artificial Intelligence}
+
+\emph{Sarah Elaine Eaton} \emph{University of Calgary}
+
+Abstract
+
+How worried do we need to be that students are going to cheat more
+because of artificial intelligence? Does writing generated by an
+artificial intelligence (AI) writing app constitute plagiarism? How can
+artificial intelligence be used ethically for teaching, learning, and
+assessment? Will a robot take my job? These questions have dominated
+teaching and learning circles and social media since late 2022 when
+ChatGPT emerged. In this Keynote, Sarah provides insights into how AI
+tools are impacting higher education. She will share insights from
+recent research project at the University of Calgary that explores the
+question: What are the ethical implications of artificial intelligence
+technologies for teaching, learning, and assessment?
+
+\hypertarget{session-link}{%
+\subparagraph*{\texorpdfstring{\href{}{Session
+Link}}{Session Link}}\label{session-link}}
+\addcontentsline{toc}{subparagraph}{\href{}{Session Link}}
+\end{keynote}
+
+\hypertarget{break-1200-130}{%
+\section*{Break \textbar{} 12:00-1:30}\label{break-1200-130}}
+\addcontentsline{toc}{section}{Break \textbar{} 12:00-1:30}
+
+\hypertarget{concurrent-session-6-invited-speakers-130-215}{%
+\section*{Concurrent Session 6 \textbar{} Invited Speakers \textbar{} 1:30-2:15}\label{concurrent-session-6-invited-speakers-130-215}}
+\addcontentsline{toc}{section}{Concurrent Session 6 \textbar{} Invited Speakers \textbar{} 1:30-2:15}
+
+45 Minutes
+
+\hypertarget{concurrent-session-6.1}{%
+\subsection*{Concurrent Session 6.1}\label{concurrent-session-6.1}}
+\addcontentsline{toc}{subsection}{Concurrent Session 6.1}
+
+\begin{speaker}
+\hypertarget{session-speaker-tba}{%
+\paragraph{\texorpdfstring{Session Speaker:
+\textbf{TBA}}{Session Speaker: TBA}}\label{session-speaker-tba}}
+
+\emph{Session title: TBA}
+
+\textbf{Keywords:}
+
+Abstract
+\end{speaker}
+
+\hypertarget{concurrent-session-6.2}{%
+\subsection*{Concurrent Session 6.2}\label{concurrent-session-6.2}}
+\addcontentsline{toc}{subsection}{Concurrent Session 6.2}
+
+\begin{speaker}
+\hypertarget{session-speaker-tba}{%
+\paragraph{\texorpdfstring{Session Speaker:
+\textbf{TBA}}{Session Speaker: TBA}}\label{session-speaker-tba}}
+
+\emph{Session title: TBA}
+
+\textbf{Keywords:}
+
+Abstract
+\end{speaker}
+
+\hypertarget{break-215-230}{%
+\section*{Break \textbar{} 2:15-2:30}\label{break-215-230}}
+\addcontentsline{toc}{section}{Break \textbar{} 2:15-2:30}
+
+\hypertarget{concurrent-session-7-230-300}{%
+\section*{Concurrent Session 7 \textbar{} 2:30-3:00}\label{concurrent-session-7-230-300}}
+\addcontentsline{toc}{section}{Concurrent Session 7 \textbar{} 2:30-3:00}
+
+30 Minutes
+
+\hypertarget{concurrent-session-7.1-wildcard}{%
+\subsection*{Concurrent Session 7.1 \textbar{} Wildcard}\label{concurrent-session-7.1-wildcard}}
+\addcontentsline{toc}{subsection}{Concurrent Session 7.1 \textbar{} Wildcard}
+
+\begin{vendor}
+\hypertarget{the-impact-of-social-annotation-on-learning-research}{%
+\paragraph*{\texorpdfstring{2:30-3:00 \textbar{} \textbf{The Impact of
+Social Annotation on Learning} \textbar{}
+Research}{2:30-3:00 \textbar{} The Impact of Social Annotation on Learning \textbar{} Research}}\label{the-impact-of-social-annotation-on-learning-research}}
+\addcontentsline{toc}{paragraph}{2:30-3:00 \textbar{} \textbf{The Impact
+of Social Annotation on Learning} \textbar{} Research}
+
+\textbf{Will be repeated online in Session 18.3 (Friday, June 2)}
+
+\textbf{\emph{Sean O'Reilly}} \textbar{} \emph{hypothes.is}
+
+\textbf{Keywords:}
+
+Abstract
+\end{vendor}
+
+\hypertarget{concurrent-session-7.2-sustaining-positive-change}{%
+\subsection*{Concurrent Session 7.2 \textbar{} Sustaining Positive Change}\label{concurrent-session-7.2-sustaining-positive-change}}
+\addcontentsline{toc}{subsection}{Concurrent Session 7.2 \textbar{} Sustaining Positive Change}
+
+\begin{session}
+\hypertarget{what-uses-of-digital-technology-support-and-enhance-the-learning-and-the-engagement-of-diverse-learners-in-high-school-classes-research}{%
+\paragraph*{\texorpdfstring{2:30-3:00 \textbar{} \textbf{What Uses of
+Digital Technology Support and Enhance the Learning and the Engagement
+of Diverse Learners in High School Classes?} \textbar{}
+Research}{2:30-3:00 \textbar{} What Uses of Digital Technology Support and Enhance the Learning and the Engagement of Diverse Learners in High School Classes? \textbar{} Research}}\label{what-uses-of-digital-technology-support-and-enhance-the-learning-and-the-engagement-of-diverse-learners-in-high-school-classes-research}}
+\addcontentsline{toc}{paragraph}{2:30-3:00 \textbar{} \textbf{What Uses
+of Digital Technology Support and Enhance the Learning and the
+Engagement of Diverse Learners in High School Classes?} \textbar{}
+Research}
+
+\textbf{\emph{Mourad Majdoub, Fatme Diab \& Géraldine Heilporn}}
+\textbar{} \emph{Université Laval}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{concurrent-session-7.3-addressing-inequities}{%
+\subsection*{Concurrent Session 7.3 \textbar{} Addressing Inequities}\label{concurrent-session-7.3-addressing-inequities}}
+\addcontentsline{toc}{subsection}{Concurrent Session 7.3 \textbar{} Addressing Inequities}
+
+\begin{session}
+\hypertarget{personal-institutional-and-societal-barriers-to-educators-engagement-with-datafication-on-campus-a-case-study-research}{%
+\paragraph*{\texorpdfstring{2:30-3:00 \textbar{} \textbf{Personal,
+Institutional, and Societal Barriers to Educators' Engagement with
+Datafication on Campus: A Case Study} \textbar{}
+Research}{2:30-3:00 \textbar{} Personal, Institutional, and Societal Barriers to Educators' Engagement with Datafication on Campus: A Case Study \textbar{} Research}}\label{personal-institutional-and-societal-barriers-to-educators-engagement-with-datafication-on-campus-a-case-study-research}}
+\addcontentsline{toc}{paragraph}{2:30-3:00 \textbar{} \textbf{Personal,
+Institutional, and Societal Barriers to Educators' Engagement with
+Datafication on Campus: A Case Study} \textbar{} Research}
+
+\textbf{\emph{Bonnie Stewart, Erica Miklas, Samantha Szcyrek \& Thu Le}}
+\textbar{} \emph{University of Windsor}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{break-with-coffee-and-snack-provided-300-330}{%
+\section*{Break with Coffee and Snack Provided \textbar{} 3:00-3:30}\label{break-with-coffee-and-snack-provided-300-330}}
+\addcontentsline{toc}{section}{Break with Coffee and Snack Provided \textbar{} 3:00-3:30}
+
+\hypertarget{concurrent-session-8-330-500}{%
+\section*{Concurrent Session 8 \textbar{} 3:30-5:00}\label{concurrent-session-8-330-500}}
+\addcontentsline{toc}{section}{Concurrent Session 8 \textbar{} 3:30-5:00}
+
+\hypertarget{concurrent-session-8.1-addressing-inequities}{%
+\subsection*{Concurrent Session 8.1 \textbar{} Addressing Inequities}\label{concurrent-session-8.1-addressing-inequities}}
+\addcontentsline{toc}{subsection}{Concurrent Session 8.1 \textbar{} Addressing Inequities}
+
+\begin{workshop}
+\hypertarget{the-wikidata-lexicographical-data-from-recording-of-words-to-lexemes-and-beyond-workshop}{%
+\paragraph*{\texorpdfstring{3:30-5:00 \textbar{} \textbf{The Wikidata
+Lexicographical Data: From Recording of Words to Lexemes and Beyond}
+\textbar{}
+Workshop}{3:30-5:00 \textbar{} The Wikidata Lexicographical Data: From Recording of Words to Lexemes and Beyond \textbar{} Workshop}}\label{the-wikidata-lexicographical-data-from-recording-of-words-to-lexemes-and-beyond-workshop}}
+\addcontentsline{toc}{paragraph}{3:30-5:00 \textbar{} \textbf{The
+Wikidata Lexicographical Data: From Recording of Words to Lexemes and
+Beyond} \textbar{} Workshop}
+
+\textbf{\emph{Sadik Shahadu}} \textbar{} \emph{MHz Foundation}
+
+\textbf{Keywords:}
+
+Abstract
+\end{workshop}
+
+\hypertarget{concurrent-session-8.2-sustaining-positive-change}{%
+\subsection*{Concurrent Session 8.2 \textbar{} Sustaining Positive Change}\label{concurrent-session-8.2-sustaining-positive-change}}
+\addcontentsline{toc}{subsection}{Concurrent Session 8.2 \textbar{} Sustaining Positive Change}
+
+\begin{session}
+\hypertarget{practitioner-values-in-the-transition-to-open-education-resources-moving-through-disruption-to-improved-practice-practice}{%
+\paragraph*{\texorpdfstring{3:30-4:30 \textbar{} \textbf{Practitioner
+Values in the Transition to Open Education Resources: Moving Through
+Disruption to Improved Practice} \textbar{}
+Practice}{3:30-4:30 \textbar{} Practitioner Values in the Transition to Open Education Resources: Moving Through Disruption to Improved Practice \textbar{} Practice}}\label{practitioner-values-in-the-transition-to-open-education-resources-moving-through-disruption-to-improved-practice-practice}}
+\addcontentsline{toc}{paragraph}{3:30-4:30 \textbar{}
+\textbf{Practitioner Values in the Transition to Open Education
+Resources: Moving Through Disruption to Improved Practice} \textbar{}
+Practice}
+
+\textbf{\emph{Trista Hill}} \textbar{} \emph{Athabasca University}
+
+\textbf{\emph{Gloria Ramirez}} \textbar{} \emph{Thompson Rivers
+University}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\begin{session}
+\hypertarget{showcasing-a-student-led-anti-racism-virtual-simulation-module-for-equitable-learning-practice}{%
+\paragraph*{\texorpdfstring{4:30-5:00 \textbar{} \textbf{Showcasing a
+Student-Led Anti-Racism Virtual Simulation Module for Equitable
+Learning} \textbar{}
+Practice}{4:30-5:00 \textbar{} Showcasing a Student-Led Anti-Racism Virtual Simulation Module for Equitable Learning \textbar{} Practice}}\label{showcasing-a-student-led-anti-racism-virtual-simulation-module-for-equitable-learning-practice}}
+\addcontentsline{toc}{paragraph}{4:30-5:00 \textbar{} \textbf{Showcasing
+a Student-Led Anti-Racism Virtual Simulation Module for Equitable
+Learning} \textbar{} Practice}
+
+\textbf{\emph{Mujeedat Lekuti, HanShu Pu, Rishika Gowda, Zainab Baig,
+Javeria Baig, Alexandra Lawrynuik}} \textbar{} \emph{Queen's University
+Canada}
+
+\textbf{\emph{Laura Killam}} \textbar{} \emph{Cambrian College}
+
+\textbf{\emph{Marian Luctkar-Flude}} \textbar{} \emph{Queen's University
+Canada}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{concurrent-session-8.3-wildcard}{%
+\subsection*{Concurrent Session 8.3 \textbar{} Wildcard}\label{concurrent-session-8.3-wildcard}}
+\addcontentsline{toc}{subsection}{Concurrent Session 8.3 \textbar{} Wildcard}
+
+\begin{session}
+\hypertarget{adaptive-learning-in-practice-practice}{%
+\paragraph*{\texorpdfstring{3:30-4:30 \textbar{} \textbf{Adaptive
+Learning in Practice} \textbar{}
+Practice}{3:30-4:30 \textbar{} Adaptive Learning in Practice \textbar{} Practice}}\label{adaptive-learning-in-practice-practice}}
+\addcontentsline{toc}{paragraph}{3:30-4:30 \textbar{} \textbf{Adaptive
+Learning in Practice} \textbar{} Practice}
+
+\textbf{\emph{Don Eldridge}} \textbar{} \emph{eCampusOntario}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\begin{session}
+\hypertarget{an-e-book-of-ones-own-practice}{%
+\paragraph*{\texorpdfstring{4:30-5:00 \textbar{} \textbf{An e-Book of
+One's Own} \textbar{}
+Practice}{4:30-5:00 \textbar{} An e-Book of One's Own \textbar{} Practice}}\label{an-e-book-of-ones-own-practice}}
+\addcontentsline{toc}{paragraph}{4:30-5:00 \textbar{} \textbf{An e-Book
+of One's Own} \textbar{} Practice}
+
+\textbf{\emph{Terry Greene}} \textbar{} \emph{Trent University}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{concurrent-session-8.4-transitions-of-online-learning-teaching}{%
+\subsection*{Concurrent Session 8.4 \textbar{} Transitions of Online Learning \& Teaching}\label{concurrent-session-8.4-transitions-of-online-learning-teaching}}
+\addcontentsline{toc}{subsection}{Concurrent Session 8.4 \textbar{} Transitions of Online Learning \& Teaching}
+
+\begin{session}
+\hypertarget{intentionality-community-and-well-being-re-imagining-blended-course-design-practice}{%
+\paragraph*{\texorpdfstring{3:30-4:30 \textbar{} \textbf{Intentionality,
+Community, and Well-being: Re-imagining Blended Course Design}
+\textbar{}
+Practice}{3:30-4:30 \textbar{} Intentionality, Community, and Well-being: Re-imagining Blended Course Design \textbar{} Practice}}\label{intentionality-community-and-well-being-re-imagining-blended-course-design-practice}}
+\addcontentsline{toc}{paragraph}{3:30-4:30 \textbar{}
+\textbf{Intentionality, Community, and Well-being: Re-imagining Blended
+Course Design} \textbar{} Practice}
+
+\textbf{\emph{Brian Lorraine}} \textbar{} \emph{Simon Fraser University}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\begin{session}
+\hypertarget{lapprentissage-en-ligne-au-quuxe9bec-ruxe9sultats-de-lenquuxeate-annuelle-2022-de-lacrfl-in-french-practice}{%
+\paragraph*{\texorpdfstring{4:30-5:00 \textbar{} \textbf{L'apprentissage
+en ligne au Québec : résultats de l'enquête annuelle 2022 de l'ACRFL (in
+French)} \textbar{}
+Practice}{4:30-5:00 \textbar{} L'apprentissage en ligne au Québec : résultats de l'enquête annuelle 2022 de l'ACRFL (in French) \textbar{} Practice}}\label{lapprentissage-en-ligne-au-quuxe9bec-ruxe9sultats-de-lenquuxeate-annuelle-2022-de-lacrfl-in-french-practice}}
+\addcontentsline{toc}{paragraph}{4:30-5:00 \textbar{}
+\textbf{L'apprentissage en ligne au Québec : résultats de l'enquête
+annuelle 2022 de l'ACRFL (in French)} \textbar{} Practice}
+
+*** Bruno Poellhuber \& Simon Parent*** \textbar{} \emph{Université de
+Montréal}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{see-congress-programming-for-social-tent-food-options-500-700}{%
+\section*{See Congress Programming for Social Tent \& Food Options \textbar{} 5:00-7:00}\label{see-congress-programming-for-social-tent-food-options-500-700}}
+\addcontentsline{toc}{section}{See Congress Programming for Social Tent \& Food Options \textbar{} 5:00-7:00}
+
+\hypertarget{otessa-social-life-sciences-building-lobby-700-1159}{%
+\section*{OTESSA Social \textbar{} Life Sciences Building Lobby \textbar{} 7:00-11:59}\label{otessa-social-life-sciences-building-lobby-700-1159}}
+\addcontentsline{toc}{section}{OTESSA Social \textbar{} Life Sciences Building Lobby \textbar{} 7:00-11:59}
+
+\hypertarget{tuesday-may-30-in-person-at-york-university}{%
+\chapter{Tuesday, May 30 \textbar{} In Person at York University}\label{tuesday-may-30-in-person-at-york-university}}
+
+\begin{protip}
+\hypertarget{join-us-for-the-otessa23-morning-radio-show-every-morning-time-tba-at-httpsvoiced.ca}{%
+\paragraph{Join us for the \#OTESSA23 Morning Radio Show every morning
+(time TBA) at
+https://voiced.ca}\label{join-us-for-the-otessa23-morning-radio-show-every-morning-time-tba-at-httpsvoiced.ca}}
+\end{protip}
+
+\hypertarget{session-types-2}{%
+\subsection*{Session Types}\label{session-types-2}}
+\addcontentsline{toc}{subsection}{Session Types}
+
+\begin{protip}
+\hypertarget{note}{%
+\paragraph*{✨ Note}\label{note}}
+\addcontentsline{toc}{paragraph}{✨ Note}
+
+\textbf{\emph{All times are in Eastern Time (Canada)}}
+\end{protip}
+
+\begin{keynote}
+\hypertarget{keynote}{%
+\paragraph{Keynote}\label{keynote}}
+\end{keynote}
+
+\begin{speaker}
+\hypertarget{invited-speaker}{%
+\paragraph{Invited Speaker}\label{invited-speaker}}
+\end{speaker}
+
+\begin{session}
+\hypertarget{regular-session}{%
+\paragraph{Regular Session}\label{regular-session}}
+\end{session}
+\begin{social}
+\hypertarget{social-session}{%
+\paragraph{Social Session}\label{social-session}}
+\end{social}
+\begin{vendor}
+\hypertarget{vendor}{%
+\paragraph{Vendor}\label{vendor}}
+\end{vendor}
+
+\begin{workshop}
+\hypertarget{workshop}{%
+\paragraph{Workshop}\label{workshop}}
+\end{workshop}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{continental-breakfast-provided-800-900-1}{%
+\section*{Continental Breakfast Provided \textbar{} 8:00-9:00}\label{continental-breakfast-provided-800-900-1}}
+\addcontentsline{toc}{section}{Continental Breakfast Provided \textbar{} 8:00-9:00}
+
+\hypertarget{welcome-desk-open-800---1130-1}{%
+\section*{Welcome Desk Open \textbar{} 8:00 - 11:30}\label{welcome-desk-open-800---1130-1}}
+\addcontentsline{toc}{section}{Welcome Desk Open \textbar{} 8:00 - 11:30}
+
+\hypertarget{conference-welcome-announcements-land-acknowledgement-900-915-1}{%
+\section*{Conference Welcome, Announcements \& Land Acknowledgement \textbar{} 9:00-9:15}\label{conference-welcome-announcements-land-acknowledgement-900-915-1}}
+\addcontentsline{toc}{section}{Conference Welcome, Announcements \& Land Acknowledgement \textbar{} 9:00-9:15}
+
+\hypertarget{break-915-930-1}{%
+\section*{Break \textbar{} 9:15-9:30}\label{break-915-930-1}}
+\addcontentsline{toc}{section}{Break \textbar{} 9:15-9:30}
+
+\hypertarget{concurrent-session-9-930-1030}{%
+\section*{Concurrent Session 9 \textbar{} 9:30-10:30}\label{concurrent-session-9-930-1030}}
+\addcontentsline{toc}{section}{Concurrent Session 9 \textbar{} 9:30-10:30}
+
+1 hour
+\#\#\# Concurrent Session 9.1 \textbar{} Transitions of Online Learning \& Teaching \{-\}
+
+\begin{session}
+\hypertarget{developing-open-education-literacies-in-teacher-education-programs-research}{%
+\paragraph*{\texorpdfstring{9:30-10:00 \textbar{} \textbf{Developing
+Open Education Literacies in Teacher Education Programs} \textbar{}
+Research}{9:30-10:00 \textbar{} Developing Open Education Literacies in Teacher Education Programs \textbar{} Research}}\label{developing-open-education-literacies-in-teacher-education-programs-research}}
+\addcontentsline{toc}{paragraph}{9:30-10:00 \textbar{}
+\textbf{Developing Open Education Literacies in Teacher Education
+Programs} \textbar{} Research}
+
+\textbf{\emph{Michael Paskevicius}} \textbar{} \emph{University of
+Victoria}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\begin{session}
+\hypertarget{technological-distance-a-new-way-of-conceptualizing-the-distance-in-distance-learning-research}{%
+\paragraph*{\texorpdfstring{10:00-10:30 \textbar{} \textbf{Technological
+Distance: A New Way of Conceptualizing the ``Distance'' in Distance
+Learning} \textbar{}
+Research}{10:00-10:30 \textbar{} Technological Distance: A New Way of Conceptualizing the ``Distance'' in Distance Learning \textbar{} Research}}\label{technological-distance-a-new-way-of-conceptualizing-the-distance-in-distance-learning-research}}
+\addcontentsline{toc}{paragraph}{10:00-10:30 \textbar{}
+\textbf{Technological Distance: A New Way of Conceptualizing the
+``Distance'' in Distance Learning} \textbar{} Research}
+
+\textbf{\emph{Jon Dron}} \textbar{} \emph{Athabasca University}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{concurrent-session-9.2-transitions-of-online-learning-teaching}{%
+\subsection*{Concurrent Session 9.2 \textbar{} Transitions of Online Learning \& Teaching}\label{concurrent-session-9.2-transitions-of-online-learning-teaching}}
+\addcontentsline{toc}{subsection}{Concurrent Session 9.2 \textbar{} Transitions of Online Learning \& Teaching}
+
+\begin{session}
+\hypertarget{belonging-relatedness-connectedness-or-social-presence-overlaps-and-differences-in-online-learning-research}{%
+\paragraph*{\texorpdfstring{9:30-10:00 \textbar{} \textbf{Belonging,
+Relatedness, Connectedness, or Social Presence? Overlaps and Differences
+in Online Learning} \textbar{}
+Research}{9:30-10:00 \textbar{} Belonging, Relatedness, Connectedness, or Social Presence? Overlaps and Differences in Online Learning \textbar{} Research}}\label{belonging-relatedness-connectedness-or-social-presence-overlaps-and-differences-in-online-learning-research}}
+\addcontentsline{toc}{paragraph}{9:30-10:00 \textbar{}
+\textbf{Belonging, Relatedness, Connectedness, or Social Presence?
+Overlaps and Differences in Online Learning} \textbar{} Research}
+
+\textbf{\emph{Behnoosh Khoramrooz, Mariel Miller \& Valerie Irvine}}
+\textbar{} \emph{University of Victoria}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\begin{session}
+\hypertarget{hybrid-learning-in-ontario-during-covid-19-emergency-closures-research}{%
+\paragraph*{\texorpdfstring{10:00-10:30 \textbar{} \textbf{Hybrid
+Learning in Ontario During COVID-19 Emergency Closures} \textbar{}
+Research}{10:00-10:30 \textbar{} Hybrid Learning in Ontario During COVID-19 Emergency Closures \textbar{} Research}}\label{hybrid-learning-in-ontario-during-covid-19-emergency-closures-research}}
+\addcontentsline{toc}{paragraph}{10:00-10:30 \textbar{} \textbf{Hybrid
+Learning in Ontario During COVID-19 Emergency Closures} \textbar{}
+Research}
+
+\textbf{\emph{Beyhan Farhadi}} \textbar{} \emph{York University}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{concurrent-session-9.3-sustaining-positive-change}{%
+\subsection*{Concurrent Session 9.3 \textbar{} Sustaining Positive Change}\label{concurrent-session-9.3-sustaining-positive-change}}
+\addcontentsline{toc}{subsection}{Concurrent Session 9.3 \textbar{} Sustaining Positive Change}
+
+\begin{session}
+\hypertarget{writing-care-fully-about-indigenous-cultural-safety-and-cultural-humility-a-reflection-by-settlers-engaged-in-reconciliation-in-oer-development-practice}{%
+\paragraph*{\texorpdfstring{9:30-10:00 \textbar{} \textbf{Writing
+Care-fully about Indigenous Cultural Safety and Cultural Humility: A
+Reflection by Settlers Engaged in Reconciliation in OER Development}
+\textbar{}
+Practice}{9:30-10:00 \textbar{} Writing Care-fully about Indigenous Cultural Safety and Cultural Humility: A Reflection by Settlers Engaged in Reconciliation in OER Development \textbar{} Practice}}\label{writing-care-fully-about-indigenous-cultural-safety-and-cultural-humility-a-reflection-by-settlers-engaged-in-reconciliation-in-oer-development-practice}}
+\addcontentsline{toc}{paragraph}{9:30-10:00 \textbar{} \textbf{Writing
+Care-fully about Indigenous Cultural Safety and Cultural Humility: A
+Reflection by Settlers Engaged in Reconciliation in OER Development}
+\textbar{} Practice}
+
+\textbf{\emph{Deb Nielsen}} \textbar{} \emph{College of New Caledonia}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+\begin{session}
+\hypertarget{artificial-intelligence-writing-in-higher-education-a-teaching-and-learning-centre-perspective-practice}{%
+\paragraph*{\texorpdfstring{10:00-10:30 \textbar{} \textbf{Artificial
+Intelligence Writing in Higher Education: A Teaching and Learning Centre
+Perspective} \textbar{}
+Practice}{10:00-10:30 \textbar{} Artificial Intelligence Writing in Higher Education: A Teaching and Learning Centre Perspective \textbar{} Practice}}\label{artificial-intelligence-writing-in-higher-education-a-teaching-and-learning-centre-perspective-practice}}
+\addcontentsline{toc}{paragraph}{10:00-10:30 \textbar{}
+\textbf{Artificial Intelligence Writing in Higher Education: A Teaching
+and Learning Centre Perspective} \textbar{} Practice}
+
+\textbf{\emph{Emily Ballantyne}} \textbar{} \emph{Mount Saint Vincent
+University}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{break-1030-1100-1}{%
+\section*{Break \textbar{} 10:30-11:00}\label{break-1030-1100-1}}
+\addcontentsline{toc}{section}{Break \textbar{} 10:30-11:00}
+
+\hypertarget{unconference-1100-1200}{%
+\section{\texorpdfstring{\textbf{UnConference} \textbar{} 11:00-12:00}{UnConference \textbar{} 11:00-12:00}}\label{unconference-1100-1200}}
+
+\begin{protip}
+✨ Unconference Session TBA
+\end{protip}
+
+\hypertarget{lunch-break-streamed-congress-programming-1200-130}{%
+\section*{Lunch Break \& Streamed Congress Programming \textbar{} 12:00-1:30}\label{lunch-break-streamed-congress-programming-1200-130}}
+\addcontentsline{toc}{section}{Lunch Break \& Streamed Congress Programming \textbar{} 12:00-1:30}
+
+\hypertarget{concurrent-session-10-invited-speakers-130-230}{%
+\section*{Concurrent Session 10 \textbar{} Invited Speakers \textbar{} 1:30-2:30}\label{concurrent-session-10-invited-speakers-130-230}}
+\addcontentsline{toc}{section}{Concurrent Session 10 \textbar{} Invited Speakers \textbar{} 1:30-2:30}
+
+45 Minutes
+\#\#\# Concurrent Session 10.1 \{-\}
+
+\begin{speaker}
+\hypertarget{session-speaker-tba}{%
+\paragraph{\texorpdfstring{Session Speaker:
+\textbf{TBA}}{Session Speaker: TBA}}\label{session-speaker-tba}}
+
+\emph{Session title: TBA}
+
+\textbf{Keywords:}
+
+Abstract
+\end{speaker}
+
+\hypertarget{concurrent-session-10.2}{%
+\subsection*{Concurrent Session 10.2}\label{concurrent-session-10.2}}
+\addcontentsline{toc}{subsection}{Concurrent Session 10.2}
+
+\begin{speaker}
+\hypertarget{session-speaker-tba}{%
+\paragraph{\texorpdfstring{Session Speaker:
+\textbf{TBA}}{Session Speaker: TBA}}\label{session-speaker-tba}}
+
+\emph{Session title: TBA}
+
+\textbf{Keywords:}
+
+Abstract
+\end{speaker}
+
+\hypertarget{concurrent-session-11-230-300}{%
+\section*{Concurrent Session 11 \textbar{} 2:30-3:00}\label{concurrent-session-11-230-300}}
+\addcontentsline{toc}{section}{Concurrent Session 11 \textbar{} 2:30-3:00}
+
+30 Minutes
+\#\#\# Concurrent Session 11.1 \textbar{} Transitions of Online Learning \& Teaching \{-\}
+
+\begin{session}
+\hypertarget{conducting-scoping-reviews-opportunities-and-challenges-for-examining-social-media-use-for-learning-research}{%
+\paragraph*{\texorpdfstring{2:30-3:00 \textbar{} \textbf{Conducting
+Scoping Reviews: Opportunities and Challenges for Examining Social Media
+Use for Learning} \textbar{}
+Research}{2:30-3:00 \textbar{} Conducting Scoping Reviews: Opportunities and Challenges for Examining Social Media Use for Learning \textbar{} Research}}\label{conducting-scoping-reviews-opportunities-and-challenges-for-examining-social-media-use-for-learning-research}}
+\addcontentsline{toc}{paragraph}{2:30-3:00 \textbar{} \textbf{Conducting
+Scoping Reviews: Opportunities and Challenges for Examining Social Media
+Use for Learning} \textbar{} Research}
+
+\textbf{\emph{Richard Hayman \& Erika E. Smith}} \textbar{} \emph{Mount
+Royal University}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{concurrent-session-11.2-transitions-of-online-learning-teaching}{%
+\subsection*{Concurrent Session 11.2 \textbar{} Transitions of Online Learning \& Teaching}\label{concurrent-session-11.2-transitions-of-online-learning-teaching}}
+\addcontentsline{toc}{subsection}{Concurrent Session 11.2 \textbar{} Transitions of Online Learning \& Teaching}
+
+\begin{session}
+\hypertarget{impact-of-emergency-remote-teaching-and-digital-technology-usage-in-k-12-teacher-practice-research}{%
+\paragraph*{\texorpdfstring{2:30-3:00 \textbar{} \textbf{Impact of
+Emergency Remote Teaching and Digital Technology Usage in K-12 Teacher
+Practice} \textbar{}
+Research}{2:30-3:00 \textbar{} Impact of Emergency Remote Teaching and Digital Technology Usage in K-12 Teacher Practice \textbar{} Research}}\label{impact-of-emergency-remote-teaching-and-digital-technology-usage-in-k-12-teacher-practice-research}}
+\addcontentsline{toc}{paragraph}{2:30-3:00 \textbar{} \textbf{Impact of
+Emergency Remote Teaching and Digital Technology Usage in K-12 Teacher
+Practice} \textbar{} Research}
+
+\textbf{\emph{Amber Hartwell}} \textbar{} \emph{University of Calgary}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{concurrent-session-11.3-sustaining-positive-change}{%
+\subsection*{Concurrent Session 11.3 \textbar{} Sustaining Positive Change}\label{concurrent-session-11.3-sustaining-positive-change}}
+\addcontentsline{toc}{subsection}{Concurrent Session 11.3 \textbar{} Sustaining Positive Change}
+
+\begin{session}
+\hypertarget{data-risks-in-online-classroom-platforms-a-comparative-analysis-of-policy-documents-research}{%
+\paragraph*{\texorpdfstring{2:30-3:00 \textbar{} \textbf{Data Risks in
+Online Classroom Platforms: A Comparative Analysis of Policy Documents}
+\textbar{}
+Research}{2:30-3:00 \textbar{} Data Risks in Online Classroom Platforms: A Comparative Analysis of Policy Documents \textbar{} Research}}\label{data-risks-in-online-classroom-platforms-a-comparative-analysis-of-policy-documents-research}}
+\addcontentsline{toc}{paragraph}{2:30-3:00 \textbar{} \textbf{Data Risks
+in Online Classroom Platforms: A Comparative Analysis of Policy
+Documents} \textbar{} Research}
+
+\textbf{\emph{Thi Kim, Thu Le \& Bonnie Stewart}} \textbar{}
+\emph{University of Windsor}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{concurrent-session-11.4-transitions-of-online-learning-teaching}{%
+\subsection*{Concurrent Session 11.4 \textbar{} Transitions of Online Learning \& Teaching}\label{concurrent-session-11.4-transitions-of-online-learning-teaching}}
+\addcontentsline{toc}{subsection}{Concurrent Session 11.4 \textbar{} Transitions of Online Learning \& Teaching}
+
+\begin{session}
+\hypertarget{open-at-the-crossroads-forging-media-and-digital-literacy-pathways-research}{%
+\paragraph*{\texorpdfstring{2:30-3:00 \textbar{} \textbf{Open at the
+Crossroads: Forging Media and Digital Literacy Pathways} \textbar{}
+Research}{2:30-3:00 \textbar{} Open at the Crossroads: Forging Media and Digital Literacy Pathways \textbar{} Research}}\label{open-at-the-crossroads-forging-media-and-digital-literacy-pathways-research}}
+\addcontentsline{toc}{paragraph}{2:30-3:00 \textbar{} \textbf{Open at
+the Crossroads: Forging Media and Digital Literacy Pathways} \textbar{}
+Research}
+
+\textbf{\emph{Helen DeWaard}} \textbar{} \emph{LAkehead University \&
+University of British Columbia}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{break-with-coffee-and-snack-provided-300-330-1}{%
+\section{Break with Coffee and Snack Provided \textbar{} 3:00-3:30}\label{break-with-coffee-and-snack-provided-300-330-1}}
+
+\hypertarget{concurrent-session-12-330-500}{%
+\section*{Concurrent Session 12 \textbar{} 3:30-5:00}\label{concurrent-session-12-330-500}}
+\addcontentsline{toc}{section}{Concurrent Session 12 \textbar{} 3:30-5:00}
+
+1.5 Hours
+\#\#\# Concurrent Session 12.1 \textbar{} Transitions of Online Learning \& Teaching \{-\}
+
+\begin{session}
+\hypertarget{lapprentissage-intuxe9gruxe9-au-travail-numuxe9rique-limpact-de-luxe9ducation-sur-la-puxe9nurie-de-main-dux153uvre-in-french-practice}{%
+\paragraph*{\texorpdfstring{3:30-4:30 \textbar{} \textbf{L'apprentissage
+intégré au travail numérique -- l'impact de l'éducation sur la pénurie
+de main-d'œuvre (in French)} \textbar{}
+Practice}{3:30-4:30 \textbar{} L'apprentissage intégré au travail numérique -- l'impact de l'éducation sur la pénurie de main-d'œuvre (in French) \textbar{} Practice}}\label{lapprentissage-intuxe9gruxe9-au-travail-numuxe9rique-limpact-de-luxe9ducation-sur-la-puxe9nurie-de-main-dux153uvre-in-french-practice}}
+\addcontentsline{toc}{paragraph}{3:30-4:30 \textbar{}
+\textbf{L'apprentissage intégré au travail numérique -- l'impact de
+l'éducation sur la pénurie de main-d'œuvre (in French)} \textbar{}
+Practice}
+
+\textbf{\emph{Andrea Krasznai}} \textbar{} \emph{eCampusOntario}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\begin{session}
+\hypertarget{language-storytelling-and-the-narrative-bounds-of-empire-approaching-twine-as-a-feminist-pedagogical-tool-practice}{%
+\paragraph*{\texorpdfstring{4:30-5:00 \textbar{} \textbf{Language,
+Storytelling and the Narrative Bounds of Empire: Approaching Twine as a
+Feminist Pedagogical Tool} \textbar{}
+Practice}{4:30-5:00 \textbar{} Language, Storytelling and the Narrative Bounds of Empire: Approaching Twine as a Feminist Pedagogical Tool \textbar{} Practice}}\label{language-storytelling-and-the-narrative-bounds-of-empire-approaching-twine-as-a-feminist-pedagogical-tool-practice}}
+\addcontentsline{toc}{paragraph}{4:30-5:00 \textbar{} \textbf{Language,
+Storytelling and the Narrative Bounds of Empire: Approaching Twine as a
+Feminist Pedagogical Tool} \textbar{} Practice}
+
+\textbf{\emph{Anna Lee-Popham}} \textbar{} \emph{University of Guelph}
+
+\textbf{\emph{Aparajita Bhandari}} \textbar{} \emph{Cornell University}
+
+\textbf{\emph{Sarah York-Bertram}} \textbar{} \emph{York University}
+
+\textbf{\emph{Sarah Choukah}} \textbar{} \emph{Université de l'Ontario
+français}
+
+\textbf{\emph{Laurence Butet-Roch}} \textbar{} \emph{York University}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{concurrent-session-12.2-wildcard}{%
+\subsection*{Concurrent Session 12.2 \textbar{} Wildcard}\label{concurrent-session-12.2-wildcard}}
+\addcontentsline{toc}{subsection}{Concurrent Session 12.2 \textbar{} Wildcard}
+
+\begin{session}
+\hypertarget{virtual-reality-simulations-in-higher-education-science-classesstudent-engagement-and-teacher-professional-development-research}{%
+\paragraph*{\texorpdfstring{3:30-4:00 \textbar{} \textbf{Virtual Reality
+Simulations in Higher Education Science Classes:Student Engagement and
+Teacher Professional Development} \textbar{}
+Research}{3:30-4:00 \textbar{} Virtual Reality Simulations in Higher Education Science Classes:Student Engagement and Teacher Professional Development \textbar{} Research}}\label{virtual-reality-simulations-in-higher-education-science-classesstudent-engagement-and-teacher-professional-development-research}}
+\addcontentsline{toc}{paragraph}{3:30-4:00 \textbar{} \textbf{Virtual
+Reality Simulations in Higher Education Science Classes:Student
+Engagement and Teacher Professional Development} \textbar{} Research}
+
+\textbf{\emph{Sebastien Wall-Lacelle, Bruno Poellhuber}} \textbar{}
+\emph{Université de Montréal}
+
+\textbf{\emph{Christine Marquis}} \textbar{} \emph{Cégep de
+Saint-Jérôme}
+
+\textbf{\emph{Normand Roy}} \textbar{} \emph{Université de Montréal}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\begin{session}
+\hypertarget{a-gamified-design-framework-to-enhance-l2-learners-motivation-and-engagement-research}{%
+\paragraph*{\texorpdfstring{4:30-5:00 \textbar{} \textbf{A Gamified
+Design Framework to Enhance L2 Learners' Motivation and Engagement}
+\textbar{}
+Research}{4:30-5:00 \textbar{} A Gamified Design Framework to Enhance L2 Learners' Motivation and Engagement \textbar{} Research}}\label{a-gamified-design-framework-to-enhance-l2-learners-motivation-and-engagement-research}}
+\addcontentsline{toc}{paragraph}{4:30-5:00 \textbar{} \textbf{A Gamified
+Design Framework to Enhance L2 Learners' Motivation and Engagement}
+\textbar{} Research}
+
+\textbf{\emph{Mourad Majdoub}} \textbar{} \emph{Université Laval}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{concurrent-session-12.3-sustaining-positive-change}{%
+\subsection*{Concurrent Session 12.3 \textbar{} Sustaining Positive Change}\label{concurrent-session-12.3-sustaining-positive-change}}
+\addcontentsline{toc}{subsection}{Concurrent Session 12.3 \textbar{} Sustaining Positive Change}
+
+\begin{session}
+\hypertarget{restorying-pedagogy-for-the-postdigital-university-examining-the-power-of-critical-storytelling-for-imagining-better-futures-practice}{%
+\paragraph*{\texorpdfstring{3:30-4:30 \textbar{} \textbf{Re/storying
+Pedagogy for the Postdigital University: Examining the Power of Critical
+Storytelling for Imagining Better Futures} \textbar{}
+Practice}{3:30-4:30 \textbar{} Re/storying Pedagogy for the Postdigital University: Examining the Power of Critical Storytelling for Imagining Better Futures \textbar{} Practice}}\label{restorying-pedagogy-for-the-postdigital-university-examining-the-power-of-critical-storytelling-for-imagining-better-futures-practice}}
+\addcontentsline{toc}{paragraph}{3:30-4:30 \textbar{}
+\textbf{Re/storying Pedagogy for the Postdigital University: Examining
+the Power of Critical Storytelling for Imagining Better Futures}
+\textbar{} Practice}
+
+\textbf{\emph{Danielle Dilkes}} \textbar{} \emph{Western University}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\begin{session}
+\hypertarget{tba-research}{%
+\paragraph*{\texorpdfstring{4:30-5:00 \textbar{} \textbf{TBA} \textbar{}
+Research}{4:30-5:00 \textbar{} TBA \textbar{} Research}}\label{tba-research}}
+\addcontentsline{toc}{paragraph}{4:30-5:00 \textbar{} \textbf{TBA}
+\textbar{} Research}
+
+\textbf{\emph{Speaker: TBA}} \textbar{} **
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{concurrent-session-12.4-sustaining-positive-change}{%
+\subsection*{Concurrent Session 12.4 \textbar{} Sustaining Positive Change}\label{concurrent-session-12.4-sustaining-positive-change}}
+\addcontentsline{toc}{subsection}{Concurrent Session 12.4 \textbar{} Sustaining Positive Change}
+
+\begin{session}
+\hypertarget{reviewing-the-strengths-and-challenges-to-peer-review-research}{%
+\paragraph*{\texorpdfstring{3:30-4:00 \textbar{} \textbf{Reviewing the
+Strengths and Challenges to Peer Review} \textbar{}
+Research}{3:30-4:00 \textbar{} Reviewing the Strengths and Challenges to Peer Review \textbar{} Research}}\label{reviewing-the-strengths-and-challenges-to-peer-review-research}}
+\addcontentsline{toc}{paragraph}{3:30-4:00 \textbar{} \textbf{Reviewing
+the Strengths and Challenges to Peer Review} \textbar{} Research}
+
+\textbf{\emph{Connie Blomgren}} \textbar{} \emph{Athabasca University}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\begin{session}
+\hypertarget{a-review-of-research-on-open-education-adoption-in-higher-education-exploring-approaches-readiness-and-methods-for-evaluation-research}{%
+\paragraph*{\texorpdfstring{4:00-4:30 \textbar{} \textbf{A Review of
+Research on Open education Adoption in higher Education: Exploring
+Approaches, Readiness, and Methods for Evaluation} \textbar{}
+Research}{4:00-4:30 \textbar{} A Review of Research on Open education Adoption in higher Education: Exploring Approaches, Readiness, and Methods for Evaluation \textbar{} Research}}\label{a-review-of-research-on-open-education-adoption-in-higher-education-exploring-approaches-readiness-and-methods-for-evaluation-research}}
+\addcontentsline{toc}{paragraph}{4:00-4:30 \textbar{} \textbf{A Review
+of Research on Open education Adoption in higher Education: Exploring
+Approaches, Readiness, and Methods for Evaluation} \textbar{} Research}
+
+\textbf{\emph{Michael Paskevicius \& Valerie Irvine}} \textbar{}
+\emph{University of Victoria}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\begin{session}
+\hypertarget{research-which-research-technology-assessment-and-higher-education-in-tension-research}{%
+\paragraph*{\texorpdfstring{4:30-5:00 \textbar{} \textbf{Research? Which
+Research? Technology, Assessment, and Higher Education in Tension}
+\textbar{}
+Research}{4:30-5:00 \textbar{} Research? Which Research? Technology, Assessment, and Higher Education in Tension \textbar{} Research}}\label{research-which-research-technology-assessment-and-higher-education-in-tension-research}}
+\addcontentsline{toc}{paragraph}{4:30-5:00 \textbar{} \textbf{Research?
+Which Research? Technology, Assessment, and Higher Education in Tension}
+\textbar{} Research}
+
+\textbf{\emph{Colin Madland}} \textbar{} \emph{University of Victoria}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{see-congress-programming-for-social-tent-food-options-500-700-1}{%
+\section*{See Congress Programming for Social Tent \& Food Options \textbar{} 5:00-7:00}\label{see-congress-programming-for-social-tent-food-options-500-700-1}}
+\addcontentsline{toc}{section}{See Congress Programming for Social Tent \& Food Options \textbar{} 5:00-7:00}
+
+\hypertarget{otessa-social-life-sciences-building-lobby-700-1159-1}{%
+\section*{OTESSA Social \textbar{} Life Sciences Building Lobby \textbar{} 7:00-11:59}\label{otessa-social-life-sciences-building-lobby-700-1159-1}}
+\addcontentsline{toc}{section}{OTESSA Social \textbar{} Life Sciences Building Lobby \textbar{} 7:00-11:59}
+
+\hypertarget{wednesday-may-31-in-person-at-york-university}{%
+\chapter{Wednesday, May 31 \textbar{} In Person at York University}\label{wednesday-may-31-in-person-at-york-university}}
+
+\begin{protip}
+\hypertarget{join-us-for-the-otessa23-morning-radio-show-every-morning-monday-thursday-930-1030-eastern-at-httpsvoiced.ca}{%
+\paragraph{Join us for the \#OTESSA23 Morning Radio Show every morning
+Monday-Thursday 9:30-10:30 (Eastern) at
+https://voiced.ca}\label{join-us-for-the-otessa23-morning-radio-show-every-morning-monday-thursday-930-1030-eastern-at-httpsvoiced.ca}}
+\end{protip}
+
+\hypertarget{session-types-3}{%
+\subsection*{Session Types}\label{session-types-3}}
+\addcontentsline{toc}{subsection}{Session Types}
+
+\begin{protip}
+\hypertarget{note}{%
+\paragraph*{✨ Note}\label{note}}
+\addcontentsline{toc}{paragraph}{✨ Note}
+
+\textbf{\emph{All times are in Eastern Time (Canada)}}
+\end{protip}
+
+\begin{keynote}
+\hypertarget{keynote}{%
+\paragraph{Keynote}\label{keynote}}
+\end{keynote}
+
+\begin{speaker}
+\hypertarget{invited-speaker}{%
+\paragraph{Invited Speaker}\label{invited-speaker}}
+\end{speaker}
+
+\begin{session}
+\hypertarget{regular-session}{%
+\paragraph{Regular Session}\label{regular-session}}
+\end{session}
+
+\begin{social}
+\hypertarget{social-session}{%
+\paragraph{Social Session}\label{social-session}}
+\end{social}
+
+\begin{vendor}
+\hypertarget{vendor}{%
+\paragraph{Vendor}\label{vendor}}
+\end{vendor}
+
+\begin{workshop}
+\hypertarget{workshop}{%
+\paragraph{Workshop}\label{workshop}}
+\end{workshop}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{continental-breakfast-provided-800-900-2}{%
+\section*{Continental Breakfast Provided \textbar{} 8:00-9:00}\label{continental-breakfast-provided-800-900-2}}
+\addcontentsline{toc}{section}{Continental Breakfast Provided \textbar{} 8:00-9:00}
+
+\hypertarget{welcome-desk-open-800---1130-2}{%
+\section*{Welcome Desk Open \textbar{} 8:00 - 11:30}\label{welcome-desk-open-800---1130-2}}
+\addcontentsline{toc}{section}{Welcome Desk Open \textbar{} 8:00 - 11:30}
+
+\hypertarget{conference-welcome-announcements-land-acknowledgement-900-915-2}{%
+\section*{Conference Welcome, Announcements \& Land Acknowledgement \textbar{} 9:00-9:15}\label{conference-welcome-announcements-land-acknowledgement-900-915-2}}
+\addcontentsline{toc}{section}{Conference Welcome, Announcements \& Land Acknowledgement \textbar{} 9:00-9:15}
+
+\hypertarget{break-915-930-2}{%
+\section*{Break \textbar{} 9:15-9:30}\label{break-915-930-2}}
+\addcontentsline{toc}{section}{Break \textbar{} 9:15-9:30}
+
+\hypertarget{concurrent-session-13-930-1030}{%
+\section*{Concurrent Session 13 \textbar{} 9:30-10:30}\label{concurrent-session-13-930-1030}}
+\addcontentsline{toc}{section}{Concurrent Session 13 \textbar{} 9:30-10:30}
+
+1 Hour
+
+\hypertarget{concurrent-session-13.1-transitions-of-online-learning-teaching}{%
+\subsection*{Concurrent Session 13.1 \textbar{} Transitions of Online Learning \& Teaching}\label{concurrent-session-13.1-transitions-of-online-learning-teaching}}
+\addcontentsline{toc}{subsection}{Concurrent Session 13.1 \textbar{} Transitions of Online Learning \& Teaching}
+
+\begin{session}
+\hypertarget{designing-group-work-in-online-courses-to-develop-preservice-teachers-professional-collaboration-skills-research}{%
+\paragraph*{\texorpdfstring{9:30-10:00 \textbar{} \textbf{Designing
+Group Work in Online Courses to Develop Preservice Teachers'
+Professional Collaboration Skills} \textbar{}
+Research}{9:30-10:00 \textbar{} Designing Group Work in Online Courses to Develop Preservice Teachers' Professional Collaboration Skills \textbar{} Research}}\label{designing-group-work-in-online-courses-to-develop-preservice-teachers-professional-collaboration-skills-research}}
+\addcontentsline{toc}{paragraph}{9:30-10:00 \textbar{} \textbf{Designing
+Group Work in Online Courses to Develop Preservice Teachers'
+Professional Collaboration Skills} \textbar{} Research}
+
+\textbf{\emph{Amber Hartwell, Christy Thomas, Barbara Brown \& Bruna
+Nogueria}} \textbar{} \emph{University of Calgary}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\begin{session}
+\hypertarget{tba-tba}{%
+\paragraph*{\texorpdfstring{10:00-10:30 \textbar{} \textbf{TBA}
+\textbar{}
+TBA}{10:00-10:30 \textbar{} TBA \textbar{} TBA}}\label{tba-tba}}
+\addcontentsline{toc}{paragraph}{10:00-10:30 \textbar{} \textbf{TBA}
+\textbar{} TBA}
+
+\textbf{\emph{TBA}} \textbar{} \emph{TBA}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{concurrent-session-13.2-addressing-inequities}{%
+\subsection*{Concurrent Session 13.2 \textbar{} Addressing Inequities}\label{concurrent-session-13.2-addressing-inequities}}
+\addcontentsline{toc}{subsection}{Concurrent Session 13.2 \textbar{} Addressing Inequities}
+
+\begin{workshop}
+\hypertarget{students-as-expert-designers-of-equity-courses-the-new-normal-in-a-post-digital-era-workshop}{%
+\paragraph*{\texorpdfstring{9:30-10:30 \textbar{} \textbf{Students as
+Expert Designers of Equity Courses: The New Normal in a Post-Digital
+Era} \textbar{}
+Workshop}{9:30-10:30 \textbar{} Students as Expert Designers of Equity Courses: The New Normal in a Post-Digital Era \textbar{} Workshop}}\label{students-as-expert-designers-of-equity-courses-the-new-normal-in-a-post-digital-era-workshop}}
+\addcontentsline{toc}{paragraph}{9:30-10:30 \textbar{} \textbf{Students
+as Expert Designers of Equity Courses: The New Normal in a Post-Digital
+Era} \textbar{} Workshop}
+
+\textbf{\emph{Lorayne Robertson}} \textbar{} \emph{Ontario Tech
+University}
+
+\textbf{Keywords:}
+
+Abstract
+\end{workshop}
+
+\hypertarget{concurrent-session-13.3-transitions-of-online-learning-teaching}{%
+\subsection*{Concurrent Session 13.3 \textbar{} Transitions of Online Learning \& Teaching}\label{concurrent-session-13.3-transitions-of-online-learning-teaching}}
+\addcontentsline{toc}{subsection}{Concurrent Session 13.3 \textbar{} Transitions of Online Learning \& Teaching}
+
+\begin{session}
+\hypertarget{online-collaborative-testing-design-and-implementation-in-a-large-first-year-undergraduate-course-practice}{%
+\paragraph*{\texorpdfstring{9:30-10:00 \textbar{} \textbf{Online
+Collaborative Testing: Design and Implementation in a Large First-Year
+Undergraduate Course} \textbar{}
+Practice}{9:30-10:00 \textbar{} Online Collaborative Testing: Design and Implementation in a Large First-Year Undergraduate Course \textbar{} Practice}}\label{online-collaborative-testing-design-and-implementation-in-a-large-first-year-undergraduate-course-practice}}
+\addcontentsline{toc}{paragraph}{9:30-10:00 \textbar{} \textbf{Online
+Collaborative Testing: Design and Implementation in a Large First-Year
+Undergraduate Course} \textbar{} Practice}
+
+\textbf{\emph{Mariel Miller, Safoura Askari \& Syed Qudsia}} \textbar{}
+\emph{University of Victoria}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\begin{session}
+\hypertarget{hidden-curriculum-of-education-technologies-practice}{%
+\paragraph*{\texorpdfstring{10:00-10:30 \textbar{} \textbf{Hidden
+Curriculum of Education Technologies} \textbar{}
+Practice}{10:00-10:30 \textbar{} Hidden Curriculum of Education Technologies \textbar{} Practice}}\label{hidden-curriculum-of-education-technologies-practice}}
+\addcontentsline{toc}{paragraph}{10:00-10:30 \textbar{} \textbf{Hidden
+Curriculum of Education Technologies} \textbar{} Practice}
+
+\textbf{\emph{Danielle Dilkes}} \textbar{} \emph{Western University}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{break-1030-1100-2}{%
+\section*{Break \textbar{} 10:30-11:00}\label{break-1030-1100-2}}
+\addcontentsline{toc}{section}{Break \textbar{} 10:30-11:00}
+
+\hypertarget{keynote-1100-1200-1}{%
+\section*{Keynote \textbar{} 11:00-12:00}\label{keynote-1100-1200-1}}
+\addcontentsline{toc}{section}{Keynote \textbar{} 11:00-12:00}
+
+\begin{keynote}
+\hypertarget{progressing-truth-confronting-complacency-and-unleashing-the-possibility-of-healing-through-education.}{%
+\paragraph*{Progressing truth, confronting complacency, and unleashing
+the possibility of healing through
+education.}\label{progressing-truth-confronting-complacency-and-unleashing-the-possibility-of-healing-through-education.}}
+\addcontentsline{toc}{paragraph}{Progressing truth, confronting
+complacency, and unleashing the possibility of healing through
+education.}
+
+\textbf{\emph{Nick Bertrand}} \textbar{} \emph{University of Calgary}
+
+Abstract
+
+Education as a tool for both healing and reconciliation has been an
+evolving movement over the years, and in particular since the release
+the of the Truth and Reconciliation Commission 94 Calls to Action. Eight
+years later in a post TRC society, what truths remain untold? What
+lessons have we learned in trying to mobilize meaningful change? How can
+we as educators, uphold our responsibilities in the work of rebuilding
+the broken relationship that has brought us to this space? As the
+reconciliatory bridge continues to be constructed, education systems
+will continue to play a keystone role in the process of building
+awareness, understanding, and creating action.
+
+\hypertarget{session-link}{%
+\subparagraph*{\texorpdfstring{\href{}{Session
+Link}}{Session Link}}\label{session-link}}
+\addcontentsline{toc}{subparagraph}{\href{}{Session Link}}
+\end{keynote}
+
+\hypertarget{break-1200-130-1}{%
+\section*{Break \textbar{} 12:00-1:30}\label{break-1200-130-1}}
+\addcontentsline{toc}{section}{Break \textbar{} 12:00-1:30}
+
+\hypertarget{concurrent-session-14-invited-speakers-130-215}{%
+\section*{Concurrent Session 14 \textbar{} Invited Speakers \textbar{} 1:30-2:15}\label{concurrent-session-14-invited-speakers-130-215}}
+\addcontentsline{toc}{section}{Concurrent Session 14 \textbar{} Invited Speakers \textbar{} 1:30-2:15}
+
+45 Minutes
+
+\hypertarget{concurrent-session-14.1}{%
+\subsection*{Concurrent Session 14.1}\label{concurrent-session-14.1}}
+\addcontentsline{toc}{subsection}{Concurrent Session 14.1}
+
+\begin{speaker}
+\hypertarget{session-speaker-tba}{%
+\paragraph{\texorpdfstring{Session Speaker:
+\textbf{TBA}}{Session Speaker: TBA}}\label{session-speaker-tba}}
+
+\emph{Session title: TBA}
+
+\textbf{Keywords:}
+
+Abstract
+\end{speaker}
+
+\hypertarget{concurrent-session-14.2}{%
+\subsection*{Concurrent Session 14.2}\label{concurrent-session-14.2}}
+\addcontentsline{toc}{subsection}{Concurrent Session 14.2}
+
+\begin{speaker}
+\hypertarget{session-speaker-tba}{%
+\paragraph{\texorpdfstring{Session Speaker:
+\textbf{TBA}}{Session Speaker: TBA}}\label{session-speaker-tba}}
+
+\emph{Session title: TBA}
+
+\textbf{Keywords:}
+
+Abstract
+\end{speaker}
+
+\hypertarget{break-215-230-1}{%
+\section*{Break \textbar{} 2:15-2:30}\label{break-215-230-1}}
+\addcontentsline{toc}{section}{Break \textbar{} 2:15-2:30}
+
+\hypertarget{concurrent-session-15-230-300}{%
+\section*{Concurrent Session 15 \textbar{} 2:30-3:00}\label{concurrent-session-15-230-300}}
+\addcontentsline{toc}{section}{Concurrent Session 15 \textbar{} 2:30-3:00}
+
+30 Minutes
+
+\hypertarget{concurrent-session-15.1-addressing-inequities}{%
+\subsection*{Concurrent Session 15.1 \textbar{} Addressing Inequities}\label{concurrent-session-15.1-addressing-inequities}}
+\addcontentsline{toc}{subsection}{Concurrent Session 15.1 \textbar{} Addressing Inequities}
+
+\begin{session}
+\hypertarget{open-educational-practices-in-canadas-higher-education-in-a-french--speaking-minority-environment-reckonings-on-language-justice-research}{%
+\paragraph*{\texorpdfstring{2:30-3:00 \textbar{} \textbf{Open
+Educational Practices in Canada's Higher Education in a French- speaking
+Minority Environment: Reckonings on Language Justice} \textbar{}
+Research}{2:30-3:00 \textbar{} Open Educational Practices in Canada's Higher Education in a French- speaking Minority Environment: Reckonings on Language Justice \textbar{} Research}}\label{open-educational-practices-in-canadas-higher-education-in-a-french--speaking-minority-environment-reckonings-on-language-justice-research}}
+\addcontentsline{toc}{paragraph}{2:30-3:00 \textbar{} \textbf{Open
+Educational Practices in Canada's Higher Education in a French- speaking
+Minority Environment: Reckonings on Language Justice} \textbar{}
+Research}
+
+\textbf{\emph{Catherine Lachaîne}} \textbar{} \emph{University of
+Ottawa}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{concurrent-session-15.2-addressing-inequities}{%
+\subsection*{Concurrent Session 15.2 \textbar{} Addressing Inequities}\label{concurrent-session-15.2-addressing-inequities}}
+\addcontentsline{toc}{subsection}{Concurrent Session 15.2 \textbar{} Addressing Inequities}
+
+\begin{session}
+\hypertarget{les-effets-dune-initiative-pour-brancher-sur-internet-les-familles-uxe0-faible-revenu-in-french-research}{%
+\paragraph*{\texorpdfstring{2:30-3:00 \textbar{} \textbf{Les Effets
+d'une initiative pour brancher sur Internet les familles à faible revenu
+(in French)} \textbar{}
+Research}{2:30-3:00 \textbar{} Les Effets d'une initiative pour brancher sur Internet les familles à faible revenu (in French) \textbar{} Research}}\label{les-effets-dune-initiative-pour-brancher-sur-internet-les-familles-uxe0-faible-revenu-in-french-research}}
+\addcontentsline{toc}{paragraph}{2:30-3:00 \textbar{} \textbf{Les Effets
+d'une initiative pour brancher sur Internet les familles à faible revenu
+(in French)} \textbar{} Research}
+
+\textbf{\emph{Normand Roy}} \textbar{} \emph{Université de Montréal}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{concurrent-session-15.3-sustaining-positive-change}{%
+\subsection*{Concurrent Session 15.3 \textbar{} Sustaining Positive Change}\label{concurrent-session-15.3-sustaining-positive-change}}
+\addcontentsline{toc}{subsection}{Concurrent Session 15.3 \textbar{} Sustaining Positive Change}
+
+\begin{session}
+\hypertarget{beyond-covid-19-infusing-advanced-technologies-into-a-new-model-for-childrens-adaptation-to-the-new-normal-research}{%
+\paragraph*{\texorpdfstring{2:30-3:00 \textbar{} \textbf{Beyond
+Covid-19: Infusing Advanced Technologies into a New Model for Children's
+Adaptation to the New Normal} \textbar{}
+Research}{2:30-3:00 \textbar{} Beyond Covid-19: Infusing Advanced Technologies into a New Model for Children's Adaptation to the New Normal \textbar{} Research}}\label{beyond-covid-19-infusing-advanced-technologies-into-a-new-model-for-childrens-adaptation-to-the-new-normal-research}}
+\addcontentsline{toc}{paragraph}{2:30-3:00 \textbar{} \textbf{Beyond
+Covid-19: Infusing Advanced Technologies into a New Model for Children's
+Adaptation to the New Normal} \textbar{} Research}
+
+\textbf{\emph{Liton Furukawa}} \textbar{} \emph{Royal Roads University}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{break-with-coffee-and-snack-provided-300-330-2}{%
+\section*{Break with Coffee and Snack Provided \textbar{} 3:00-3:30}\label{break-with-coffee-and-snack-provided-300-330-2}}
+\addcontentsline{toc}{section}{Break with Coffee and Snack Provided \textbar{} 3:00-3:30}
+
+\hypertarget{concurrent-session-16-330-500}{%
+\section*{Concurrent Session 16 \textbar{} 3:30-5:00}\label{concurrent-session-16-330-500}}
+\addcontentsline{toc}{section}{Concurrent Session 16 \textbar{} 3:30-5:00}
+
+\hypertarget{concurrent-session-16.1-wildcard}{%
+\subsection*{Concurrent Session 16.1 \textbar{} Wildcard}\label{concurrent-session-16.1-wildcard}}
+\addcontentsline{toc}{subsection}{Concurrent Session 16.1 \textbar{} Wildcard}
+
+\begin{session}
+\hypertarget{the-interconnectivity-of-heutagogy-and-education-4.0-in-higher-online-education-research}{%
+\paragraph*{\texorpdfstring{3:30-4:30 \textbar{} \textbf{The
+Interconnectivity of Heutagogy and Education 4.0 in Higher Online
+Education} \textbar{}
+Research}{3:30-4:30 \textbar{} The Interconnectivity of Heutagogy and Education 4.0 in Higher Online Education \textbar{} Research}}\label{the-interconnectivity-of-heutagogy-and-education-4.0-in-higher-online-education-research}}
+\addcontentsline{toc}{paragraph}{3:30-4:30 \textbar{} \textbf{The
+Interconnectivity of Heutagogy and Education 4.0 in Higher Online
+Education} \textbar{} Research}
+
+\textbf{\emph{Jeanne Kim}} \textbar{} \emph{Athabasca University}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\begin{session}
+\hypertarget{an-interwoven-course-reflective-practice-and-portfolio-practice}{%
+\paragraph*{\texorpdfstring{4:30-5:00 \textbar{} \textbf{An Interwoven
+Course: Reflective Practice and Portfolio} \textbar{}
+Practice}{4:30-5:00 \textbar{} An Interwoven Course: Reflective Practice and Portfolio \textbar{} Practice}}\label{an-interwoven-course-reflective-practice-and-portfolio-practice}}
+\addcontentsline{toc}{paragraph}{4:30-5:00 \textbar{} \textbf{An
+Interwoven Course: Reflective Practice and Portfolio} \textbar{}
+Practice}
+
+\textbf{\emph{Christine Ho Younghusband}} \textbar{} \emph{University of
+Northern British Columbia}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{concurrent-session-16.2-wildcard}{%
+\subsection*{Concurrent Session 16.2 \textbar{} Wildcard}\label{concurrent-session-16.2-wildcard}}
+\addcontentsline{toc}{subsection}{Concurrent Session 16.2 \textbar{} Wildcard}
+
+\begin{session}
+\hypertarget{designing-agile-skill-development-pathways-for-climate-adaptation-leveraging-open-competency-frameworks-and-open-educational-resources-to-develop-micro-credential-practice}{%
+\paragraph*{\texorpdfstring{3:30-4:30 \textbar{} \textbf{Designing Agile
+Skill Development Pathways for Climate Adaptation: Leveraging Open
+Competency Frameworks and Open Educational Resources to Develop
+Micro-credential} \textbar{}
+Practice}{3:30-4:30 \textbar{} Designing Agile Skill Development Pathways for Climate Adaptation: Leveraging Open Competency Frameworks and Open Educational Resources to Develop Micro-credential \textbar{} Practice}}\label{designing-agile-skill-development-pathways-for-climate-adaptation-leveraging-open-competency-frameworks-and-open-educational-resources-to-develop-micro-credential-practice}}
+\addcontentsline{toc}{paragraph}{3:30-4:30 \textbar{} \textbf{Designing
+Agile Skill Development Pathways for Climate Adaptation: Leveraging Open
+Competency Frameworks and Open Educational Resources to Develop
+Micro-credential} \textbar{} Practice}
+
+\textbf{\emph{David Porter}} \textbar{} \emph{DP+Associates}
+
+\textbf{\emph{Robin S Cox}} \textbar{} \emph{Royal Roads University}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\begin{session}
+\hypertarget{what-happened-to-opencourseware-a-discussion-of-the-open-education-movements-shift-from-course-content-to-textbooks-practice}{%
+\paragraph*{\texorpdfstring{4:30-5:00 \textbar{} \textbf{What Happened
+to OpenCourseWare? A Discussion of the Open Education Movement's Shift
+from Course Content to Textbooks} \textbar{}
+Practice}{4:30-5:00 \textbar{} What Happened to OpenCourseWare? A Discussion of the Open Education Movement's Shift from Course Content to Textbooks \textbar{} Practice}}\label{what-happened-to-opencourseware-a-discussion-of-the-open-education-movements-shift-from-course-content-to-textbooks-practice}}
+\addcontentsline{toc}{paragraph}{4:30-5:00 \textbar{} \textbf{What
+Happened to OpenCourseWare? A Discussion of the Open Education
+Movement's Shift from Course Content to Textbooks} \textbar{} Practice}
+
+\textbf{\emph{Erik Christiansen}} \textbar{} \emph{Mount Royal
+University}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{concurrent-session-16.3-wildcard}{%
+\subsection*{Concurrent Session 16.3 \textbar{} Wildcard}\label{concurrent-session-16.3-wildcard}}
+\addcontentsline{toc}{subsection}{Concurrent Session 16.3 \textbar{} Wildcard}
+
+\begin{session}
+\hypertarget{leadership-for-digital-transformation-research}{%
+\paragraph*{\texorpdfstring{3:30-5:00 \textbar{} \textbf{Leadership for
+Digital Transformation} \textbar{}
+Research}{3:30-5:00 \textbar{} Leadership for Digital Transformation \textbar{} Research}}\label{leadership-for-digital-transformation-research}}
+\addcontentsline{toc}{paragraph}{3:30-5:00 \textbar{} \textbf{Leadership
+for Digital Transformation} \textbar{} Research}
+
+\textbf{\emph{Don Eldridge, Monica Shah \& Alissa Bigelow}} \textbar{}
+\emph{eCampusOntario}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{concurrent-session-16.4-sustaining-positive-change}{%
+\subsection*{Concurrent Session 16.4 \textbar{} Sustaining Positive Change}\label{concurrent-session-16.4-sustaining-positive-change}}
+\addcontentsline{toc}{subsection}{Concurrent Session 16.4 \textbar{} Sustaining Positive Change}
+
+\begin{session}
+\hypertarget{opening-up-digital-platforms-to-community-based-research-research}{%
+\paragraph*{\texorpdfstring{3:30-4:00 \textbar{} \textbf{Opening-Up
+Digital Platforms to Community-Based Research} \textbar{}
+Research}{3:30-4:00 \textbar{} Opening-Up Digital Platforms to Community-Based Research \textbar{} Research}}\label{opening-up-digital-platforms-to-community-based-research-research}}
+\addcontentsline{toc}{paragraph}{3:30-4:00 \textbar{} \textbf{Opening-Up
+Digital Platforms to Community-Based Research} \textbar{} Research}
+
+\textbf{\emph{Robyn Hall}} \textbar{} \emph{MacEwan University}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\begin{session}
+\hypertarget{the-role-of-teachers-assessment-literacy-in-an-inquiry-based-learning-environment-research}{%
+\paragraph*{\texorpdfstring{4:00-4:30 \textbar{} \textbf{The Role of
+Teachers' Assessment Literacy in an Inquiry-Based Learning Environment}
+\textbar{}
+Research}{4:00-4:30 \textbar{} The Role of Teachers' Assessment Literacy in an Inquiry-Based Learning Environment \textbar{} Research}}\label{the-role-of-teachers-assessment-literacy-in-an-inquiry-based-learning-environment-research}}
+\addcontentsline{toc}{paragraph}{4:00-4:30 \textbar{} \textbf{The Role
+of Teachers' Assessment Literacy in an Inquiry-Based Learning
+Environment} \textbar{} Research}
+
+\textbf{\emph{Maryam Shirdel Pour \& Michael Paskevicius}} \textbar{}
+\emph{University of Victoria}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\begin{session}
+\hypertarget{tba-research}{%
+\paragraph*{\texorpdfstring{4:30-5:00 \textbar{} \textbf{TBA} \textbar{}
+Research}{4:30-5:00 \textbar{} TBA \textbar{} Research}}\label{tba-research}}
+\addcontentsline{toc}{paragraph}{4:30-5:00 \textbar{} \textbf{TBA}
+\textbar{} Research}
+
+\textbf{\emph{TBA}} \textbar{} \emph{TBA}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{congress-president-reception-500-700}{%
+\section*{Congress President Reception \textbar{} 5:00-7:00}\label{congress-president-reception-500-700}}
+\addcontentsline{toc}{section}{Congress President Reception \textbar{} 5:00-7:00}
+
+\hypertarget{otessa-social-life-sciences-building-lobby-700-1159-2}{%
+\section*{OTESSA Social \textbar{} Life Sciences Building Lobby \textbar{} 7:00-11:59}\label{otessa-social-life-sciences-building-lobby-700-1159-2}}
+\addcontentsline{toc}{section}{OTESSA Social \textbar{} Life Sciences Building Lobby \textbar{} 7:00-11:59}
+
+\hypertarget{thursday-june-1-no-sessions---travel-day}{%
+\chapter{Thursday, June 1 \textbar{} No Sessions - Travel Day}\label{thursday-june-1-no-sessions---travel-day}}
+
+For those heading home from York University, we wish you safe travels! See you soon!
+
+\hypertarget{friday-june-2---online-sessions-only}{%
+\chapter{Friday, June 2 - Online Sessions Only}\label{friday-june-2---online-sessions-only}}
+
+\begin{protip}
+\hypertarget{join-us-for-the-otessa23-morning-radio-show-every-morning-monday-thursday-930-1030-eastern-at-httpsvoiced.ca}{%
+\paragraph{Join us for the \#OTESSA23 Morning Radio Show every morning
+Monday-Thursday 9:30-10:30 (Eastern) at
+https://voiced.ca}\label{join-us-for-the-otessa23-morning-radio-show-every-morning-monday-thursday-930-1030-eastern-at-httpsvoiced.ca}}
+\end{protip}
+
+\hypertarget{session-types-4}{%
+\subsection*{Session Types}\label{session-types-4}}
+\addcontentsline{toc}{subsection}{Session Types}
+
+\begin{protip}
+\hypertarget{note}{%
+\paragraph*{✨ Note}\label{note}}
+\addcontentsline{toc}{paragraph}{✨ Note}
+
+\textbf{\emph{All times are in Eastern Time (Canada)}}
+\end{protip}
+
+\begin{keynote}
+\hypertarget{keynote}{%
+\paragraph{Keynote}\label{keynote}}
+\end{keynote}
+
+\begin{speaker}
+\hypertarget{invited-speaker}{%
+\paragraph{Invited Speaker}\label{invited-speaker}}
+\end{speaker}
+
+\begin{session}
+\hypertarget{regular-session}{%
+\paragraph{Regular Session}\label{regular-session}}
+\end{session}
+
+\begin{social}
+\hypertarget{social-session}{%
+\paragraph{Social Session}\label{social-session}}
+\end{social}
+
+\begin{vendor}
+\hypertarget{vendor}{%
+\paragraph{Vendor}\label{vendor}}
+\end{vendor}
+
+\begin{workshop}
+\hypertarget{workshop}{%
+\paragraph{Workshop}\label{workshop}}
+\end{workshop}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{welcome-desk-open-1000---1230}{%
+\section*{Welcome Desk Open \textbar{} 10:00 - 12:30}\label{welcome-desk-open-1000---1230}}
+\addcontentsline{toc}{section}{Welcome Desk Open \textbar{} 10:00 - 12:30}
+
+\hypertarget{conference-welcome-announcements-land-acknowledgement-1030-1100}{%
+\section*{Conference Welcome, Announcements \& Land Acknowledgement \textbar{} 10:30-11:00}\label{conference-welcome-announcements-land-acknowledgement-1030-1100}}
+\addcontentsline{toc}{section}{Conference Welcome, Announcements \& Land Acknowledgement \textbar{} 10:30-11:00}
+
+\hypertarget{keynote-1100-1200-2}{%
+\section*{Keynote \textbar{} 11:00-12:00}\label{keynote-1100-1200-2}}
+\addcontentsline{toc}{section}{Keynote \textbar{} 11:00-12:00}
+
+\begin{keynote}
+\hypertarget{tba}{%
+\paragraph*{TBA}\label{tba}}
+\addcontentsline{toc}{paragraph}{TBA}
+
+\emph{Paul Prinsloo} \emph{University of South Africa}
+
+Abstract
+
+\hypertarget{session-link}{%
+\subparagraph*{\texorpdfstring{\href{}{Session
+Link}}{Session Link}}\label{session-link}}
+\addcontentsline{toc}{subparagraph}{\href{}{Session Link}}
+\end{keynote}
+
+\hypertarget{break-1200-1230-1}{%
+\section*{Break \textbar{} 12:00-12:30}\label{break-1200-1230-1}}
+\addcontentsline{toc}{section}{Break \textbar{} 12:00-12:30}
+
+\hypertarget{concurrent-session-17-invited-speakers-1230-115}{%
+\section*{Concurrent Session 17 \textbar{} Invited Speakers \textbar{} 12:30-1:15}\label{concurrent-session-17-invited-speakers-1230-115}}
+\addcontentsline{toc}{section}{Concurrent Session 17 \textbar{} Invited Speakers \textbar{} 12:30-1:15}
+
+45 Minutes
+
+\hypertarget{concurrent-session-17.1}{%
+\subsection*{Concurrent Session 17.1}\label{concurrent-session-17.1}}
+\addcontentsline{toc}{subsection}{Concurrent Session 17.1}
+
+\begin{speaker}
+\hypertarget{session-speaker-tba}{%
+\paragraph{\texorpdfstring{Session Speaker:
+\textbf{TBA}}{Session Speaker: TBA}}\label{session-speaker-tba}}
+
+\emph{Session title: TBA}
+
+\textbf{Keywords:}
+
+Abstract
+\end{speaker}
+
+\hypertarget{concurrent-session-17.2}{%
+\subsection*{Concurrent Session 17.2}\label{concurrent-session-17.2}}
+\addcontentsline{toc}{subsection}{Concurrent Session 17.2}
+
+\begin{speaker}
+\hypertarget{session-speaker-tba}{%
+\paragraph{\texorpdfstring{Session Speaker:
+\textbf{TBA}}{Session Speaker: TBA}}\label{session-speaker-tba}}
+
+\emph{Session title: TBA}
+
+\textbf{Keywords:}
+
+Abstract
+\end{speaker}
+
+\hypertarget{break-105-130}{%
+\section*{Break \textbar{} 1:05-1:30}\label{break-105-130}}
+\addcontentsline{toc}{section}{Break \textbar{} 1:05-1:30}
+
+\hypertarget{concurrent-session-18-130-300}{%
+\section*{Concurrent Session 18 \textbar{} 1:30-3:00}\label{concurrent-session-18-130-300}}
+\addcontentsline{toc}{section}{Concurrent Session 18 \textbar{} 1:30-3:00}
+
+1.5 Hours
+
+\hypertarget{concurrent-session-18.1-transitions-of-online-learning-teaching}{%
+\subsection*{Concurrent Session 18.1 \textbar{} Transitions of Online Learning \& Teaching}\label{concurrent-session-18.1-transitions-of-online-learning-teaching}}
+\addcontentsline{toc}{subsection}{Concurrent Session 18.1 \textbar{} Transitions of Online Learning \& Teaching}
+
+\begin{workshop}
+\hypertarget{assessment-in-a-digital-age-learning-within-the-continuum-for-pedagogy-technology-and-assessment-workshop}{%
+\paragraph*{\texorpdfstring{1:30-2:30 \textbar{} \textbf{Assessment in a
+Digital Age: Learning within the Continuum for Pedagogy, Technology, and
+Assessment} \textbar{}
+Workshop}{1:30-2:30 \textbar{} Assessment in a Digital Age: Learning within the Continuum for Pedagogy, Technology, and Assessment \textbar{} Workshop}}\label{assessment-in-a-digital-age-learning-within-the-continuum-for-pedagogy-technology-and-assessment-workshop}}
+\addcontentsline{toc}{paragraph}{1:30-2:30 \textbar{} \textbf{Assessment
+in a Digital Age: Learning within the Continuum for Pedagogy,
+Technology, and Assessment} \textbar{} Workshop}
+
+\textbf{\emph{Barbara Brown \& Nadia Delanoy}} \textbar{}
+\emph{University of Calgary}
+
+\textbf{\emph{Jodie Walz}} \textbar{} \emph{Calgary Catholic School
+District}
+
+\textbf{Keywords:}
+
+Abstract
+\end{workshop}
+
+\begin{session}
+\hypertarget{tba-tba}{%
+\paragraph*{\texorpdfstring{2:30-3:00 \textbar{} \textbf{TBA} \textbar{}
+TBA}{2:30-3:00 \textbar{} TBA \textbar{} TBA}}\label{tba-tba}}
+\addcontentsline{toc}{paragraph}{2:30-3:00 \textbar{} \textbf{TBA}
+\textbar{} TBA}
+
+\textbf{\emph{TBA}} \textbar{} \emph{TBA}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{concurrent-session-18.2-transitions-of-online-learning-teaching}{%
+\subsection*{Concurrent Session 18.2 \textbar{} Transitions of Online Learning \& Teaching}\label{concurrent-session-18.2-transitions-of-online-learning-teaching}}
+\addcontentsline{toc}{subsection}{Concurrent Session 18.2 \textbar{} Transitions of Online Learning \& Teaching}
+
+\begin{session}
+\hypertarget{open-education-research-past-present-future-research}{%
+\paragraph*{\texorpdfstring{1:30-2:00 \textbar{} \textbf{Open Education
+Research: Past, Present, Future} \textbar{}
+Research}{1:30-2:00 \textbar{} Open Education Research: Past, Present, Future \textbar{} Research}}\label{open-education-research-past-present-future-research}}
+\addcontentsline{toc}{paragraph}{1:30-2:00 \textbar{} \textbf{Open
+Education Research: Past, Present, Future} \textbar{} Research}
+
+\textbf{\emph{Robert Farrow, Beck Pitt, Martin Weller, Paco Iniesto \&
+Carina Bossu}} \textbar{} \emph{The Open University}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\begin{session}
+\hypertarget{using-qualitative-online-survey-as-a-research-method-amid-covid-pandemic-practice}{%
+\paragraph*{\texorpdfstring{2:00-2:30 \textbar{} \textbf{Using
+Qualitative Online Survey as a Research Method Amid Covid Pandemic}
+\textbar{}
+Practice}{2:00-2:30 \textbar{} Using Qualitative Online Survey as a Research Method Amid Covid Pandemic \textbar{} Practice}}\label{using-qualitative-online-survey-as-a-research-method-amid-covid-pandemic-practice}}
+\addcontentsline{toc}{paragraph}{2:00-2:30 \textbar{} \textbf{Using
+Qualitative Online Survey as a Research Method Amid Covid Pandemic}
+\textbar{} Practice}
+
+\textbf{\emph{Yina Liu}} \textbar{} \emph{University of Alberta}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\begin{session}
+\hypertarget{tba-tba}{%
+\paragraph*{\texorpdfstring{2:30-3:00 \textbar{} \textbf{TBA} \textbar{}
+TBA}{2:30-3:00 \textbar{} TBA \textbar{} TBA}}\label{tba-tba}}
+\addcontentsline{toc}{paragraph}{2:30-3:00 \textbar{} \textbf{TBA}
+\textbar{} TBA}
+
+\textbf{\emph{TBA}} \textbar{} \emph{TBA}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{concurrent-session-18.3-wildcard}{%
+\subsection*{Concurrent Session 18.3 \textbar{} Wildcard}\label{concurrent-session-18.3-wildcard}}
+\addcontentsline{toc}{subsection}{Concurrent Session 18.3 \textbar{} Wildcard}
+
+\begin{session}
+\hypertarget{non-directive-strength-based-online-coaching-in-graduate-education-research}{%
+\paragraph*{\texorpdfstring{1:30-2:00 \textbar{} \textbf{Non-Directive
+Strength-Based Online Coaching in Graduate Education} \textbar{}
+Research}{1:30-2:00 \textbar{} Non-Directive Strength-Based Online Coaching in Graduate Education \textbar{} Research}}\label{non-directive-strength-based-online-coaching-in-graduate-education-research}}
+\addcontentsline{toc}{paragraph}{1:30-2:00 \textbar{}
+\textbf{Non-Directive Strength-Based Online Coaching in Graduate
+Education} \textbar{} Research}
+
+\textbf{\emph{Carolyn Kristjansson}} \textbar{} \emph{Trinity Western
+University}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\begin{session}
+\hypertarget{the-teachers-self-efficacy-and-belief-in-implementing-s-stem-istem-or-steam-in-their-classroom-research}{%
+\paragraph*{\texorpdfstring{2:30-3:00 \textbar{} \textbf{The Teacher's
+Self-efficacy and Belief in Implementing S STEM, iSTEM or STEAM in their
+Classroom} \textbar{}
+Research}{2:30-3:00 \textbar{} The Teacher's Self-efficacy and Belief in Implementing S STEM, iSTEM or STEAM in their Classroom \textbar{} Research}}\label{the-teachers-self-efficacy-and-belief-in-implementing-s-stem-istem-or-steam-in-their-classroom-research}}
+\addcontentsline{toc}{paragraph}{2:30-3:00 \textbar{} \textbf{The
+Teacher's Self-efficacy and Belief in Implementing S STEM, iSTEM or
+STEAM in their Classroom} \textbar{} Research}
+
+\textbf{\emph{Atiya Razi}} \textbar{} \emph{University of Windsor}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\begin{vendor}
+\hypertarget{the-impact-of-social-annotation-on-learning-research}{%
+\paragraph*{\texorpdfstring{2:30-3:00 \textbar{} \textbf{The Impact of
+Social Annotation on Learning} \textbar{}
+Research}{2:30-3:00 \textbar{} The Impact of Social Annotation on Learning \textbar{} Research}}\label{the-impact-of-social-annotation-on-learning-research}}
+\addcontentsline{toc}{paragraph}{2:30-3:00 \textbar{} \textbf{The Impact
+of Social Annotation on Learning} \textbar{} Research}
+
+\textbf{Repeated from Session 7.1}
+
+\textbf{\emph{Sean O'Reilly}} \textbar{} \emph{hypothes.is}
+
+\textbf{Keywords:}
+
+Abstract
+\end{vendor}
+
+\hypertarget{concurrent-session-18.4-sustaining-positive-change}{%
+\subsection*{Concurrent Session 18.4 \textbar{} Sustaining Positive Change}\label{concurrent-session-18.4-sustaining-positive-change}}
+\addcontentsline{toc}{subsection}{Concurrent Session 18.4 \textbar{} Sustaining Positive Change}
+
+\begin{session}
+\hypertarget{a-framework-for-evaluating-the-creation-and-adaptation-of-open-textbooks-research}{%
+\paragraph*{\texorpdfstring{1:30-2:00 \textbar{} \textbf{A Framework for
+Evaluating the Creation and Adaptation of Open Textbooks} \textbar{}
+Research}{1:30-2:00 \textbar{} A Framework for Evaluating the Creation and Adaptation of Open Textbooks \textbar{} Research}}\label{a-framework-for-evaluating-the-creation-and-adaptation-of-open-textbooks-research}}
+\addcontentsline{toc}{paragraph}{1:30-2:00 \textbar{} \textbf{A
+Framework for Evaluating the Creation and Adaptation of Open Textbooks}
+\textbar{} Research}
+
+\textbf{\emph{Melissa Ashman}} \textbar{} \emph{Kwantlen Polytechnic
+University}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\begin{session}
+\hypertarget{interprofessional-healthcare-simulation-co-creation-a-pilot-study-research}{%
+\paragraph*{\texorpdfstring{2:00-2:30 \textbar{}
+\textbf{Interprofessional Healthcare Simulation Co-Creation: A Pilot
+Study} \textbar{}
+Research}{2:00-2:30 \textbar{} Interprofessional Healthcare Simulation Co-Creation: A Pilot Study \textbar{} Research}}\label{interprofessional-healthcare-simulation-co-creation-a-pilot-study-research}}
+\addcontentsline{toc}{paragraph}{2:00-2:30 \textbar{}
+\textbf{Interprofessional Healthcare Simulation Co-Creation: A Pilot
+Study} \textbar{} Research}
+
+\textbf{\emph{Laura Killam}} \textbar{} \emph{Queen's University Canada}
+
+\textbf{\emph{Jacqueline Vaughn, Alicia Sellon, Chase DuBois, Amelia
+Huelskamp, Andrea Smith, Colette Waddill \& Justine Reel}} \textbar{}
+\emph{University of North Carolina Wilmington}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{concurrent-session-18.5-addressing-inequities}{%
+\subsection*{Concurrent Session 18.5 \textbar{} Addressing Inequities}\label{concurrent-session-18.5-addressing-inequities}}
+\addcontentsline{toc}{subsection}{Concurrent Session 18.5 \textbar{} Addressing Inequities}
+
+\begin{session}
+\hypertarget{four-perspectives-of-learner-educator-co-creation-practice}{%
+\paragraph*{\texorpdfstring{9:30-10:30 \textbar{} \textbf{Four
+Perspectives of Learner-Educator Co-Creation} \textbar{}
+Practice}{9:30-10:30 \textbar{} Four Perspectives of Learner-Educator Co-Creation \textbar{} Practice}}\label{four-perspectives-of-learner-educator-co-creation-practice}}
+\addcontentsline{toc}{paragraph}{9:30-10:30 \textbar{} \textbf{Four
+Perspectives of Learner-Educator Co-Creation} \textbar{} Practice}
+
+\textbf{\emph{Mercedes Lock}} \textbar{} \emph{Cambrian College}
+
+\textbf{\emph{Jane Tyerman}} \textbar{} \emph{University of Ottawa}
+
+\textbf{\emph{Lillian Chumbley}} \textbar{} \emph{Trent University}
+
+\textbf{\emph{Laura Killam}} \textbar{} \emph{Queen's University Canada}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\begin{session}
+\hypertarget{a-learner-educator-co-creation-toolkit-practice}{%
+\paragraph*{\texorpdfstring{2:30 - 3:00 \textbar{} \textbf{A
+Learner-Educator Co-Creation Toolkit} \textbar{}
+Practice}{2:30 - 3:00 \textbar{} A Learner-Educator Co-Creation Toolkit \textbar{} Practice}}\label{a-learner-educator-co-creation-toolkit-practice}}
+\addcontentsline{toc}{paragraph}{2:30 - 3:00 \textbar{} \textbf{A
+Learner-Educator Co-Creation Toolkit} \textbar{} Practice}
+
+\textbf{\emph{Laura Killam}} \textbar{} \emph{Queen's University Canada}
+
+\textbf{\emph{Lillian Chumbley}} \textbar{} \emph{Trent University }
+
+\textbf{\emph{Jane Tyerman}} \textbar{} \emph{University of Ottawa}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{break-300-315-1}{%
+\section*{Break \textbar{} 3:00-3:15}\label{break-300-315-1}}
+\addcontentsline{toc}{section}{Break \textbar{} 3:00-3:15}
+
+\hypertarget{social-315-345-1}{%
+\section*{Social \textbar{} 3:15-3:45}\label{social-315-345-1}}
+\addcontentsline{toc}{section}{Social \textbar{} 3:15-3:45}
+
+\hypertarget{concurrent-session-19-345-515}{%
+\section*{Concurrent Session 19 \textbar{} 3:45-5:15}\label{concurrent-session-19-345-515}}
+\addcontentsline{toc}{section}{Concurrent Session 19 \textbar{} 3:45-5:15}
+
+1.5 Hours
+\#\#\# Concurrent Session 19.1 \textbar{} Wildcard \{-\}
+
+\begin{session}
+\hypertarget{on-speculative-education-fiction-for-hopeful-learning-futures-research}{%
+\paragraph*{\texorpdfstring{3:45-4:45 \textbar{} \textbf{On Speculative
+Education Fiction for Hopeful Learning Futures} \textbar{}
+Research}{3:45-4:45 \textbar{} On Speculative Education Fiction for Hopeful Learning Futures \textbar{} Research}}\label{on-speculative-education-fiction-for-hopeful-learning-futures-research}}
+\addcontentsline{toc}{paragraph}{3:45-4:45 \textbar{} \textbf{On
+Speculative Education Fiction for Hopeful Learning Futures} \textbar{}
+Research}
+
+\textbf{\emph{Shandell Houlden \& George Veletsianos}} \textbar{}
+\emph{Royal Roads University}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\begin{session}
+\hypertarget{tba-tba}{%
+\paragraph*{\texorpdfstring{4:45-5:15 \textbar{} \textbf{TBA} \textbar{}
+TBA}{4:45-5:15 \textbar{} TBA \textbar{} TBA}}\label{tba-tba}}
+\addcontentsline{toc}{paragraph}{4:45-5:15 \textbar{} \textbf{TBA}
+\textbar{} TBA}
+
+\textbf{\emph{TBA}} \textbar{} \emph{TBA}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{concurrent-session-19.2-sustaining-positive-change}{%
+\subsection*{Concurrent Session 19.2 \textbar{} Sustaining Positive Change}\label{concurrent-session-19.2-sustaining-positive-change}}
+\addcontentsline{toc}{subsection}{Concurrent Session 19.2 \textbar{} Sustaining Positive Change}
+
+\begin{session}
+\hypertarget{no-longer-silent-racialized-academic-women-speak-out-research}{%
+\paragraph*{\texorpdfstring{3:45-4:45 \textbar{} \textbf{``No Longer
+Silent!'' Racialized Academic Women Speak Out} \textbar{}
+Research}{3:45-4:45 \textbar{} ``No Longer Silent!'' Racialized Academic Women Speak Out \textbar{} Research}}\label{no-longer-silent-racialized-academic-women-speak-out-research}}
+\addcontentsline{toc}{paragraph}{3:45-4:45 \textbar{} \textbf{``No
+Longer Silent!'' Racialized Academic Women Speak Out} \textbar{}
+Research}
+
+\textbf{\emph{Sandra Dixon}} \textbar{} \emph{University of Lethbridge}
+
+\textbf{\emph{Cecille DePass}} \textbar{} \emph{University of Calgary}
+
+\textbf{\emph{Dawn Edge}} \textbar{} \emph{The University of Manchester}
+
+\textbf{\emph{Mille Batta}} \textbar{} \emph{University of Lethbridge}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\begin{session}
+\hypertarget{peace-education-in-the-platformed-society-lessons-from-colombia-research}{%
+\paragraph*{\texorpdfstring{4:45-5:15 \textbar{} \textbf{Peace Education
+in the Platformed Society: Lessons from Colombia} \textbar{}
+Research}{4:45-5:15 \textbar{} Peace Education in the Platformed Society: Lessons from Colombia \textbar{} Research}}\label{peace-education-in-the-platformed-society-lessons-from-colombia-research}}
+\addcontentsline{toc}{paragraph}{4:45-5:15 \textbar{} \textbf{Peace
+Education in the Platformed Society: Lessons from Colombia} \textbar{}
+Research}
+
+\textbf{\emph{Estaban Morales}} \textbar{} \emph{University of British
+Columbia}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{concurrent-session-19.3-sustaining-positive-change}{%
+\subsection*{Concurrent Session 19.3 \textbar{} Sustaining Positive Change}\label{concurrent-session-19.3-sustaining-positive-change}}
+\addcontentsline{toc}{subsection}{Concurrent Session 19.3 \textbar{} Sustaining Positive Change}
+
+\begin{session}
+\hypertarget{scaling-small-the-open-book-collective-launch-and-platform-practice}{%
+\paragraph*{\texorpdfstring{3:45-4:45 \textbar{} \textbf{Scaling Small:
+The Open Book Collective Launch and Platform} \textbar{}
+Practice}{3:45-4:45 \textbar{} Scaling Small: The Open Book Collective Launch and Platform \textbar{} Practice}}\label{scaling-small-the-open-book-collective-launch-and-platform-practice}}
+\addcontentsline{toc}{paragraph}{3:45-4:45 \textbar{} \textbf{Scaling
+Small: The Open Book Collective Launch and Platform} \textbar{}
+Practice}
+
+\textbf{\emph{Judith Fathallah}} \textbar{} \emph{Lancaster University}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{concurrent-session-19.4-sustaining-positive-change}{%
+\subsection*{Concurrent Session 19.4 \textbar{} Sustaining Positive Change}\label{concurrent-session-19.4-sustaining-positive-change}}
+\addcontentsline{toc}{subsection}{Concurrent Session 19.4 \textbar{} Sustaining Positive Change}
+
+\begin{session}
+\hypertarget{discovery-based-learning-with-open-technologies-for-positive-change-practice}{%
+\paragraph*{\texorpdfstring{3:45-4:15 \textbar{} \textbf{Discovery Based
+Learning with Open Technologies, for Positive Change} \textbar{}
+Practice}{3:45-4:15 \textbar{} Discovery Based Learning with Open Technologies, for Positive Change \textbar{} Practice}}\label{discovery-based-learning-with-open-technologies-for-positive-change-practice}}
+\addcontentsline{toc}{paragraph}{3:45-4:15 \textbar{} \textbf{Discovery
+Based Learning with Open Technologies, for Positive Change} \textbar{}
+Practice}
+
+\textbf{\emph{Brian Sutherland}} \textbar{} \emph{University of Toronto}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\begin{session}
+\hypertarget{interprofessional-healthcare-simulation-co-creation-a-pilot-study-research}{%
+\paragraph*{\texorpdfstring{4:15-4:45 \textbar{}
+\textbf{Interprofessional Healthcare Simulation Co-Creation: A Pilot
+Study} \textbar{}
+Research}{4:15-4:45 \textbar{} Interprofessional Healthcare Simulation Co-Creation: A Pilot Study \textbar{} Research}}\label{interprofessional-healthcare-simulation-co-creation-a-pilot-study-research}}
+\addcontentsline{toc}{paragraph}{4:15-4:45 \textbar{}
+\textbf{Interprofessional Healthcare Simulation Co-Creation: A Pilot
+Study} \textbar{} Research}
+
+\textbf{\emph{Laura Killam}} \textbar{} \emph{Queen's University Canada}
+
+\textbf{\emph{Jacqueline Vaughn, Alicia Sellon, Chase DuBois, Amelia
+Huelskamp, Andrea Smith, Colette Waddill \& Justine Reel}} \textbar{}
+\emph{University of North Carolina Wilmington}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\begin{session}
+\hypertarget{negotiating-an-informed-personal-theory-and-philosophy-of-open-education-in-a-professional-development-setting-research}{%
+\paragraph*{\texorpdfstring{4:45-5:15 \textbar{} \textbf{Negotiating an
+Informed Personal Theory and Philosophy of Open Education in a
+Professional Development Setting} \textbar{}
+Research}{4:45-5:15 \textbar{} Negotiating an Informed Personal Theory and Philosophy of Open Education in a Professional Development Setting \textbar{} Research}}\label{negotiating-an-informed-personal-theory-and-philosophy-of-open-education-in-a-professional-development-setting-research}}
+\addcontentsline{toc}{paragraph}{4:45-5:15 \textbar{}
+\textbf{Negotiating an Informed Personal Theory and Philosophy of Open
+Education in a Professional Development Setting} \textbar{} Research}
+
+\textbf{\emph{Irwin DeVries}} \textbar{} \emph{Royal Roads University}
+
+\textbf{\emph{Emily Schudel \& Kimberlee Carter}} \textbar{}
+\emph{Kwantlen Polytechnic University}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{break-515-530-1}{%
+\section*{Break \textbar{} 5:15-5:30}\label{break-515-530-1}}
+\addcontentsline{toc}{section}{Break \textbar{} 5:15-5:30}
+
+\hypertarget{concurrent-session-20-invited-speakers-530-615}{%
+\section*{Concurrent Session 20 \textbar{} Invited Speakers \textbar{} 5:30-6:15}\label{concurrent-session-20-invited-speakers-530-615}}
+\addcontentsline{toc}{section}{Concurrent Session 20 \textbar{} Invited Speakers \textbar{} 5:30-6:15}
+
+45 Minutes
+
+\hypertarget{concurrent-session-20.1}{%
+\subsection*{Concurrent Session 20.1}\label{concurrent-session-20.1}}
+\addcontentsline{toc}{subsection}{Concurrent Session 20.1}
+
+\begin{speaker}
+\hypertarget{session-speaker-tba}{%
+\paragraph{\texorpdfstring{Session Speaker:
+\textbf{TBA}}{Session Speaker: TBA}}\label{session-speaker-tba}}
+
+\emph{Session title: TBA}
+
+\textbf{Keywords:}
+
+Abstract
+\end{speaker}
+
+\hypertarget{concurrent-session-20.2}{%
+\subsection*{Concurrent Session 20.2}\label{concurrent-session-20.2}}
+\addcontentsline{toc}{subsection}{Concurrent Session 20.2}
+
+\begin{speaker}
+\hypertarget{session-speaker-tba}{%
+\paragraph{\texorpdfstring{Session Speaker:
+\textbf{TBA}}{Session Speaker: TBA}}\label{session-speaker-tba}}
+
+\emph{Session title: TBA}
+
+\textbf{Keywords:}
+
+Abstract
+\end{speaker}
+
+\hypertarget{conference-closing-615-630}{%
+\section*{Conference Closing \textbar{} 6:15-6:30}\label{conference-closing-615-630}}
+\addcontentsline{toc}{section}{Conference Closing \textbar{} 6:15-6:30}
+
+\hypertarget{asynchronous-presentations-saturday-may-27---friday-june-2}{%
+\chapter*{Asynchronous Presentations \textbar{} Saturday, May 27 - Friday, June 2}\label{asynchronous-presentations-saturday-may-27---friday-june-2}}
+\addcontentsline{toc}{chapter}{Asynchronous Presentations \textbar{} Saturday, May 27 - Friday, June 2}
+
+\hypertarget{showcase-21.1-transitions-of-online-learning-teaching}{%
+\subsection*{Showcase 21.1 \textbar{} Transitions of Online Learning \& Teaching}\label{showcase-21.1-transitions-of-online-learning-teaching}}
+\addcontentsline{toc}{subsection}{Showcase 21.1 \textbar{} Transitions of Online Learning \& Teaching}
+
+\begin{session}
+\hypertarget{bridging-digital-borders-practice}{%
+\paragraph*{\texorpdfstring{\textbf{Bridging Digital Borders} \textbar{}
+Practice}{Bridging Digital Borders \textbar{} Practice}}\label{bridging-digital-borders-practice}}
+\addcontentsline{toc}{paragraph}{\textbf{Bridging Digital Borders}
+\textbar{} Practice}
+
+\textbf{\emph{Mariana Jardim, Abigail Warnock \& Robert Matz}}
+\textbar{} \emph{University of Toronto}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{showcase-21.2-addressing-inequities}{%
+\subsection*{Showcase 21.2 \textbar{} Addressing Inequities}\label{showcase-21.2-addressing-inequities}}
+\addcontentsline{toc}{subsection}{Showcase 21.2 \textbar{} Addressing Inequities}
+
+\begin{session}
+\hypertarget{critical-digital-pedagogy-in-higher-education-practice}{%
+\paragraph*{\texorpdfstring{\textbf{Critical Digital Pedagogy in Higher
+Education} \textbar{}
+Practice}{Critical Digital Pedagogy in Higher Education \textbar{} Practice}}\label{critical-digital-pedagogy-in-higher-education-practice}}
+\addcontentsline{toc}{paragraph}{\textbf{Critical Digital Pedagogy in
+Higher Education} \textbar{} Practice}
+
+\textbf{\emph{Suzan Koseoglu}} \textbar{} \emph{University of Greenwich}
+
+\textbf{\emph{George Veletsianos}} \textbar{} \emph{Royal Roads
+University}
+
+\textbf{\emph{Chris Rowell}} \textbar{} \emph{University of the Arts
+London}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+\hypertarget{showcase-21.3-addressing-inequities}{%
+\subsection*{Showcase 21.3 \textbar{} Addressing Inequities}\label{showcase-21.3-addressing-inequities}}
+\addcontentsline{toc}{subsection}{Showcase 21.3 \textbar{} Addressing Inequities}
+
+\begin{session}
+\hypertarget{getlitwithfin-a-cross-campus-capstone-classroom-c4-digest-york}{%
+\paragraph{**GetLitwithFin: A Cross-Campus Capstone Classroom (C4)
+Digest
+(@York)}\label{getlitwithfin-a-cross-campus-capstone-classroom-c4-digest-york}}
+
+** \textbar{} Practice \{-\}
+
+\textbf{\emph{Gilbert Chen, Diana Xu, Saranya Sivaneshon, Pranav
+Kulkarni, Wasif Hyder, Parkriti Biswas, Jessica Kabuli \& Ramshah
+Kidwai}} \textbar{} \emph{York University}
+
+\textbf{Keywords:}
+
+Abstract
+\end{session}
+
+  \bibliography{book.bib}
+
+\end{document}
