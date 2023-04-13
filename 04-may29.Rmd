@@ -61,15 +61,15 @@
 
 ## Conference Welcome, Announcements & Land Acknowledgement | 9:00-9:15 {-}
 
-## Break | 9:15-9:30 {-}
+## Casser | 9:15-9:30 {-}
 
-## Concurrent Session 5 | 9:30-10:30 {-}
+## Séance simultanée 5 | 9:30-10:30 {-}
 
-### Concurrent Session 5.1 |  Sustaining Positive Change {-}
+### Séance simultanée 5.1 |  Maintenir un changement positif {-}
 
 ```{block, type='session'}
 
-#### 9:30 - 10:30 | **Cultivating Essential Leadership Skills for Digital Transformation in Ontario Postsecondary Education** |  Practice
+#### 9:30 - 10:30 | **Cultivating Essential Leadership Skills for Digital Transformation in Ontario Postsecondary Education** |  Pratique
  {-}
 
 ***Alissa Bigelow & Monica Shah*** | *eCampusOntario*
@@ -84,11 +84,11 @@
 </details>
 ```
 
-### Concurrent Session 5.2 |  Sustaining Positive Change {-}
+### Séance simultanée 5.2 |  Maintenir un changement positif {-}
 
 ```{block, type='session'}
 
-#### 9:30 - 10:30 | **Ascending the Mountain: Examining National Open Educational Resource (OER)** |  Practice {-}
+#### 9:30 - 10:30 | **Ascending the Mountain: Examining National Open Educational Resource (OER)** |  Pratique {-}
 
 ***Michael McNally*** | *University of Alberta*
 
@@ -106,11 +106,11 @@
 </details>
 ```
 
-### Concurrent Session 5.3 |  Sustaining Positive Change {-}
+### Séance simultanée 5.3 |  Maintenir un changement positif {-}
 
 ```{block, type='session'}
 
-#### 9:30 - 10:00 | **Mythical Beast, Panacea or Breaking News: Open Education Policy in Higher Education Institutions** |  Research {-}
+#### 9:30 - 10:00 | **Mythical Beast, Panacea or Breaking News: Open Education Policy in Higher Education Institutions** |  Recherche {-}
 
 ***Leo Havemann*** | *University College London / Open University*
 
@@ -126,7 +126,7 @@
 
 ```{block, type='session'}
 
-#### 10:00-10:30 | **myWATERSHED: A Serious Game for Fostering Sustainability Champions of the Future** |  Research {-}
+#### 10:00-10:30 | **myWATERSHED: A Serious Game for Fostering Sustainability Champions of the Future** |  Recherche {-}
 
 ***Isabelle Barrette-Ng*** | *University of Windsor*
 
@@ -142,11 +142,11 @@
 </details>
 ```
 
-### Concurrent Session 5.4 |  Transitions of Online Learning & Teaching {-}
+### Séance simultanée 5.4 |  Formations d’apprentissage et d’enseignement en ligne {-}
 
 ```{block, type='session'}
 
-#### 9:30 - 10:00 | **Early Findings on an Experiment in Distance Education with High School Students** |  Research {-}
+#### 9:30 - 10:00 | **Early Findings on an Experiment in Distance Education with High School Students** |  Recherche {-}
 
 ***Alexandre Lanoix, Normand Roy, Marc-André Éthier*** | *Université de Montréal*
 
@@ -167,7 +167,7 @@
 
 ```{block, type='session'}
 
-#### 10:00-10:30 | **Over the Threshold: Graduate Student Needs in Academic Publishing** |  Research {-}
+#### 10:00-10:30 | **Over the Threshold: Graduate Student Needs in Academic Publishing** |  Recherche {-}
 
 ***Christie Hurrell, Susan Beatty*** | *University of Calgary*
 
@@ -184,9 +184,9 @@
 </details>
 ```
 
-## Break | 10:30-11:00 {-}
+## Casser | 10:30-11:00 {-}
 
-## Keynote | 11:00-12:00 {-}
+## Discours d’ouverture | 11:00-12:00 {-}
 
 ```{block, type='keynote'}
 
@@ -209,19 +209,19 @@ These questions have dominated teaching and learning circles and social media si
 
 ```
 
-## Break | 12:00-1:30 {-}
+## Casser | 12:00-1:30 {-}
 
-## Concurrent Session 6 |  Invited Speakers | 1:30-2:15  {-}
+## Séance parallèle 6 | Conférencier invité | 1:30-2:15  {-}
 
 45 Minutes
 
-### Concurrent Session 6.1 {-}
+### Séance parallèle  6.1 {-}
 
 ```{block, type='speaker'}
 
-#### Session Speaker: **TBA** 
+#### Conférencier de la session : à déterminer {-} 
 
-*Session title: TBA*
+*Titre de la session : à déterminer*
 
 **Keywords:** 
 
@@ -233,13 +233,13 @@ These questions have dominated teaching and learning circles and social media si
 </details>
 ```
 
-### Concurrent Session 6.2 {-}
+### Séance parallèle  6.2 {-}
 
 ```{block, type='speaker'}
 
-#### Session Speaker: **TBA** 
+#### Conférencier de la session : à déterminer {-} 
 
-*Session title: TBA*
+*Titre de la session : à déterminer*
 
 **Keywords:** 
 
@@ -251,17 +251,17 @@ These questions have dominated teaching and learning circles and social media si
 </details>
 ```
 
-## Break | 2:15-2:30 {-}
+## Casser | 2:15-2:30 {-}
 
-## Concurrent Session 7 | 2:30-3:00 {-}
+## Séance simultanée 7 | 2:30-3:00 {-}
 
 30 Minutes
 
-### Concurrent Session 7.1 |  Wildcard {-}
+### Séance simultanée 7.1 |  Caractère générique {-}
 
 ```{block, type='vendor'}
 
-#### 2:30-3:00 | **The Impact of Social Annotation on Learning** |  Research {-}
+#### 2:30-3:00 | **The Impact of Social Annotation on Learning** |  Recherche {-}
 
 **Will be repeated online in Session 18.3 (Friday, June 2)**
 
@@ -277,11 +277,11 @@ These questions have dominated teaching and learning circles and social media si
 </details>
 ```
 
-### Concurrent Session 7.2 |  Sustaining Positive Change {-}
+### Séance simultanée 7.2 |  Maintenir un changement positif {-}
 
 ```{block, type='session'}
 
-#### 2:30-3:00 | **What Uses of Digital Technology Support and Enhance the Learning and the Engagement of Diverse Learners in High School Classes?** |  Research {-}
+#### 2:30-3:00 | **What Uses of Digital Technology Support and Enhance the Learning and the Engagement of Diverse Learners in High School Classes?** |  Recherche {-}
 
 ***Mourad Majdoub, Fatme Diab & Géraldine Heilporn*** | *Université Laval*
 
@@ -295,11 +295,11 @@ These questions have dominated teaching and learning circles and social media si
 </details>
 ```
 
-### Concurrent Session 7.3 |  Addressing Inequities {-}
+### Séance simultanée 7.3 |  Aborder les inégalités {-}
 
 ```{block, type='session'}
 
-#### 2:30-3:00 | **Personal, Institutional, and Societal Barriers to Educators’ Engagement with Datafication on Campus: A Case Study** |  Research {-}
+#### 2:30-3:00 | **Personal, Institutional, and Societal Barriers to Educators’ Engagement with Datafication on Campus: A Case Study** |  Recherche {-}
 
 ***Bonnie Stewart, Erica Miklas, Samantha Szcyrek & Thu Le*** | *University of Windsor*
 
@@ -315,9 +315,9 @@ These questions have dominated teaching and learning circles and social media si
 
 ## Break with Coffee and Snack Provided | 3:00-3:30 {-}
 
-## Concurrent Session 8 |  3:30-5:00 {-}
+## Séance simultanée 8 |  3:30-5:00 {-}
 
-### Concurrent Session 8.1 |  Addressing Inequities {-}
+### Séance simultanée 8.1 |  Aborder les inégalités {-}
 
 ```{block, type='workshop'}
 
@@ -335,11 +335,11 @@ These questions have dominated teaching and learning circles and social media si
 </details>
 ```
 
-### Concurrent Session 8.2 |  Sustaining Positive Change {-}
+### Séance simultanée 8.2 |  Maintenir un changement positif {-}
 
 ```{block, type='session'}
 
-#### 3:30-4:30 | **Practitioner Values in the Transition to Open Education Resources: Moving Through Disruption to Improved Practice** |  Practice {-}
+#### 3:30-4:30 | **Practitioner Values in the Transition to Open Education Resources: Moving Through Disruption to Improved Pratique** |  Pratique {-}
 
 ***Trista Hill*** | *Athabasca University*
 
@@ -357,7 +357,7 @@ These questions have dominated teaching and learning circles and social media si
 
 ```{block, type='session'}
 
-#### 4:30-5:00 | **Showcasing a Student-Led Anti-Racism Virtual Simulation Module for Equitable Learning** |  Practice {-}
+#### 4:30-5:00 | **Showcasing a Student-Led Anti-Racism Virtual Simulation Module for Equitable Learning** |  Pratique {-}
 
 ***Mujeedat Lekuti, HanShu Pu, Rishika Gowda, Zainab Baig, Javeria Baig, Alexandra Lawrynuik*** | *Queen’s University Canada*
 
@@ -375,13 +375,13 @@ These questions have dominated teaching and learning circles and social media si
 </details>
 ```
 
-### Concurrent Session 8.3 |  Wildcard {-}
+### Séance simultanée 8.3 |  Caractère générique {-}
 
 ```{block, type='session'}
 
 
 
-#### 3:30-4:30 | **Adaptive Learning in Practice** |  Practice {-}
+#### 3:30-4:30 | **Adaptive Learning in Pratique** |  Pratique {-}
 
 ***Don Eldridge*** | *eCampusOntario*
 
@@ -398,7 +398,7 @@ These questions have dominated teaching and learning circles and social media si
 
 ```{block, type='session'}
 
-#### 4:30-5:00 | **An e-Book of One’s Own** |  Practice {-}
+#### 4:30-5:00 | **An e-Book of One’s Own** |  Pratique {-}
 
 ***Terry Greene*** | *Trent University*
 
@@ -412,11 +412,11 @@ These questions have dominated teaching and learning circles and social media si
 </details>
 ```
 
-### Concurrent Session 8.4 |  Transitions of Online Learning & Teaching {-}
+### Séance simultanée 8.4 |  Formations d’apprentissage et d’enseignement en ligne {-}
 
 ```{block, type='session'}
 
-#### 3:30-4:30 | **Intentionality, Community, and Well-being: Re-imagining Blended Course Design** |  Practice {-}
+#### 3:30-4:30 | **Intentionality, Community, and Well-being: Re-imagining Blended Course Design** |  Pratique {-}
 
 ***Brian Lorraine*** | *Simon Fraser University*
 
@@ -432,7 +432,7 @@ These questions have dominated teaching and learning circles and social media si
 
 ```{block, type='session'}
 
-#### 4:30-5:00 | **L’apprentissage en ligne au Québec : résultats de l’enquête annuelle 2022 de l’ACRFL (in French)** |  Practice {-}
+#### 4:30-5:00 | **L’apprentissage en ligne au Québec : résultats de l’enquête annuelle 2022 de l’ACRFL (in French)** |  Pratique {-}
 
 *** Bruno Poellhuber & Simon Parent*** | *Université de Montréal*
 

@@ -1,9 +1,10 @@
-# Saturday, May 27 | Online Only
+# Samedi 27 Mai 2023 | SÉANCES EN LIGNE UNIQUEMENT
+
 
 ```{block, type='protip'}
 
 
-#### Join us for the #OTESSA23 Morning Radio Show every morning (times TBA) at https://voiced.ca
+#### Rejoignez-nous à l’émission de radio matinale #OTESSA23 tous les matins à déterminer (heure de l’Est) à [https://voiced.ca](https://voiced.ca){target="_blank"}
 
 ```
 
@@ -15,7 +16,7 @@
 
 #### ✨ Note{-}
 
-***All times are in Eastern Time (Canada)***
+***Toutes les heures sont à l’heure de l’Est du Canada***
 ```
 
 ```{block, type='keynote'}
@@ -60,24 +61,25 @@
 
 ---
 
-## Welcome Desk Open | 10:30 - 12:30 {-}
+## Bureau d’accueil ouvert | 10:30 - 12:30 {-}
 
-## Conference Welcome, Announcements & Land Acknowledgement | 10:30 - 11:00 {-}
+## Bienvenue à la conférence, annonces et reconnaissance des terres | 10:30 - 11:00 {-}
 
-## Keynote | 11:00 - 12:00 {-}
+## Discours d’ouverture | 11:00 - 12:00 {-}
 
 ```{block, type='keynote'}
 
 
 
-#### Enabling ‘Students as Partners’: Open Textbooks, Power Shifts and Curriculum Transformation {-}
+#### Permettre aux « étudiants en tant que partenaires » : manuels scolaires ouverts, changements de pouvoir et transformation des programmes
+ {-}
 
 *Glenda Cox & Bianca Masuku*
 
 <details>
 <summary>Abstract</summary>
 <p>
-Work done with open textbook creators at UCT has enabled the DOT4D initiative to articulate models of open textbook production that are being employed by academics at UCT who are using their open textbooks to address social (in)justice in the classroom. Building on this background work, we explore the values and attitudes of the academics who undertake open textbook production with student co- creators. Student inclusion is lauded in research as essential for student belonging, but little work has been done to look for the challenges involved when traditional power dynamics are disrupted. In this research, we describe a potential nexus of three complementary components: open textbooks, social justice, and students as partners. We investigate the affordances of the open textbook to facilitate change in the power dynamics of content production as well as in classroom practice.
+Le travail effectué avec les créateurs de manuels ouverts à l’UCT a permis à l’initiative DOT4D d’articuler des modèles de production de manuels ouverts qui sont employés par les universitaires de l’UCT qui utilisent leurs manuels ouverts pour lutter contre l’(in)justice sociale en classe. En nous appuyant sur ce travail de fond, nous explorons les valeurs et les attitudes des universitaires qui entreprennent la production de manuels ouverts avec des étudiants co-créateurs. L’inclusion des étudiants est saluée dans la recherche comme essentielle à l’appartenance des étudiants, mais peu de travaux ont été réalisés pour rechercher les défis impliqués lorsque la dynamique de pouvoir traditionnelle est perturbée. Dans cette recherche, nous décrivons un lien potentiel entre trois composantes complémentaires : les manuels scolaires ouverts, la justice sociale et les étudiants en tant que partenaires. Nous étudions les affordances du manuel ouvert pour faciliter le changement dans la dynamique du pouvoir de la production de contenu ainsi que dans la pratique en classe.
 
 </p>
 </details>
@@ -87,19 +89,19 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 
 ```
 
-## Break  | 12:00-12:30 {-}
+## Casser | 12:00-12:30 {-}
 
-## Concurrent Session 1 | Invited Speakers | 12:30-1:15 {-}
+## Séance parallèle 1 | Conférencier invité | 12:30-1:15 {-}
 
 45 Minutes
-### Concurrent Session 1.1 {-}
+### Séance parallèle 1.1 {-}
 
 ```{block, type='speaker'}
 
 
-#### Session Speaker: **TBA** 
+#### Conférencier de la session : à déterminer {-} 
 
-*Session title: TBA*
+*Titre de la session : à déterminer*
 
 **Keywords:** 
 
@@ -111,14 +113,14 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 </details>
 ```
 
-### Concurrent Session 1.2 {-}
+### Séance parallèle 1.2 {-}
 
 ```{block, type='speaker'}
 
 
-#### Session Speaker: **TBA** 
+#### Conférencier de la session : à déterminer {-} 
 
-*Session title: TBA*
+*Titre de la session : à déterminer*
 
 **Keywords:** 
 
@@ -130,15 +132,15 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 </details>
 ```
 
-## Break | 1:15-1:30 {-}
+## Casser | 1:15-1:30 {-}
 
-## Concurrent Session 2 | 1:30-3:00 {-}
+## Séance simultanée 2 | 1:30-3:00 {-}
 
-### Concurrent Session 2.1 |  Wildcard {-}
+### Séance simultanée 2.1 |  Caractère générique {-}
 
 ```{block, type='session'}
 
-#### 1:30-2:30 | **Escape Rooms for Education** |  Practice {-}
+#### 1:30-2:30 | **Salles d’évasion pour l’éducation** |  Pratique {-}
 
 ***Ava Chow & Nazlee Sharmin*** | *University of Alberta*
 
@@ -155,7 +157,7 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 
 ```{block, type='session'}
 
-#### 2:30-3:00 | **A(nother) Guide for Resisting EdTech: The Case Against (or For?) Course Hero** |  Practice {-}
+#### 2:30-3:00 | **Un (autre) guide pour résister à l’EdTech : les arguments contre (ou pour ?) Héros du cours** |  Pratique {-}
 
 ***Brenna Clarke Gray*** | *Thompson Rivers University*
 
@@ -169,11 +171,11 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 </details>
 ```
 
-### Concurrent Session 2.2 |  Sustaining Positive Change {-}
+### Séance simultanée 2.2 |  Maintenir un changement positif {-}
 
 ```{block, type='session'}
 
-#### 1:30-2:30 | **Engaging in Open Pedagogy: Insights from Designing and Teaching Post-Secondary STEM Courses** |  Practice {-}
+#### 1:30-2:30 | **S’engager dans la pédagogie ouverte : aperçus de la conception et de l’enseignement de cours STEM postsecondaires** |  Pratique {-}
 
 ***Elena Chudaeva*** | *George Brown College*
 
@@ -189,7 +191,7 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 
 ```{block, type='session'}
 
-#### 2:30-3:00 | **An Upgrade to Ungrading: Alternative Grading in Higher Education** |  Practice {-}
+#### 2:30-3:00 | **Une mise à niveau vers l’Ungrading : la notation alternative dans l’enseignement supérieur** |  Pratique {-}
 
 ***Sharon Lauricella*** | *Ontario Tech University*
 
@@ -205,11 +207,11 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 </details>
 ```
 
-### Concurrent Session 2.3 |  Transitions of Online Learning & Teaching {-}
+### Séance simultanée 2.3 |  Formations d’apprentissage et d’enseignement en ligne {-}
 
 ```{block, type='session'}
 
-#### 1:30-2:00 | **Mediating Relationship and Sexual Health Education** |  Practice {-}
+#### 1:30-2:00 | **Relation médiatrice et éducation à la santé sexuelle** |  Pratique {-}
 
 ***Andrea Hasenbank*** | *Onlea Studios*
 
@@ -225,7 +227,7 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 
 ```{block, type='session'}
 
-#### 2:00-2:30 | **“Leave No One Behind.” Peer Support for Teachers: Reflections on a Digital Pedagogy Development Project** |  Practice {-}
+#### 2:00-2:30 | **« Ne laissez personne de côté ». Soutien par les pairs pour les enseignants : réflexions sur un projet de développement de la pédagogie numérique** |  Pratique {-}
 
 ***Susanna Kohonen, Helena Kantanen, Kati Kasanen, Vesa Paajanen & Piia Siitonen*** | *University of Eastern Finland*
 
@@ -241,7 +243,7 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 
 ```{block, type='session'}
 
-#### 2:30-3:00 | **Creating Capacity for Capabilities: Using Professional Development within Learning Design in Capstone** |  Practice {-}
+#### 2:30-3:00 | **Créer des capacités pour les capacités : utiliser le développement professionnel dans la conception de l’apprentissage dans Capstone** |  Pratique {-}
 
 ***Sonja Johnston*** | *University of Calgary*
 
@@ -256,11 +258,11 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 
 ```
 
-### Concurrent Session 2.4 |  Sustaining Positive Change {-}
+### Séance simultanée 2.4 |  Maintenir un changement positif {-}
 
 ```{block, type='session'}
 
-#### 1:30-2:00 | **Sharing Experience Regarding OER Creation and Adoption as a Tool to Manage Student Engagement** |  Research {-}
+#### 1:30-2:00 | **Partage d’expériences concernant la création et l’adoption de REL comme outil de gestion de l’engagement des étudiants** |  Recherche {-}
 
 ***Kiranjot Kaur & Kimberlee Carter*** | *Conestoga College ITAL*
 
@@ -276,7 +278,7 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 
 ```{block, type='session'}
 
-#### 2:00-2:30 | **Developing a Learning Design Framework: A Collective Process Intended to Foster Collaboration** |  Practice {-}
+#### 2:00-2:30 | **Développer un cadre de conception d’apprentissage : un processus collectif destiné à favoriser la collaboration** |  Pratique {-}
 
 ***Melissa Jakubec & Michelle Harrison*** | *Thompson Rivers University*
 
@@ -292,7 +294,7 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 
 ```{block, type='session'}
 
-#### 2:30-3:00 | **Reimagining Art and Culture by Decolonizing Digitization** |  Practice {-}
+#### 2:30-3:00 | **Réinventer l’art et la culture en décolonisant la numérisation** |  Pratique {-}
 
 ***Amanda Figueroa*** | *Curationist*
 
@@ -306,11 +308,11 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 </details>
 ```
 
-### Concurrent Session 2.5 |  Sustaining Positive Change {-}
+### Séance simultanée 2.5 |  Maintenir un changement positif {-}
 
 ```{block, type='session'}
 
-#### 1:30-2:00 | **Qu’en est-il de l’enseignement et de l’apprentissage de la danse à distance ? Adaptations et défis (in French)** |  Research {-}
+#### 1:30-2:00 | **Qu’en est-il de l’enseignement et de l’apprentissage de la danse à distance ? Adaptations et défis (en français)** |  Recherche {-}
 
 ***Cathia Papi*** | *Université TÉLUQ*
 
@@ -326,7 +328,7 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 
 ```{block, type='session'}
 
-#### 2:00-2:30 | **Que dit la recherche des approches pour contrer l’isolement en FAD ? (in French)** |  Research {-}
+#### 2:00-2:30 | **Que dit la recherche des approches pour contrer l’isolement en FAD ? (in French)** |  Recherche {-}
 
 ***Cathia Papi, Serge Gérin-Lajoie & Wanderlucy Czeszak*** | *Université TÉLUQ*
 
@@ -358,19 +360,19 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 </details>
 ```
 
-## Break | 3:00-3:15 {-}
+## Casser | 3:00-3:15 {-}
 
 ## Social  | 3:15-3:45 {-}
 
-## Concurrent Session 3 | 3:45-5:15 {-}
+## Séance simultanée 3 | 3:45-5:15 {-}
 
-1.5 Hours
+1.5 heures
 
-### Concurrent Session 3.1 |  Addressing Inequities {-}
+### Séance simultanée 3.1 |  Aborder les inégalités {-}
 
 ```{block, type='session'}
 
-#### 3:45-4:45 | **The Seemingly Small Details that are Easily Overlooked in Designing Inclusive Online Courses** |  Practice {-}
+#### 3:45-4:45 | **Les détails apparemment petits qui sont facilement négligés dans la conception de cours en ligne inclusifs** |  Pratique {-}
 
 ***Tai Munro, Ashley Stasiewich & Susan Cauti*** | *MacEwan University*
 
@@ -386,7 +388,7 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 
 ```{block, type='session'}
 
-#### 4:45-5:15 | **Podcasting for Student Agency** |  Research {-}
+#### 4:45-5:15 | **Podcasting pour l’agence étudiante** |  Recherche {-}
 
 ***Yu-Ling Lee & Nina Lui*** | *Trinity Western University*
 
@@ -400,11 +402,11 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 </details>
 ```
 
-### Concurrent Session 3.2 |  Sustaining Positive Change {-}
+### Séance simultanée 3.2 |  Maintenir un changement positif {-}
 
 ```{block, type='session'}
 
-#### 3:45-4:45 | **The Slow Trend Toward K-12 OER Sharing** |  Practice {-}
+#### 3:45-4:45 | **La lente tendance vers le partage des REL de la maternelle à la 12e année** |  Pratique {-}
 
 ***Connie Blomgren*** | *Athabasca University*
 
@@ -424,7 +426,7 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 
 ```{block, type='session'}
 
-#### 4:45-5:15 | **Letting Go of Holding On: Promoting Student Choice in a Post- Pandemic Classroom** |  Practice {-}
+#### 4:45-5:15 | **Abandonner l’attente : promouvoir le choix des élèves dans une salle de classe post-pandémique** |  Pratique {-}
 
 ***Rebekah Bennetch*** | *University of Saskatchewan*
 
@@ -438,11 +440,11 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 </details>
 ```
 
-### Concurrent Session 3.3 |  Wildcard {-}
+### Séance simultanée 3.3 |  Caractère générique {-}
 
 ```{block, type='session'}
 
-#### 3:45 - 4:45 | **Whiteboard Animation for Dental Education** |  Research {-}
+#### 3:45 - 4:45 | **Animation sur tableau blanc pour l’enseignement dentaire** |  Recherche {-}
 
 ***Nazlee Sharmin, Ava K Chow & Mike Carbonaro*** | *University of Alberta*
 
@@ -458,7 +460,7 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 
 ```{block, type='session'}
 
-#### 4:45 - 5:15 | **In-class gaming to improve students’ learning experiences in dental education** |  Research {-}
+#### 4:45 - 5:15 | **Jeux en classe pour améliorer les expériences d’apprentissage des étudiants en éducation dentaire** |  Recherche {-}
 
 ***Nazlee Sharmin & Ava K Chow*** | *University of Alberta*
 
@@ -472,11 +474,11 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 </details>
 ```
 
-### Concurrent Session 3.4 |  Transitions of Online Learning & Teaching {-}
+### Séance simultanée 3.4 |  Formations d’apprentissage et d’enseignement en ligne {-}
 
 ```{block, type='session'}
 
-#### 3:45 - 4:45 | **Encadrer des étudiant.es à distance : Description des pratiques de nouveaux professeure.s (in French)** |  Research {-}
+#### 3:45 - 4:45 | **Encadrer des étudiant.es à distance : Description des pratiques de nouveaux professeure.s (en français)** |  Recherche {-}
 
 ***Serge Gérin-Lajoie*** | *Université TÉLUQ*
 
@@ -492,7 +494,7 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 
 ```{block, type='session'}
 
-#### 4:45 - 5:15 | **Face to Face, Online or Something in Between – Student Perceptions of Student Engagement in Different Learning Environments** |  Research {-}
+#### 4:45 - 5:15 | **Face à face, en ligne ou quelque chose entre les deux – Perceptions des étudiants sur l’engagement des étudiants dans différents environnements d’apprentissage** |  Recherche {-}
 
 ***Hongran Cui, Michelle Harrison & Victoria Handford*** | *Thompson Rivers University*
 
@@ -506,11 +508,11 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 </details>
 ```
 
-### Concurrent Session 3.5 |  Sustaining Positive Change {-}
+### Séance simultanée 3.5 |  Maintenir un changement positif {-}
 
 ```{block, type='session'}
 
-#### 3:45 - 4:45 | **Be(com)ing OE Librarians in Ukraine During Wartime: Taking Down Language Barriers and Practising Inclusion** |  Practice {-}
+#### 3:45 - 4:45 | **Être(com)ing bibliothécaires OE en Ukraine en temps de guerre : éliminer les barrières linguistiques et pratiquer l’inclusion** |  Pratique {-}
 
 ***Paola Corti*** | *SPARC Europe*
 
@@ -530,7 +532,7 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 
 ```{block, type='session'}
 
-#### 4:45 - 5:15 | **The Role of Academic Libraries in Fostering of Algorithmic Literacy in Canadian Universities: A Metaliterate** |  Research {-}
+#### 4:45 - 5:15 | **Le rôle des bibliothèques universitaires dans la promotion de la littératie algorithmique dans les universités canadiennes : un métalalphabète** |  Recherche {-}
 
 ***Marta Samokishyn*** | *Saint Paul University*
 
@@ -544,18 +546,18 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 </details>
 ```
 
-## Break | 5:15-5:30 {-}
+## Casser | 5:15-5:30 {-}
 
-### Concurrent Session 4 | 5:30-6:15 {-}
+### Séance simultanée 4 | 5:30-6:15 {-}
 
 45 Minutes
 
 ```{block, type='speaker'}
 
 
-#### Session Speaker: **TBA** 
+#### Conférencier de la session : à déterminer {-} 
 
-*Session title: TBA*
+*Titre de la session : à déterminer*
 
 **Keywords:** 
 
@@ -577,11 +579,11 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 **Keywords:** 
 
 <details>
-<summary>ABSTRACT</summary>
+<summary>Abstract</summary>
 <p>
 
 </p>
 </details>
 ```
 
-## Discussion/Networking Pod | 6:15-6:30 {-}
+## Module de discussion/réseautage | 6:15-6:30 {-}

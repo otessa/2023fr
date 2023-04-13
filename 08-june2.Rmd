@@ -59,7 +59,7 @@
 
 ## Conference Welcome, Announcements & Land Acknowledgement | 10:30-11:00 {-}
 
-## Keynote | 11:00-12:00    {-}
+## Discours d’ouverture | 11:00-12:00    {-}
 
 ```{block, type='keynote'}
  
@@ -81,19 +81,19 @@
 
 ```
 
-## Break | 12:00-12:30 {-}
+## Casser | 12:00-12:30 {-}
 
-## Concurrent Session 17 | Invited Speakers | 12:30-1:15 {-}
+## Séance parallèle 17 | Conférencier invité  | 12:30-1:15 {-}
 
 45 Minutes
 
-### Concurrent Session 17.1 {-}
+### Séance parallèle 17.1 {-}
 
 ```{block, type='speaker'}
 
-#### Session Speaker: **TBA** 
+#### Conférencier de la session : à déterminer {-} 
 
-*Session title: TBA*
+*Titre de la session : à déterminer*
 
 **Keywords:** 
 
@@ -105,13 +105,13 @@
 </details>
 ```
 
-### Concurrent Session 17.2 {-}
+### Séance parallèle 17.2 {-}
 
 ```{block, type='speaker'}
 
-#### Session Speaker: **TBA** 
+#### Conférencier de la session : à déterminer {-} 
 
-*Session title: TBA*
+*Titre de la session : à déterminer*
 
 **Keywords:** 
 
@@ -123,13 +123,13 @@
 </details>
 ```
 
-## Break | 1:05-1:30 {-}
+## Casser | 1:05-1:30 {-}
 
-## Concurrent Session 18 | 1:30-3:00 {-}
+## Séance simultanée 18 | 1:30-3:00 {-}
 
-1.5 Hours
+1.5 heures
 
-### Concurrent Session 18.1 |  Transitions of Online Learning & Teaching {-}
+### Séance simultanée 18.1 |  Formations d’apprentissage et d’enseignement en ligne {-}
 
 ```{block, type='workshop'}
 
@@ -166,11 +166,11 @@
 </details>
 ```
 
-### Concurrent Session 18.2 |  Transitions of Online Learning & Teaching {-}
+### Séance simultanée 18.2 |  Formations d’apprentissage et d’enseignement en ligne {-}
 
 ```{block, type='session'}
 
-#### 1:30-2:00 | **Open Education Research: Past, Present, Future** |  Research {-}
+#### 1:30-2:00 | **Open Education Research: Past, Present, Future** |  Recherche {-}
 
 ***Robert Farrow, Beck Pitt, Martin Weller, Paco Iniesto & Carina Bossu*** | *The Open University*
 
@@ -187,7 +187,7 @@
 ```{block, type='session'}
 
 
-#### 2:00-2:30 | **Using Qualitative Online Survey as a Research Method Amid Covid Pandemic** |  Practice {-}
+#### 2:00-2:30 | **Using Qualitative Online Survey as a Research Method Amid Covid Pandemic** |  Pratique {-}
 
 ***Yina Liu*** | *University of Alberta*
 
@@ -218,12 +218,12 @@
 </details>
 ```
 
-### Concurrent Session 18.3 |  Wildcard {-}
+### Séance simultanée 18.3 |  Caractère générique {-}
 
 ```{block, type='session'}
 
 
-#### 1:30-2:00 | **Non-Directive Strength-Based Online Coaching in Graduate Education** |  Research {-}
+#### 1:30-2:00 | **Non-Directive Strength-Based Online Coaching in Graduate Education** |  Recherche {-}
 
 ***Carolyn Kristjansson*** | *Trinity Western University*
 
@@ -240,7 +240,7 @@
 ```{block, type='session'}
 
 
-#### 2:30-3:00 | **The Teacher’s Self-efficacy and Belief in Implementing S STEM, iSTEM or STEAM in their Classroom** |  Research {-}
+#### 2:30-3:00 | **The Teacher’s Self-efficacy and Belief in Implementing S STEM, iSTEM or STEAM in their Classroom** |  Recherche {-}
 
 ***Atiya Razi*** | *University of Windsor*
 
@@ -256,7 +256,7 @@
 
 ```{block, type='vendor'}
 
-#### 2:30-3:00 | **The Impact of Social Annotation on Learning** |  Research {-}
+#### 2:30-3:00 | **The Impact of Social Annotation on Learning** |  Recherche {-}
 
 **Repeated from Session 7.1**
 
@@ -272,12 +272,12 @@
 </details>
 ```
 
-### Concurrent Session 18.4 |  Sustaining Positive Change {-}
+### Séance simultanée 18.4 |  Maintenir un changement positif {-}
 
 ```{block, type='session'}
 
 
-#### 1:30-2:00 | **A Framework for Evaluating the Creation and Adaptation of Open Textbooks** |  Research {-}
+#### 1:30-2:00 | **A Framework for Evaluating the Creation and Adaptation of Open Textbooks** |  Recherche {-}
 
 ***Melissa Ashman*** | *Kwantlen Polytechnic University*
 
@@ -294,7 +294,7 @@
 ```{block, type='session'}
 
 
-#### 2:00-2:30 | **Interprofessional Healthcare Simulation Co-Creation: A Pilot Study** |  Research {-}
+#### 2:00-2:30 | **Interprofessional Healthcare Simulation Co-Creation: A Pilot Study** |  Recherche {-}
 
 ***Laura Killam*** | *Queen’s University Canada*
 
@@ -310,11 +310,11 @@
 </details>
 ```
 
-### Concurrent Session 18.5 |  Addressing Inequities {-}
+### Séance simultanée 18.5 |  Aborder les inégalités {-}
 
 ```{block, type='session'}
 
-#### 9:30-10:30 | **Four Perspectives of Learner-Educator Co-Creation** |  Practice {-}
+#### 9:30-10:30 | **Four Perspectives of Learner-Educator Co-Creation** |  Pratique {-}
 
 ***Mercedes Lock*** | *Cambrian College*
 
@@ -336,7 +336,7 @@
 
 ```{block, type='session'}
 
-#### 2:30 - 3:00  | **A Learner-Educator Co-Creation Toolkit** |  Practice {-}
+#### 2:30 - 3:00  | **A Learner-Educator Co-Creation Toolkit** |  Pratique {-}
 
 ***Laura Killam*** | *Queen’s University Canada*
 
@@ -354,18 +354,18 @@
 </details>
 ```
 
-## Break | 3:00-3:15 {-}
+## Casser | 3:00-3:15 {-}
 
 ## Social | 3:15-3:45 {-}
-## Concurrent Session 19 | 3:45-5:15 {-}
+## Séance simultanée 19 | 3:45-5:15 {-}
 
-1.5 Hours
-### Concurrent Session 19.1 |  Wildcard {-}
+1.5 heures
+### Séance simultanée 19.1 |  Caractère générique {-}
 
 ```{block, type='session'}
 
 
-#### 3:45-4:45 | **On Speculative Education Fiction for Hopeful Learning Futures** |  Research {-}
+#### 3:45-4:45 | **On Speculative Education Fiction for Hopeful Learning Futures** |  Recherche {-}
 
 ***Shandell Houlden & George Veletsianos*** | *Royal Roads University*
 
@@ -395,12 +395,12 @@
 </details>
 ```
 
-### Concurrent Session 19.2 |  Sustaining Positive Change {-}
+### Séance simultanée 19.2 |  Maintenir un changement positif {-}
 
 ```{block, type='session'}
 
 
-#### 3:45-4:45 | **“No Longer Silent!” Racialized Academic Women Speak Out** |  Research {-}
+#### 3:45-4:45 | **“No Longer Silent!” Racialized Academic Women Speak Out** |  Recherche {-}
 
 ***Sandra Dixon*** | *University of Lethbridge*
 
@@ -423,7 +423,7 @@
 ```{block, type='session'}
 
 
-#### 4:45-5:15 | **Peace Education in the Platformed Society: Lessons from Colombia** |  Research {-}
+#### 4:45-5:15 | **Peace Education in the Platformed Society: Lessons from Colombia** |  Recherche {-}
 
 ***Estaban Morales*** | *University of British Columbia*
 
@@ -437,12 +437,12 @@
 </details>
 ```
 
-### Concurrent Session 19.3 |  Sustaining Positive Change {-}
+### Séance simultanée 19.3 |  Maintenir un changement positif {-}
 
 ```{block, type='session'}
 
 
-#### 3:45-4:45 | **Scaling Small: The Open Book Collective Launch and Platform** |  Practice {-}
+#### 3:45-4:45 | **Scaling Small: The Open Book Collective Launch and Platform** |  Pratique {-}
 
 ***Judith Fathallah*** | *Lancaster University*
 
@@ -456,12 +456,12 @@
 </details>
 ```
 
-### Concurrent Session 19.4 |  Sustaining Positive Change {-}
+### Séance simultanée 19.4 |  Maintenir un changement positif {-}
 
 ```{block, type='session'}
 
 
-#### 3:45-4:15 | **Discovery Based Learning with Open Technologies, for Positive Change** |  Practice {-}
+#### 3:45-4:15 | **Discovery Based Learning with Open Technologies, for Positive Change** |  Pratique {-}
 
 ***Brian Sutherland*** | *University of Toronto*
 
@@ -478,7 +478,7 @@
 ```{block, type='session'}
 
 
-#### 4:15-4:45 | **Interprofessional Healthcare Simulation Co-Creation: A Pilot Study** |  Research {-}
+#### 4:15-4:45 | **Interprofessional Healthcare Simulation Co-Creation: A Pilot Study** |  Recherche {-}
 
 ***Laura Killam*** | *Queen's University Canada*
 
@@ -497,7 +497,7 @@
 ```{block, type='session'}
 
 
-#### 4:45-5:15 | **Negotiating an Informed Personal Theory and Philosophy of Open Education in a Professional Development Setting** |  Research {-}
+#### 4:45-5:15 | **Negotiating an Informed Personal Theory and Philosophy of Open Education in a Professional Development Setting** |  Recherche {-}
 
 ***Irwin DeVries*** | *Royal Roads University*
 
@@ -513,19 +513,19 @@
 </details>
 ```
 
-## Break | 5:15-5:30 {-}
+## Casser | 5:15-5:30 {-}
 
-## Concurrent Session 20 | Invited Speakers | 5:30-6:15 {-}
+## Séance simultanée 20 | Invited Speakers | 5:30-6:15 {-}
 
 45 Minutes
 
-### Concurrent Session 20.1 {-}
+### Séance simultanée 20.1 {-}
 
 ```{block, type='speaker'}
 
-#### Session Speaker: **TBA** 
+#### Conférencier de la session : à déterminer {-} 
 
-*Session title: TBA*
+*Titre de la session : à déterminer*
 
 **Keywords:** 
 
@@ -537,13 +537,13 @@
 </details>
 ```
 
-### Concurrent Session 20.2 {-}
+### Séance simultanée 20.2 {-}
 
 ```{block, type='speaker'}
 
-#### Session Speaker: **TBA** 
+#### Conférencier de la session : à déterminer {-} 
 
-*Session title: TBA*
+*Titre de la session : à déterminer*
 
 **Keywords:** 
 

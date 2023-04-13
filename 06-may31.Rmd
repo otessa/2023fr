@@ -62,18 +62,18 @@
 
 ## Conference Welcome, Announcements & Land Acknowledgement | 9:00-9:15 {-}
 
-## Break | 9:15-9:30 {-}
+## Casser | 9:15-9:30 {-}
 
-## Concurrent Session 13 | 9:30-10:30 {-}
+## Séance simultanée 13 | 9:30-10:30 {-}
 
 1 Hour
 
-### Concurrent Session 13.1 |  Transitions of Online Learning & Teaching {-}
+### Séance simultanée 13.1 |  Formations d’apprentissage et d’enseignement en ligne {-}
 
 ```{block, type='session'}
 
 
-#### 9:30-10:00 | **Designing Group Work in Online Courses to Develop Preservice Teachers’ Professional Collaboration Skills** |  Research {-}
+#### 9:30-10:00 | **Designing Group Work in Online Courses to Develop Preservice Teachers’ Professional Collaboration Skills** |  Recherche {-}
 
 ***Amber Hartwell, Christy Thomas, Barbara Brown & Bruna Nogueria*** | *University of Calgary*
 
@@ -104,7 +104,7 @@
 </details>
 ```
 
-### Concurrent Session 13.2 |  Addressing Inequities {-}
+### Séance simultanée 13.2 |  Aborder les inégalités {-}
 
 ```{block, type='workshop'}
 
@@ -123,12 +123,12 @@
 </details>
 ```
 
-### Concurrent Session 13.3 |  Transitions of Online Learning & Teaching {-}
+### Séance simultanée 13.3 |  Formations d’apprentissage et d’enseignement en ligne {-}
 
 ```{block, type='session'}
 
 
-#### 9:30-10:00 | **Online Collaborative Testing: Design and Implementation in a Large First-Year Undergraduate Course** |  Practice {-}
+#### 9:30-10:00 | **Online Collaborative Testing: Design and Implementation in a Large First-Year Undergraduate Course** |  Pratique {-}
 
 ***Mariel Miller, Safoura Askari & Syed Qudsia*** | *University of Victoria*
 
@@ -144,7 +144,7 @@
 
 ```{block, type='session'}
 
-#### 10:00-10:30 | **Hidden Curriculum of Education Technologies** |  Practice {-}
+#### 10:00-10:30 | **Hidden Curriculum of Education Technologies** |  Pratique {-}
 
 ***Danielle Dilkes*** | *Western University*
 
@@ -158,9 +158,9 @@
 </details>
 ```
 
-## Break | 10:30-11:00 {-}
+## Casser | 10:30-11:00 {-}
 
-## Keynote | 11:00-12:00 {-}
+## Discours d’ouverture | 11:00-12:00 {-}
 
 ```{block, type='keynote'}
  
@@ -184,19 +184,19 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 
 ```
 
-## Break | 12:00-1:30 {-}
+## Casser | 12:00-1:30 {-}
 
-## Concurrent Session 14 | Invited Speakers | 1:30-2:15 {-}
+## Séance parallèle 14 | Conférencier invité   | 1:30-2:15 {-}
 
 45 Minutes
 
-### Concurrent Session 14.1 {-}
+### Séance parallèle 14.1 {-}
 
 ```{block, type='speaker'}
 
-#### Session Speaker: **TBA** 
+#### Conférencier de la session : à déterminer {-} 
 
-*Session title: TBA*
+*Titre de la session : à déterminer*
 
 **Keywords:** 
 
@@ -208,13 +208,13 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 </details>
 ```
 
-### Concurrent Session 14.2 {-}
+### Séance parallèle 14.2 {-}
 
 ```{block, type='speaker'}
 
-#### Session Speaker: **TBA** 
+#### Conférencier de la session : à déterminer {-} 
 
-*Session title: TBA*
+*Titre de la session : à déterminer*
 
 **Keywords:** 
 
@@ -226,18 +226,18 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 </details>
 ```
 
-## Break | 2:15-2:30 {-}
+## Casser | 2:15-2:30 {-}
 
-## Concurrent Session 15 | 2:30-3:00 {-}
+## Séance simultanée 15 | 2:30-3:00 {-}
 
 30 Minutes
 
-### Concurrent Session 15.1 |  Addressing Inequities {-}
+### Séance simultanée 15.1 |  Aborder les inégalités {-}
 
 ```{block, type='session'}
 
 
-#### 2:30-3:00 | **Open Educational Practices in Canada’s Higher Education in a French- speaking Minority Environment: Reckonings on Language Justice** |  Research {-}
+#### 2:30-3:00 | **Open Educational Practices in Canada’s Higher Education in a French- speaking Minority Environment: Reckonings on Language Justice** |  Recherche {-}
 
 ***Catherine Lachaîne*** | *University of Ottawa*
 
@@ -251,13 +251,13 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 </details>
 ```
 
-### Concurrent Session 15.2 |  Addressing Inequities {-}
+### Séance simultanée 15.2 |  Aborder les inégalités {-}
 
 ```{block, type='session'}
 
 
 
-#### 2:30-3:00 | **Les Effets d’une initiative pour brancher sur Internet les familles à faible revenu (in French)** |  Research {-}
+#### 2:30-3:00 | **Les Effets d’une initiative pour brancher sur Internet les familles à faible revenu (in French)** |  Recherche {-}
 
 ***Normand Roy*** | *Université de Montréal*
 
@@ -271,13 +271,13 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 </details>
 ```
 
-### Concurrent Session 15.3 |  Sustaining Positive Change {-}
+### Séance simultanée 15.3 |  Maintenir un changement positif {-}
 
 ```{block, type='session'}
 
 
 
-#### 2:30-3:00 | **Beyond Covid-19: Infusing Advanced Technologies into a New Model for Children’s Adaptation to the New Normal** |  Research {-}
+#### 2:30-3:00 | **Beyond Covid-19: Infusing Advanced Technologies into a New Model for Children’s Adaptation to the New Normal** |  Recherche {-}
 
 ***Liton Furukawa*** | *Royal Roads University*
 
@@ -293,15 +293,15 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 
 ## Break with Coffee and Snack Provided | 3:00-3:30 {-}
 
-## Concurrent Session 16 | 3:30-5:00 {-}
+## Séance simultanée 16 | 3:30-5:00 {-}
 
-### Concurrent Session 16.1 |  Wildcard {-}
+### Séance simultanée 16.1 |  Caractère générique {-}
 
 ```{block, type='session'}
 
 
 
-#### 3:30-4:30 | **The Interconnectivity of Heutagogy and Education 4.0 in Higher Online Education** |  Research {-}
+#### 3:30-4:30 | **The Interconnectivity of Heutagogy and Education 4.0 in Higher Online Education** |  Recherche {-}
 
 ***Jeanne Kim*** | *Athabasca University*
 
@@ -319,7 +319,7 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 
 
 
-#### 4:30-5:00 | **An Interwoven Course: Reflective Practice and Portfolio** |  Practice {-}
+#### 4:30-5:00 | **An Interwoven Course: Reflective Practice and Portfolio** |  Pratique {-}
 
 ***Christine Ho Younghusband*** | *University of Northern British Columbia*
 
@@ -333,11 +333,11 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 </details>
 ```
 
-### Concurrent Session 16.2 |  Wildcard {-}
+### Séance simultanée 16.2 |  Caractère générique {-}
 
 ```{block, type='session'}
 
-#### 3:30-4:30 | **Designing Agile Skill Development Pathways for Climate Adaptation: Leveraging Open Competency Frameworks and Open Educational Resources to Develop Micro-credential** |  Practice {-}
+#### 3:30-4:30 | **Designing Agile Skill Development Pathways for Climate Adaptation: Leveraging Open Competency Frameworks and Open Educational Resources to Develop Micro-credential** |  Pratique {-}
 
 ***David Porter*** | *DP+Associates*
 
@@ -357,7 +357,7 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 
 
 
-#### 4:30-5:00 | **What Happened to OpenCourseWare? A Discussion of the Open Education Movement’s Shift from Course Content to Textbooks** |  Practice {-}
+#### 4:30-5:00 | **What Happened to OpenCourseWare? A Discussion of the Open Education Movement’s Shift from Course Content to Textbooks** |  Pratique {-}
 
 ***Erik Christiansen*** | *Mount Royal University*
 
@@ -371,13 +371,13 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 </details>
 ```
 
-### Concurrent Session 16.3 |  Wildcard {-}
+### Séance simultanée 16.3 |  Caractère générique {-}
 
 ```{block, type='session'}
 
 
 
-#### 3:30-5:00 | **Leadership for Digital Transformation** |  Research {-}
+#### 3:30-5:00 | **Leadership for Digital Transformation** |  Recherche {-}
 
 ***Don Eldridge, Monica Shah & Alissa Bigelow*** | *eCampusOntario*
 
@@ -391,13 +391,13 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 </details>
 ```
 
-### Concurrent Session 16.4 |  Sustaining Positive Change {-}
+### Séance simultanée 16.4 |  Maintenir un changement positif {-}
 
 ```{block, type='session'}
 
 
 
-#### 3:30-4:00 | **Opening-Up Digital Platforms to Community-Based Research** |  Research {-}
+#### 3:30-4:00 | **Opening-Up Digital Platforms to Community-Based Research** |  Recherche {-}
 
 ***Robyn Hall*** | *MacEwan University*
 
@@ -415,7 +415,7 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 
 
 
-#### 4:00-4:30 | **The Role of Teachers’ Assessment Literacy in an Inquiry-Based Learning Environment** |  Research {-}
+#### 4:00-4:30 | **The Role of Teachers’ Assessment Literacy in an Inquiry-Based Learning Environment** |  Recherche {-}
 
 ***Maryam Shirdel Pour & Michael Paskevicius*** | *University of Victoria*
 
@@ -433,7 +433,7 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 
 
 
-#### 4:30-5:00 | **TBA** |  Research {-}
+#### 4:30-5:00 | **TBA** |  Recherche {-}
 
 ***TBA*** | *TBA*
 

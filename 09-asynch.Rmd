@@ -1,11 +1,11 @@
 # Asynchronous Presentations | Saturday, May 27 - Friday, June 2 {-}
 
 
-### Showcase 21.1 |  Transitions of Online Learning & Teaching {-}
+### Showcase 21.1 |  Formations d’apprentissage et d’enseignement en ligne {-}
 
 ```{block, type='session'}
 
-####   **Bridging Digital Borders** |  Practice {-}
+####   **Bridging Digital Borders** |  Pratique {-}
 
 ***Mariana Jardim, Abigail Warnock & Robert Matz*** | *University of Toronto*
 
@@ -19,11 +19,11 @@
 </details>
 ```
 
-### Showcase 21.2 |  Addressing Inequities {-}
+### Showcase 21.2 |  Aborder les inégalités {-}
 
 ```{block, type='session'}
 
-####  **Critical Digital Pedagogy in Higher Education** |  Practice {-}
+####  **Critical Digital Pedagogy in Higher Education** |  Pratique {-}
 
 ***Suzan Koseoglu*** | *University of Greenwich*
 
@@ -41,12 +41,12 @@
 </details>
 ```
 
-### Showcase 21.3 |  Addressing Inequities {-}
+### Showcase 21.3 |  Aborder les inégalités {-}
 
 ```{block, type='session'}
 
 ####  **GetLitwithFin: A Cross-Campus Capstone Classroom (C4) Digest (@York)
-** |  Practice {-}
+** |  Pratique {-}
 
 ***Gilbert Chen, Diana Xu, Saranya Sivaneshon, Pranav Kulkarni, Wasif Hyder, Parkriti Biswas, Jessica Kabuli & Ramshah Kidwai*** | *York University*
 

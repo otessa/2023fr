@@ -25,7 +25,7 @@
 \contentsline {paragraph}{\numberline {1.0.0.0.9}Session Speaker: \textbf {TBA}}{15}{paragraph.1.0.0.0.9}%
 \contentsline {section}{Break \textbar {} 1:15-1:30}{15}{section*.22}%
 \contentsline {section}{Concurrent Session 2 \textbar {} 1:30-3:00}{15}{section*.23}%
-\contentsline {subsection}{Concurrent Session 2.1 \textbar {} Wildcard}{15}{section*.24}%
+\contentsline {subsection}{Concurrent Session 2.1 \textbar {} Caractère générique}{15}{section*.24}%
 \contentsline {paragraph}{1:30-2:30 \textbar {} \textbf {Escape Rooms for Education} \textbar {} Practice}{15}{section*.25}%
 \contentsline {paragraph}{2:30-3:00 \textbar {} \textbf {A(nother) Guide for Resisting EdTech: The Case Against (or For?) Course Hero} \textbar {} Practice}{15}{section*.26}%
 \contentsline {subsection}{Concurrent Session 2.2 \textbar {} Sustaining Positive Change}{16}{section*.27}%
@@ -52,7 +52,7 @@
 \contentsline {subsection}{Concurrent Session 3.2 \textbar {} Sustaining Positive Change}{18}{section*.48}%
 \contentsline {paragraph}{3:45-4:45 \textbar {} \textbf {The Slow Trend Toward K-12 OER Sharing} \textbar {} Practice}{18}{section*.49}%
 \contentsline {paragraph}{4:45-5:15 \textbar {} \textbf {Letting Go of Holding On: Promoting Student Choice in a Post- Pandemic Classroom} \textbar {} Practice}{19}{section*.50}%
-\contentsline {subsection}{Concurrent Session 3.3 \textbar {} Wildcard}{19}{section*.51}%
+\contentsline {subsection}{Concurrent Session 3.3 \textbar {} Caractère générique}{19}{section*.51}%
 \contentsline {paragraph}{3:45 - 4:45 \textbar {} \textbf {Whiteboard Animation for Dental Education} \textbar {} Research}{19}{section*.52}%
 \contentsline {paragraph}{4:45 - 5:15 \textbar {} \textbf {In-class gaming to improve students' learning experiences in dental education} \textbar {} Research}{19}{section*.53}%
 \contentsline {subsection}{Concurrent Session 3.4 \textbar {} Transitions of Online Learning \& Teaching}{19}{section*.54}%
@@ -97,7 +97,7 @@
 \contentsline {paragraph}{\numberline {3.0.0.0.10}Session Speaker: \textbf {TBA}}{27}{paragraph.3.0.0.0.10}%
 \contentsline {section}{Break \textbar {} 2:15-2:30}{27}{section*.87}%
 \contentsline {section}{Concurrent Session 7 \textbar {} 2:30-3:00}{27}{section*.88}%
-\contentsline {subsection}{Concurrent Session 7.1 \textbar {} Wildcard}{27}{section*.89}%
+\contentsline {subsection}{Concurrent Session 7.1 \textbar {} Caractère générique}{27}{section*.89}%
 \contentsline {paragraph}{2:30-3:00 \textbar {} \textbf {The Impact of Social Annotation on Learning} \textbar {} Research}{27}{section*.90}%
 \contentsline {subsection}{Concurrent Session 7.2 \textbar {} Sustaining Positive Change}{27}{section*.91}%
 \contentsline {paragraph}{2:30-3:00 \textbar {} \textbf {What Uses of Digital Technology Support and Enhance the Learning and the Engagement of Diverse Learners in High School Classes?} \textbar {} Research}{27}{section*.92}%
@@ -110,7 +110,7 @@
 \contentsline {subsection}{Concurrent Session 8.2 \textbar {} Sustaining Positive Change}{28}{section*.99}%
 \contentsline {paragraph}{3:30-4:30 \textbar {} \textbf {Practitioner Values in the Transition to Open Education Resources: Moving Through Disruption to Improved Practice} \textbar {} Practice}{28}{section*.100}%
 \contentsline {paragraph}{4:30-5:00 \textbar {} \textbf {Showcasing a Student-Led Anti-Racism Virtual Simulation Module for Equitable Learning} \textbar {} Practice}{29}{section*.101}%
-\contentsline {subsection}{Concurrent Session 8.3 \textbar {} Wildcard}{29}{section*.102}%
+\contentsline {subsection}{Concurrent Session 8.3 \textbar {} Caractère générique}{29}{section*.102}%
 \contentsline {paragraph}{3:30-4:30 \textbar {} \textbf {Adaptive Learning in Practice} \textbar {} Practice}{29}{section*.103}%
 \contentsline {paragraph}{4:30-5:00 \textbar {} \textbf {An e-Book of One's Own} \textbar {} Practice}{29}{section*.104}%
 \contentsline {subsection}{Concurrent Session 8.4 \textbar {} Transitions of Online Learning \& Teaching}{29}{section*.105}%
@@ -153,7 +153,7 @@
 \contentsline {section}{Concurrent Session 12 \textbar {} 3:30-5:00}{36}{section*.137}%
 \contentsline {paragraph}{3:30-4:30 \textbar {} \textbf {L'apprentissage intégré au travail numérique -- l'impact de l'éducation sur la pénurie de main-d'œuvre (in French)} \textbar {} Practice}{36}{section*.138}%
 \contentsline {paragraph}{4:30-5:00 \textbar {} \textbf {Language, Storytelling and the Narrative Bounds of Empire: Approaching Twine as a Feminist Pedagogical Tool} \textbar {} Practice}{36}{section*.139}%
-\contentsline {subsection}{Concurrent Session 12.2 \textbar {} Wildcard}{36}{section*.140}%
+\contentsline {subsection}{Concurrent Session 12.2 \textbar {} Caractère générique}{36}{section*.140}%
 \contentsline {paragraph}{3:30-4:00 \textbar {} \textbf {Virtual Reality Simulations in Higher Education Science Classes:Student Engagement and Teacher Professional Development} \textbar {} Research}{36}{section*.141}%
 \contentsline {paragraph}{4:30-5:00 \textbar {} \textbf {A Gamified Design Framework to Enhance L2 Learners' Motivation and Engagement} \textbar {} Research}{37}{section*.142}%
 \contentsline {subsection}{Concurrent Session 12.3 \textbar {} Sustaining Positive Change}{37}{section*.143}%
@@ -201,13 +201,13 @@
 \contentsline {paragraph}{2:30-3:00 \textbar {} \textbf {Beyond Covid-19: Infusing Advanced Technologies into a New Model for Children's Adaptation to the New Normal} \textbar {} Research}{44}{section*.182}%
 \contentsline {section}{Break with Coffee and Snack Provided \textbar {} 3:00-3:30}{44}{section*.183}%
 \contentsline {section}{Concurrent Session 16 \textbar {} 3:30-5:00}{44}{section*.184}%
-\contentsline {subsection}{Concurrent Session 16.1 \textbar {} Wildcard}{44}{section*.185}%
+\contentsline {subsection}{Concurrent Session 16.1 \textbar {} Caractère générique}{44}{section*.185}%
 \contentsline {paragraph}{3:30-4:30 \textbar {} \textbf {The Interconnectivity of Heutagogy and Education 4.0 in Higher Online Education} \textbar {} Research}{44}{section*.186}%
 \contentsline {paragraph}{4:30-5:00 \textbar {} \textbf {An Interwoven Course: Reflective Practice and Portfolio} \textbar {} Practice}{44}{section*.187}%
-\contentsline {subsection}{Concurrent Session 16.2 \textbar {} Wildcard}{44}{section*.188}%
+\contentsline {subsection}{Concurrent Session 16.2 \textbar {} Caractère générique}{44}{section*.188}%
 \contentsline {paragraph}{3:30-4:30 \textbar {} \textbf {Designing Agile Skill Development Pathways for Climate Adaptation: Leveraging Open Competency Frameworks and Open Educational Resources to Develop Micro-credential} \textbar {} Practice}{44}{section*.189}%
 \contentsline {paragraph}{4:30-5:00 \textbar {} \textbf {What Happened to OpenCourseWare? A Discussion of the Open Education Movement's Shift from Course Content to Textbooks} \textbar {} Practice}{45}{section*.190}%
-\contentsline {subsection}{Concurrent Session 16.3 \textbar {} Wildcard}{45}{section*.191}%
+\contentsline {subsection}{Concurrent Session 16.3 \textbar {} Caractère générique}{45}{section*.191}%
 \contentsline {paragraph}{3:30-5:00 \textbar {} \textbf {Leadership for Digital Transformation} \textbar {} Research}{45}{section*.192}%
 \contentsline {subsection}{Concurrent Session 16.4 \textbar {} Sustaining Positive Change}{45}{section*.193}%
 \contentsline {paragraph}{3:30-4:00 \textbar {} \textbf {Opening-Up Digital Platforms to Community-Based Research} \textbar {} Research}{45}{section*.194}%
@@ -239,7 +239,7 @@
 \contentsline {paragraph}{1:30-2:00 \textbar {} \textbf {Open Education Research: Past, Present, Future} \textbar {} Research}{51}{section*.216}%
 \contentsline {paragraph}{2:00-2:30 \textbar {} \textbf {Using Qualitative Online Survey as a Research Method Amid Covid Pandemic} \textbar {} Practice}{52}{section*.217}%
 \contentsline {paragraph}{2:30-3:00 \textbar {} \textbf {TBA} \textbar {} TBA}{52}{section*.218}%
-\contentsline {subsection}{Concurrent Session 18.3 \textbar {} Wildcard}{52}{section*.219}%
+\contentsline {subsection}{Concurrent Session 18.3 \textbar {} Caractère générique}{52}{section*.219}%
 \contentsline {paragraph}{1:30-2:00 \textbar {} \textbf {Non-Directive Strength-Based Online Coaching in Graduate Education} \textbar {} Research}{52}{section*.220}%
 \contentsline {paragraph}{2:30-3:00 \textbar {} \textbf {The Teacher's Self-efficacy and Belief in Implementing S STEM, iSTEM or STEAM in their Classroom} \textbar {} Research}{52}{section*.221}%
 \contentsline {paragraph}{2:30-3:00 \textbar {} \textbf {The Impact of Social Annotation on Learning} \textbar {} Research}{52}{section*.222}%

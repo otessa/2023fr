@@ -59,16 +59,16 @@
 
 ## Conference Welcome, Announcements & Land Acknowledgement | 9:00-9:15 {-}
 
-## Break | 9:15-9:30 {-}
+## Casser | 9:15-9:30 {-}
 
-## Concurrent Session 9 | 9:30-10:30 {-}
+## Séance simultanée 9 | 9:30-10:30 {-}
 
 1 hour
-### Concurrent Session 9.1 |  Transitions of Online Learning & Teaching {-}
+### Séance simultanée 9.1 |  Formations d’apprentissage et d’enseignement en ligne {-}
 
 ```{block, type='session'}
 
-#### 9:30-10:00 | **Developing Open Education Literacies in Teacher Education Programs** |  Research {-}
+#### 9:30-10:00 | **Developing Open Education Literacies in Teacher Education Programs** |  Recherche {-}
 
 ***Michael Paskevicius*** | *University of Victoria*
 
@@ -84,7 +84,7 @@
 
 ```{block, type='session'}
 
-#### 10:00-10:30 | **Technological Distance: A New Way of Conceptualizing the “Distance” in Distance Learning** |  Research {-}
+#### 10:00-10:30 | **Technological Distance: A New Way of Conceptualizing the “Distance” in Distance Learning** |  Recherche {-}
 
 ***Jon Dron*** | *Athabasca University*
 
@@ -98,12 +98,12 @@
 </details>
 ```
 
-### Concurrent Session 9.2 |  Transitions of Online Learning & Teaching {-}
+### Séance simultanée 9.2 |  Formations d’apprentissage et d’enseignement en ligne {-}
 
 
 ```{block, type='session'}
 
-#### 9:30-10:00 | **Belonging, Relatedness, Connectedness, or Social Presence? Overlaps and Differences in Online Learning** |  Research {-}
+#### 9:30-10:00 | **Belonging, Relatedness, Connectedness, or Social Presence? Overlaps and Differences in Online Learning** |  Recherche {-}
 
 ***Behnoosh Khoramrooz, Mariel Miller & Valerie Irvine*** | *University of Victoria*
 
@@ -119,7 +119,7 @@
 
 ```{block, type='session'}
 
-#### 10:00-10:30 | **Hybrid Learning in Ontario During COVID-19 Emergency Closures** |  Research {-}
+#### 10:00-10:30 | **Hybrid Learning in Ontario During COVID-19 Emergency Closures** |  Recherche {-}
 
 ***Beyhan Farhadi*** | *York University*
 
@@ -133,11 +133,11 @@
 </details>
 ```
 
-### Concurrent Session 9.3 |  Sustaining Positive Change {-}
+### Séance simultanée 9.3 |  Maintenir un changement positif {-}
 
 ```{block, type='session'}
 
-#### 9:30-10:00 | **Writing Care-fully about Indigenous Cultural Safety and Cultural Humility: A Reflection by Settlers Engaged in Reconciliation in OER Development** |  Practice {-}
+#### 9:30-10:00 | **Writing Care-fully about Indigenous Cultural Safety and Cultural Humility: A Reflection by Settlers Engaged in Reconciliation in OER Development** |  Pratique {-}
 
 ***Deb Nielsen*** | *College of New Caledonia*
 
@@ -152,7 +152,7 @@
 ```
 ```{block, type='session'}
 
-#### 10:00-10:30 | **Artificial Intelligence Writing in Higher Education: A Teaching and Learning Centre Perspective** |  Practice {-}
+#### 10:00-10:30 | **Artificial Intelligence Writing in Higher Education: A Teaching and Learning Centre Perspective** |  Pratique {-}
 
 ***Emily Ballantyne*** | *Mount Saint Vincent University*
 
@@ -167,7 +167,7 @@
 ```
 
 
-## Break | 10:30-11:00 {-}
+## Casser | 10:30-11:00 {-}
 
 ## **UnConference** | 11:00-12:00
 
@@ -179,16 +179,16 @@
 
 ## Lunch Break & Streamed Congress Programming | 12:00-1:30 {-}
 
-## Concurrent Session 10 |  Invited Speakers  | 1:30-2:30 {-}
+## Séance parallèle 10 | Conférencier invité  | 1:30-2:30 {-}
 
 45 Minutes
-### Concurrent Session 10.1 {-}
+### Séance parallèle 10.1 {-}
 
 ```{block, type='speaker'}
 
-#### Session Speaker: **TBA** 
+#### Conférencier de la session : à déterminer {-} 
 
-*Session title: TBA*
+*Titre de la session : à déterminer*
 
 **Keywords:** 
 
@@ -199,13 +199,13 @@
 </p>
 </details>
 ```
-### Concurrent Session 10.2 {-}
+### Séance parallèle 10.2 {-}
 
 ```{block, type='speaker'}
 
-#### Session Speaker: **TBA** 
+#### Conférencier de la session : à déterminer {-} 
 
-*Session title: TBA*
+*Titre de la session : à déterminer*
 
 **Keywords:** 
 
@@ -217,15 +217,15 @@
 </details>
 ```
 
-## Concurrent Session 11 |  2:30-3:00 {-}
+## Séance simultanée 11 |  2:30-3:00 {-}
 
 30 Minutes
-### Concurrent Session 11.1 |  Transitions of Online Learning & Teaching {-}
+### Séance simultanée 11.1 |  Formations d’apprentissage et d’enseignement en ligne {-}
 
 ```{block, type='session'}
 
 
-#### 2:30-3:00 | **Conducting Scoping Reviews: Opportunities and Challenges for Examining Social Media Use for Learning** |  Research {-}
+#### 2:30-3:00 | **Conducting Scoping Reviews: Opportunities and Challenges for Examining Social Media Use for Learning** |  Recherche {-}
 
 ***Richard Hayman & Erika E. Smith*** | *Mount Royal University*
 
@@ -241,11 +241,11 @@
 
 
 
-### Concurrent Session 11.2 |  Transitions of Online Learning & Teaching {-}
+### Séance simultanée 11.2 |  Formations d’apprentissage et d’enseignement en ligne {-}
 
 ```{block, type='session'}
 
-#### 2:30-3:00 | **Impact of Emergency Remote Teaching and Digital Technology Usage in K-12 Teacher Practice** |  Research {-}
+#### 2:30-3:00 | **Impact of Emergency Remote Teaching and Digital Technology Usage in K-12 Teacher Pratique** |  Recherche {-}
 
 ***Amber Hartwell*** | *University of Calgary*
 
@@ -259,11 +259,11 @@
 </details>
 ```
 
-### Concurrent Session 11.3 |  Sustaining Positive Change {-}
+### Séance simultanée 11.3 |  Maintenir un changement positif {-}
 
 ```{block, type='session'}
 
-#### 2:30-3:00 | **Data Risks in Online Classroom Platforms: A Comparative Analysis of Policy Documents** |  Research {-}
+#### 2:30-3:00 | **Data Risks in Online Classroom Platforms: A Comparative Analysis of Policy Documents** |  Recherche {-}
 
 ***Thi Kim, Thu Le & Bonnie Stewart*** | *University of Windsor*
 
@@ -279,11 +279,11 @@
 
 
 
-### Concurrent Session 11.4 |  Transitions of Online Learning & Teaching {-}
+### Séance simultanée 11.4 |  Formations d’apprentissage et d’enseignement en ligne {-}
 
 ```{block, type='session'}
 
-#### 2:30-3:00 | **Open at the Crossroads: Forging Media and Digital Literacy Pathways** |  Research {-}
+#### 2:30-3:00 | **Open at the Crossroads: Forging Media and Digital Literacy Pathways** |  Recherche {-}
 
 ***Helen DeWaard*** | *LAkehead University & University of British Columbia*
 
@@ -299,14 +299,14 @@
 
 ## Break with Coffee and Snack Provided | 3:00-3:30
 
-## Concurrent Session 12 |  3:30-5:00 {-}
+## Séance simultanée 12 |  3:30-5:00 {-}
 
-1.5 Hours
-### Concurrent Session 12.1 |  Transitions of Online Learning & Teaching {-}
+1.5 heures
+### Séance simultanée 12.1 |  Formations d’apprentissage et d’enseignement en ligne {-}
 
 ```{block, type='session'}
 
-#### 3:30-4:30 | **L’apprentissage intégré au travail numérique – l’impact de l’éducation sur la pénurie de main-d’œuvre (in French)** |  Practice {-}
+#### 3:30-4:30 | **L’apprentissage intégré au travail numérique – l’impact de l’éducation sur la pénurie de main-d’œuvre (in French)** |  Pratique {-}
 
 ***Andrea Krasznai*** | *eCampusOntario*
 
@@ -322,7 +322,7 @@
 
 ```{block, type='session'}
 
-#### 4:30-5:00 | **Language, Storytelling and the Narrative Bounds of Empire: Approaching Twine as a Feminist Pedagogical Tool** |  Practice {-}
+#### 4:30-5:00 | **Language, Storytelling and the Narrative Bounds of Empire: Approaching Twine as a Feminist Pedagogical Tool** |  Pratique {-}
 
 ***Anna Lee-Popham*** | *University of Guelph*
 
@@ -344,11 +344,11 @@
 </details>
 ```
 
-### Concurrent Session 12.2 |  Wildcard {-}
+### Séance simultanée 12.2 |  Caractère générique {-}
 
 ```{block, type='session'}
 
-#### 3:30-4:00 | **Virtual Reality Simulations in Higher Education Science Classes:Student Engagement and Teacher Professional Development** |  Research {-}
+#### 3:30-4:00 | **Virtual Reality Simulations in Higher Education Science Classes:Student Engagement and Teacher Professional Development** |  Recherche {-}
 
 ***Sebastien Wall-Lacelle, Bruno Poellhuber*** | *Université de Montréal*
 
@@ -368,7 +368,7 @@
 
 ```{block, type='session'}
 
-#### 4:30-5:00 | **A Gamified Design Framework to Enhance L2 Learners’ Motivation and Engagement** |  Research {-}
+#### 4:30-5:00 | **A Gamified Design Framework to Enhance L2 Learners’ Motivation and Engagement** |  Recherche {-}
 
 ***Mourad Majdoub*** | *Université Laval*
 
@@ -382,11 +382,11 @@
 </details>
 ```
 
-### Concurrent Session 12.3 |  Sustaining Positive Change {-}
+### Séance simultanée 12.3 |  Maintenir un changement positif {-}
 
 ```{block, type='session'}
 
-#### 3:30-4:30 | **Re/storying Pedagogy for the Postdigital University: Examining the Power of Critical Storytelling for Imagining Better Futures** |  Practice {-}
+#### 3:30-4:30 | **Re/storying Pedagogy for the Postdigital University: Examining the Power of Critical Storytelling for Imagining Better Futures** |  Pratique {-}
 
 ***Danielle Dilkes*** | *Western University*
 
@@ -402,7 +402,7 @@
 
 ```{block, type='session'}
 
-#### 4:30-5:00 | **TBA** |  Research {-}
+#### 4:30-5:00 | **TBA** |  Recherche {-}
 
 ***Speaker: TBA*** | **
 
@@ -416,11 +416,11 @@
 </details>
 ```
 
-### Concurrent Session 12.4 |  Sustaining Positive Change {-}
+### Séance simultanée 12.4 |  Maintenir un changement positif {-}
 
 ```{block, type='session'}
 
-#### 3:30-4:00 | **Reviewing the Strengths and Challenges to Peer Review** |  Research {-}
+#### 3:30-4:00 | **Reviewing the Strengths and Challenges to Peer Review** |  Recherche {-}
 
 ***Connie Blomgren*** | *Athabasca University*
 
@@ -436,7 +436,7 @@
 
 ```{block, type='session'}
 
-#### 4:00-4:30 | **A Review of Research on Open education Adoption in higher Education: Exploring Approaches, Readiness, and Methods for Evaluation** |  Research {-}
+#### 4:00-4:30 | **A Review of Research on Open education Adoption in higher Education: Exploring Approaches, Readiness, and Methods for Evaluation** |  Recherche {-}
 
 ***Michael Paskevicius & Valerie Irvine*** | *University of Victoria*
 
@@ -453,7 +453,7 @@
 ```{block, type='session'}
 
 
-#### 4:30-5:00 | **Research? Which Research? Technology, Assessment, and Higher Education in Tension** |  Research {-}
+#### 4:30-5:00 | **Research? Which Research? Technology, Assessment, and Higher Education in Tension** |  Recherche {-}
 
 ***Colin Madland*** | *University of Victoria*
 

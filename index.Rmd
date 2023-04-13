@@ -1,5 +1,5 @@
 --- 
-title: "Conference 2023 Program"
+title: "Programme de la conférence 2023"
 author: "OTESSA Program Committee"
 date: "Last updated `r format(Sys.time(), '%A, %b %d, %H:%M %p, %Z')`"
 site: bookdown::bookdown_site
@@ -15,13 +15,15 @@ description: "Open Technology in Education, Society, and Scholarship Association
 # Welcome and Acknowledgements {-}
 
 ```{block, type='protip'}
-✨ Monitor this site for abstracts and any changes to this program. 
+✨ Consultez le site Web de la conférence OTESSA à https://otessa.org/2023 pour les résumés et tout changement à ce programme. 
 
-Information about any changes to the program will also be available via the OTESSA Welcome Desk on the conference platform once the conference opens.
+
+Des informations sur toute modification du programme seront également disponibles via le bureau d’accueil OTESSA sur la plate-forme de la conférence une fois la conférence ouverte.
+
 ```
 
-All OTESSA Participants can attend the [Congress “Big Thinking” lecture series](https://www.federationhss.ca/en/congress/congress-2022/open-programming). These take place each day of the conference. Congress has [“open events”](https://www.federationhss.ca/en/congress/congress-2022/calendar-open-events) available as well (open to registrants across association conferences at Congress as well as those who hold community passes).
+Tous les participants OTESSA peuvent assister à la série de conférences « [Voir grand](https://www.federationhss.ca/en/congress/congress-2022/open-programming){target="_blank"} » du Congrès. Celles-ci ont lieu chaque jour de la conférence. Le Congrès propose également des “[événements ouverts](https://www.federationhss.ca/en/congress/congress-2022/calendar-open-events){target="_blank"}” (ouverts aux inscrits lors des conférences d’association au Congrès ainsi qu’à ceux qui détiennent des laissez-passer communautaires).
 
-All OTESSA Registrants can also attend conference sessions offered by the [Canadian Association for the Study of Education (CSSE)](https://csse-scee.ca/), [Canadian Association for the Study of Higher Education (CSSHE)](https://csshe-scees.ca/), and [Canadian Association of Learned Journals (CALJ)](https://www.calj-acrs.ca/) as we have reciprocity agreements in place. Please note that presenters must register in each conference in which they are presenting.
+Tous les inscrits OTESSA peuvent également assister aux sessions de conférence offertes par [l’Association canadienne pour l’étude de l’éducation (CSSE)](https://csse-scee.ca/){target="_blank"}, [l’Association canadienne pour l’étude de l’enseignement supérieur (CSSHE)](https://csshe-scees.ca/){target="_blank"}, et [l’Association canadienne des revues savantes (CALJ)](https://www.calj-acrs.ca/){target="_blank"} car nous avons des accords de réciprocité en place. Veuillez noter que les présentateurs doivent s’inscrire à chaque conférence dans laquelle ils présentent.
 
-Join us at the #OTESSA23 Morning Radio Show every morning times TBA (Eastern) at [https://voiced.ca/](https://voiced.ca/)
+Rejoignez-nous à l’émission de radio matinale #OTESSA23 tous les matins à déterminer (heure de l’Est) à [https://voiced.ca](https://voiced.ca){target="_blank"}
