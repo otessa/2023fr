@@ -1,4 +1,5 @@
-# Friday, June 2 - Online Sessions Only
+# Vendredi 2 Juin 2023 | SÉANCES EN LIGNE UNIQUEMENT 
+
 
 ```{block, type='protip'}
 
@@ -55,16 +56,16 @@
 
 ---
 
-## Welcome Desk Open | 10:00 - 12:30 {-}
+## Bureau d’accueil ouvert | 10:00 - 12:30 {-}
 
-## Conference Welcome, Announcements & Land Acknowledgement | 10:30-11:00 {-}
+## Bienvenue à la conférence, annonces et reconnaissance des terres | 10:30-11:00 {-}
 
 ## Discours d’ouverture | 11:00-12:00    {-}
 
 ```{block, type='keynote'}
  
 
-#### TBA {-}
+#### The (un)bearable lightness of student data privacy: reckonings and re-imaginings {-}
 
 *Paul Prinsloo*
 *University of South Africa*
@@ -73,6 +74,8 @@
 <summary>Abstract</summary>
 <p>
 
+
+Education has always collected and used student learning data in combination with a range of other data e.g., demographic, financial and prior learning data for a variety of purposes such as to assess and monitor students’ progress, identify students who may need additional support. There has always been concerns about possible bias, stereotyping and impact of categorization of students. Students’ (data)(learning) privacy were somewhere to be found among files being carried from one office to the other, files that got misplaced, unlocked storages and, possibly, a laissez-faire approach to protecting student data privacy because what happened in the classroom and school, stayed in the classroom (mostly). Even if this portrayal of student data privacy may sound idealistic and rather, simplistic, we must reckon how the increasing digitalization and datafication of teaching and learning changes not only the scope of student (data) privacy, but also attempts to protect their (and our) data. In this presentation I hope to provoke thinking about the (un)bearable lightness of student data privacy and consider what it means for students, faculty, institutional data governance amid the intensification and expansion of the data gaze. 
 </p>
 </details>
 
@@ -123,7 +126,7 @@
 </details>
 ```
 
-## Casser | 1:05-1:30 {-}
+## Casser | 1:15-1:30 {-}
 
 ## Séance simultanée 18 | 1:30-3:00 {-}
 
@@ -134,7 +137,7 @@
 ```{block, type='workshop'}
 
 
-#### 1:30-2:30 | **Assessment in a Digital Age: Learning within the Continuum for Pedagogy, Technology, and Assessment** |  Workshop {-}
+#### 1:30-2:30 | **L’évaluation à l’ère numérique : l’apprentissage dans le continuum de la pédagogie, de la technologie et de l’évaluation** |  Workshop {-}
 
 ***Barbara Brown & Nadia Delanoy*** | *University of Calgary*
 
@@ -170,7 +173,7 @@
 
 ```{block, type='session'}
 
-#### 1:30-2:00 | **Open Education Research: Past, Present, Future** |  Recherche {-}
+#### 1:30-2:00 | **Recherche en éducation ouverte : passé, présent, futur** |  Recherche {-}
 
 ***Robert Farrow, Beck Pitt, Martin Weller, Paco Iniesto & Carina Bossu*** | *The Open University*
 
@@ -187,7 +190,7 @@
 ```{block, type='session'}
 
 
-#### 2:00-2:30 | **Using Qualitative Online Survey as a Research Method Amid Covid Pandemic** |  Pratique {-}
+#### 2:00-2:30 | **Utilisation d’une enquête qualitative en ligne comme méthode de recherche au milieu de la pandémie de COVID** |  Pratique {-}
 
 ***Yina Liu*** | *University of Alberta*
 
@@ -223,7 +226,7 @@
 ```{block, type='session'}
 
 
-#### 1:30-2:00 | **Non-Directive Strength-Based Online Coaching in Graduate Education** |  Recherche {-}
+#### 1:30-2:00 | **Coaching en ligne non directif basé sur les forces dans l’enseignement supérieur** |  Recherche {-}
 
 ***Carolyn Kristjansson*** | *Trinity Western University*
 
@@ -240,7 +243,7 @@
 ```{block, type='session'}
 
 
-#### 2:30-3:00 | **The Teacher’s Self-efficacy and Belief in Implementing S STEM, iSTEM or STEAM in their Classroom** |  Recherche {-}
+#### 2:30-3:00 | **L’auto-efficacité et la conviction de l’enseignant dans la mise en œuvre de S STEM, iSTEM ou STEAM dans sa classe** |  Recherche {-}
 
 ***Atiya Razi*** | *University of Windsor*
 
@@ -256,7 +259,7 @@
 
 ```{block, type='vendor'}
 
-#### 2:30-3:00 | **The Impact of Social Annotation on Learning** |  Recherche {-}
+#### 2:30-3:00 | **L’impact de l’annotation sociale sur l’apprentissage** |  Pratique {-}
 
 **Repeated from Session 7.1**
 
@@ -272,49 +275,13 @@
 </details>
 ```
 
-### Séance simultanée 18.4 |  Maintenir un changement positif {-}
+### Séance simultanée 18.4 |  Aborder les inégalités {-}
 
 ```{block, type='session'}
 
 
-#### 1:30-2:00 | **A Framework for Evaluating the Creation and Adaptation of Open Textbooks** |  Recherche {-}
-
-***Melissa Ashman*** | *Kwantlen Polytechnic University*
-
-**Keywords:** 
-
-<details>
-<summary>Abstract</summary>
-<p>
-
-</p>
-</details>
-```
-
-```{block, type='session'}
-
-
-#### 2:00-2:30 | **Interprofessional Healthcare Simulation Co-Creation: A Pilot Study** |  Recherche {-}
-
-***Laura Killam*** | *Queen’s University Canada*
-
-***Jacqueline Vaughn, Alicia Sellon, Chase DuBois, Amelia Huelskamp, Andrea Smith, Colette Waddill & Justine Reel*** | *University of North Carolina Wilmington*
-
-**Keywords:** 
-
-<details>
-<summary>Abstract</summary>
-<p>
-
-</p>
-</details>
-```
-
-### Séance simultanée 18.5 |  Aborder les inégalités {-}
-
-```{block, type='session'}
-
-#### 9:30-10:30 | **Four Perspectives of Learner-Educator Co-Creation** |  Pratique {-}
+#### 1:30-2:30 | **Quatre perspectives de la co-création apprenant-éducateur
+** |  Recherche {-}
 
 ***Mercedes Lock*** | *Cambrian College*
 
@@ -322,7 +289,7 @@
 
 ***Lillian Chumbley*** | *Trent University*
 
-***Laura Killam*** | *Queen's University Canada*
+***Laura Killam*** | *Queen’s University Canada*
 
 **Keywords:** 
 
@@ -336,7 +303,7 @@
 
 ```{block, type='session'}
 
-#### 2:30 - 3:00  | **A Learner-Educator Co-Creation Toolkit** |  Pratique {-}
+#### 2:30 - 3:00  | **Une boîte à outils de co-création apprenant-éducateur** |  Pratique {-}
 
 ***Laura Killam*** | *Queen’s University Canada*
 
@@ -365,7 +332,7 @@
 ```{block, type='session'}
 
 
-#### 3:45-4:45 | **On Speculative Education Fiction for Hopeful Learning Futures** |  Recherche {-}
+#### 3:45-4:45 | **Sur la fiction éducative spéculative pour un avenir d’apprentissage plein d’espoir** |  Recherche {-}
 
 ***Shandell Houlden & George Veletsianos*** | *Royal Roads University*
 
@@ -400,7 +367,7 @@
 ```{block, type='session'}
 
 
-#### 3:45-4:45 | **“No Longer Silent!” Racialized Academic Women Speak Out** |  Recherche {-}
+#### 3:45-4:45 | **“« Plus silencieux ! » Les femmes universitaires racialisées s’expriment** |  Recherche {-}
 
 ***Sandra Dixon*** | *University of Lethbridge*
 
@@ -423,7 +390,7 @@
 ```{block, type='session'}
 
 
-#### 4:45-5:15 | **Peace Education in the Platformed Society: Lessons from Colombia** |  Recherche {-}
+#### 4:45-5:15 | **L’éducation à la paix dans la société à plateformes : les leçons de la Colombie** |  Recherche {-}
 
 ***Estaban Morales*** | *University of British Columbia*
 
@@ -442,7 +409,7 @@
 ```{block, type='session'}
 
 
-#### 3:45-4:45 | **Scaling Small: The Open Book Collective Launch and Platform** |  Pratique {-}
+#### 3:45-4:45 | **Mise à l'échelle petite : Lancement et plate-forme du collectif Open Book** {-}
 
 ***Judith Fathallah*** | *Lancaster University*
 
@@ -461,7 +428,7 @@
 ```{block, type='session'}
 
 
-#### 3:45-4:15 | **Discovery Based Learning with Open Technologies, for Positive Change** |  Pratique {-}
+#### 3:45-4:15 | **Apprentissage basé sur la découverte avec des technologies ouvertes, pour un changement positif** |  Pratique {-}
 
 ***Brian Sutherland*** | *University of Toronto*
 
@@ -478,7 +445,7 @@
 ```{block, type='session'}
 
 
-#### 4:15-4:45 | **Interprofessional Healthcare Simulation Co-Creation: A Pilot Study** |  Recherche {-}
+#### 4:15-4:45 | **Co-création de simulations interprofessionnelles en soins de santé : une étude pilote** |  Recherche {-}
 
 ***Laura Killam*** | *Queen's University Canada*
 
@@ -497,7 +464,7 @@
 ```{block, type='session'}
 
 
-#### 4:45-5:15 | **Negotiating an Informed Personal Theory and Philosophy of Open Education in a Professional Development Setting** |  Recherche {-}
+#### 4:45-5:15 | **Négocier une théorie personnelle informée et une philosophie de l’éducation ouverte dans un cadre de développement professionnel** |  Recherche {-}
 
 ***Irwin DeVries*** | *Royal Roads University*
 
@@ -555,4 +522,4 @@
 </details>
 ```
 
-## Conference Closing | 6:15-6:30 {-}
+## Clôture de la conférence | 6:15-6:30 {-}

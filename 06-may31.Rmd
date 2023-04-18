@@ -1,4 +1,5 @@
-# Wednesday, May 31 | In Person at York University
+# Mercredi 31 Mai 2023 | EN PERSONNE À L’UNIVERSITÉ YORK
+
 
 ```{block, type='protip'}
 
@@ -56,11 +57,11 @@
 
 ---
 
-## Continental Breakfast Provided | 8:00-9:00 {-}
+## Petit-déjeuner continental fourni | 8:00-9:00 {-}
 
-## Welcome Desk Open | 8:00 - 11:30 {-}
+## Bureau d’accueil ouvert | 8:00 - 11:30 {-}
 
-## Conference Welcome, Announcements & Land Acknowledgement | 9:00-9:15 {-}
+## Bienvenue à la conférence, annonces et reconnaissance des terres | 9:00-9:15 {-}
 
 ## Casser | 9:15-9:30 {-}
 
@@ -73,7 +74,7 @@
 ```{block, type='session'}
 
 
-#### 9:30-10:00 | **Designing Group Work in Online Courses to Develop Preservice Teachers’ Professional Collaboration Skills** |  Recherche {-}
+#### 9:30-10:00 | **Conception de travaux de groupe dans des cours en ligne pour développer les compétences de collaboration professionnelle des enseignants en formation** |  Recherche {-}
 
 ***Amber Hartwell, Christy Thomas, Barbara Brown & Bruna Nogueria*** | *University of Calgary*
 
@@ -109,7 +110,7 @@
 ```{block, type='workshop'}
 
 
-#### 9:30-10:30 | **Students as Expert Designers of Equity Courses: The New Normal in a Post-Digital Era** |  Workshop {-}
+#### 9:30-10:30 | **Les étudiants en tant que concepteurs experts de cours sur l’équité : la nouvelle normalité à l’ère post-numérique** |  Workshop {-}
 
 ***Lorayne Robertson*** | *Ontario Tech University*
 
@@ -128,7 +129,7 @@
 ```{block, type='session'}
 
 
-#### 9:30-10:00 | **Online Collaborative Testing: Design and Implementation in a Large First-Year Undergraduate Course** |  Pratique {-}
+#### 9:30-10:00 | **Tests collaboratifs en ligne : conception et mise en œuvre dans un grand cours de premier cycle de première année** |  Pratique {-}
 
 ***Mariel Miller, Safoura Askari & Syed Qudsia*** | *University of Victoria*
 
@@ -144,7 +145,7 @@
 
 ```{block, type='session'}
 
-#### 10:00-10:30 | **Hidden Curriculum of Education Technologies** |  Pratique {-}
+#### 10:00-10:30 | **Curriculum caché des technologies de l’éducation** |  Pratique {-}
 
 ***Danielle Dilkes*** | *Western University*
 
@@ -165,7 +166,7 @@
 ```{block, type='keynote'}
  
 
-#### Progressing truth, confronting complacency, and unleashing the possibility of healing through education.  {-}
+#### Faire progresser la vérité, faire face à la complaisance et libérer la possibilité de guérir par l’éducation  {-}
 
 ***Nick Bertrand*** | *University of Calgary*
 
@@ -175,7 +176,7 @@
 <summary>Abstract</summary>
 <p>
 
-Education as a tool for both healing and reconciliation has been an evolving movement over the years, and in particular since the release the of the Truth and Reconciliation Commission 94 Calls to Action.  Eight years later in a post TRC society, what truths remain untold?  What lessons have we learned in trying to mobilize meaningful change?  How can we as educators, uphold our responsibilities in the work of rebuilding the broken relationship that has brought us to this space? As the reconciliatory bridge continues to be constructed, education systems will continue to play a keystone role in the process of building awareness, understanding, and creating action.
+L’éducation en tant qu’outil de guérison et de réconciliation a évolué au fil des ans, et en particulier depuis la publication des 94 appels à l’action de la Commission de vérité et réconciliation. Huit ans plus tard, dans une société post-TRC, quelles vérités restent inconnues ? Quelles leçons avons-nous apprises en essayant de mobiliser un changement significatif ? Comment pouvons-nous, en tant qu’éducateurs, assumer nos responsabilités dans le travail de reconstruction de la relation brisée qui nous a amenés dans cet espace ? Alors que le pont de la réconciliation continue d’être construit, les systèmes éducatifs continueront de jouer un rôle clé dans le processus de sensibilisation, de compréhension et de création d’action.
 </p>
 </details>
 
@@ -237,7 +238,7 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 ```{block, type='session'}
 
 
-#### 2:30-3:00 | **Open Educational Practices in Canada’s Higher Education in a French- speaking Minority Environment: Reckonings on Language Justice** |  Recherche {-}
+#### 2:30-3:00 | **Pratiques éducatives ouvertes dans l’enseignement supérieur canadien en milieu francophone minoritaire : réflexions sur la justice linguistique** |  Recherche {-}
 
 ***Catherine Lachaîne*** | *University of Ottawa*
 
@@ -257,7 +258,7 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 
 
 
-#### 2:30-3:00 | **Les Effets d’une initiative pour brancher sur Internet les familles à faible revenu (in French)** |  Recherche {-}
+#### 2:30-3:00 | **Les Effets d’une initiative pour brancher sur Internet les familles à faible revenu (en français)** |  Recherche {-}
 
 ***Normand Roy*** | *Université de Montréal*
 
@@ -277,7 +278,7 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 
 
 
-#### 2:30-3:00 | **Beyond Covid-19: Infusing Advanced Technologies into a New Model for Children’s Adaptation to the New Normal** |  Recherche {-}
+#### 2:30-3:00 | **Au-delà de Covid-19 : Infuser des technologies avancées dans un nouveau modèle pour l’adaptation des enfants à la nouvelle normalité** |  Recherche {-}
 
 ***Liton Furukawa*** | *Royal Roads University*
 
@@ -291,7 +292,7 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 </details>
 ```
 
-## Break with Coffee and Snack Provided | 3:00-3:30 {-}
+## Pause avec café et collation fournis | 3:00-3:30 {-}
 
 ## Séance simultanée 16 | 3:30-5:00 {-}
 
@@ -301,7 +302,7 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 
 
 
-#### 3:30-4:30 | **The Interconnectivity of Heutagogy and Education 4.0 in Higher Online Education** |  Recherche {-}
+#### 3:30-4:30 | **L’interconnectivité de l’héutagogie et de l’éducation 4.0 dans l’enseignement supérieur en ligne** |  Recherche {-}
 
 ***Jeanne Kim*** | *Athabasca University*
 
@@ -319,7 +320,7 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 
 
 
-#### 4:30-5:00 | **An Interwoven Course: Reflective Practice and Portfolio** |  Pratique {-}
+#### 4:30-5:00 | **Un cours entrelacé : pratique réflexive et portfolio** |  Pratique {-}
 
 ***Christine Ho Younghusband*** | *University of Northern British Columbia*
 
@@ -337,7 +338,7 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 
 ```{block, type='session'}
 
-#### 3:30-4:30 | **Designing Agile Skill Development Pathways for Climate Adaptation: Leveraging Open Competency Frameworks and Open Educational Resources to Develop Micro-credential** |  Pratique {-}
+#### 3:30-4:30 | **Concevoir des parcours de développement de compétences agiles pour l’adaptation au climat : tirer parti des cadres de compétences ouverts et des ressources éducatives ouvertes pour développer des micro-certificats** |  Pratique {-}
 
 ***David Porter*** | *DP+Associates*
 
@@ -357,7 +358,7 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 
 
 
-#### 4:30-5:00 | **What Happened to OpenCourseWare? A Discussion of the Open Education Movement’s Shift from Course Content to Textbooks** |  Pratique {-}
+#### 4:30-5:00 | **Qu’est-il arrivé à OpenCourseWare ? Une discussion sur le passage du mouvement de l’éducation ouverte du contenu des cours aux manuels scolaires** |  Pratique {-}
 
 ***Erik Christiansen*** | *Mount Royal University*
 
@@ -377,7 +378,7 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 
 
 
-#### 3:30-5:00 | **Leadership for Digital Transformation** |  Recherche {-}
+#### 3:30-5:00 | **Leadership pour la transformation numérique** |  Recherche {-}
 
 ***Don Eldridge, Monica Shah & Alissa Bigelow*** | *eCampusOntario*
 
@@ -397,7 +398,7 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 
 
 
-#### 3:30-4:00 | **Opening-Up Digital Platforms to Community-Based Research** |  Recherche {-}
+#### 3:30-4:00 | **Ouvrir les plateformes numériques à la recherche communautaire** |  Recherche {-}
 
 ***Robyn Hall*** | *MacEwan University*
 
@@ -415,7 +416,7 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 
 
 
-#### 4:00-4:30 | **The Role of Teachers’ Assessment Literacy in an Inquiry-Based Learning Environment** |  Recherche {-}
+#### 4:00-4:30 | **Le rôle de la littératie des enseignants en matière d’évaluation dans un environnement d’apprentissage fondé sur l’investigation** |  Recherche {-}
 
 ***Maryam Shirdel Pour & Michael Paskevicius*** | *University of Victoria*
 
@@ -447,6 +448,6 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 </details>
 ```
 
-## Congress President Reception | 5:00-7:00 {-}
+## Réception du Président du Congrès | 5:00-7:00 {-}
 
-## OTESSA Social |  Life Sciences Building Lobby | 7:00-11:59 {-}
+## OTESSA Social – Hall du bâtiment des sciences de la vie | 7:00-11:59 {-}

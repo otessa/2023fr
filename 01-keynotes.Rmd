@@ -65,7 +65,9 @@ L’éducation en tant qu’outil de guérison et de réconciliation a évolué 
 
 ```{block, type='keynote'}
 
-### Title and Abstract TBA
+### The (un)bearable lightness of student data privacy: reckonings and re-imaginings {-}
+
+Education has always collected and used student learning data in combination with a range of other data e.g., demographic, financial and prior learning data for a variety of purposes such as to assess and monitor students’ progress, identify students who may need additional support. There has always been concerns about possible bias, stereotyping and impact of categorization of students. Students’ (data)(learning) privacy were somewhere to be found among files being carried from one office to the other, files that got misplaced, unlocked storages and, possibly, a laissez-faire approach to protecting student data privacy because what happened in the classroom and school, stayed in the classroom (mostly). Even if this portrayal of student data privacy may sound idealistic and rather, simplistic, we must reckon how the increasing digitalization and datafication of teaching and learning changes not only the scope of student (data) privacy, but also attempts to protect their (and our) data. In this presentation I hope to provoke thinking about the (un)bearable lightness of student data privacy and consider what it means for students, faculty, institutional data governance amid the intensification and expansion of the data gaze. 
 
 ##### [Session Link](){target="_blank"}
 

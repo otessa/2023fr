@@ -1,11 +1,11 @@
-# Asynchronous Presentations | Saturday, May 27 - Friday, June 2 {-}
+# OTESSA 2023 | VITRINES ASYNCHRONES | Samedi 27 Mai to Vendredi 2 Juin {-}
 
 
-### Showcase 21.1 |  Formations d’apprentissage et d’enseignement en ligne {-}
+### Vitrine 21.1 |  Formations d’apprentissage et d’enseignement en ligne {-}
 
 ```{block, type='session'}
 
-####   **Bridging Digital Borders** |  Pratique {-}
+####   **Combler les frontières numériques** |  Pratique {-}
 
 ***Mariana Jardim, Abigail Warnock & Robert Matz*** | *University of Toronto*
 
@@ -19,11 +19,11 @@
 </details>
 ```
 
-### Showcase 21.2 |  Aborder les inégalités {-}
+### Vitrine 21.2 |  Aborder les inégalités {-}
 
 ```{block, type='session'}
 
-####  **Critical Digital Pedagogy in Higher Education** |  Pratique {-}
+####  **Pédagogie numérique critique dans l’enseignement supérieur** |  Pratique {-}
 
 ***Suzan Koseoglu*** | *University of Greenwich*
 
@@ -41,12 +41,11 @@
 </details>
 ```
 
-### Showcase 21.3 |  Aborder les inégalités {-}
+### Vitrine 21.3 |  Aborder les inégalités {-}
 
 ```{block, type='session'}
 
-####  **GetLitwithFin: A Cross-Campus Capstone Classroom (C4) Digest (@York)
-** |  Pratique {-}
+####  **GetLitwithFin : un résumé de la classe Capstone inter-campus (C4) (@ York)** |  Pratique {-}
 
 ***Gilbert Chen, Diana Xu, Saranya Sivaneshon, Pranav Kulkarni, Wasif Hyder, Parkriti Biswas, Jessica Kabuli & Ramshah Kidwai*** | *York University*
 
