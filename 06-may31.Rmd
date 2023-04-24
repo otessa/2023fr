@@ -78,11 +78,14 @@
 
 ***Amber Hartwell, Christy Thomas, Barbara Brown & Bruna Nogueria*** | *University of Calgary*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Les établissements d’enseignement postsecondaire offrant de plus en plus de cours en ligne, il y a beaucoup à apprendre sur la conception du travail de groupe en ligne. Ceci est particulièrement important pour les cours de certification professionnelle où le travail de groupe est utilisé pour développer les compétences nécessaires pour préparer les étudiants à leur domaine de prédilection, comme l’enseignement K-12. Dans le cadre de la recherche d’études de cas, les auteurs synthétisent les résultats recueillis auprès d’enseignants et d’étudiants d’établissements postsecondaires de l’Ouest canadien offrant des cours en ligne dans le cadre de leurs parcours menant à un baccalauréat en éducation. Cherchant à comprendre comment le travail de groupe peut être conçu pour développer les compétences professionnelles essentielles requises dans la profession enseignante grâce à la prestation de cours en ligne, des données ont été recueillies au moyen d’une enquête en ligne, d’entretiens semi-structurés et de documents de cours. Les résultats suggèrent quatre considérations de conception pour le travail de groupe en ligne : (1) articuler clairement l’objectif du travail de groupe, (2) fournir un soutien à l’apprenant grâce à la présence de l’enseignant, (3) être intentionnel dans la manière dont les groupes sont établis et (4) tirer parti des outils numériques pour collaboration. Les résultats permettront aux professeurs, aux étudiants et aux responsables des politiques éducatives de comprendre comment l’apprentissage en groupe dans les cours en ligne peut être conçu pour développer des compétences professionnelles essentielles. Cela profitera particulièrement aux établissements d’enseignement postsecondaire offrant des cours en ligne dans des domaines professionnels.
 
 </p>
 </details>
@@ -95,10 +98,12 @@
 
 ***TBA*** | *TBA*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
 
 </p>
@@ -114,11 +119,18 @@
 
 ***Lorayne Robertson*** | *Ontario Tech University*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Les complexités de la condition humaine sont indéniables, y compris les différences infinies entre les gens. Lorsque la différence se traduit par une diminution de l’accès, de la participation et des résultats, ces inégalités doivent être comprises afin d’être traitées, en particulier dans les écoles. À l’ère post-numérique, la surveillance a permis d’enregistrer et de distribuer les injustices, sensibilisant de manière aiguë aux nombreuses formes d’oppression systémique dans la société canadienne. Pour ces raisons, l’étude de l’équité, de la diversité et de l’inclusion (EDI) est importante dans l’enseignement postsecondaire, car le programme de la maternelle à la 12e année dans les écoles canadiennes peut être muet sur certains de ces sujets. Les concepteurs de cours en EDI doivent impliquer à la fois les étudiants qui sont déjà conscients que l’éducation et la société sont inégales et ceux qui ne le sont pas. Tout au long du processus d’apprentissage des aspects inégaux de l’éducation, il peut être difficile de maintenir l’engagement des élèves. En outre, les concepteurs de cours EDI doivent enseigner l’EDI de manière à ce que les concepts, théories et discours clés dans les domaines de différence s’unissent pour donner un sens et renforcer l’apprentissage.
+
+Dans cette session, les étudiants qui ont conçu des cours de base en EDI aux cycles supérieurs et de premier cycle pour leur faculté d’éducation abordent les différents antécédents, perspectives et objectifs qu’ils ont apportés au processus de conception de cours. En co-créant le cours, ils se sont rendus compte qu’il y avait plusieurs domaines d’oppression et ont dû se demander quels domaines traiter en premier. Différentes approches théoriques de l’enseignement de l’EDI dans le passé ont créé des espaces séparés plutôt que des compréhensions communes de l’inégalité. Il est peu probable que l’étude de la théorie critique de la race ouvre des espaces pour une expression de genre plus large. Une compréhension de l’intersectionnalité peut apporter une prise de conscience des effets cumulatifs lorsque les sites d’oppression se croisent, mais elle est insuffisante en tant qu’approche pédagogique pour aborder toutes les façons dont les élèves peuvent être « altérés » dans un système scolaire. Cela a créé un défi pour les étudiants concepteurs de discerner en quoi les domaines d’inégalité dans les écoles étaient similaires et en quoi ils différaient.
+
+Travaillant dans le cadre d’un programme éducatif axé sur le numérique, les étudiants ont travaillé ensemble pour créer des cours en ligne. Ils ont cherché des moyens de renforcer la présence sociale et la présence cognitive au sein de l’espace en ligne. Ils ont réalisé que l’enseignement de l’EDI n’est pas un processus de conversion mais un processus d’écoute d’autres perspectives et de compréhension des inégalités éducatives à travers les yeux des autres. Certains avaient vécu des iniquités en tant que membres de groupes recherchant l’équité; d’autres acceptaient de comprendre les formes systématiques d’oppression ; et d’autres encore voulaient travailler vers des approches pédagogiques critiques, décolonisatrices et transformatrices. En tant que groupe, ils ont développé une compréhension collective de ce qui est nécessaire pour préparer les étudiants à comprendre comment les lieux de travail et les écoles du Canada peuvent devenir des sites de sensibilisation et de changement accrus en matière d’EDI.
 
 </p>
 </details>
@@ -133,11 +145,14 @@
 
 ***Mariel Miller, Safoura Askari & Syed Qudsia*** | *University of Victoria*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Les tests collaboratifs en ligne sont une approche d’évaluation qui met l’accent sur l’apprentissage assisté par la technologie grâce à l’interaction avec les pairs. Alors que la pandémie de COVID-19 a entraîné une croissance exponentielle du travail d’équipe en ligne, les compétences pour la résolution collaborative de problèmes en ligne sont devenues essentielles pour les diplômés d’aujourd’hui. À ce titre, les tests collaboratifs en ligne peuvent jouer un rôle crucial pour aider les élèves à développer ces compétences. Dans cet article, nous rapportons comment un test collaboratif en ligne a été mis en œuvre dans un grand cours de premier cycle de première année. Nous commencerons par une revue de la littérature sur les tests collaboratifs en ligne. Nous décrivons ensuite comment l’équipe pédagogique a conçu et administré un examen de mi-session collaboratif en ligne synchrone dans lequel les groupes ont travaillé ensemble pour analyser un scénario de cas complexe. Enfin, nous conclurons par une réflexion sur les forces et les limites de notre approche et les opportunités de conception future.
 
 </p>
 </details>
@@ -149,11 +164,14 @@
 
 ***Danielle Dilkes*** | *Western University*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Cette session offrira aux participants l’occasion de réfléchir aux espaces numériques dans lesquels l’apprentissage se produit et à la manière dont ces espaces contraignent et autorisent le comportement des étudiants et des instructeurs grâce à des conceptions qui incarnent de manière invisible des valeurs, des motivations, des croyances et des hypothèses spécifiques sur l’éducation. Nous examinerons différentes conceptions d’environnements d’apprentissage, y compris les conceptions carcérales, ou architectures hostiles, communes à de nombreuses technologies éducatives telles que les systèmes de gestion de l’apprentissage, les technologies de surveillance et d’autres outils numériques. Nous examinerons également les outils qui mettent l’accent sur l’autonomie de l’apprenant en permettant une répartition du contrôle et comment ces conceptions reflètent une croyance différente sur l’enseignement et l’apprentissage. Étant donné que de nombreuses valeurs et croyances intégrées dans ces conceptions sont cachées, nous examinerons comment certaines conceptions peuvent contrôler la façon dont les instructeurs enseignent, comment les apprenants apprennent et la relation entre les instructeurs et les apprenants. Nous conclurons par une discussion pragmatique sur la façon de trouver un équilibre entre la commodité de certaines technologies et l’importance de favoriser les littératies numériques nécessaires pour identifier les outils qui s’alignent sur nos propres idéologies et identités pédagogiques.
 
 </p>
 </details>
@@ -173,7 +191,7 @@
 
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
 
 L’éducation en tant qu’outil de guérison et de réconciliation a évolué au fil des ans, et en particulier depuis la publication des 94 appels à l’action de la Commission de vérité et réconciliation. Huit ans plus tard, dans une société post-TRC, quelles vérités restent inconnues ? Quelles leçons avons-nous apprises en essayant de mobiliser un changement significatif ? Comment pouvons-nous, en tant qu’éducateurs, assumer nos responsabilités dans le travail de reconstruction de la relation brisée qui nous a amenés dans cet espace ? Alors que le pont de la réconciliation continue d’être construit, les systèmes éducatifs continueront de jouer un rôle clé dans le processus de sensibilisation, de compréhension et de création d’action.
@@ -199,10 +217,12 @@ L’éducation en tant qu’outil de guérison et de réconciliation a évolué 
 
 *Titre de la session : à déterminer*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
 
 </p>
@@ -217,10 +237,12 @@ L’éducation en tant qu’outil de guérison et de réconciliation a évolué 
 
 *Titre de la session : à déterminer*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
 
 </p>
@@ -242,11 +264,16 @@ L’éducation en tant qu’outil de guérison et de réconciliation a évolué 
 
 ***Catherine Lachaîne*** | *University of Ottawa*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Au cours de cette session, je présenterai les résultats d’une étude exploratoire qualitative portant sur les pratiques pédagogiques actuelles des professeurs, bibliothécaires et chargés de cours postsecondaires en contexte francophone minoritaire au Canada afin de déterminer si ces pratiques sont conformes aux pratiques éducatives ouvertes (PEO). Notre principale question de recherche était : Dans quelle mesure, le cas échéant, les professeurs, bibliothécaires et chargés de cours postsecondaires adoptent-ils les OEP en milieu francophone minoritaire au Canada?
+
+Trois thèmes ont été générés dans nos analyses thématiques. L’adoption ou la non-adoption des OEP en milieu francophone minoritaire au Canada semble être liée à 1) une connaissance et une application limitées des OEP, 2) un soutien inadéquat et 3) le potentiel des PEO au niveau postsecondaire en milieu francophone minoritaire . Les thèmes et sous-thèmes nous donnent un bon aperçu des enjeux d’insertion OEP présents au moment de l’étude, tant en termes de contexte sociolinguistique que de niveau de connaissance de l’éducation ouverte. Les voix des participants ont également souligné l’impact potentiel du mouvement d’ouverture en contexte linguistique minoritaire. Des recherches supplémentaires sur les groupes linguistiques marginalisés sont nécessaires pour explorer le potentiel de l’OEP à soutenir un changement inclusif, équitable et positif dans le paysage de l’éducation ouverte.Trois thèmes ont été générés dans nos analyses thématiques. L’adoption ou la non-adoption des OEP en milieu francophone minoritaire au Canada semble être liée à 1) une connaissance et une application limitées des OEP, 2) un soutien inadéquat et 3) le potentiel des PEO au niveau postsecondaire en milieu francophone minoritaire . Les thèmes et sous-thèmes nous donnent un bon aperçu des enjeux d’insertion OEP présents au moment de l’étude, tant en termes de contexte sociolinguistique que de niveau de connaissance de l’éducation ouverte. Les voix des participants ont également souligné l’impact potentiel du mouvement d’ouverture en contexte linguistique minoritaire. Des recherches supplémentaires sur les groupes linguistiques marginalisés sont nécessaires pour explorer le potentiel de l’OEP à soutenir un changement inclusif, équitable et positif dans le paysage de l’éducation ouverte.
 
 </p>
 </details>
@@ -262,11 +289,14 @@ L’éducation en tant qu’outil de guérison et de réconciliation a évolué 
 
 ***Normand Roy*** | *Université de Montréal*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Le gouvernement canadien a lancé l’initiative « Familles branchées » en 2018. L’objectif était de fournir un accès Internet aux familles à faible revenu partout au Canada. Au tournant du millénaire, Internet est devenu un outil incontournable pour accéder à l’information et au savoir. Pourtant, le Canada, comme de nombreux autres pays dans le monde, fait face à des défis en matière d’accessibilité pour de multiples raisons : géographie, culture, histoire, etc. (Howard et al., 2018). En ce sens, des écarts technologiques se sont développés en fonction de l’âge, de la langue, du revenu familial, de l’origine, etc. Howard et al. (2018) soulignent que l’éducation, l’âge et le revenu sont corrélés à un accès limité à Internet et à une faible littératie numérique. L’enquête diffusée consistait en 30 questions portant sur : les caractéristiques sociodémographiques, les ressources numériques accessibles, les habitudes avec la technologie, les besoins d’initiative, les usages et les défis d’Internet. Au total, 89 776 questionnaires (P1 = 28 444 ; P2 = 9 163 ; P3 = 34 327 ; P4 = 17 842) ont été remplis par les participants à l’initiative. En plus du questionnaire, des entretiens ont été menés à chaque phase avec un nombre variable de participants (entre 20 et 50) pour clarifier les idées. Les résultats longitudinaux mettent en lumière l’impact d’une telle initiative sur les familles à faible revenu, ainsi que les effets de la pandémie mondiale de COVID-19 sur les habitudes d’un groupe à risque.
 
 </p>
 </details>
@@ -282,11 +312,16 @@ L’éducation en tant qu’outil de guérison et de réconciliation a évolué 
 
 ***Liton Furukawa*** | *Royal Roads University*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+La pandémie de COVID-19 a forcé les enfants à s’adapter rapidement à l’apprentissage à domicile ou virtuel ; cependant, des défis et des difficultés sont apparus, tels que l’utilisation de la technologie pendant le processus d’apprentissage et le maintien des interactions sociales entre les enfants pendant les cours en ligne et les cours. Plus important encore, une augmentation significative des taux de maladie mentale s’est produite à la suite de la COVID-19 et les enfants connaissent maintenant une augmentation des problèmes de santé mentale et physique. Bien que des projets d’apprentissage appliquant des approches multisensorielles aient été promus, il est nécessaire de poursuivre les recherches fondées sur des preuves pour tenir compte et réimaginer l’utilisation de la technologie dans l’éducation et garantir que ces modèles nous conduisent vers des solutions/approches plus diversifiées et durables.
+
+Basée sur une solide perspective psychologique et pédagogique dans l’utilisation des technologies de pointe, telles que l’application de l’holographie, dans les milieux éducatifs, cette recherche vise à aider à combler cette lacune. Cette étude consiste à mener des recherches en cours en utilisant une approche interdisciplinaire qui vise à aider les enfants pendant et au-delà de COVID-19. Des données qualitatives et quantitatives seront recueillies et mises à la disposition des praticiens et des parents qui n’ont actuellement aucun point de référence connexe pour servir de base à des lignes directrices fondées sur des données probantes. Les résultats de la recherche élargiront la portée de la littérature actuelle qui a elle-même besoin de souligner l’importance des enquêtes empiriques sur la meilleure façon d’utiliser le modèle multisensoriel dans l’environnement d’apprentissage.
 
 </p>
 </details>
@@ -306,11 +341,14 @@ L’éducation en tant qu’outil de guérison et de réconciliation a évolué 
 
 ***Jeanne Kim*** | *Athabasca University*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Les progrès technologiques de l’industrie 4.0 créent un monde dynamique et en évolution rapide qui affecte notre façon de vivre et de travailler. Les éducateurs doivent repenser les approches pédagogiques existantes afin de mieux préparer les apprenants aux futures carrières que l’industrie 4.0 créera. Le Forum économique mondial a défini un nouveau modèle d’éducation, appelé Education 4.0, qui contient huit changements majeurs pour redéfinir l’apprentissage dans la nouvelle économie. L’heutagogie, ou apprentissage autodéterminé, est une approche qui favorise la pensée critique, les compétences socio-émotionnelles et l’apprentissage tout au long de la vie. Ces compétences sont nécessaires pour l’Éducation 4.0. Le but de cet article est de recommander les principes de l’héutagogie comme approche efficace d’enseignement et d’apprentissage pour répondre aux besoins de l’éducation 4.0. L’approche de l’étude examine la littérature existante sur l’éducation 4.0 et l’heutagogie. Un modèle conceptuel qui relie l’héutagogie aux quatre principes d’apprentissage de l’éducation 4.0 sera proposé comme une découverte clé pour répondre à la question de recherche : comment l’héutagogie dans l’enseignement supérieur en ligne répond-elle aux besoins de l’éducation 4.0 ? Le document fournit une base pour de nouvelles recherches et discussions sur la manière dont l’héutagogie et d’autres approches peuvent répondre aux besoins de l’éducation 4.0 pour préparer les apprenants à un monde en mutation.
 
 </p>
 </details>
@@ -324,11 +362,14 @@ L’éducation en tant qu’outil de guérison et de réconciliation a évolué 
 
 ***Christine Ho Younghusband*** | *University of Northern British Columbia*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Un programme de formation des enseignants en Colombie-Britannique (C.-B.) a repensé le programme pour inclure un cours entrelacé qui s’étalerait sur les 16 mois du programme pour développer la pratique réflexive du candidat enseignant par le biais d’enquêtes et de portfolios électroniques. Le programme était auparavant un programme de 2 ans et offrait un cours EdTech de 3 crédits au troisième trimestre de quatre en tant que cours distinct. Dans ce cours, la création d’un e-Portfolio aurait été l’un des objectifs d’apprentissage. Dans ce cours entrelacé, cependant, les candidats enseignants sont exposés au développement d’un site WordPress open source au premier trimestre avec les conseils du corps professoral, mais au fil du temps, les candidats enseignants deviennent plus autonomes et indépendants avec la création de contenu à mesure qu’ils développent leur pratique réflexive, s’engagent dans une enquête sur un sujet d’intérêt pour l’éducation et établir des liens explicites entre la théorie et la pratique tout en répondant aux attentes des normes professionnelles pour les éducateurs de la Colombie-Britannique. Écrire à travers des blogs et créer des pages Web qui décrivent le mieux qui le candidat enseignant perçoit ses forces et ses compétences en tant qu’éducateur fournit une plate-forme pour personnaliser son apprentissage et son sens entre la théorie et la pratique.
 
 </p>
 </details>
@@ -344,11 +385,14 @@ L’éducation en tant qu’outil de guérison et de réconciliation a évolué 
 
 ***Robin S Cox*** | *Royal Roads University*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Le renforcement des capacités pour faire progresser le leadership en matière de changement climatique est devenu une exigence essentielle en matière de développement de la main-d’œuvre, tant pour les professionnels que pour les travailleurs de première ligne. Comme l’a noté le rapport du Forum économique mondial sur l’emploi 2020 (2020), il est de plus en plus nécessaire de fournir des opportunités à court terme de reconversion et de perfectionnement qui ne diminueront pas à mesure que nous avancerons. Les micro-titres ont été proposés comme stratégie pour permettre le développement continu des connaissances et des compétences au sein de la main-d’œuvre, que nous examinons dans le contexte d’une initiative universitaire qui a prototypé des parcours de compétences pour aborder les thèmes clés de l’adaptation au climat, y compris l’utilisation des connaissances autochtones. et les visions du monde comme lentille critique pour l’analyse et l’action. Nous rapportons et discutons de l’utilisation stratégique du Cadre de compétences en adaptation climatique (2020) - un cadre de compétences ouvert sous licence CC - ainsi que de l’utilisation de ressources éducatives ouvertes pour créer des voies agiles vers le développement des compétences. Les parcours que nous avons conçus et que nous testons combinent des ressources d’apprentissage autonome, des activités individuelles et de groupe et des pratiques d’évaluation authentiques pour valider le développement des compétences. Les micro-titres sont décernés par une division universitaire d’apprentissage continu et professionnel à des professionnels de plusieurs domaines de pratique pour des démonstrations de compétence.
 
 </p>
 </details>
@@ -362,37 +406,20 @@ L’éducation en tant qu’outil de guérison et de réconciliation a évolué 
 
 ***Erik Christiansen*** | *Mount Royal University*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Le mouvement de l’éducation ouverte a maintenant plus de vingt ans, si l’on compte depuis le lancement d’OpenCourseWare (OCW) du MIT en 2001. Bien que l’OCW ait contribué à relancer l’enthousiasme de l’enseignement supérieur pour les ressources éducatives libres (REL), les organismes de financement provinciaux ont doublé sur les manuels libres, et cet accent se reflète dans le langage utilisé par les organismes de financement provinciaux, ainsi que dans le nombre impressionnant et croissant de manuels sous licence libre. L’accent mis sur les manuels est compréhensible compte tenu de l’intérêt intense des étudiants. Plusieurs organismes de financement provinciaux, dont BC Campus, OpenEd Manitoba et eCampus Ontario, ont permis aux étudiants d’économiser des millions de dollars en encourageant l’adoption de manuels scolaires ouverts au niveau postsecondaire. De plus, les manuels ouverts (et autres objets d’apprentissage) sont sans doute plus faciles à héberger et à distribuer que des cours entiers. Le compromis est que cette focalisation déséquilibrée sur les manuels ouverts signifie que quelques institutions (notamment le MIT, la TU Delft et d’autres) dominent l’espace OCW. Dans cette présentation, l’auteur expliquera les raisons pour lesquelles l’investissement OCW est incohérent et soulignera les défis auxquels sont confrontés la création et l’adoption d’OCW. L’auteur soutiendra également que le recentrage sur les investissements d’OCW a le potentiel de renforcer la réputation institutionnelle et de satisfaire un public avide de contenu ouvert de haute qualité.
 
 </p>
 </details>
 ```
 
-### Séance simultanée 16.3 |  Caractère générique {-}
-
-```{block, type='session'}
-
-
-
-#### 3:30-5:00 | **Leadership pour la transformation numérique** |  Recherche {-}
-
-***Don Eldridge, Monica Shah & Alissa Bigelow*** | *eCampusOntario*
-
-**Keywords:** 
-
-<details>
-<summary>Abstract</summary>
-<p>
-
-</p>
-</details>
-```
-
-### Séance simultanée 16.4 |  Maintenir un changement positif {-}
+### Séance simultanée 16.3  |  Maintenir un changement positif {-}
 
 ```{block, type='session'}
 
@@ -402,11 +429,14 @@ L’éducation en tant qu’outil de guérison et de réconciliation a évolué 
 
 ***Robyn Hall*** | *MacEwan University*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Les universités canadiennes s’efforcent de bâtir des fondations plus solides en matière d’engagement communautaire. Les chercheurs communautaires font ce travail fondamental, menant des recherches aux côtés de partenaires communautaires. Ce travail aboutit souvent à des résultats de recherche non traditionnels, notamment des rapports, des notes d’orientation, des expositions photographiques et des productions vidéo. Bien que ce travail serve à éclairer les politiques, à faire avancer le changement social et, par extension, à contribuer à l’enseignement et à l’apprentissage, il n’est souvent pas largement partagé en ligne de manière à encourager la découverte et l’utilisation à long terme. Notamment, il est souvent absent des plateformes numériques gérées par les bibliothèques universitaires utilisées pour distribuer des œuvres savantes et créatives de manière ouverte et durable, telles que les référentiels institutionnels et les applications de publication Web open source, et il est rarement partagé sous des licences flexibles de droits d’auteur Creative Commons. Réfléchissant aux données récentes recueillies par le biais d’enquêtes et d’entretiens avec des chercheurs et des bibliothécaires communautaires canadiens soutenant les communications savantes, cette présentation donnera un aperçu des raisons pour lesquelles ce travail n’est si souvent pas partagé sur des plateformes d’accès libre. Les participants seront invités à examiner les défis et les opportunités présents dans leurs propres institutions pour soutenir la diffusion des résultats de la recherche communautaire, avec un accent particulier sur la réinvention des services de bibliothèque universitaire pour aider à faire progresser son impact et sa portée.
 
 </p>
 </details>
@@ -420,11 +450,14 @@ L’éducation en tant qu’outil de guérison et de réconciliation a évolué 
 
 ***Maryam Shirdel Pour & Michael Paskevicius*** | *University of Victoria*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+La littératie en matière d’évaluation est définie comme les connaissances et l’expertise qui sont utilisées pour effectuer des évaluations valides (Luthfiyyah et al., 2020). La recherche indique que la littératie des enseignants en matière d’évaluation pourrait influencer l’efficacité des pratiques éducatives (Oo et al., 2022). Les enseignants ayant une littératie d’évaluation adéquate aident les apprenants à améliorer leur compréhension et à atteindre les résultats d’apprentissage souhaités. L’apprentissage basé sur l’investigation est défini comme une approche pédagogique qui met l’accent sur l’action des étudiants et leur rôle actif dans la création de connaissances, souvent à l’aide d’outils et de technologies numériques. La création d’un environnement d’apprentissage qui encourage les apprenants à approfondir leurs connaissances à travers leurs enquêtes et à construire leur compréhension tout en participant à des activités d’apprentissage favorise l’apprentissage des élèves (Vaughn et al., 2022). L’évolution vers un apprentissage fondé sur l’investigation nécessite certains ajustements dans les approches que les éducateurs appliquent pour évaluer les apprenants lorsqu’ils documentent les progrès de leur apprentissage de manière ouverte. Les enseignants peuvent bénéficier du développement de la littératie en matière d’évaluation pour enseigner plus efficacement, répondre aux besoins éducatifs des apprenants et évaluer leur processus d’apprentissage. Le but de cet article est d’examiner la littérature existante afin de mieux comprendre l’influence de la littératie des enseignants en matière d’évaluation lors de la réalisation d’évaluations dans un environnement d’apprentissage basé sur la recherche et la technologie. De plus, les défis auxquels les enseignants peuvent être confrontés lors de la mise en œuvre de l’évaluation basée sur l’investigation seront discutés.
 
 </p>
 </details>
@@ -438,10 +471,12 @@ L’éducation en tant qu’outil de guérison et de réconciliation a évolué 
 
 ***TBA*** | *TBA*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
 
 </p>
