@@ -70,13 +70,12 @@
 
 
 
-#### Permettre aux « étudiants en tant que partenaires » : manuels scolaires ouverts, changements de pouvoir et transformation des programmes
- {-}
+#### Permettre aux « étudiants en tant que partenaires » : manuels scolaires ouverts, changements de pouvoir et transformation des programmes {-}
 
 *Glenda Cox & Bianca Masuku*
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
 Le travail effectué avec les créateurs de manuels ouverts à l’UCT a permis à l’initiative DOT4D d’articuler des modèles de production de manuels ouverts qui sont employés par les universitaires de l’UCT qui utilisent leurs manuels ouverts pour lutter contre l’(in)justice sociale en classe. En nous appuyant sur ce travail de fond, nous explorons les valeurs et les attitudes des universitaires qui entreprennent la production de manuels ouverts avec des étudiants co-créateurs. L’inclusion des étudiants est saluée dans la recherche comme essentielle à l’appartenance des étudiants, mais peu de travaux ont été réalisés pour rechercher les défis impliqués lorsque la dynamique de pouvoir traditionnelle est perturbée. Dans cette recherche, nous décrivons un lien potentiel entre trois composantes complémentaires : les manuels scolaires ouverts, la justice sociale et les étudiants en tant que partenaires. Nous étudions les affordances du manuel ouvert pour faciliter le changement dans la dynamique du pouvoir de la production de contenu ainsi que dans la pratique en classe.
 
@@ -103,10 +102,12 @@ Le travail effectué avec les créateurs de manuels ouverts à l’UCT a permis 
 
 *Titre de la session : à déterminer*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
 
 </p>
@@ -122,10 +123,12 @@ Le travail effectué avec les créateurs de manuels ouverts à l’UCT a permis 
 
 *Titre de la session : à déterminer*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
 
 </p>
@@ -144,11 +147,14 @@ Le travail effectué avec les créateurs de manuels ouverts à l’UCT a permis 
 
 ***Ava Chow & Nazlee Sharmin*** | *University of Alberta*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+L’un des impacts les plus importants de la pandémie de COVID sur les expériences d’enseignement et d’apprentissage postsecondaires a été le désengagement des étudiants. Alors que la gamification était une stratégie qui était parfois utilisée dans les cours d’anatomie et de physiologie de niveau junior avant la pandémie, elle est devenue une stratégie pédagogique de plus en plus importante lors de l’enseignement à distance d’urgence pour que les étudiants s’investissent dans leur apprentissage. Les salles d’évasion, qui sont des jeux de narration immersifs, sont une forme de gamification. Les salles d’évasion éducatives, qui peuvent être adaptées pour être en personne ou virtuelles, intègrent des objectifs d’apprentissage dans des jeux, des énigmes et des indices individuels ou en équipe, et obligent les élèves à démontrer leur maîtrise du matériel pour progresser dans le scénario. Ce type d’activité contribue non seulement à accroître l’engagement des étudiants, mais offre également l’occasion de développer des compétences non techniques telles que la créativité, le travail d’équipe, la prise de décision, la pensée critique et la communication qui sont importantes chez les professionnels de la santé.
 
 </p>
 </details>
@@ -161,11 +167,14 @@ Le travail effectué avec les créateurs de manuels ouverts à l’UCT a permis 
 
 ***Brenna Clarke Gray*** | *Thompson Rivers University*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+En utilisant l’essai historique de Sean Michael Morris et Jesse Stommel « A Guide for Resisting EdTech: The Case Against Turnitin » comme repoussoir, cette présentation demande aux participants d’appliquer les mêmes types de critiques appliquées efficacement à Turnitin dans cet article à Course Hero alors que nous évaluons ses affirmations par rapport aux références des technologies éducatives éthiques. Cette expérience de création de sens collective fournit un modèle pour critiquer des outils qui ont été soigneusement commercialisés mais pas bien étudiés par les universitaires, offrant une « porte d’entrée » à ces discussions qui est enracinée dans le pratique et le factuel, et pas si profondément façonnée par personnalités influentes.
 
 </p>
 </details>
@@ -179,12 +188,27 @@ Le travail effectué avec les créateurs de manuels ouverts à l’UCT a permis 
 
 ***Elena Chudaeva*** | *George Brown College*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
-
+Qu’est-ce que la Pédagogie Ouverte ?  
+- La Pédagogie Ouverte (OP) est un processus, une façon de penser et une façon d’agir.  
+- OP n’est pas un recueil de procédures pédagogiques. Il n’a pas un ensemble de résultats prédéterminés.  
+- OP est une pratique intentionnellement inclusive, intentionnellement éthique et réfléchie.  
+Dans cet atelier, nous examinerons les implications de « ouvert » dans un cadre collégial.
+Comment s’engager dans la pédagogie ouverte dans un cours universitaire STEM ?
+Nous examinerons le cours de physique pour la santé : sa conception, ses stratégies d’enseignement et les REL qui soutiennent l’OP.
+Nous discuterons de ce que cela signifie dans la pratique de participer à l’OP et des opportunités qu’il présente pour soutenir divers apprenants et des défis que cette pratique présente pour un éducateur.
+Les questions suivantes guideront l’atelier :  
+- Comment les ressources éducatives libres peuvent-elles s’étendre à la pédagogie ouverte ?  
+- Dans quelle mesure la pédagogie ouverte et la pédagogie inclusive sont-elles similaires et différentes ?  
+- Comment la pédagogie ouverte peut-elle avoir un impact sur l’accessibilité et l’inclusion ?  
+- Quel est le rôle de l’enseignant dans la Pédagogie Ouverte ?  
+- Quel rôle joue la technologie dans la Pédagogie Ouverte ?  
 </p>
 </details>
 ```
@@ -197,11 +221,14 @@ Le travail effectué avec les créateurs de manuels ouverts à l’UCT a permis 
 
 ***Rebekah Bennetch*** | *University of Saskatchewan*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Les diverses pratiques de « déclassement » ont gagné en popularité, en particulier après la pandémie de COVID-19. Le déclassement – ou ce que nous préférons appeler le classement alternatif – peut augmenter la motivation intrinsèque, atténuer l’anxiété associée au jugement et peut inviter les étudiants à prendre des risques intellectuels sans crainte d’être punis ou de subir des effets à long terme si une expérience académique ne fonctionne pas. Les nombreux avantages de la notation alternative incluent un certain degré de liberté vis-à-vis de ce stress et de cette peur. Cependant, la plupart des administrations universitaires résistent aux révisions de la notation traditionnelle et, à ce titre, les professeurs précaires qui ont à cœur les meilleurs intérêts de leurs étudiants ont souvent du mal à mettre en œuvre des stratégies créatives et utiles pour libérer les étudiants de l'emprise stressante du jugement et des notes. De plus, certains « puristes » de la non-notation (en particulier sur les réseaux sociaux) sont peu accueillants pour les éducateurs qui doivent ou souhaitent inclure certaines parties fondamentales de la non-notation, mais doivent toujours « s’adapter » aux contraintes du système de notation universitaire traditionnel. Cette session interactive, utile et conviviale sera un regard franc sur ce qu'est réellement la notation alternative, ce qu'elle pourrait être et comment les éducateurs innovants qui cherchent à travailler dans un système traditionnel peuvent aborder la façon d’aller de l'avant avec des alternatives qui sont des « mises à niveau » légitimes. à « déclassement ».
 
 </p>
 </details>
@@ -215,11 +242,14 @@ Le travail effectué avec les créateurs de manuels ouverts à l’UCT a permis 
 
 ***Andrea Hasenbank*** | *Onlea Studios*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Cette séance décrira l’élaboration d’un programme d’éducation à la santé sexuelle pour les jeunes adapté d’une série d’ateliers en personne animés à un format en ligne autoguidé et asynchrone. Le développement s’est concentré sur trois considérations clés : (1) l’accessibilité, qui comprend la prise en compte de différentes capacités d’apprentissage et physiques, ainsi que des éléments techniques liés aux appareils et aux réseaux Internet ruraux ; (2) la confidentialité, qui comprend la protection des informations sur les étudiants, les questions relatives à l’hébergement transfrontalier des données et la capacité des participants à poser des questions et à recevoir une assistance de manière anonyme ; et (3) la médiation, qui comprend comment la conception du cours doit compenser la perte d’un animateur en personne. Les modules de cours se sont concentrés sur l’utilisation de la narration comme stratégie pour introduire des concepts, se connecter à des scénarios du monde réel et promouvoir l’empathie et l’engagement en l’absence d’un animateur. La session discutera de la manière dont les choix d’outils et de technologies ont répondu aux considérations énoncées par le programme, ainsi que permis une utilisation innovante du personnage et de la narration pour promouvoir l’éducation à la santé sexuelle.
 
 </p>
 </details>
@@ -231,11 +261,20 @@ Le travail effectué avec les créateurs de manuels ouverts à l’UCT a permis 
 
 ***Susanna Kohonen, Helena Kantanen, Kati Kasanen, Vesa Paajanen & Piia Siitonen*** | *University of Eastern Finland*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Cette présentation passe en revue et discute une méthode continue de soutien par les pairs lancée par une université finlandaise pour son personnel enseignant. La méthode d’entraide par les pairs a pour objectif de développer davantage les compétences pédagogiques et numériques adoptées lors de la pandémie de Covid19. De plus, son objectif est de réinventer l’enseignement supérieur en promouvant les meilleures pratiques d’apprentissage et d’enseignement en ligne basées sur les expériences du personnel et les recherches pertinentes. 
+
+L’université a recruté une équipe de cinq professeurs expérimentés au sein de ses quatre facultés et du Centre de langues pour travailler comme soutien pédagogique à leurs pairs avec une allocation de temps de travail de 50%, les 50% restants de leur travail consistant toujours en enseignement. L’équipe a récemment terminé sa première période de fonctionnement de deux ans et a analysé et rapporté les succès et les défis des deux premières années, avec des recommandations pour les deux années suivantes.
+
+L’analyse de l’équipe de la première période de deux ans indique que ce mode de soutien par les pairs s’est avéré un modus operandi nécessaire. Dans un établissement d’enseignement supérieur avec ses multiples départements, unités, conseils, groupes de travail, comités, services de soutien et services numériques, la voix d’un seul enseignant peut trop facilement passer inaperçue.
+
+Dans son analyse réflexive des deux premières années de fonctionnement, l’équipe met en évidence quatre domaines de réussite. Parallèlement aux succès, des défis subsistent et doivent être relevés au cours des deux prochaines années de fonctionnement. Les principaux défis sont directement liés aux succès. Le principal défi concerne la nécessité de continuer à améliorer la communication à l’échelle de l’université, accessible et efficace de tous les services et soutiens disponibles pour le personnel enseignant.
 
 </p>
 </details>
@@ -247,11 +286,14 @@ Le travail effectué avec les créateurs de manuels ouverts à l’UCT a permis 
 
 ***Sonja Johnston*** | *University of Calgary*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Au plus fort de la pandémie, où un apprentissage à distance d’urgence était nécessaire, les étudiants de premier cycle qui tentaient d’obtenir un diplôme en commerce avaient le choix entre le capstone et le stage. Malheureusement pour nos étudiants, il n’y avait presque pas de postes disponibles car les entreprises avaient considérablement réduit leur effectif et annulaient des postes de stage. Cela a créé un très grand afflux d’étudiants par le biais de la voie Capstone. Ce cours de 6 heures de crédit est l’aboutissement de l’apprentissage de l’étudiant tout au long du diplôme et constitue l’expérience finale avant l’obtention du diplôme. Un nombre croissant de rapports industriels et universitaires explorent le décalage entre les capacités des diplômés et les attentes des employeurs concernant les compétences en milieu de travail (Lapointe et Turner, 2020 ; Mishra et al., 2019 ; RBC, 2019). Mise en évidence au cours de semestres consécutifs de synthèse de 2020 à 2022, une opportunité s’est présentée d’intégrer un module de développement professionnel dans la conception de l’apprentissage. L’auteur présentera la structure, l’objectif, la mise en œuvre et les défis du module et fournira un aperçu initial de la valeur et de l’itération au cours de cette période. Le contenu du module sera partagé car il s’appuie sur une formation et un développement ouverts et accessibles. Une discussion sur l’état actuel et un remue-méninges collaboratif sur les options de la prochaine itération seront entreprises.
 
 </p>
 </details>
@@ -266,11 +308,14 @@ Le travail effectué avec les créateurs de manuels ouverts à l’UCT a permis 
 
 ***Kiranjot Kaur & Kimberlee Carter*** | *Conestoga College ITAL*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Cette présentation soutient l’idée que les ressources éducatives libres (REL) ont un impact positif sur la pédagogie et l’engagement des élèves. Les partisans des REL estiment que les REL offrent des implications convaincantes sur la pédagogie, notamment l’augmentation du niveau d’engagement des étudiants et l’innovation pédagogique (Open Education Quality Initiatives, 2011 et Orr et al., 2015). Un membre du corps professoral et administrateur d’un collège communautaire qui a soutenu le membre du corps professoral dans le cadre du projet Open Educational Resources (OER) expliquera comment la création et l’adaptation des REL dans le cours ont un impact positif sur l’engagement des étudiants. La pédagogie activée par les REL assure l’engagement des étudiants et augmente également la motivation autorégulée (Werth & Williams, 2021). Une remarque que l’administrateur de soutien a remarquée est que lorsque le même membre du corps professoral conçoit l’OER puis anime le cours, l’OER est adopté puis a de manière anecdotique de meilleurs résultats que lorsque l’OER est adopté sans apport créatif ni personnalisation. L’administrateur se demande si les professeurs n’ont pas le temps d’évaluer le contenu au même degré qu’un créateur de REL, ils risquent de perdre la valeur d’une connexion profonde avec le contenu, comme l’a noté Skidmore (2019).
 
 </p>
 </details>
@@ -282,11 +327,14 @@ Le travail effectué avec les créateurs de manuels ouverts à l’UCT a permis 
 
 ***Melissa Jakubec & Michelle Harrison*** | *Thompson Rivers University*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Cette proposition décrit le développement d’un cadre de conception d’apprentissage par une équipe de conception pédagogique dans une division d’apprentissage ouvert d’une université de taille moyenne. L’équipe a reconnu le besoin d’une fondation reflétant ses valeurs et ses principes directeurs de conception et visant à créer des outils qui renforceraient les relations de collaboration et créeraient une expérience plus inclusive et centrée sur l’apprenant. Le cadre est destiné à être utilisé comme un outil pour encadrer les conversations avec des équipes collaboratives afin de garantir que les principes de bienveillance, de connexion, d’ouverture et d’apprentissage actif sont pris en compte dans notre conception de l’apprentissage. Dans la présentation, nous fournirons des exemples du cadre et de ses principes sous-jacents et nous nous concentrerons sur la façon dont il peut soutenir les collaborations entre diverses équipes et parties prenantes. L’équipe est toujours en train de construire des éléments collaboratifs et pratiques pour soutenir le développement des cours et partagera ces deux projets et comment le cadre aide à recadrer les processus et à clarifier les rôles.
 
 </p>
 </details>
@@ -298,11 +346,16 @@ Le travail effectué avec les créateurs de manuels ouverts à l’UCT a permis 
 
 ***Amanda Figueroa*** | *Curationist*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Les musées, les archives, les galeries et les bibliothèques ont équilibré leur responsabilité de protéger les artefacts culturels les plus importants du monde avec leur rôle de piliers importants de l’éducation publique. Cependant, ces objectifs deviennent de plus en plus en contradiction les uns avec les autres si l’institution n’adopte pas une position délibérément décoloniale et anticoloniale à l’égard du travail de conservation. Non examinée, la pratique curatoriale contemporaine porte encore l’héritage de la colonisation, visible dans les métadonnées des collections numérisées de grandes institutions comme le British Museum.
+
+Cette présentation décrit le rôle nécessaire de la pratique décoloniale dans les projets de numérisation du champ GLAM ainsi que dans les outils numériques qui rendent ce contenu accessible au public. En nous concentrant sur les outils de métadonnées co-développés de Curationist, nous offrirons non seulement une introduction à cette plateforme et à ses utilisations de l’art numérique et de l’éducation ouverte, mais également une méthode de développement communautaire en ligne qui centre la souveraineté des données indigènes, l’engagement communautaire et pratiques de décolonisation pour rééquilibrer la dynamique de pouvoir dans l’éducation ouverte basée sur les collections.
 
 </p>
 </details>
@@ -316,11 +369,14 @@ Le travail effectué avec les créateurs de manuels ouverts à l’UCT a permis 
 
 ***Cathia Papi*** | *Université TÉLUQ*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Les mesures sanitaires imposées en 2020-2021 ont conduit au développement de formations à distance dans le domaine des loisirs. Que ce soit la musique, le yoga, la cuisine, etc., de nombreux cours ont été offerts en ligne. Cela a été particulièrement le cas avec la danse. Les cours de danse à distance étant rares avant la pandémie, de nouvelles pratiques ont dû être développées. Comment les danseurs se sont-ils adaptés à ce changement de mode de formation et à quelles difficultés ont-ils été confrontés dans l’enseignement ou l’apprentissage en ligne ? Dans cet article, nous proposons d’examiner les défis auxquels sont confrontés les enseignants et les apprenants de la danse récréative. Pour ce faire, nous nous appuierons non seulement sur la littérature publiée sur le sujet, mais aussi et surtout, sur des entrevues réalisées auprès de 78 danseurs professionnels et amateurs vivant au Québec et en France. Nous mettrons en évidence les technologies et méthodes pédagogiques utilisées dans ces cours ainsi que leurs avantages et limites selon les enseignants et les apprenants. Nous ouvrirons ensuite une discussion sur les perspectives des cours de danse en ligne.
 
 </p>
 </details>
@@ -334,11 +390,14 @@ Le travail effectué avec les créateurs de manuels ouverts à l’UCT a permis 
 
 ***Aristide Tsayem Tchoupou*** | *Université Laval*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Alors que l’isolement des élèves était un enjeu majeur durant la pandémie, une revue systématique de la littérature réalisée dans le cadre du programme Synthèse des connaissances du CRSH a permis de revoir la littérature scientifique sur l’accompagnement visant à limiter le sentiment d’isolement des élèves en formation à distance (DE) . Cette étude a été menée sur des articles scientifiques publiés entre 2012 et 2022 et a conduit à l’examen de 301 articles en français ou en anglais. L’analyse de ces publications met en évidence trois grandes approches d’accompagnement des étudiants à distance : l’approche axée sur le développement de l’autonomie et de l’engagement des étudiants ; l’approche centrée sur l’accompagnement d’un enseignant ou d’un mentor ; et l’approche axée sur les interactions entre pairs et le travail collaboratif. Dans cet article, nous proposons de passer en revue chacune de ces trois approches et de souligner les forces et les faiblesses identifiées par les chercheurs. Nous pouvons ensuite discuter de la manière dont ils peuvent être traités pour fournir DE. Enfin, nous conclurons par quelques pistes de recherches futures.
 
 </p>
 </details>
@@ -350,11 +409,14 @@ Le travail effectué avec les créateurs de manuels ouverts à l’UCT a permis 
 
 ***Melissa Ashman*** | *Kwantlen Polytechnic University*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+La pandémie de COVID-19 a entraîné une croissance spectaculaire de l’utilisation des ressources éducatives libres, telles que les manuels scolaires libres, à mesure que les cours se déplaçaient en ligne dans le monde entier. Cela a souligné l’importance d’évaluer la création et l’adaptation de manuels ouverts utilisés dans les cours en ligne. En examinant la littérature de recherche, j’ai constaté que les rubriques ou les cadres existants étaient obsolètes et manquaient de critères importants à l’ère numérique d’aujourd’hui. Par conséquent, j’ai synthétisé les critères d’évaluation et de qualité de 31 articles dans un cadre unique, que les instructeurs en ligne peuvent envisager d’utiliser lorsqu’ils créent ou adaptent un manuel ouvert. Les critères incluent le contenu, l’accessibilité, la technologie, les licences ouvertes, la conception pédagogique et une nouvelle catégorie que j’appelle la vérification. 
 
 </p>
 </details>
@@ -376,11 +438,14 @@ Le travail effectué avec les créateurs de manuels ouverts à l’UCT a permis 
 
 ***Tai Munro, Ashley Stasiewich & Susan Cauti*** | *MacEwan University*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Bien que l’enseignement à distance et en ligne ne soit pas nouveau, la pandémie de Covid-19 a mis en évidence les défis auxquels les étudiants peuvent être confrontés avec l’apprentissage en ligne. Ces défis peuvent amplifier les inégalités et accroître la résistance à l’apprentissage. De nombreux éducateurs ont utilisé la pandémie comme motivation pour réévaluer leurs cours, mais négligent encore souvent des aspects apparemment mineurs qui peuvent faire une grande différence pour les étudiants. Des exemples de ces aspects peuvent inclure la compatibilité mobile, la longueur de la vidéo et les exigences technologiques. Les trois panélistes sont des concepteurs pédagogiques et des instructeurs expérimentés qui se sont concentrés sur l’amélioration de l’accessibilité dans l’apprentissage en ligne dans une variété de contextes. Ils partageront leurs expériences en tant que défenseurs et sceptiques sur la raison pour laquelle nous devons tenir compte des petites choses pour développer des cours qui facilitent l’apprentissage pour tous les étudiants sans épuiser les instructeurs qui connaissent leurs propres obstacles et défis.
 
 </p>
 </details>
@@ -395,8 +460,9 @@ Le travail effectué avec les créateurs de manuels ouverts à l’UCT a permis 
 **Keywords:**
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Cet article explore le potentiel de la baladodiffusion en tant que technologie éducative utile pour promouvoir l’agence dans les programmes de formation initiale des enseignants. Les auteurs proposent une étude à méthodes mixtes pour étudier l’impact de la co-création de podcasts en tant que pratique pédagogique holistique. Rapportant sur la première phase de cette recherche, la baladodiffusion semble évaluer utilement l’apprentissage des élèves. De plus, il s’agit d’une technologie puissante qui peut mobiliser les connaissances créées par les futurs enseignants au-delà de la salle de classe. Les prochaines étapes de la recherche intégreront des enseignants en service pour fournir une rétroaction générative, créant ainsi une communauté d’enquête entre les podcasteurs et les auditeurs.
 
 </p>
 </details>
@@ -414,11 +480,14 @@ Le travail effectué avec les créateurs de manuels ouverts à l’UCT a permis 
 
 ***Kathy Wise*** | *University of Calgary*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Pour les enseignants de la maternelle à la 12e année, le partage de ressources est une pratique professionnelle établie de longue date et, grâce aux moyens des technologies numériques, la possibilité de partager des fichiers a été amplifiée. Cependant, il y a des implications technologiques et de droit d’auteur du partage de contenu d’enseignement curriculaire qui nécessite plus de soutien et de compréhension. La facilité du droit d’auteur et le partage éthique des ressources du programme sont assurés par des licences ouvertes, mais les étudiants en formation initiale et supérieure reçoivent actuellement une tutelle incohérente de ces licences. Pour combler ce créneau de compréhension, de localisation ou de création de REL, le site Web Openteacherab.ca a été développé. Un soutien supplémentaire pour ces étudiants afin de déterminer la qualité des REL est le cadre de curation ISKME qui aide à la sélection et à l’évaluation des REL préexistantes de la maternelle à la 12e année. Se tourner vers l’État de Washington fournit un autre exemple de soutien à la lente tendance au partage et au développement des REL de la maternelle à la 12e année.
 
 </p>
 </details>
@@ -430,11 +499,14 @@ Le travail effectué avec les créateurs de manuels ouverts à l’UCT a permis 
 
 ***Rebekah Bennetch*** | *University of Saskatchewan*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+La pandémie a contraint les enseignants à s’adapter avec une plus grande flexibilité pour répondre à l’évolution des environnements de classe et des besoins des élèves, ce qui a entraîné un changement de pédagogie vers la promotion d’une motivation plus intrinsèque et de l’autonomie des élèves. Le thème d’OTESSA « Reckonings and Re-imaginings » reflète cette transition, invitant les éducateurs à réévaluer leur approche. Un moyen efficace de réaliser ce type de changement est de donner aux étudiants plus de liberté et de choix dans leur apprentissage, comme le soutiennent les travaux d’Evans et Boucher (2015). Cette présentation décrira des stratégies pratiques pour promouvoir plus de choix pour les étudiants en classe, telles que l’incorporation d’exercices d’évaluation formative, l’ouverture du travail des étudiants pour inclure des projets REL et des conseils pour changer sa mentalité d’enseignant. Les participants seront encouragés à réfléchir aux opportunités d’apporter des changements mineurs mais significatifs à leur pédagogie pour inspirer plus d’autonomie aux étudiants.
 
 </p>
 </details>
@@ -448,11 +520,17 @@ Le travail effectué avec les créateurs de manuels ouverts à l’UCT a permis 
 
 ***Nazlee Sharmin, Ava K Chow & Mike Carbonaro*** | *University of Alberta*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Enseigner des concepts scientifiques complexes de manière engageante est un défi pour les éducateurs. Les vidéos animées peuvent expliquer les concepts et engager les étudiants en combinant des messages audio avec des graphiques changeants. L’animation de tableau blanc est un style de vidéo animée où le contenu semble être dessiné à la main sur un tableau blanc et raconté de manière narrative. Cette technique présente les avantages des animations traditionnelles, avec la capacité supplémentaire de combiner la pensée visuelle et la narration. Des animations sur tableau blanc ont été appliquées avec succès pour expliquer des sujets liés à la santé. Créer une animation de tableau blanc réussie nécessite un logiciel payant, du temps et des compétences en dessin. La plupart des logiciels d’animation de tableau blanc sont conçus pour la publicité commerciale et ne fournissent pas la galerie graphique nécessaire pour expliquer les sujets liés aux sciences de la santé.
+
+Nous avons utilisé un PowerPoint traditionnel et des images numériques dessinées à la main pour créer une animation sur tableau blanc expliquant des sujets pour l’éducation dentaire. Les animations intégrées de PowerPoint ont été utilisées pour animer les images et le texte de support.
+Notre objectif est de créer une série d’animations sur tableau blanc pour les étudiants en médecine dentaire. Selon Dewey, l’apprentissage est une activité sociale résultant d’interactions humaines. Des études ont révélé que les avatars, les personnages de dessins animés, les dialogues et les paramètres du monde réel simulés dans les vidéos animées remplissent une fonction sociale essentielle pour impliquer les étudiants. Nous espérons que les animations du tableau blanc seront bénéfiques pour les étudiants en médecine dentaire.
 
 </p>
 </details>
@@ -464,11 +542,14 @@ Le travail effectué avec les créateurs de manuels ouverts à l’UCT a permis 
 
 ***Nazlee Sharmin & Ava K Chow*** | *University of Alberta*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Les établissements d’enseignement supérieur se concentrent de plus en plus sur l’intégration de jeux et de simulations pour améliorer l’engagement des étudiants. La gamification fait référence à l’utilisation ou à l’adoption de mécanismes, de techniques et de théories de jeu dans une plate-forme non ludique, comme l’éducation. De nombreux cours de formation des professionnels de la santé ont appliqué avec succès la gamification. Il a été démontré que les jeux en ligne comme Kahoot augmentent la satisfaction et la motivation des élèves, aident les élèves à surmonter les difficultés individuelles et améliorent la collaboration. Gimkit est une nouvelle plateforme de jeu qui permet aux instructeurs de créer des jeux-questionnaires auxquels les élèves peuvent jouer en direct en classe. Le code généré instantanément par l’hôte permet aux étudiants de participer à des jeux en direct sans avoir de compte ni d’inscription. Nous avons introduit le jeu en classe à l’aide de Gimkit dans le programme de dentisterie et d’hygiène dentaire de l’Université de l’Alberta. L’effet des jeux sur l’apprentissage, la motivation, l’engagement et la satisfaction des élèves sera évalué. Nous croyons que le jeu en classe sera une incorporation positive dans l’enseignement dentaire didactique pour améliorer la motivation et l’engagement des étudiants.
 
 </p>
 </details>
@@ -482,11 +563,22 @@ Le travail effectué avec les créateurs de manuels ouverts à l’UCT a permis 
 
 ***Serge Gérin-Lajoie*** | *Université TÉLUQ*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Les établissements d’enseignement supérieur canadiens mettent de plus en plus l’accent sur le développement de l’enseignement à distance (ED) et de l’apprentissage en ligne (Bates et al., 2017). Historiquement, dans les établissements ADF, le processus d’enseignement « traditionnel » se décompose en deux phases. Dans un premier temps, les cours sont conçus par un professeur ou une équipe de conception. Par la suite, le mentorat étudiant est assumé par un professeur ou une personne désignée (Racette et al., 2017). Il s’agit d’accompagner les étudiants dans leur processus d’apprentissage, d’agir en tant que modérateur, facilitateur, coach, mentor pédagogique, e-tuteur, coach, etc.
+
+Lors de leur entrée en fonction, les nouveaux professeurs sont rapidement appelés à développer des pratiques d’encadrement à distance et, comme le souligne Vachon (2013), à développer de multiples compétences telles que la communication écrite et orale, l’utilisation des TIC, etc.
+
+Depuis quelques mois, une équipe de recherche réalise une analyse des pratiques d’encadrement des étudiants en formation à distance. Ce projet de recherche, financé par le Fonds de recherche – Société et culture du gouvernement du Québec (FRQSC), a permis le déploiement de l’Observatoire du cours d’action. Ce cadre théorique a permis le déploiement de l’outil de parcours de vie relatif, outil méthodologique dérivé du cadre sémiotique du parcours d’action (Theureau, 2004, 2009).
+
+Ce projet a trois objectifs : (1) décrire les pratiques de coaching des nouveaux enseignants dans leurs cours ADF, (2) expliquer comment les pratiques de coaching des nouveaux enseignants évoluent dans le temps, et (3) analyser comment les nouveaux enseignants développent leurs compétences. dans les pratiques de coaching dans les cours ADF.
+
+Dans cet article, nous proposons de présenter les pratiques de mentorat des nouveaux professeurs en formation à distance au cours des dernières années.
 
 </p>
 </details>
@@ -498,11 +590,14 @@ Le travail effectué avec les créateurs de manuels ouverts à l’UCT a permis 
 
 ***Hongran Cui, Michelle Harrison & Victoria Handford*** | *Thompson Rivers University*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Pendant la pandémie de COVID-19, l’enseignement et l’apprentissage en ligne sont devenus le principal modèle d’éducation, et nous appelons cela l’enseignement à distance d’urgence (ERE) (Bozkurt et al., 2020). Des études antérieures ont accumulé de riches théories et ont prouvé que l’engagement étudiant (ES) est positivement lié à la réussite scolaire de l’étudiant. Cependant, seules quelques études se sont spécifiquement concentrées sur SE dans l’ERE, ce qui constitue une lacune dans la recherche. Cette recherche a révélé qu’il y avait des différences dans l’engagement des étudiants entre F2F et ERE ; les principales raisons à l’origine des différences étaient la conception et l’organisation des cours, l’apprentissage avec les pairs, l’interaction étudiant-professeur et l’interaction sociale. Les étudiants préféraient les cours synchrones et percevaient subjectivement moins d’interaction avec les instructeurs et les pairs. Cependant, un environnement favorable qui a été inclus dans l’engagement des étudiants dans l’apprentissage F2F mais qui n’est pas considéré comme un facteur influencé dans le modèle de communauté d’enquête s’est révélé dans cette étude comme un facteur constructif dans l’ERE. Sharma et Alvi (2021) ont constaté que les élèves étaient plus favorables à l’apprentissage mixte après la pandémie. Les résultats de cette étude fournissent la raison et le fondement théorique de la modification de l’éducation en ligne.
 
 </p>
 </details>
@@ -520,11 +615,16 @@ Le travail effectué avec les créateurs de manuels ouverts à l’UCT a permis 
 
 ***Mira Buist- Zhuk*** | *University of Groningen*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Les bibliothécaires ukrainiens sont les champions du changement positif malgré la guerre en cours avec la Russie. La bibliothèque universitaire de l’Université d’État ukrainienne des sciences et technologies a continué à soutenir les étudiants et les professeurs, même en travaillant à distance depuis les sous-sols de la maison, en partageant des ordinateurs et en prenant soin des enfants des autres, malgré les alarmes anti-aériennes et l’électricité et le chauffage quotidiens. pannes. Cependant, ce n’est qu’une partie de leur travail. Ils saisissent toutes les occasions de faire avancer leur programme ouvert en améliorant leurs compétences grâce à l’apprentissage entre pairs, en participant à des réseaux internationaux et en adaptant les REL existantes et en créant de nouvelles. Ils construisent des ponts entre le présent et l’avenir : dès que cette guerre sera terminée, les bibliothécaires ukrainiens faciliteront de meilleures opportunités d’enseignement et d’apprentissage avec de nouvelles compétences professionnelles et des collaborations externes.
+
+Tout cela en faisant face sans relâche aux problèmes linguistiques : rejeter les tentatives de « linguicide » de la Russie et travailler avec des collègues d’autres pays. Ce dernier incite la communauté internationale à apporter son soutien. Le premier nécessite une stratégie différente : les bibliothécaires ukrainiens travaillent activement à préserver la langue et le patrimoine de leur pays, en veillant à ce que son histoire et sa culture ne soient pas oubliées, malgré la guerre. Cette présentation offre l’opportunité d’entendre leur histoire et de construire de nouvelles voies de collaboration tout en renforçant celles qui existent déjà.
 
 </p>
 </details>
@@ -536,11 +636,16 @@ Le travail effectué avec les créateurs de manuels ouverts à l’UCT a permis 
 
 ***Marta Samokishyn*** | *Saint Paul University*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Les algorithmes deviennent partie intégrante de notre écosystème socio-numérique : l’impact de Facebook sur les pratiques de vote, le filtrage des CV d’Amazon, les logiciels de profilage racial et même la possibilité d’obtenir un prêt. En conséquence, il est urgent d’aborder la question de la sensibilisation algorithmique et de la littératie algorithmique dans l’enseignement supérieur afin de promouvoir les compétences de pensée critique à l’égard des biais algorithmiques et de leur impact sur l’infrastructure sociale.
+
+Cette présentation abordera la question de la littératie algorithmique du point de vue de la littératie informationnelle et de la métallittératie. Le présentateur discutera du rôle de l’éducation à la maîtrise de l’information dans la promotion de la sensibilisation algorithmique dans l’enseignement supérieur et abordera l’adoption de pratiques d’enseignement pour promouvoir une conscience critique sur les algorithmes dans les établissements postsecondaires au Canada
 
 </p>
 </details>
@@ -559,10 +664,12 @@ Le travail effectué avec les créateurs de manuels ouverts à l’UCT a permis 
 
 *Titre de la session : à déterminer*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
 
 </p>
@@ -576,10 +683,12 @@ Le travail effectué avec les créateurs de manuels ouverts à l’UCT a permis 
 
 *Speaker*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
 
 </p>

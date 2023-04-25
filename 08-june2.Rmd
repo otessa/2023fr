@@ -70,11 +70,11 @@
 *University of South Africa*
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
 
 
-Education has always collected and used student learning data in combination with a range of other data e.g., demographic, financial and prior learning data for a variety of purposes such as to assess and monitor students’ progress, identify students who may need additional support. There has always been concerns about possible bias, stereotyping and impact of categorization of students. Students’ (data)(learning) privacy were somewhere to be found among files being carried from one office to the other, files that got misplaced, unlocked storages and, possibly, a laissez-faire approach to protecting student data privacy because what happened in the classroom and school, stayed in the classroom (mostly). Even if this portrayal of student data privacy may sound idealistic and rather, simplistic, we must reckon how the increasing digitalization and datafication of teaching and learning changes not only the scope of student (data) privacy, but also attempts to protect their (and our) data. In this presentation I hope to provoke thinking about the (un)bearable lightness of student data privacy and consider what it means for students, faculty, institutional data governance amid the intensification and expansion of the data gaze. 
+L’éducation a toujours collecté et utilisé des données sur l’apprentissage des élèves en combinaison avec une gamme d’autres données, par exemple des données démographiques, financières et d’apprentissage antérieur à diverses fins, telles que l’évaluation et le suivi des progrès des élèves, l’identification des élèves qui pourraient avoir besoin d’un soutien supplémentaire. Il y a toujours eu des inquiétudes concernant les préjugés possibles, les stéréotypes et l’impact de la catégorisation des élèves. La confidentialité (des données) (apprentissage) des étudiants se trouvait quelque part parmi les fichiers transportés d’un bureau à l’autre, les fichiers égarés, les stockages déverrouillés et, éventuellement, une approche de laisser-faire pour protéger la confidentialité des données des étudiants, car ce qui s’est passé dans la salle de classe et l’école, sont restés dans la salle de classe (surtout). Même si cette représentation de la confidentialité des données des étudiants peut sembler idéaliste et plutôt simpliste, nous devons tenir compte de la façon dont la numérisation et la datafication croissantes de l’enseignement et de l’apprentissage modifient non seulement la portée de la confidentialité (des données) des étudiants, mais tentent également de protéger leur (et notre) données. Dans cette présentation, j’espère provoquer une réflexion sur la légèreté (in)supportable de la confidentialité des données des étudiants et examiner ce que cela signifie pour les étudiants, les professeurs et la gouvernance des données institutionnelles au milieu de l’intensification et de l’expansion du regard sur les données.
 </p>
 </details>
 
@@ -97,10 +97,12 @@ Education has always collected and used student learning data in combination wit
 
 *Titre de la session : à déterminer*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
 
 </p>
@@ -115,10 +117,12 @@ Education has always collected and used student learning data in combination wit
 
 *Titre de la session : à déterminer*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
 
 </p>
@@ -142,11 +146,14 @@ Education has always collected and used student learning data in combination wit
 
 ***Jodie Walz*** | *Calgary Catholic School District*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+À la suite d’une observation selon laquelle les futurs enseignants et les enseignants en poste ont besoin de plus d’opportunités pratiques pour s’engager dans des pratiques d’évaluation numériques afin de se préparer à des environnements d’apprentissage plus technologiques, une collaboration de recherche et de pratique a émergé entre une faculté d’éducation et un district scolaire. technologues en éducation. Cette étude basée sur la conception impliquait la conception d’une série d’apprentissage professionnel en ligne visant à développer les pratiques d’évaluation formative et sommative des enseignants à l’aide de pratiques améliorées par la technologie. En engageant les participants dans la réflexion et le temps de s’engager avec des méthodes améliorées par la technologie, nous avons utilisé une théorie pour mettre en pratique la conception ainsi que le cadre TPACK pour explorer la relation entre : (1) la technologie, (2) la pédagogie de l’enseignement et (3) le contenu connaissance. Les résultats de cette étude ont démontré l’importance de concevoir l’évaluation à travers une lentille interconnectée donnant la priorité à la centralité des connaissances technologiques, pédagogiques et de contenu. De plus, la recherche a indiqué l’efficacité des participants lorsqu’ils s’engagent dans des applications pédagogiques d’évaluation avec des constructions technologiques adaptées à leurs environnements d’enseignement et d’apprentissage. Les complexités en cours pendant la durée de ce travail ont couvert non seulement le début de la pandémie, mais maintenant les réalités intégrées dans un contexte post-pandémique émergent.
 
 </p>
 </details>
@@ -158,10 +165,12 @@ Education has always collected and used student learning data in combination wit
 
 ***TBA*** | *TBA*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
 
 </p>
@@ -176,11 +185,16 @@ Education has always collected and used student learning data in combination wit
 
 ***Robert Farrow, Beck Pitt, Martin Weller, Paco Iniesto & Carina Bossu*** | *The Open University*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Le Global OER Graduate Network (GO-GN, s.d.) soutient la recherche doctorale en éducation ouverte dans le monde entier et compte actuellement plusieurs centaines de membres qui sont des chercheurs doctorants/post-doctoraux et des praticiens experts intéressés. Dans cette présentation, nous proposons une analyse des tendances de la recherche sur l’éducation ouverte, en nous appuyant sur les données générées par GO-GN ainsi que sur d’autres recherches d’experts.
+
+Nous fournissons une analyse de l’activité du réseau et identifions les principaux domaines de la recherche contemporaine sur l’éducation ouverte, y compris la pratique ouverte, les REL en tant que domaine disciplinaire, l’établissement de liens entre les clusters de recherche et l’application des REL dans des contextes d’apprentissage non traditionnels. Nous proposons également quelques réflexions sur la nature évolutive du discours autour de l’éducation ouverte et la relation entre la recherche et la pratique, en particulier autour des thèmes de la justice sociale et de l’équité, de la diversité et de l’inclusion.
 
 </p>
 </details>
@@ -193,11 +207,14 @@ Education has always collected and used student learning data in combination wit
 
 ***Yina Liu*** | *University of Alberta*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+L’enquête en ligne devient l’une des méthodes populaires / préférées pour mener des recherches dans le cadre de la pandémie de Covid-19. La méthode permet aux chercheurs de collecter des données sans interaction en personne, fournit également des processus pratiques pour les chercheurs et les participants pour engager une enquête en termes de livraison d’enquêtes et de réponses. Cependant, les situations réelles de collecte de données peuvent ne pas être décrites comme pratiques. Cet article présentera une étude autoethnographique des propres expériences d’un chercheur en matière de réalisation d’enquêtes qualitatives en ligne pendant le Covid-19 au Canada. Le chercheur a utilisé un sondage qualitatif en ligne pour explorer les pratiques de littératie numérique des enfants nouveaux arrivants et les points de vue de leurs parents sur les pratiques numériques. Cette présentation fournira des suggestions aux futurs chercheurs en matière d’enquêtes, en termes de stratégies efficaces de collecte de données.
 
 </p>
 </details>
@@ -210,10 +227,12 @@ Education has always collected and used student learning data in combination wit
 
 ***TBA*** | *TBA*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
 
 </p>
@@ -229,11 +248,16 @@ Education has always collected and used student learning data in combination wit
 
 ***Carolyn Kristjansson*** | *Trinity Western University*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Les modes d’enseignement supérieur en ligne et mixtes sont devenus de plus en plus répandus ces dernières années, se traduisant souvent par des espaces d’apprentissage en ligne composés d’apprenants adultes ayant un large éventail d’expériences de vie issues de contextes culturels et linguistiques variés. Une considération clé est de savoir comment soutenir au mieux ces apprenants pour faciliter un sentiment d’appartenance et d’engagement (Jeng, Bosch et Perry, 2023), conditions que certains chercheurs considèrent comme fondamentales pour la réussite scolaire (Roddy, et al., 2017). Une possibilité est le coaching. Cette présentation rend compte des premiers résultats d’une étude de cas portant sur l’expérience d’étudiants en matière de soutien non directif au coaching en ligne basé sur les forces dans le cadre d’un programme de maîtrise en enseignement de l’anglais aux locuteurs d’autres langues (MA TESOL).
+
+L’étude de cas est guidée par des compréhensions théoriques de l’environnement d’apprentissage en tant que système dynamique complexe (Dornyei, 2014) et du coaching en tant que pratique sociale (Auteur) qui peut être caractérisée par des états d’attracteurs émotionnels positifs ou négatifs (Boyatzis, Rochford, & Taylor, 2015). La présentation donne un aperçu de l’analyse quantitative et qualitative préliminaire pour éclairer la valeur de l’expérience de coaching en ligne du point de vue des étudiants diplômés qui ont été coachés.
 
 </p>
 </details>
@@ -246,11 +270,14 @@ Education has always collected and used student learning data in combination wit
 
 ***Atiya Razi*** | *University of Windsor*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Ces dernières années, STEM, iSTEM (STEM intégré) et STEAM (paradigmes STEM) ont révolutionné le paradigme éducatif. Les chercheurs, les éducateurs et les professionnels du monde entier considèrent les paradigmes STEM comme leurs sauveurs (Kuenzi, 2008), qui ont pris en compte et réinventé l’archétype éducatif. Cette étude est fondée sur la théorie de l’auto-efficacité de Bandura et les théories d’apprentissage socioculturelles constructivistes. La réussite de la prestation des STEM, iSTEM et STEAM est liée à l’auto-efficacité et aux croyances des enseignants dans leur classe, car elle motive les élèves, développe une attitude positive envers les matières STEM et améliore les compétences des élèves au 21e siècle (Kanadlı, S., 2019 ). Cette étude vise à combler une lacune dans la recherche en examinant les perspectives des enseignants sur les paradigmes STEM et leur intégration en explorant les pédagogies actuelles et passées. Les chercheurs et les éducateurs bénéficieront également de cette étude en explorant les défis des enseignants lors de la mise en œuvre des paradigmes STEM dans leurs salles de classe. Enfin, l’étude examine les facteurs qui soutiennent les enseignants dans la mise en œuvre des paradigmes STEM en classe. Une approche à méthodes mixtes sera employée, impliquant des enquêtes et des entretiens. Les résultats de cette étude offriront une base de connaissances solide aux étudiants, éducateurs, chercheurs et décideurs intéressés avec les stratégies nécessaires à la réussite de l’exécution des STEM à l’école ; développement professionnel; générer et concevoir la politique d’éducation qui soutient l’éducation STEM, le développement de carrière STEM et le marché du travail, en particulier au Canada.
 
 </p>
 </details>
@@ -264,11 +291,14 @@ Education has always collected and used student learning data in combination wit
 
 ***Sean O'Reilly*** | *hypothes.is*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+L’annotation sociale amène le processus séculaire de balisage des textes dans l’espace d’apprentissage numérique. En utilisant l’annotation sociale, les étudiants et les professeurs peuvent donner un sens au texte, avoir des conversations autour et avec le texte, et travailler ensemble pour devenir des lecteurs plus compétents de l’universitaire. Au cours de cette session, vous serez initié à l’annotation sociale et aux différentes façons dont elle peut avoir un impact sur l’apprentissage des étudiants dans vos cours.
 
 </p>
 </details>
@@ -290,11 +320,18 @@ Education has always collected and used student learning data in combination wit
 
 ***Laura Killam*** | *Queen’s University Canada*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Dans cette table ronde, nous discuterons des défis et des avantages de la co-création apprenant-éducateur à partir d’une variété de perspectives interdisciplinaires. Notre objectif sera de répondre aux questions du public sur la co-création apprenant-éducateur. Nous apporterons également quelques questions courantes que nous avons reçues des autres pour commencer la conversation si le public a besoin de temps pour réfléchir à ses questions.
+
+Les panélistes représenteront différents aspects de la co-création à travers les utilisations académiques et de développement professionnel. Les panélistes ont de l’expérience dans la mise en œuvre et le soutien de la co-création en tant qu’apprenants, étudiants, éducateurs, partenaires et personnel de soutien dans les cours de premier cycle et des cycles supérieurs, le développement professionnel et les contextes de l’industrie.
+
+La table ronde sera soutenue par un backchannel virtuel qui favorisera l’engagement des participants dans la discussion, permettra le crowdsourcing de notes et de matériel et posera des questions. Notre espoir est de créer une discussion significative pour soutenir ceux qui découvrent la co-création ou qui cherchent des moyens d’améliorer leur pratique de la co-création.
 
 </p>
 </details>
@@ -310,11 +347,16 @@ Education has always collected and used student learning data in combination wit
 
 ***Jane Tyerman*** | *University of Ottawa*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+La co-création se produit lorsque les apprenants et les éducateurs travaillent ensemble pour prendre des décisions pendant un cours. La prise de décision partagée peut se produire en relation avec un ou plusieurs composants d’un cours, tels que la conservation du contenu ou la conception d’évaluations. Ce partenariat présente de nombreux avantages potentiels, notamment l’autonomisation des élèves, la promotion de meilleures relations et la métacognition, mais les éducateurs peuvent hésiter à l’essayer parce qu’ils sont préoccupés par les limites pragmatiques. Ces limitations peuvent inclure le temps nécessaire, les exigences techniques et l’engagement de grandes classes. En outre, des questions sur les problèmes d’intégrité académique peuvent survenir.
+
+Dans cette présentation, nous partageons et recherchons une collaboration sur une ébauche de boîte à outils pour la co-création apprenant-éducateur. Notre objectif est de fournir un emplacement où les éducateurs peuvent facilement accéder à des outils qui les aideront à s’engager efficacement dans la co-création liée à un éventail de décisions d’apprentissage, petites à plus grandes. Dans cette présentation, nous discuterons des possibilités d’améliorer cette boîte à outils et de nous engager dans une communauté de pratique continue.
 
 </p>
 </details>
@@ -337,11 +379,14 @@ Education has always collected and used student learning data in combination wit
 
 ***Shandell Houlden & George Veletsianos*** | *Royal Roads University*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Dans cette session, nous discutons de la réinvention des futurs de l’éducation en examinant les limites et les potentialités des méthodes de recherche spéculatives, en mettant l’accent sur la distinction dans la littérature entre les visions pessimistes du futur, qui sont des visions explorant des thèmes tels que la déconnexion, le manque d’autonomie et de souveraineté, et un contrôle technologique, corporatif, étatique et/ou autoritaire, et un avenir plein d’espoir. L’avenir de l’éducation spéculative pleine d’espoir est façonné par des thèmes tels que la connexion, l’agence et l’épanouissement communautaire et individuel, et suggère un virage vers les genres de l’hopepunk, du solarpunk et de la fiction visionnaire en tant que modèles de narration spéculative fondée sur l’espoir. Se concentrer sur ces futurs plus libérateurs sert à perturber la dépendance excessive à la narration pessimiste, qui est elle-même liée à la narration apocalyptique, qui risque de renforcer les inégalités, en particulier en ce qui concerne l’injustice coloniale des colons.
 
 </p>
 </details>
@@ -356,7 +401,7 @@ Education has always collected and used student learning data in combination wit
 **Keywords:**
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
 
 </p>
@@ -378,11 +423,14 @@ Education has always collected and used student learning data in combination wit
 
 ***Mille Batta*** | *University of Lethbridge*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Étant donné que les femmes universitaires racialisées subissent un impact négatif dans le milieu universitaire (Association canadienne des professeures et professeurs d’université [ACPPU], 2018; National Center for Education Statistics [NCES], 2020), cette recherche contribue directement à promouvoir des changements positifs dans le milieu universitaire et la société en général. La question de recherche explore : Comment la bourse et la recherche sur l’équité, la diversité et l’inclusion (EDI) chez les femmes universitaires racialisées peuvent-elles améliorer et renforcer plusieurs disciplines, l’élaboration de politiques et l’administration dans le milieu universitaire ? Cette enquête s’aligne sur la mission d’OTESSA de faire progresser la recherche innovante et de diffuser les résultats des données dans le cadre de la mobilisation des connaissances. Cette session soutient le thème de la conférence puisqu’elle vise à promouvoir l’EDI dans l’éducation, l’érudition et la société. Fondée sur la recherche, cette présentation jette les bases d’une prise de conscience politique et institutionnelle accrue, d’un développement communautaire inclusif et d’une sensibilité culturelle au sein du milieu universitaire. La théorie de l’intersectionnalité qui sous-tend ce travail révèle une image complexe des façons dont les groupes racialisés sont altérés dans la société (Crenshaw, 1989). L’analyse de documents (Morgan, 2022), l’approche méthodologique qui sous-tend cette recherche explore un récit à la première personne des actions, des expériences, des croyances et des visions du monde d’un individu (Bowen, 2009). Cette session se termine par un appel à l’action qui propose des stratégies concrètes pour éclairer les politiques et les pratiques à l’échelle provinciale, nationale et internationale. Les participants seront invités à explorer des questions stimulantes et à réfléchir à la manière dont ils naviguent dans des contextes académiques racialisés.
 
 </p>
 </details>
@@ -395,11 +443,14 @@ Education has always collected and used student learning data in combination wit
 
 ***Estaban Morales*** | *University of British Columbia*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+En Colombie, l’éducation à la paix a été reconnue comme essentielle pour changer les récits de violence dominants. Et, alors que l’éducation à la paix cherche à répondre aux vies et aux besoins des citoyens, il est devenu de plus en plus nécessaire d’examiner comment la paix et la violence sont transformées par les plateformes numériques telles que les médias sociaux. En effet, des plateformes telles que Facebook, Twitter et WhatsApp ont transformé la façon dont les Colombiens vivent et interagissent avec les écologies de la violence qui les affectent, eux et leurs communautés. En conséquence, cet article explorera comment la réflexion, le dialogue et l’imagination sur la violence dans les médias sociaux sont des lieux d’apprentissage transformateur. Dans cette étude, 18 jeunes adultes colombiens ont exploré, discuté et réfléchi sur la violence des médias sociaux telle qu’ils l’ont vécue dans leur vie quotidienne. Les résultats de cette étude montrent que les conversations critiques entre pairs peuvent soutenir les processus d’apprentissage des jeunes adultes en matière d’éducation aux médias et d’éducation à la paix, où ils peuvent mieux identifier, comprendre et traiter les comportements nuisibles en ligne et hors ligne. Dans l’ensemble, cette présentation souligne la nécessité d’intégrer les environnements numériques dans les efforts visant à construire et à maintenir des cultures de paix.
 
 </p>
 </details>
@@ -414,11 +465,14 @@ Education has always collected and used student learning data in combination wit
 
 ***Judith Fathallah*** | *Lancaster University*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+L’Open Book Collective, dont le lancement est prévu en novembre 2022, rassemble des éditeurs de livres en libre accès, des bibliothécaires universitaires et des fournisseurs d’infrastructure OA, travaillant à un avenir durable et équitable pour les livres OA. Cette session présentera notre travail, puis démontrera l’utilisation de la plateforme d’adhésion Open Book Collective, qui sera en ligne au moment de la conférence. L’Open Book Collective fonctionne selon le principe de Scaling Small, qui a guidé les travaux de son projet parapluie, Community-Led Open Infrastructures for Open Access Books (COPIM). La « mise à l’échelle petite », par opposition à la « mise à l’échelle », est une autre façon d’envisager un écosystème de publication et de distribution pour les livres en libre accès qui est basé sur la confiance mutuelle et d’autres types de collaboration plutôt que sur la concurrence et l’incorporation. Nous pensons que les économies d’échelle aplanissent la diversité des communautés et conduisent à des monopoles malsains. Plus pragmatiquement, l’OBC exige un engagement de nos membres éditeurs à s’éloigner des frais de traitement des livres, qui sont à la fois insoutenables et profondément inéquitables. L’introduction et la démonstration interactive seront suivies d’une séance de questions-réponses.
 
 </p>
 </details>
@@ -433,11 +487,14 @@ Education has always collected and used student learning data in combination wit
 
 ***Brian Sutherland*** | *University of Toronto*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Les domaines de la conception et de l’informatique omniprésente ou omniprésente sous-tendent de nombreuses disciplines universitaires – peu ont été épargnées par la conception de systèmes, l’avènement des capacités de communication à haut débit et la prolifération des dispositifs informatiques. De plus en plus, ces relations sont facilitées par des cadres ouverts et des communautés en matière de matériel, de logiciel et de pédagogie. Dans cette session, je discute d’un cours de quatrième année en conception numérique où les étudiants en groupes se sont engagés avec des bibliothèques de codes ouverts et de petits ordinateurs pour créer des dispositifs et des systèmes de détection pour aider à un changement positif dans les soins de santé, la biologie et/ou l’environnement. Il renoue avec une pédagogie dite d’apprentissage par la découverte où l’issue est incertaine, les problèmes – complexes, et les savoirs – largement articulés et émergents. Les apprenants ont suivi des travaux pratiques guidés encadrés par d’autres étudiants, le personnel enseignant et des ressources en ligne, soutenus par leurs compétences en recherche et en évaluation, pour étayer leur développement rapide dans un domaine complexe, dans de nombreux cas jusqu’alors inconnu. Le résultat n’était pas tant des prototypes fonctionnels que des simulations de capacité et une riche compréhension conceptuelle des systèmes sociotechniques sous-jacents de développement, aidés par des compétences du XXIe siècle telles que la recherche et l’évaluation critique des sources, le réseautage en ligne, la collaboration de groupe, et la citoyenneté mondiale pour un changement positif.
 
 </p>
 </details>
@@ -452,11 +509,20 @@ Education has always collected and used student learning data in combination wit
 
 ***Jacqueline Vaughn, Alicia Sellon, Chase DuBois, Amelia Huelskamp, Andrea Smith, Colette Waddill & Justine Reel*** | *University of North Carolina Wilmington*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Contexte : La co-création, la formation interprofessionnelle et la simulation sont des stratégies qui peuvent préparer les étudiants en soins de santé à gérer les défis du monde réel en équipe. Le corps professoral a identifié à la fois un désir de s’engager dans une collaboration avec les étudiants et un besoin de tirer parti de la créativité des étudiants pour aider à combler l’écart dans les ressources disponibles sur le campus.
+
+Objectif : Dans cette présentation, nous partageons les résultats d’une étude pilote multi-méthodes qui visait à tester le développement d’un cours dans lequel les étudiants se sont associés à des professeurs dans un défi de conception pour co-créer des simulations interprofessionnelles fondées sur des preuves. L’objectif de cette étude était d’évaluer la faisabilité du projet et les perceptions des étudiants sur la façon dont l’expérience a façonné leur apprentissage.
+
+Méthodes : L’intervention consistait en un défi de conception de trois jours au cours duquel les étudiants ont co-créé une simulation avec le corps professoral dans des groupes interprofessionnels. Nous avons mesuré les compétences interprofessionnelles avant et après l’intervention, recueilli des commentaires ouverts sur l’apprentissage des étudiants et évalué la faisabilité (besoins en temps, ressources) de la co-conception d’une simulation par les étudiants.
+
+Résultats : Cette stratégie s’est avérée faisable, efficace, unique et précieuse. Les étudiants ont exprimé le désir d’apprendre davantage dans le cadre de cette expérience. Conclusion : La co-création de simulation apprenant-éducateur peut être une stratégie viable pour améliorer les compétences interprofessionnelles des étudiants et enrichir l’apprentissage. D’autres recherches à plus grande échelle sont nécessaires.
 
 </p>
 </details>
@@ -471,11 +537,18 @@ Education has always collected and used student learning data in combination wit
 
 ***Emily Schudel & Kimberlee Carter*** | *Kwantlen Polytechnic University*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Cette présentation est offerte par trois professionnels expérimentés de l’enseignement supérieur qui s’intéressent à l’enseignement ouvert. Il est axé sur leur propre pratique telle que reflétée dans un programme de développement professionnel qu’ils suivent, qui est le cadre de cette présentation. Ce programme se concentre non seulement sur les ressources et les techniques de l’éducation ouverte, mais aussi sur les buts et les objectifs de l’éducation ouverte, y compris les questions de justice sociale.
+
+Au cours de cette session, les présentateurs partageront leurs réflexions sur leur expérience du premier cours du programme, axé sur la théorie et la philosophie de l’éducation ouverte. Ce cours a conduit les participants à explorer les histoires, les significations et les objectifs de l’éducation ouverte, tout en intégrant la littérature, les discussions et les exemples tirés de la propre pratique des participants.
+
+Une approche collaborative réflexive critique (Hamilton & Pinnegar, 2014) est utilisée pour décrire, comparer et analyser leurs expériences. Nous abordons ces sujets dans la perspective que l’ouverture est « contextuelle, mais elle est aussi personnelle et continuellement négociée » (Cronin, 2017. P. 8) et donc nous situons notre compréhension dans nos pratiques individuelles.
 
 </p>
 </details>
@@ -495,10 +568,12 @@ Education has always collected and used student learning data in combination wit
 
 *Titre de la session : à déterminer*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
 
 </p>
@@ -513,10 +588,12 @@ Education has always collected and used student learning data in combination wit
 
 *Titre de la session : à déterminer*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
 
 </p>

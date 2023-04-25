@@ -71,13 +71,20 @@
 
 #### 9:30 - 10:30 | **Cultiver les compétences essentielles en leadership pour la transformation numérique dans l’enseignement postsecondaire en Ontario** |  Pratique {-}
 
-***Alissa Bigelow & Monica Shah*** | *eCampusOntario*
+***Don Eldgridge & Monica Shah*** | *eCampusOntario*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+La transformation numérique (Dx) implique plus que la mise en œuvre de nouvelles technologies ; cela nécessite un changement de culture organisationnelle et l’acceptation des outils numériques comme partie intégrante de l’activité organisationnelle. Un élément fondamental de la transformation numérique dans le secteur postsecondaire de l’Ontario consistera à s’assurer que les dirigeants comprennent comment leur influence influe sur la culture institutionnelle et comment cette culture favorise ou inhibe l’innovation. À la base, un leader Dx est chargé d’inspirer l’action au sein de son organisation, de son département, de son équipe, de sa classe et des apprenants de manière nouvelle et innovante.
+
+Les chercheurs ont mené une analyse de l’environnement et un sondage qualitatif auprès des leaders et des éducateurs postsecondaires afin d’identifier les lacunes dans les soutiens au développement du leadership pour Dx. L’enquête a révélé que l’agilité, la pensée critique, la prévoyance, la sécurité des données, l’analyse, la gouvernance et la sélection et l’évaluation des technologies sont des compétences clés pour lesquelles un soutien limité au niveau du secteur est disponible pour les dirigeants confrontés à un avenir de plus en plus numérique. L’équipe de recherche a affiné ces compétences dans un programme de développement professionnel en cinq modules destiné à être dispensé dans des formats facilités interactifs et à rythme libre en ligne.
+
+Cette présentation discutera des efforts de recherche, du cadre de compétences et du développement du curriculum à ce jour. N’importe qui, à n’importe quel niveau d’une organisation, a la capacité d’être un leader, et les leaders efficaces reconnaîtront cette capacité chez les autres. Le public s’engagera dans une activité clé pour faire le premier pas pour devenir un leader transformateur pour Dx au sein de son institution.
 
 </p>
 </details>
@@ -95,11 +102,14 @@
 
 ***Ann Ludbrook*** | *Toronto Metropolitan University*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Cette séance examine les travaux en cours d’un groupe multipartite pour élaborer des initiatives fédérales soutenues de défense des ressources éducatives libres (REL) au Canada, y compris un cadre national de défense des intérêts. Il commence par passer en revue le travail de plaidoyer national sur les REL, y compris la consultation prébudgétaire de 2018, et le développement de réunions régulières autour du plaidoyer national sur les REL. L’un des résultats des réunions a été la création d’un groupe de travail pour élaborer un cadre national de défense des ressources éducatives libres au Canada (ABRC, 2023). La séance passe en revue les arguments du Cadre en faveur de la participation fédérale aux REL. Il discute ensuite d’une série de sommets de travail nationaux ciblés sur des questions spécifiques axées sur la participation des REL. Cela comprend la discussion du sommet de novembre 2022 sur les politiques et les infrastructures, le sommet prévu de mai 2023 sur les REL francophones et le troisième sommet sur les REL autochtones. Les stratégies d’engagement et les prochaines étapes du travail de plaidoyer, y compris l’élaboration de déclarations de plaidoyer prioritaires et ciblées, sont discutées. Cette partie mène la section de discussion (15-20 minutes) où les participants pourront poser des questions et discuter de la façon dont le travail de plaidoyer futur devrait être façonné. L’accent mis sur la discussion est étayé par un engagement à développer une initiative soutenue d’un large éventail de parties prenantes des REL sur le plaidoyer national.
 
 </p>
 </details>
@@ -113,11 +123,23 @@
 
 ***Leo Havemann*** | *University College London / Open University*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+De nombreuses discussions sur la politique d’éducation ouverte ont eu lieu au niveau supranational (par exemple, UNESCO, 2019) et dans certains cas, les nations et les gouvernements infranationaux ont relevé le défi d’intégrer des ressources et des pratiques ouvertes dans l’élaboration des politiques. Ce qui est moins clair et moins simple à étudier, c’est la mesure dans laquelle les établissements d’enseignement supérieur élaborent des politiques pour soutenir certains aspects de l’ouverture.
+
+Cette session rend compte des travaux de recherche doctorale en cours sur l’espace politique institutionnel de l’éducation ouverte. Un instrument d’enquête a été développé et distribué afin de recueillir les points de vue des membres du personnel de l’enseignement supérieur à l’échelle internationale. Afin de cadrer les questions et les instruments de recherche, des compréhensions inclusives des concepts « éducation ouverte » et « politique institutionnelle » ont été adoptées. L’éducation ouverte peut être décrite comme un terme générique large, qui peut potentiellement faire référence à de nombreuses pratiques dans l’éducation formelle, informelle et non formelle (Auteur, 2016 ; Weller et al., 2019). La « politique institutionnelle » est considérée comme comprenant des politiques, des stratégies, des réglementations ou des lignes directrices documentées, mais aussi, par exemple, la fourniture d’infrastructures, les lignes de conduite habituelles, les aspects réguliers du travail d’une personne ou les domaines d’activité financés ou soutenus (Auteur, 2020).
+
+Les participants à l’enquête ont donc été invités à fournir des informations et des opinions sur les intentions et les effets des politiques institutionnelles locales sur les domaines de pratique, notamment :
+- utilisation, création, partage et adaptation de ressources éducatives libres (REL).  
+- offre de cours en ligne gratuits et à moindre coût.  
+- ouverture des aspects de l’apprentissage, de l’enseignement et de l’évaluation aux participants, partenaires et publics externes.  
+- participer à des communautés de pratique ouvertes de développement professionnel.  
+La présentation donnera un aperçu des résultats de l’enquête et examinera les implications pour les défenseurs de l’OE qui cherchent à améliorer le soutien à l’OEP au sein des institutions par le biais de politiques.
 
 </p>
 </details>
@@ -131,11 +153,14 @@
 
 ***Adam Clare*** | *Sheridan College*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Les cours d’écologie de la restauration insistent sur le fait que les étudiants acquièrent les connaissances et les compétences en leadership nécessaires pour restaurer avec succès les régions dégradées. Pourtant, les salles de classe traditionnelles offrent des possibilités limitées de planifier et de mettre en œuvre la restauration en raison des barrières d’échelle écologique, spatiale et temporelle. Pour former et responsabiliser les jeunes à relever le défi de la restauration écologique, nous avons créé le jeu bac à sable myWATERSHED. myWATERSHED utilise un jumeau numérique du bassin versant de la rivière Humber pour engager les apprenants dans la restauration à l’aide d’une espèce en voie de disparition, le méné long. Le jeu crée une simulation réaliste où les interactions explorent les principes écologiques et les défis critiques, y compris le concept d’échelle spatiale, temporelle et écologique dans la restauration. myWATERSHED donne aux étudiants la liberté d’explorer et de manipuler un environnement réaliste où ils peuvent évaluer les stratégies de restauration, mettre en œuvre des efforts sous des contraintes de ressources et solliciter des commentaires. A travers une démarche autoethnographique, nous partagerons notre expérience dans la construction et la coordination des efforts d’une équipe pluridisciplinaire pour créer un jeu sérieux. Nous invitons les participants à partager leurs idées pour améliorer la conception du logiciel et l’approche utilisée pour gérer une équipe interdisciplinaire pour le développement de logiciels éducatifs. Nous espérons entendre comment les participants pourraient adapter ou intégrer le jeu ou notre approche dans leurs propres contextes.
 
 </p>
 </details>
@@ -154,11 +179,14 @@
 ***Bruno Poellhuber*** | *Université de Montréal*
 
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Ces dernières années ont vu une augmentation importante de l’enseignement à distance aux niveaux K-12. Notre recherche s’appuie sur 22 entretiens menés auprès d’élèves du secondaire inscrits à un cours d’histoire à distance. Les résultats montrent que certains d’entre eux ont beaucoup manqué d’interactions sociales et que leur motivation et leurs notes ont souffert de suivre des cours dans ce format. D’un autre côté, certains étudiants s’épanouissaient dans ce cadre et se félicitaient de l’autonomie et de la flexibilité accrues qu’il offrait. Dans un contexte où l’enseignement à distance est considéré comme une option viable dans un nombre croissant de cas pour les élèves du secondaire, nos résultats indiquent qu’il ne convient pas à tous les élèves et que certains aspects du soutien aux élèves sont essentiels pour favoriser l’engagement et la réussite des élèves.
 
 </p>
 </details>
@@ -173,11 +201,14 @@
 ***Dana Cramer*** | *Toronto Metropolitan University*
 
 ***Jennifer Lee, James Murphy & Caitlin McClurg*** | *University of Calgary*
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Les étudiants diplômés subissent une pression croissante pour participer à l’édition académique pendant leurs études, mais un mentorat et une éducation complets sur ce sujet peuvent ne pas être disponibles pour tous les étudiants. Cette étude a mené des groupes de discussion avec des étudiants diplômés et des conseillers pédagogiques, afin de mieux comprendre ce qui est difficile à apprendre et à enseigner sur le thème de l’édition universitaire. Le but de cette recherche était d’améliorer les supports pédagogiques pour les étudiants diplômés qui apprennent à publier leurs recherches savantes. La publication universitaire est qualifiée de « concept de seuil » dans la littérature, car les étudiants développent une compréhension transformationnelle de la profession universitaire une fois qu’ils ont acquis ces connaissances (Townsend et al., 2011). L’équipe de recherche a élaboré une approche d’apprentissage mixte pour combler les lacunes en matière d’enseignement et d’apprentissage identifiées par les participants aux groupes de discussion. Notre approche utilise la lentille de la « pédagogie compatissante » et comprend à la fois une ressource éducative multimédia ouverte à la demande et des approches en personne pour créer une communauté et aborder les aspects de bien-être mental du sujet complexe de l’édition universitaire en début de carrière.
 
 </p>
 </details>
@@ -196,7 +227,7 @@
 *University of Calgary*
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
 À quel point devons-nous nous inquiéter que les étudiants trichent davantage à cause de l’intelligence artificielle ? L’écriture générée par une application d’écriture d’intelligence artificielle (IA) constitue-t-elle du plagiat ? Comment l’intelligence artificielle peut-elle être utilisée de manière éthique pour l’enseignement, l’apprentissage et l’évaluation ? Un robot prendra-t-il mon travail ?
 
@@ -219,15 +250,18 @@ Ces questions dominent les cercles d’enseignement et d’apprentissage et les 
 
 ```{block, type='speaker'}
 
-#### Conférencier de la session : à déterminer {-} 
+####  Jennifer Wemigwans | OISE University of Toronto {-} 
 
-*Titre de la session : à déterminer*
+*Offres groupées numériques : un calcul et une réinvention*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Les ensembles numériques créent un espace culturel pour le savoir autochtone grâce à l’utilisation de nouveaux les technologies. Le concept des offres groupées numériques est issu d’une tradition qui respecte la diversité Les aînés et les gardiens du savoir en tant que gardiens des ensembles de connaissances communautaires. Partage Les ensembles numériques en ligne représentent de nouveaux espaces pour le savoir autochtone sous la forme de Éducation. Les forfaits numériques sont à la fois un calcul et une réinvention de l’espace en ligne. Pour les non-publics autochtones, les forfaits numériques les mettent au défi de sortir de leurs systèmes codifiés et apprendre une nouvelle façon d’être et de percevoir le monde. Pour les publics autochtones, numérique Les ensembles sont une nouvelle façon de partager l’éclat de diverses connaissances autochtones avec de nouveaux générations.
 
 </p>
 </details>
@@ -241,10 +275,12 @@ Ces questions dominent les cercles d’enseignement et d’apprentissage et les 
 
 *Titre de la session : à déterminer*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
 
 </p>
@@ -267,11 +303,14 @@ Ces questions dominent les cercles d’enseignement et d’apprentissage et les 
 
 ***Sean O'Reilly*** | *hypothes.is*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+L’annotation sociale amène le processus séculaire de balisage des textes dans l’espace d’apprentissage numérique. En utilisant l’annotation sociale, les étudiants et les professeurs peuvent donner un sens au texte, avoir des conversations autour et avec le texte, et travailler ensemble pour devenir des lecteurs plus compétents de l’universitaire. Au cours de cette session, vous serez initié à l’annotation sociale et aux différentes façons dont elle peut avoir un impact sur l’apprentissage des étudiants dans vos cours.
 
 </p>
 </details>
@@ -285,11 +324,14 @@ Ces questions dominent les cercles d’enseignement et d’apprentissage et les 
 
 ***Mourad Majdoub, Fatme Diab & Géraldine Heilporn*** | *Université Laval*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+La technologie moderne joue un rôle important en aidant les étudiants de tous horizons à surmonter les obstacles et à bénéficier de l’enseignement et de l’apprentissage. Cependant, en raison d’un manque de connaissances ou de compétences en matière de technologies éducatives, les enseignants de la maternelle à la 12e année ont du mal à exploiter tout le potentiel de la numérisation pour soutenir l’apprentissage et l’engagement des élèves, ce qui entraîne un risque de marginalisation (Chevalère et al., 2021). L’écart dans l’utilisation des TIC est connu sous le nom de fracture numérique. La littérature de recherche a révélé trois niveaux de fracture numérique : l’accès, l’utilisation et les résultats. En réponse à ces lacunes de la recherche, le but de cette communication est d’explorer quelles pratiques d’enseignement au secondaire répondent aux besoins et aux préférences des apprenants dans l’intérêt d’une utilisation inclusive de la technologie numérique qui améliore leur apprentissage et leur engagement. Dans le cadre d’un projet de recherche financé par le CRSH, nous avons mené des entrevues individuelles semi-dirigées auprès d’enseignants et d’élèves du secondaire visant à obtenir des données qualitatives approfondies principalement au moyen de questions ouvertes. Une analyse thématique a été utilisée pour analyser de manière inductive les données des entretiens et générer des thèmes et des catégories possibles en fonction des objectifs de notre étude. Les résultats préliminaires seront disponibles au printemps 2023 et seront partagés lors de la conférence OTESSA.
 
 </p>
 </details>
@@ -303,11 +345,14 @@ Ces questions dominent les cercles d’enseignement et d’apprentissage et les 
 
 ***Bonnie Stewart, Erica Miklas, Samantha Szcyrek & Thu Le*** | *University of Windsor*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Les systèmes numériques datafiés ont imprégné l’enseignement supérieur au cours de la dernière décennie. L’inscription, la notation, les opérations financières, les communications avec les anciens élèves et souvent l’enseignement se font via des plateformes numériques qui extraient et rassemblent des données sur les étudiants ainsi que sur les professeurs et le personnel. Au niveau de ces processus de système de données, les universitaires peuvent ne pas avoir les connaissances ou les pratiques nécessaires pour saisir pleinement le changement dans leur lieu de travail que représente la datafication. Cependant, nos recherches suggèrent que les éducateurs comprennent le changement de paradigme que représente la datafication et ont de fortes convictions sur la manière dont les institutions devraient procéder pour protéger les étudiants et le milieu universitaire lui-même. Notre équipe a mené une étude approfondie d’études de cas comparatives (CCS) sur la façon dont les enseignants universitaires donnent un sens aux infrastructures basées sur les données dans et sur lesquelles ils travaillent. Cette présentation passe en revue les connaissances, les pratiques, les expériences et les perspectives des éducateurs occupant divers postes institutionnels de six pays différents, en relation avec les outils numériques datafiés. Nous nous concentrerons particulièrement sur les obstacles que les participants ont articulés à leur propre engagement avec les données, aux niveaux personnel, institutionnel et sociétal. Nous décrirons comment les obstacles sont renforcés par les approches institutionnelles de la datafication, passerons en revue les préoccupations des participants et explorerons comment la datafication a modifié la position de pouvoir des professeurs en tant que connaisseurs au sein de l’académie.
 
 </p>
 </details>
@@ -327,11 +372,14 @@ Ces questions dominent les cercles d’enseignement et d’apprentissage et les 
 
 ***Sadik Shahadu*** | *MHz Foundation*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Depuis le lancement de Wikidata en 2012, la base de connaissances multilingue s’est principalement concentrée sur les concepts : les Q-items sont liés à une chose ou à une idée, pas au mot qui la décrit. Depuis 2018, Wikidata stocke également un nouveau type de données : des mots, des phrases et des phrases, dans de nombreuses langues, décrites dans de nombreuses langues. Ces informations sont stockées dans de nouveaux types d’entités appelées lexèmes (L), formes (F) et sens (S). Cette session d’atelier guidera les participants dans l’édition de l’espace de noms de données lexicographiques en Dagbani, en anglais et dans une langue supplémentaire avec l’aide des participants. Ils en apprendront également davantage sur le développement de Wikipédia abstrait.
 
 </p>
 </details>
@@ -347,11 +395,16 @@ Ces questions dominent les cercles d’enseignement et d’apprentissage et les 
 
 ***Gloria Ramirez*** | *Thompson Rivers University*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Avant la perturbation mondiale causée par la pandémie de COVID-19, nous étions engagés dans des recherches qui examinaient de près les caractéristiques des manuels des ressources éducatives libres (REL) qui répondent aux besoins de divers apprenants, en particulier les étudiants internationaux et les apprenants adultes. Nous avons réalisé que l’utilisation des REL réduisait les coûts éducatifs pour les étudiants et pourrait potentiellement faciliter l’apprentissage des étudiants en permettant l’incorporation d’outils d’apprentissage multimodaux (par exemple, vidéos, audios) ainsi que d’autres fonctionnalités interactives (par exemple, des activités d’application pour tester l’apprentissage avec retour immédiat). Notre question de recherche directrice à l’époque était : que requiert une REL pour les méthodes de recherche pour répondre aux besoins d’apprenants diversifiés ? Nous avions recueilli les résultats d’enquêtes, mené des groupes de discussion et avancions vers la collecte de données supplémentaires et l’élaboration et la mise à l’essai d’une REL dans les méthodologies de recherche pour les étudiants du programme de maîtrise en éducation. Cette recherche prometteuse a été interrompue en mars 2020 lorsque le COVID-19 a perturbé nos vies et nous a obligés à concentrer nos efforts sur l’apprentissage de l’enseignement par le biais de modes d’enseignement alternatifs en ligne. Cette nouvelle réalité a ouvert un espace pour une évolution de nos valeurs en tant qu’éducateurs et de notre compréhension de la pédagogie ouverte et de la pratique des REL. Après une interruption de près de deux ans, inspirée par les travaux de Meger et al (2021), nous avons repris notre collaboration en nous engageant dans une réflexion structurée pour examiner comment nous avons évolué en tant qu’éducateurs et chercheurs engagés dans le développement des REL et où nous prévoyons de mener la recherche de ce nouveau lieu de maturité. Aujourd’hui, nous sommes mieux placés pour répondre à cette question après avoir été influencés par des facteurs qui ont changé nos perspectives et nos valeurs.
+
+Nous partagerons nos idées initiales sur les perspectives des étudiants sur les REL et poursuivrons par un examen critique des REL existantes pertinentes pour les méthodes de recherche en éducation afin d’identifier dans quelle mesure elles reflètent les valeurs auxquelles nous adhérons maintenant. Notre présentation interactive incitera les éducateurs, les concepteurs pédagogiques et les chercheurs en REL à réfléchir à leurs valeurs et à leur compréhension des pratiques d’éducation ouverte. C’est grâce à cette réflexion structurée que, collectivement, nous pouvons capitaliser sur les opportunités de transformation, même à travers les complexités d’une crise telle que la pandémie de Covid-19.
 
 </p>
 </details>
@@ -367,11 +420,14 @@ Ces questions dominent les cercles d’enseignement et d’apprentissage et les 
 
 ***Marian Luctkar-Flude*** | *Queen's University Canada*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Les perspectives centrées sur les blancs se manifestent dans de nombreuses cultures et systèmes d’enseignement supérieur nord-américains, ce qui entraîne des inégalités qui ont un impact disproportionné sur le bien-être des apprenants de couleur. De telles agressions raciales produisent une «fatigue de combat raciale», se référant à l’impact du stress physiologique, physiologique et comportemental. La simulation virtuelle est proposée comme stratégie éducative pour sensibiliser au racisme dans un milieu universitaire et promouvoir l’alliance des groupes en quête d’équité. Un module de simulation virtuelle a été développé pour sensibiliser au racisme. Il se compose de vidéos d’introduction, de deux simulations, de ressources et d’invites de débriefing et est développé sur la base d’expériences vécues et observées d’un groupe diversifié d’apprenants et d’éducateurs. Les scènes mettent en évidence la nécessité de retirer le terme « micro agression » et permettent aux participants de jouer le rôle de spectateurs et de suivre le modèle ARISE, qui comprend cinq éléments clés : (1) la sensibilisation, (2) répondre avec empathie, (3) se renseigner sur les faits, (4) utiliser des déclarations en « je » et (5) éduquer et engager. Avec cela, nous cherchons à sensibiliser aux inégalités raciales dans le programme en : (1) illustrant comment le racisme affecte les gens dans leur environnement d’apprentissage, (2) démontrant comment les spectateurs pourraient appliquer le modèle ARISE pour aider une personne victime de racisme dans un cadre éducatif, et (3) apprendre à être un allié. Aborder les cas de racisme caché et manifeste peut se traduire par un apprentissage plus équitable.
 
 </p>
 </details>
@@ -387,11 +443,16 @@ Ces questions dominent les cercles d’enseignement et d’apprentissage et les 
 
 ***Don Eldridge*** | *eCampusOntario*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+L’apprentissage adaptatif (AL) exploite la puissance de la technologie pour modifier en permanence le contenu pédagogique en fonction des comportements et des besoins des apprenants, ce qui se traduit par une expérience d’apprentissage personnalisée. En 2021, les chercheurs ont mené une analyse de l’environnement pour découvrir si et comment les technologies d’apprentissage adaptatif sont exploitées dans le secteur de l’enseignement supérieur de l’Ontario. Bien que l’analyse n’ait identifié aucun projet d’apprentissage adaptatif à grande échelle, elle a révélé que les éducateurs de l’Ontario voient une grande valeur dans ces technologies innovantes, mais qu’ils les perçoivent comme coûteuses et complexes. Sur la base de ces résultats, les chercheurs ont organisé en 2022 une série de webinaires pour le secteur postsecondaire dans le but de sensibiliser davantage à l’apprentissage adaptatif et de contrer le récit dominant de la complexité. Ces webinaires présentaient six collaborations entre des établissements ontariens et des fournisseurs de technologies de l’éducation utilisant différents types de technologies adaptatives qui personnalisent les parcours d’apprentissage. Cette présentation basée sur la pratique présentera une compilation des meilleures pratiques issues de ces collaborations et offrira aux participants l’occasion d’explorer certaines des technologies présentées.
+
+
 
 </p>
 </details>
@@ -403,11 +464,22 @@ Ces questions dominent les cercles d’enseignement et d’apprentissage et les 
 
 ***Terry Greene*** | *Trent University*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+La prolifération des technologies numériques a créé une multitude d’opportunités pour l’enseignement, l’apprentissage et la recherche dans l’enseignement supérieur. Cependant, de nombreux établissements n’ont pas pleinement adopté ces technologies pour permettre à leurs professeurs et étudiants de créer, de collaborer et de partager leur travail en ligne. Une combinaison de Domain of One’s Own et de Pressbooks peut offrir une solution à ce problème en fournissant aux professeurs et aux étudiants les outils et la structure dont ils ont besoin pour créer et publier en ligne d’une manière à la fois sécurisée, évolutive et accessible à tous. mais le plus fluide numériquement.
+
+Dans cette présentation, nous explorerons les avantages de combiner la pratique de Domain of One’s Own avec l’utilisation d’une instance institutionnelle de Pressbooks. Ces avantages comprennent :
+
+- Fournir aux professeurs et aux étudiants une plate-forme pour créer et partager leur travail en ligne d’une manière qui met l’accent sur la facilité d’utilisation.  
+- Permettre aux professeurs et aux étudiants de prendre le contrôle de leur apprentissage en créant un livre électronique personnel qui reflète la croissance de leur apprentissage tout au long de leur programme.  
+- Permettre aux professeurs de créer et de publier des ressources éducatives ouvertes (REL) et d’autres ressources numériques pouvant être utilisées par les étudiants et d’autres éducateurs du monde entier.  
+- Soutenir la création de communautés de pratique et de collaboration en ligne, où les professeurs et les étudiants peuvent partager leur travail, échanger des idées et fournir des commentaires.  
+La présentation s’adressera aux professeurs, aux concepteurs pédagogiques, aux bibliothécaires et aux technologues en éducation qui souhaitent explorer cette approche de l’enseignement, de l’apprentissage et de la recherche. Les participants découvriront les avantages de simplifier Domain of One’s Own avec Pressbooks.
 
 </p>
 </details>
@@ -421,11 +493,14 @@ Ces questions dominent les cercles d’enseignement et d’apprentissage et les 
 
 ***Brian Lorraine*** | *Simon Fraser University*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+S’engageant dans une discussion sur les principaux résultats, cette session vise à contribuer à une compréhension commune des succès et des défis rencontrés tout en favorisant une communauté de pratique d’apprentissage mixte. En mettant en œuvre un modèle de communauté d’apprentissage du corps professoral (FLC), une petite équipe du Centre for Educational Excellence de l’Université Simon Fraser visait à soutenir les instructeurs en collaborant à la conception et au développement de cours mixtes. Confronté à deux défis importants que sont l’épuisement professionnel lié à la pandémie et une maîtrise très variable de l’utilisation des technologies d’apprentissage, le modèle FLC visait à maintenir le bien-être au premier plan en mettant l’accent sur l’intentionnalité et la communauté. Les premières observations révèlent des résultats mitigés en termes de résultats de conception de cours et de perception par les instructeurs de leur parcours d’apprentissage mixte. Tout au long du processus, des questions importantes sur les approches institutionnelles de l’apprentissage mixte sont apparues et serviront de base de discussion à la fois pendant la session et à l’avenir.
 
 </p>
 </details>
@@ -437,10 +512,12 @@ Ces questions dominent les cercles d’enseignement et d’apprentissage et les 
 
 *** Bruno Poellhuber & Simon Parent*** | *Université de Montréal*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
 
 </p>

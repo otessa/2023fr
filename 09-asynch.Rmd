@@ -9,11 +9,14 @@
 
 ***Mariana Jardim, Abigail Warnock & Robert Matz*** | *University of Toronto*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Les « frontières numériques » sont une métaphore qui peut être utilisée pour naviguer dans les nombreux « mondes » différents que nous connaissons entre les paysages en ligne et hors ligne. Les frontières sont une méthode qui aide à redéfinir et à réorganiser notre compréhension de ces espaces et des règles qui déterminent de manière importante la gouvernance des moments de dépossession, de marginalisation et d’exploitation. En effet, la « fracture numérique » est un problème complexe et précaire pour des communautés désormais exposées à un monde de plus en plus numérique et immatériel qui leur est inconnu. La bibliothèque est une institution équipée pour arbitrer ces frontières, en développant des programmes d’apprentissage intégrés au travail ainsi que des objets d’apprentissage qui proposent de « combler » cette fracture. D’après l’expérience de The BRIDGE et de la bibliothèque UTSC, la programmation pour la littératie numérique est un élément essentiel pour établir des frontières entre les mondes numérique et physique, ainsi que pour offrir des opportunités éducatives permettant de naviguer de manière significative dans l’inclusivité et l’exclusivité des frontières numériques.
 
 </p>
 </details>
@@ -31,11 +34,14 @@
 
 ***Chris Rowell*** | *University of the Arts London*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Critical Digital Pedagogy in Higher Education est un volume édité de 13 chapitres. L’ouvrage a récemment été publié par Athabasca University Press sous forme imprimée, de livre électronique et en libre accès. Les contributeurs au livre critiquent les systèmes et pratiques éducatifs oppressifs afin de créer un changement positif – ces réflexions et pratiques partagées reflètent la diversité des pratiques pédagogiques critiques dans le contexte de l’enseignement supérieur numérique/numérisé. Nous avons divisé les chapitres du livre selon quatre thèmes principaux : apprentissage partagé et confiance, conscience critique, changement et espoir. Nous invitons les délégués à engager un dialogue productif sur ces thèmes et le travail dans le livre à travers les forums asynchrones.
 
 </p>
 </details>
@@ -49,11 +55,14 @@
 
 ***Gilbert Chen, Diana Xu, Saranya Sivaneshon, Pranav Kulkarni, Wasif Hyder, Parkriti Biswas, Jessica Kabuli & Ramshah Kidwai*** | *York University*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <p>
+Notre projet interdisciplinaire Cross-Campus Capstone Classroom (C4) impliquait notre approche de la question du défi : « Comment la littératie financière peut-elle être enseignée et apprise dans le secteur K-12 sur une base plus équitable? » Il implique l’ODD 10 des Nations Unies – Inégalités réduites avec notre partenaire communautaire RBC sur le campus. Nous nous sommes attaqués au problème en créant des cours de zoom gratuits en ligne après l’école pour tous les élèves de la 11e à la 12e année en Ontario. Ces séances et le contenu supplémentaire étaient centrés sur un site Web accessible. Les élèves ont participé à trois séances de 30 minutes sensibilisation des médias et méthodologie d’enseignement. Nous voulions partager l’importance de la littératie financière et de ces trois sujets particuliers. Comme nous souhaitions réduire les barrières qui peuvent exister telles que socio-économiques, politiques ou raciales avec une approche de décolonisation.
 
 </p>
 </details>
