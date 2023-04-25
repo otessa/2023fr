@@ -69,8 +69,7 @@
 
 ```{block, type='session'}
 
-#### 9:30 - 10:30 | **Cultiver les compétences essentielles en leadership pour la transformation numérique dans l’enseignement postsecondaire en Ontario** |  Pratique
- {-}
+#### 9:30 - 10:30 | **Cultiver les compétences essentielles en leadership pour la transformation numérique dans l’enseignement postsecondaire en Ontario** |  Pratique {-}
 
 ***Alissa Bigelow & Monica Shah*** | *eCampusOntario*
 
@@ -319,6 +318,7 @@ Ces questions dominent les cercles d’enseignement et d’apprentissage et les 
 ## Séance simultanée 8 |  3:30-5:00 {-}
 
 1.5 heures
+
 ### Séance simultanée 8.1 |  Aborder les inégalités {-}
 
 ```{block, type='workshop'}
@@ -396,7 +396,6 @@ Ces questions dominent les cercles d’enseignement et d’apprentissage et les 
 </p>
 </details>
 ```
-
 
 ```{block, type='session'}
 

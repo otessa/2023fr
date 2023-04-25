@@ -1,10 +1,10 @@
-# Mardi 30 Mai 2023 | EN PERSONNE À L’UNIVERSITÉ YORK 
-
+# Mardi 30 Mai 2023 | EN PERSONNE À L’UNIVERSITÉ YORK
 
 ```{block, type='protip'}
 
 #### Join us for the #OTESSA23 Morning Radio Show every morning (time TBA) at https://voiced.ca
 ```
+
 ### Session Types {-}
 
 ```{block, type='protip'}
@@ -32,11 +32,13 @@
 #### Regular Session
 
 ```
+
 ```{block, type='social'}
 
 #### Social Session
 
 ```
+
 ```{block, type='vendor'}
 
 
@@ -50,12 +52,12 @@
 #### Workshop
 
 ```
---- 
 
+---
 
 ## Petit-déjeuner continental fourni | 8:00-9:00 {-}
 
-##  Bureau d’accueil ouvert | 8:00 - 11:30 {-}
+## Bureau d’accueil ouvert | 8:00 - 11:30 {-}
 
 ## Bienvenue à la conférence, annonces et reconnaissance des terres | 9:00-9:15 {-}
 
@@ -64,6 +66,7 @@
 ## Séance simultanée 9 | 9:30-10:30 {-}
 
 1 hour
+
 ### Séance simultanée 9.1 |  Formations d’apprentissage et d’enseignement en ligne {-}
 
 ```{block, type='session'}
@@ -99,7 +102,6 @@
 ```
 
 ### Séance simultanée 9.2 |  Formations d’apprentissage et d’enseignement en ligne {-}
-
 
 ```{block, type='session'}
 
@@ -150,6 +152,7 @@
 </p>
 </details>
 ```
+
 ```{block, type='session'}
 
 #### 10:00-10:30 | **L’écriture d’intelligence artificielle dans l’enseignement supérieur : une perspective de centre d’enseignement et d’apprentissage** |  Pratique {-}
@@ -166,11 +169,9 @@
 </details>
 ```
 
-
 ## Casser | 10:30-11:00 {-}
 
 ## **Non-conférence** | 11:00-12:00
-
 
 ```{block, type='protip'}
 
@@ -183,6 +184,7 @@
 ## Séance parallèle 10 | Conférencier invité  | 1:30-2:30 {-}
 
 45 Minutes
+
 ### Séance parallèle 10.1 {-}
 
 ```{block, type='speaker'}
@@ -200,6 +202,7 @@
 </p>
 </details>
 ```
+
 ### Séance parallèle 10.2 {-}
 
 ```{block, type='speaker'}
@@ -221,6 +224,7 @@
 ## Séance simultanée 11 |  2:30-3:00 {-}
 
 30 Minutes
+
 ### Séance simultanée 11.1 |  Caractère générique {-}
 
 ```{block, type='session'}
@@ -239,8 +243,6 @@
 </p>
 </details>
 ```
-
-
 
 ### Séance simultanée 11.2 |  Formations d’apprentissage et d’enseignement en ligne {-}
 
@@ -278,8 +280,6 @@
 </details>
 ```
 
-
-
 ### Séance simultanée 11.4 |  Formations d’apprentissage et d’enseignement en ligne {-}
 
 ```{block, type='session'}
@@ -303,6 +303,7 @@
 ## Séance simultanée 12 |  3:30-5:00 {-}
 
 1.5 heures
+
 ### Séance simultanée 12.1 |  Formations d’apprentissage et d’enseignement en ligne {-}
 
 ```{block, type='session'}
@@ -467,7 +468,6 @@
 </p>
 </details>
 ```
-
 
 ## Voir la programmation du Congrès pour les tentes sociales et les options alimentaires | 5:00-7:00 {-}
 

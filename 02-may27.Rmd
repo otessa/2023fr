@@ -1,6 +1,5 @@
 # Samedi 27 Mai 2023 | SÉANCES EN LIGNE UNIQUEMENT
 
-
 ```{block, type='protip'}
 
 
@@ -94,6 +93,7 @@ Le travail effectué avec les créateurs de manuels ouverts à l’UCT a permis 
 ## Séance parallèle 1 | Conférencier invité | 12:30-1:15 {-}
 
 45 Minutes
+
 ### Séance parallèle 1.1 {-}
 
 ```{block, type='speaker'}

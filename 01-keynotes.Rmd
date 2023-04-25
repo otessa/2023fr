@@ -1,7 +1,5 @@
 # Discours d’ouverture {-}
 
-
-
 ```{block, type='protip'}
 
 #### Rejoignez-nous à l’émission de radio matinale #OTESSA23 tous les matins à déterminer (heure de l’Est) à [https://voiced.ca](https://voiced.ca){target="_blank"}
@@ -19,7 +17,7 @@
 
 Le travail effectué avec les créateurs de manuels ouverts à l’UCT a permis à l’initiative DOT4D d’articuler des modèles de production de manuels ouverts qui sont employés par les universitaires de l’UCT qui utilisent leurs manuels ouverts pour lutter contre l’(in)justice sociale en classe. En nous appuyant sur ce travail de fond, nous explorons les valeurs et les attitudes des universitaires qui entreprennent la production de manuels ouverts avec des étudiants co-créateurs. L’inclusion des étudiants est saluée dans la recherche comme essentielle à l’appartenance des étudiants, mais peu de travaux ont été réalisés pour rechercher les défis impliqués lorsque la dynamique de pouvoir traditionnelle est perturbée. Dans cette recherche, nous décrivons un lien potentiel entre trois composantes complémentaires : les manuels scolaires ouverts, la justice sociale et les étudiants en tant que partenaires. Nous étudions les affordances du manuel ouvert pour faciliter le changement dans la dynamique du pouvoir de la production de contenu ainsi que dans la pratique en classe.
 
-##### [Session Link](){target="_blank"} {++link++}
+##### [Session Link](){target="_blank"} {-}
 
 ```
 
@@ -38,12 +36,11 @@ Le travail effectué avec les créateurs de manuels ouverts à l’UCT a permis 
 Ces questions dominent les cercles d’enseignement et d’apprentissage et les médias sociaux depuis fin 2022, lorsque ChatGPT est apparu. Dans ce discours, Sarah donne un aperçu de l’impact des outils d’intelligence artificielle sur l’enseignement supérieur. Elle partagera les idées d’un récent projet de recherche à l’Université de Calgary qui explore la question : Quelles sont les implications éthiques des technologies d’intelligence artificielle pour l’enseignement, l’apprentissage et évaluation ?
 
 
-##### [Session Link](){target="_blank"} {++link++}
+##### [Session Link](){target="_blank"} {-}
 
 ```
 
 ## Nick Bertrand {-}
-
 
 *University of Calgary
 ***Mercredi,  31 mai, 11:00 AM***
@@ -54,12 +51,11 @@ Ces questions dominent les cercles d’enseignement et d’apprentissage et les 
 
 L’éducation en tant qu’outil de guérison et de réconciliation a évolué au fil des ans, et en particulier depuis la publication des 94 appels à l’action de la Commission de vérité et réconciliation. Huit ans plus tard, dans une société post-TRC, quelles vérités restent inconnues ? Quelles leçons avons-nous apprises en essayant de mobiliser un changement significatif ? Comment pouvons-nous, en tant qu’éducateurs, assumer nos responsabilités dans le travail de reconstruction de la relation brisée qui nous a amenés dans cet espace ? Alors que le pont de la réconciliation continue d’être construit, les systèmes éducatifs continueront de jouer un rôle clé dans le processus de sensibilisation, de compréhension et de création d’action.
 
-##### [Session Link](){target="_blank"} {++link++}
+##### [Session Link](){target="_blank"} {-}
 
 ```
 
 ## Paul Prinsloo {-}
-
 
 ***Friday, June 2, 11:00 AM***
 
@@ -78,6 +74,6 @@ Education has always collected and used student learning data in combination wit
 ```{block, type='vendor'}
 
 
-### {++link++} [Click here to access a schedule of all open Congress events.](){target="_blank"}
+### {-} [Click here to access a schedule of all open Congress events.](){target="_blank"}
 
 ```
