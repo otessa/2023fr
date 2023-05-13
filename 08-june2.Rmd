@@ -1,4 +1,4 @@
-# Vendredi 2 Juin 2023 | SÉANCES EN LIGNE UNIQUEMENT
+# Vendredi 2 Juin 2023 | Séances En Ligne Uniquement
 
 ```{block, type='protip'}
 
@@ -85,49 +85,11 @@ L’éducation a toujours collecté et utilisé des données sur l’apprentissa
 
 ## Casser | 12:00-12:30 {-}
 
-## Séance parallèle 17 | Conférencier invité  | 12:30-1:15 {-}
+## Non-conférence sur l’éducation numérique, en ligne et ouverte (en ligne via Zoom) | 12:30-1:15 {-}
 
-45 Minutes
+(45 minutes)
 
-### Séance parallèle 17.1 {-}
-
-```{block, type='speaker'}
-
-#### Conférencier de la session : à déterminer {-} 
-
-*Titre de la session : à déterminer*
-
-<!--
-**Keywords:** 
--->
-
-<details>
-<summary>**Abstract**</summary>
-<p>
-
-</p>
-</details>
-```
-
-### Séance parallèle 17.2 {-}
-
-```{block, type='speaker'}
-
-#### Conférencier de la session : à déterminer {-} 
-
-*Titre de la session : à déterminer*
-
-<!--
-**Keywords:** 
--->
-
-<details>
-<summary>**Abstract**</summary>
-<p>
-
-</p>
-</details>
-```
+Une non-conférence est une session axée sur les participants destinée à réduire l’accent mis sur les discours formels et à éviter les aspects hiérarchiques d’une session de conférence didactique. Tous les participants au Congrès sont invités à participer à cette contre-conférence en ligne ; cependant, les participants inscrits à la conférence OTESSA recevront une invitation à suggérer des sujets et à voter pour sélectionner à l’avance les sujets de la salle de sous-commission. Au moment de cette session, les affectations du sujet à la salle de sous-commission seront terminées et publiées sur le site Web de notre programme à l’adresse <https://otessa.org/2023/program/>. Vous êtes invités à vous déplacer entre les salles de discussion thématiques et à aller et venir à votre guise ! Nous nous réjouissons d’accueillir des discussions ciblées sur vos sujets favoris ! Il y aura également une contre-conférence en personne qui aura lieu le mardi 30 mai de 11h00 à 12h00 dans le bâtiment des sciences de la vie de l’Université York dans le cadre de la conférence OTESSA.
 
 ## Casser | 1:15-1:30 {-}
 
@@ -394,15 +356,20 @@ Dans cette session, nous discutons de la réinvention des futurs de l’éducati
 
 ```{block, type='session'}
 
-#### 4:45-5:15 | **TBA** |  TBA {-}
+#### 4:45-5:15 | **Attends quoi? Examen des structures et des processus de financement du CRSH en mettant l’accent sur leurs répercussions sur l’accès équitable pour les chercheurs en éducation** |  Recherche {-}
 
-***TBA*** | *TBA*
+***Valerie Irvine*** | *University of Victoria*
 
+***Sonja Johnston*** | *University of Calgary*
+
+<!--
 **Keywords:**
+-->
 
 <details>
 <summary>**Abstract**</summary>
 <p>
+L’accès au financement du gouvernement fédéral pour soutenir la recherche en sciences sociales a toujours été un processus hautement concurrentiel pour les professeurs et les étudiants diplômés. Alors que la recherche devient de plus en plus interdisciplinaire, nous observons des défis en termes d’assurer des voies pour soutenir un processus d’examen spécifiquement pour la recherche interdisciplinaire, tout en assurant un accès équitable au financement des trois organismes à travers les trois conseils (Conseil de recherche en sciences humaines (CRSH) , Conseil de recherches en sciences naturelles et en génie (CRSNG) et Instituts de recherche en santé du Canada (IRSC)) ainsi qu’entre disciplines au sein de comités au sein du CRSH. En tant que chercheurs en éducation, nous avons noté des tendances qui désavantagent peut-être les chercheurs en éducation, hébergés dans les facultés d’éducation. Nous aborderons également le fardeau supplémentaire qui marginalise les chercheurs et les étudiants diplômés en technologie éducative, qui font face à un « deuxième virage » en termes de développement et de mise à jour continus des littératies numériques et des pédagogies d’apprentissage en ligne. Au cours de cette séance, nous examinerons les données accessibles au public et partagerons des observations personnelles sur le processus, y compris une expérience directe en tant qu’examinateur répété des demandes de doctorat du CRSH à Ottawa. Nous partagerons les mesures prises pour ouvrir le dialogue et formuler des recommandations pour les prochaines étapes, car nous espérons collecter des données pour éclairer les recommandations de changement. Nous invitons les participants à fournir des commentaires sur les stratégies visant à créer un changement pour un accès équitable au financement de l’éducation.TBA
 
 </p>
 </details>
@@ -556,17 +523,17 @@ Une approche collaborative réflexive critique (Hamilton & Pinnegar, 2014) est u
 
 ## Casser | 5:15-5:30 {-}
 
-## Séance simultanée 20 | Invited Speakers | 5:30-6:15 {-}
+## Séance Parallèle 20 | Conférenciers invités | 5:30-6:15 {-}
 
 45 Minutes
 
-### Séance simultanée 20.1 {-}
+### Séance Parallèle 20.1 {-}
 
 ```{block, type='speaker'}
 
-#### Conférencier de la session : à déterminer {-} 
+#### Nadia Naffi | Université Laval {-} 
 
-*Titre de la session : à déterminer*
+*Adopter le métaverse : FormationMeta et l'avenir de l'expérience d'apprentissage immersif (en français)*
 
 <!--
 **Keywords:** 
@@ -575,6 +542,9 @@ Une approche collaborative réflexive critique (Hamilton & Pinnegar, 2014) est u
 <details>
 <summary>**Abstract**</summary>
 <p>
+Plongez dans le monde passionnant de FormationMeta, un projet exploratoire novateur de 14 semaines mené par la Chaire de leadership pédagogique sur les pratiques pédagogiques innovantes en contexte numérique de l’Université Laval, en partenariat avec la Bibliothèque de l’Université Laval et l’OVA. Ce projet novateur a offert aux concepteurs et aux enseignants d’expériences d’apprentissage de l’Université Laval une expérience authentique pour cultiver leurs compétences dans la conception et le développement d’expériences d’apprentissage immersives dans la réalité virtuelle et le métavers. Impliquant des étudiants de diverses disciplines telles que la technologie éducative, l’art et la conception de jeux, le projet a exploité la puissance du logiciel StellarX.ai pour créer une formation immersive sur mesure adaptée à la clientèle de la bibliothèque.
+
+Présentée en français, cette conférence dévoilera des recommandations émergentes pour éclairer les équipes éducatives désireuses d’adopter des expériences d’apprentissage immersives. Le conférencier abordera des questions urgentes, notamment les possibilités actuelles et les avancées technologiques futures, telles que l’IA générative, les compétences essentielles pour développer des expériences d’apprentissage dans le métaverse et les stratégies de formation de groupes d’experts en éducation et en technologie éducative pour créer des expériences immersives qui répondent efficacement aux groupes d’apprenants tout en respectant des principes éthiques, équitables et inclusifs.
 
 </p>
 </details>
@@ -584,9 +554,9 @@ Une approche collaborative réflexive critique (Hamilton & Pinnegar, 2014) est u
 
 ```{block, type='speaker'}
 
-#### Conférencier de la session : à déterminer {-} 
+#### Randy LaBonte | Vancouver Island University & Canadian eLearning Network{-} 
 
-*Titre de la session : à déterminer*
+*Principes de conception pour l’apprentissage numérique et les normes NSQOL : points communs et différences*
 
 <!--
 **Keywords:** 
@@ -595,6 +565,7 @@ Une approche collaborative réflexive critique (Hamilton & Pinnegar, 2014) est u
 <details>
 <summary>**Abstract**</summary>
 <p>
+Rejoignez cette session pour acquérir une compréhension des principes de conception et d’organisation afin d’aider à informer la qualité des pratiques des enseignants et des leaders de l’apprentissage en ligne de la maternelle à la 12e année. Découvrez les principes de conception d’apprentissage en ligne basés au Canada et leurs points communs et leurs différences avec les normes nationales américaines pour un apprentissage en ligne de qualité (NSQOL), leur application à la pédagogie et à la pratique, et comment l’élucidation et la clarification des principes de conception et d’organisation aident à informer le leadership et politique administrative pour un apprentissage en ligne de qualité.
 
 </p>
 </details>

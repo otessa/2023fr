@@ -1,4 +1,4 @@
-# Mercredi 31 Mai 2023 | EN PERSONNE À L’UNIVERSITÉ YORK
+# Mercredi 31 Mai 2023 | En Personne À L’Université York
 
 
 ```{block, type='protip'}
@@ -94,9 +94,9 @@ Les établissements d’enseignement postsecondaire offrant de plus en plus de c
 ```{block, type='session'}
 
 
-#### 10:00-10:30 | **TBA** |  TBA {-}
+#### 10:00-10:30 | **Le paysage des modalités de fusion** |  Pratique {-}
 
-***TBA*** | *TBA*
+***Valerie Irvine*** | *University of Victoria*
 
 <!--
 **Keywords:** 
@@ -105,6 +105,7 @@ Les établissements d’enseignement postsecondaire offrant de plus en plus de c
 <details>
 <summary>**Abstract**</summary>
 <p>
+Sur le campus de l’enseignement supérieur d’aujourd’hui, il y a probablement une douzaine de nouveaux termes utilisés pour décrire différentes configurations autour de la modalité des cours. La modalité fait généralement référence au lieu et au moment des interactions. Ce qui était autrefois un simple binôme de face à face ou en ligne est maintenant devenu si extrêmement complexe que notre capacité à nous comprendre est altérée. Dans cette session, je discuterai d’un article récent que j’ai publié dans la revue Educause, intitulé Le paysage des modalités de fusion, y compris l’histoire de la modalité, la terminologie de la modalité de fusion, les luttes avec la sémantique et la pédagogie contre la modalité. Je terminerai par des mesures pratiques que les individus et les établissements peuvent prendre pour prendre des décisions solides en matière de planification et de pédagogie qui tiennent également compte de la charge de travail de l’instructeur et de l’attention portée à l’apprenant.
 
 </p>
 </details>
@@ -205,7 +206,7 @@ L’éducation en tant qu’outil de guérison et de réconciliation a évolué 
 
 ## Casser | 12:00-1:30 {-}
 
-## Séance parallèle 14 | Conférencier invité   | 1:30-2:15 {-}
+## Séance parallèle 14 | Session multi-accès   | 1:30-2:15 {-}
 
 45 Minutes
 
@@ -213,29 +214,9 @@ L’éducation en tant qu’outil de guérison et de réconciliation a évolué 
 
 ```{block, type='speaker'}
 
-#### Conférencier de la session : à déterminer {-} 
+#### Valerie Irvine, OTESSA |  ***Session multi-accès*** {-} 
 
-*Titre de la session : à déterminer*
-
-<!--
-**Keywords:** 
--->
-
-<details>
-<summary>**Abstract**</summary>
-<p>
-
-</p>
-</details>
-```
-
-### Séance parallèle 14.2 {-}
-
-```{block, type='speaker'}
-
-#### Conférencier de la session : à déterminer {-} 
-
-*Titre de la session : à déterminer*
+*Plaidoyer pour l’apprentissage numérique : contribution à la politique et au budget du gouvernement*
 
 <!--
 **Keywords:** 
@@ -244,6 +225,11 @@ L’éducation en tant qu’outil de guérison et de réconciliation a évolué 
 <details>
 <summary>**Abstract**</summary>
 <p>
+Au cours de cette session destinée aux participants en personne et en ligne, nous examinerons les options de plaidoyer gouvernemental, fournirons des exemples d’actions passées et décrirons les mesures que nous pouvons prendre à l’avenir pour créer un changement dans le soutien à l’éducation numérique, en ligne et ouverte.
+
+Actuellement, nous manquons l’occasion d’avoir une voix collective alors que des changements de système se produisent qui ont un impact sur la conception et le soutien de l’éducation en ligne et ouverte. Je fournirai des exemples de différentes voies de plaidoyer, telles que des mémoires à la direction d’une institution ou d’un gouvernement provincial. J’examinerai le processus pour les soumissions prébudgétaires provinciales ou fédérales; comment examiner les lettres de mandat des leaders ministériels ; et invitez les participants à écrire ou à rencontrer votre représentant local (par exemple, député pour un représentant provincial ou député pour un représentant fédéral) pour amplifier le travail en cours.
+
+Nous avons également une session le 2 juin concernant les changements nécessaires dans la tri-agence fédérale pour le financement de la recherche car il existe des préjugés systémiques contre l’éducation, sans parler de la technologie éducative. Après un aperçu de ces options, nous vous inviterons à apporter des idées qui formeront la soumission prébudgétaire fédérale d’OTESSA plus tard cet été.
 
 </p>
 </details>
@@ -288,6 +274,14 @@ Trois thèmes ont été générés dans nos analyses thématiques. L’adoption 
 #### 2:30-3:00 | **Les Effets d’une initiative pour brancher sur Internet les familles à faible revenu (en français)** |  Recherche {-}
 
 ***Normand Roy*** | *Université de Montréal*
+
+***Valerie Irvine*** | *University of Victoria*
+
+***Michele Jacobsen*** | *University of Calgary*
+
+***Catherine Middleton*** | *Ryerson University* <!--{--change to new name?--}-->
+
+***Simon Parent*** | *Université de Montréal*
 
 <!--
 **Keywords:** 

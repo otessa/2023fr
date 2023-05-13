@@ -1,4 +1,4 @@
-# Mardi 30 Mai 2023 | EN PERSONNE À L’UNIVERSITÉ YORK
+# Mardi 30 Mai 2023 | En Personne À L’Université York
 
 ```{block, type='protip'}
 
@@ -198,17 +198,15 @@ Cette présentation explorera la question émergente de l’écriture artificiel
 
 ## Casser | 10:30-11:00 {-}
 
-## **Non-conférence** | 11:00-12:00
+## Non-conférence sur l’éducation numérique, en ligne et ouverte (sur place à York) | 11:00-12:00 {-}
 
-```{block, type='protip'}
 
-✨ Séance hors conférence TBA
+Une non-conférence est une session axée sur les participants destinée à réduire l’accent mis sur les discours formels et à éviter les aspects hiérarchiques d’une session de conférence didactique. Tous les participants au Congrès sont invités à participer à cette non-conférence en face à face ; cependant, les participants inscrits à la conférence OTESSA recevront une invitation à suggérer des sujets et à voter pour sélectionner à l’avance les sujets de la salle de sous-commission. Au moment de cette session, les affectations de sujet à salle seront terminées et publiées sur le site Web de notre programme à <https://otessa.org/2023/program/>. Vous êtes invités à vous déplacer entre les salles thématiques et à aller et venir à votre guise ! Nous nous réjouissons d’accueillir des discussions ciblées sur vos sujets favoris ! Veuillez noter qu’il s’agit de la non-conférence en personne. Il y aura également une contre-conférence en ligne qui aura lieu le vendredi 2 juin de 12h30 à 13h15 dans une salle Zoom dans le cadre de la conférence OTESSA.Séance hors conférence TBA
 
-```
 
-## Casser| 12:00-1:30 {-}
+## Casser | 12:00-1:30 {-}
 
-## Séance parallèle 10 | Conférencier invité  | 1:30-2:30 {-}
+## Séance parallèle 10 | Conférencier invité  | 1:30-2:15 {-}
 
 45 Minutes
 
@@ -216,9 +214,9 @@ Cette présentation explorera la question émergente de l’écriture artificiel
 
 ```{block, type='speaker'}
 
-#### Conférencier de la session : à déterminer {-} 
+#### Bonnie Stewart | University of Windsor {-} 
 
-*Titre de la session : à déterminer*
+*L’éducation numérique à l’ère des données : que faisons-nous maintenant ?*
 
 <!--
 **Keywords:** 
@@ -227,7 +225,7 @@ Cette présentation explorera la question émergente de l’écriture artificiel
 <details>
 <summary>**Abstract**</summary>
 <p>
-
+TBA
 </p>
 </details>
 ```
@@ -236,9 +234,9 @@ Cette présentation explorera la question émergente de l’écriture artificiel
 
 ```{block, type='speaker'}
 
-#### Conférencier de la session : à déterminer {-} 
+#### GO-GN (Global OER Graduate Network) Panel {-} 
 
-*Titre de la session : à déterminer*
+*Recherche à la limite de l’ouverture : Réflexions des membres de GO-GN*
 
 <!--
 **Keywords:** 
@@ -247,6 +245,9 @@ Cette présentation explorera la question émergente de l’écriture artificiel
 <details>
 <summary>**Abstract**</summary>
 <p>
+GO-GN, le Global OER Graduate Network, rassemble un noyau de doctorants actuels travaillant sur des sujets d’éducation ouverte, ainsi que l’équipe GO-GN de l’Open University, des anciens, d’autres chercheurs et d’autres voyageurs à travers l’espace ouvert. Et même si nous voyageons sans uniformes ni transporteurs, comme les membres des GO-GNers de Starfleet, nous allons audacieusement, essayant de repousser les limites de la connaissance sur le terrain. Reconnaissant les multiples sens dans lesquels l’éducation peut être ouverte, nous abordons le concept d’ouverture sous différents angles et utilisons une gamme de méthodes.
+
+Dans cette table ronde, les membres du réseau réfléchiront sur le quoi, le pourquoi et le comment de leurs parcours doctoraux, et inviteront les participants à la session dans notre conversation.
 
 </p>
 </details>
@@ -343,7 +344,7 @@ Afin de repenser l’éducation ouverte et en ligne, et de répondre au thème d
 </details>
 ```
 
-## Pause avec café et collation fournis | 3:00-3:30
+## Pause avec café et collation fournis | 3:00-3:30 {-}
 
 ## Séance simultanée 12 |  3:30-5:00 {-}
 

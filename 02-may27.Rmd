@@ -1,4 +1,4 @@
-# Samedi 27 Mai 2023 | SÉANCES EN LIGNE UNIQUEMENT
+# Samedi 27 Mai 2023 | Séances En Ligne Uniquement
 
 ```{block, type='protip'}
 
@@ -98,9 +98,9 @@ Le travail effectué avec les créateurs de manuels ouverts à l’UCT a permis 
 ```{block, type='speaker'}
 
 
-#### Conférencier de la session : à déterminer {-} 
+#### Anne-Marie Scott {-} 
 
-*Titre de la session : à déterminer*
+*5 choses que vous devez savoir avant d’acheter Edtech*
 
 <!--
 **Keywords:** 
@@ -109,6 +109,11 @@ Le travail effectué avec les créateurs de manuels ouverts à l’UCT a permis 
 <details>
 <summary>**Abstract**</summary>
 <p>
+S’appuyant sur des expériences de plus de 20 ans dans la technologie de l’enseignement supérieur, travaillant dans des contextes de technologie commerciale et ouverte, cette conférence propose que l’approvisionnement en technologies éducatives est fondamentalement défectueux à la fois en tant que pratique et en tant que processus. Les processus institutionnels tels que les achats ont tendance à être absents des conversations sur l’éducation numérique, souvent reconnues comme problématiques mais aussi en dehors de notre sphère d’influence ou de notre domaine d’expertise. Partant du principe que la pédagogie et la technologie sont enchevêtrées de manière complexe, c’est en fait le contraire qui devrait être vrai. Les technologies éducatives que nous utilisons ne sont pas des outils et doivent être traitées comme des questions de qualité lorsque nous considérons à quoi pourrait ressembler une bonne éducation numérique et quel est, selon nous, le but de l’éducation.
+
+La prise en compte de l’éthique est souvent absente de l’achat de technologie, largement basée sur des hypothèses instrumentalistes sur la neutralité des technologies. Les « meilleures pratiques » en matière d’approvisionnement du secteur public nous obligent également à utiliser de mauvais substituts pour nos valeurs, objectifs et contextes éducatifs, et créent de nouveaux risques et responsabilités pour les institutions, tout en cherchant à minimiser les autres. Alors que cette conférence explorera les solutions potentielles au processus et aux pratiques d’approvisionnement actuels, la question qui reste en suspens est de savoir si nous achetons et/ou utilisons simplement trop de technologie éducative, et si, afin de parvenir à des formes d’éducation plus durables et justes sur le plan environnemental, devrions-nous adopter une approche de décroissance de la technologie éducative plus généralement ?
+
+Quelle quantité d’approvisionnement en edtech, aussi bien exécutée soit-elle, est trop ?
 
 </p>
 </details>
@@ -119,9 +124,9 @@ Le travail effectué avec les créateurs de manuels ouverts à l’UCT a permis 
 ```{block, type='speaker'}
 
 
-#### Conférencier de la session : à déterminer {-} 
+#### Nicole Johnson, Canadian Digital Learning Research Association/Association canadienne de recherche sur la formation en ligne {-} 
 
-*Titre de la session : à déterminer*
+*Tendances de l’apprentissage numérique dans l’enseignement postsecondaire au Canada*
 
 <!--
 **Keywords:** 
@@ -130,7 +135,7 @@ Le travail effectué avec les créateurs de manuels ouverts à l’UCT a permis 
 <details>
 <summary>**Abstract**</summary>
 <p>
-
+Joignez-vous à la Dre Nicole Johnson, directrice générale de la Canadian Digital Learning Research Association/Association canadienne de recherche sur la formation en ligne (CDLRA/ACRFL), alors qu’elle partage l’évolution des tendances de l’apprentissage numérique au fil du temps et discute de ce que cela signifie pour l’avenir de l’enseignement postsecondaire au Canada. Depuis 2017, la CDLRA/ACRFL mène des sondages pancanadiens annuels pour suivre les tendances liées à l’apprentissage numérique dans les établissements postsecondaires canadiens. En particulier, depuis 2020, la CDLRA/ACRFL enquête sur l’impact continu de la pandémie sur la prestation des cours et les pratiques d’enseignement. Grâce à sa pratique indépendante de recherche et de conseil, le Dr Johnson a également travaillé sur plusieurs autres études liées aux expériences des professeurs avec la technologie, catégorisant les expériences d’apprentissage par modalité et l’avenir de l’enseignement supérieur. Dans cette présentation, le Dr Johnson discutera des défis auxquels sont confrontés les établissements (et du secteur postsecondaire dans son ensemble), de ce que l’avenir pourrait réserver et des recommandations pour le secteur.
 </p>
 </details>
 ```
@@ -653,16 +658,17 @@ Cette présentation abordera la question de la littératie algorithmique du poin
 
 ## Casser | 5:15-5:30 {-}
 
-### Séance simultanée 4 | 5:30-6:15 {-}
+## Séance parallèle  | Conférencier invité  | 5:30-6:15 {-}
 
 45 Minutes
+### Séance parallèle 4.1 {-}
 
 ```{block, type='speaker'}
 
 
-#### Conférencier de la session : à déterminer {-} 
+#### **Alec Couros | University of Regina** 
 
-*Titre de la session : à déterminer*
+*Exploiter la puissance de l’IA dans l’éducation : opportunités et défis*
 
 <!--
 **Keywords:** 
@@ -671,17 +677,20 @@ Cette présentation abordera la question de la littératie algorithmique du poin
 <details>
 <summary>**Abstract**</summary>
 <p>
+Dans cette présentation, le Dr Alec Couros explorera les possibilités et l’impact passionnants de l’IA dans l’éducation, en se concentrant sur des outils tels que ChatGPT. Avec la capacité de fournir des expériences d’apprentissage personnalisées, l’IA a le potentiel de transformer la façon dont nous enseignons et apprenons. Cependant, son intégration dans la salle de classe soulève également d’importantes préoccupations éthiques et sociétales. Le Dr Couros examinera à la fois les opportunités et les défis de l’IA dans l’éducation. Les participants repartiront avec une meilleure compréhension du potentiel de l’IA à avoir un impact positif sur l’apprentissage et la réussite des élèves, ainsi que les considérations et les défis qui doivent être abordés afin de l’adopter pleinement dans nos environnements d’apprentissage.
 
 </p>
 </details>
 ```
 
+### Séance parallèle 4.2 {-}
+
 ```{block, type='speaker'}
 
 
-#### **Title** 
+#### Brad Wuetherick | University of British Columbia – Okanagan Campus {-} 
 
-*Speaker*
+*Composer les tensions entre les savoirs autochtones et l’éducation ouverte : Explorer les 6R de Lar-Son pour les REL autochtones dans la pratique*
 
 <!--
 **Keywords:** 
@@ -690,9 +699,11 @@ Cette présentation abordera la question de la littératie algorithmique du poin
 <details>
 <summary>**Abstract**</summary>
 <p>
-
+De nombreuses conversations autour de l’éducation ouverte se concentrent sur un cadre eurocentrique du droit d’auteur et des droits de propriété intellectuelle qui sont parfois en tension avec les systèmes de connaissances autochtones. Alors que les communautés et les universitaires autochtones souhaitent que l’accès aux savoirs autochtones fasse davantage partie intégrante d’un paysage postsecondaire décolonisé et indigénisé, cette séance explorera les sujets de préoccupation concernant les intersections entre les ressources éducatives libres (REL) et les savoirs autochtones. En utilisant le cadre des 6R des REL autochtones de Lar-Son (2022) pour faire progresser les connaissances autochtones grâce à des pédagogies et des ressources d’éducation ouverte, cette session explorera certains des principes et pratiques pour s’engager avec les communautés autochtones dans la création de REL. De plus, la session discutera de quatre études de cas différentes sur les REL mettant en vedette la perspective autochtone et les connaissances autochtones de partout au Canada, y compris d’un volume édité « en préparation », qui centre les modes de connaissance, la culture, les expériences et les visions du monde autochtones dans le travail de pédagogie de l’éducation et développement des REL.
 </p>
 </details>
 ```
+
+
 
 ## Module de discussion/réseautage | 6:15-6:30 {-}
