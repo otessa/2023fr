@@ -1,9 +1,6 @@
 # Vendredi 2 Juin 2023 | Séances En Ligne Uniquement
 
-```{block, type='protip'}
 
-#### Join us for the #OTESSA23 Morning Radio Show every morning Monday-Thursday 9:30-10:30 (Eastern) at https://voiced.ca
-```
 
 ### Session Types {-}
 
