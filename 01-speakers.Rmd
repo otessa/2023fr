@@ -2,7 +2,7 @@
 
 ```{block, type='protip'}
 
-#### Rejoignez-nous à l’émission de radio matinale #OTESSA23 lundi, mardi, mercredi 29 30 31 mai de 7h30 à 8h30 (heure de l’Est) à [https://voiced.ca](https://voiced.ca){target="_blank"}
+#### Rejoignez-nous à l’émission de radio matinale #OTESSA23 lundi, mardi, mercredi 29 30 31 mai de 6h30 à 7h30 (heure de l’Est) à [https://voiced.ca](https://voiced.ca){target="_blank"}
 ```
 
 ## Samedi 27 mai {-}
@@ -10,6 +10,8 @@
 ### Anne-Marie Scott {-}
 
 *non affilié* 
+
+<mark>[**Lien de session**](https://uvic.zoom.us/j/82521498250?pwd=eWhLWjlNVFhiTnluOXMyenRwOHBmQT09){target="_blank"}</mark>
 
 **5 choses que vous devez savoir avant d’acheter Edtech**
 
@@ -28,6 +30,8 @@ TBA
 
 *Canadian Digital Learning Research Association/Association canadienne de recherche sur la formation en ligne*
 
+<mark>[**Lien de session**](https://uvic.zoom.us/j/81098138707?pwd=SVByR3ByWUw5dGxLeEFaYTJaMGdtQT09){target="_blank"}</mark>
+
 **Tendances de l’apprentissage numérique dans l’enseignement postsecondaire au Canada**
 
 Joignez-vous à la Dre Nicole Johnson, directrice générale de la Canadian Digital Learning Research Association/Association canadienne de recherche sur la formation en ligne (CDLRA/ACRFL), alors qu’elle partage l’évolution des tendances de l’apprentissage numérique au fil du temps et discute de ce que cela signifie pour l’avenir de l’enseignement postsecondaire au Canada. Depuis 2017, la CDLRA/ACRFL mène des sondages pancanadiens annuels pour suivre les tendances liées à l’apprentissage numérique dans les établissements postsecondaires canadiens. En particulier, depuis 2020, la CDLRA/ACRFL enquête sur l’impact continu de la pandémie sur la prestation des cours et les pratiques d’enseignement. Grâce à sa pratique indépendante de recherche et de conseil, le Dr Johnson a également travaillé sur plusieurs autres études liées aux expériences des professeurs avec la technologie, catégorisant les expériences d’apprentissage par modalité et l’avenir de l’enseignement supérieur. Dans cette présentation, le Dr Johnson discutera des défis auxquels sont confrontés les établissements (et du secteur postsecondaire dans son ensemble), de ce que l’avenir pourrait réserver et des recommandations pour le secteur.
@@ -40,6 +44,8 @@ Dr. Nicole Johnson est directrice générale de l'Association canadienne de rech
 
 *University of Regina*
 
+<mark>[**Lien de session**](https://uvic.zoom.us/j/88611545139?pwd=NWErdnVwNjFqaVdLbk9QWFM1ZlFvdz09){target="_blank"}</mark>
+
 **Exploiter la puissance de l’IA dans l’éducation : opportunités et défis**
 
 Dans cette présentation, le Dr Alec Couros explorera les possibilités et l’impact passionnants de l’IA dans l’éducation, en se concentrant sur des outils tels que ChatGPT. Avec la capacité de fournir des expériences d’apprentissage personnalisées, l’IA a le potentiel de transformer la façon dont nous enseignons et apprenons. Cependant, son intégration dans la salle de classe soulève également d’importantes préoccupations éthiques et sociétales. Le Dr Couros examinera à la fois les opportunités et les défis de l’IA dans l’éducation. Les participants repartiront avec une meilleure compréhension du potentiel de l’IA à avoir un impact positif sur l’apprentissage et la réussite des élèves, ainsi que les considérations et les défis qui doivent être abordés afin de l’adopter pleinement dans nos environnements d’apprentissage.
@@ -50,6 +56,9 @@ TBA
 ### Brad Wuetherick {-}
 
 *University of British Columbia – Okanagan Campus*
+
+<mark>[**Lien de session**](https://uvic.zoom.us/j/83845391748?pwd=U2o3ejhqS2MwZ3l1ejl1ZitKNnVqUT09){target="_blank"}</mark>
+
 
 **Composer les tensions entre les savoirs autochtones et l’éducation ouverte : Explorer les 6R de Lar-Son pour les REL autochtones dans la pratique**
 
@@ -65,6 +74,8 @@ Brad Wuetherick est vice-recteur aux programmes universitaires, à l'enseignemen
 
 *OISE University of Toronto*
 
+<mark>[**Lien de session**](https://uvic.zoom.us/j/89316556882?pwd=c3lDQy92SmozZGV1Mm9RRDBCZXg2UT09){target="_blank"}</mark>
+
 **Offres groupées numériques : un calcul et une réinvention**
 
 Les ensembles numériques créent un espace culturel pour le savoir autochtone grâce à l’utilisation de nouveaux les technologies. Le concept des offres groupées numériques est issu d’une tradition qui respecte la diversité Les aînés et les gardiens du savoir en tant que gardiens des ensembles de connaissances communautaires. Partage Les ensembles numériques en ligne représentent de nouveaux espaces pour le savoir autochtone sous la forme de Éducation. Les forfaits numériques sont à la fois un calcul et une réinvention de l’espace en ligne. Pour les non-publics autochtones, les forfaits numériques les mettent au défi de sortir de leurs systèmes codifiés et apprendre une nouvelle façon d’être et de percevoir le monde. Pour les publics autochtones, numérique Les ensembles sont une nouvelle façon de partager l’éclat de diverses connaissances autochtones avec de nouveaux générations.
@@ -76,6 +87,8 @@ Jennifer Wemigwans, PhD, est originaire du territoire non cédé de Wiikwemkoong
 ### Isabel Pedersen{-}
 
 *Ontario Tech University*
+
+<mark>[**Lien de session**](https://uvic.zoom.us/j/82721893745?pwd=N0dERGRFdTMzZWdzZXE4KzVESnQyZz09){target="_blank"}</mark>
 
 **Choc et crainte : composition de l’IA générative, adaptation culturelle et éducation postsecondaire**
 
@@ -91,11 +104,20 @@ TBA
 
 *University of Windsor*
 
+<mark>[**Lien de session**](https://uvic.zoom.us/j/86250728368?pwd=dEFWYXJQcy9uVm91dDArT0RzanVNQT09){target="_blank"}</mark>
+
 **L’éducation numérique à l’ère des données : que faisons-nous maintenant ?**
 
 
 
-Session Abstract: TBA
+Session Abstract: 
+
+Que signifie l’écosystème numérique actuel de surveillance numérique omniprésente, d’exploration de données et d’intelligence artificielle envahissante pour les possibilités participatives de la pédagogie ouverte et de l’apprentissage numérique ? Qu’est-ce qui constitue une réponse critique et éthique à cet écosystème de plus en plus colonisateur et extractif ?
+
+S’appuyant sur deux modèles de changement fondamentaux – et potentiellement contradictoires – qui se croisent actuellement dans l’apprentissage numérique, cette conférence se concentrera sur le dilemme éthique que cette intersection crée pour l’éducation ouverte et numérique. D’un côté se trouvent les pratiques numériques ouvertes relationnelles et participatives qui utilisent l’infrastructure du Web pour engager les apprenants dans l’abondance de connaissances. D’autre part, la datafication de l’enseignement supérieur et l’enfermement résultant des plateformes sur lesquelles se produisent les pratiques ouvertes, par des entreprises extractrices de données et même prédatrices. La session examinera comment l’essor des outils basés sur les données et de l’IA exige une réponse critique et éthique, mais une réponse que notre culture contemporaine du « clic oui » rend extrêmement difficile à mettre en place. Il décrira les logiques de capture du marché et de battage médiatique qui façonnent actuellement les récits autour des outils numériques, et les obstacles que cela crée pour le développement de données authentiques, critiques et agentielles et de connaissances en IA parmi les professeurs et les étudiants.
+
+La session est conçue pour soulever des questions plutôt que pour offrir des réponses, mais mettra en évidence deux projets de classe numérique actuels que le présentateur utilise pour tenter de combler les tensions mentionnées ci-dessus. Ces projets visent à favoriser les pratiques ouvertes et la littératie des données chez les futurs enseignants, et à les encourager à voir leur rôle de travailleurs du savoir sous un nouveau jour. La conférence invitera les participants à considérer notre responsabilité mutuelle – quoique toujours différentielle – d’aborder l’éducation numérique et ouverte avec un regard critique sur les écosystèmes numériques complexes et souvent potentiellement dangereux sur lesquels elle repose, tout en visant toujours à favoriser des espaces d’apprentissage participatif, ouverts partage et changement. En fin de compte, cela demandera une approche éthique de la datafication à l’échelle du secteur et invitera des commentaires sur ce à quoi cela pourrait ressembler.
+
 
 **Bio**
 
@@ -104,6 +126,8 @@ TBA
 ### Leo Havemann and Panel Members {-}
 
 *Open University / UCL*
+
+<mark>[**Lien de session**](https://uvic.zoom.us/j/82916752574?pwd=OG90Z0FwcjNkbmpvY2ZKYzRCVVQ5Zz09){target="_blank"}</mark>
 
 **Recherche à la limite de l’ouverture : Réflexions des membres de GO-GN**
 
@@ -122,6 +146,8 @@ TBA
 
 *Université Laval*
 
+<mark>[**Lien de session**](https://uvic.zoom.us/j/89906555580?pwd=bndpdDZUZkNJa3VIY1UxeGVCbDdOQT09){target="_blank"}</mark>
+
 **Adopter le métaverse : FormationMeta et l'avenir de l'expérience d'apprentissage immersif (en français)**
 
 
@@ -136,6 +162,8 @@ TBA
 ### Randy LaBonte {-}
 
 *Vancouver Island University & Canadian eLearning Network*
+
+<mark>[**Lien de session**](https://uvic.zoom.us/j/84461790793?pwd=S1JqcC9FejBtREMrOEJjVGxwVFRhUT09){target="_blank"}</mark>
 
 **Principes de conception pour l’apprentissage numérique et les normes NSQOL : points communs et différences**
 

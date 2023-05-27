@@ -3,7 +3,7 @@
 
 ```{block, type='protip'}
 
-#### Rejoignez-nous à l’émission de radio matinale #OTESSA23 lundi, mardi, mercredi 29 30 31 mai de 7h30 à 8h30 (heure de l’Est) à [https://voiced.ca](https://voiced.ca){target="_blank"}
+#### Rejoignez-nous à l’émission de radio matinale #OTESSA23 lundi, mardi, mercredi 29 30 31 mai de 6h30 à 7h30 (heure de l’Est) à [https://voiced.ca](https://voiced.ca){target="_blank"}
 ```
 
 ### Session Types {-}
@@ -63,6 +63,10 @@
 
 ## Bienvenue à la conférence, annonces et reconnaissance des terres | 9:00-9:15 {-}
 
+<mark>**Life Sciences Building LSB 103**</mark>
+
+<mark>[**Lien de session**](https://uvic.zoom.us/j/89902859924?pwd=VisxNW1GUW5KWnJldW1DRjF2d0Rmdz09){target="_blank"}</mark>
+
 ## Casser | 9:15-9:30 {-}
 
 ## Séance simultanée 13 | 9:30-10:30 {-}
@@ -70,6 +74,10 @@
 1 Hour
 
 ### Séance simultanée 13.1 |  Formations d’apprentissage et d’enseignement en ligne {-}
+
+<mark>**Life Sciences Building LSB 103**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa)**</mark>
 
 ```{block, type='session'}
 
@@ -113,6 +121,10 @@ Sur le campus de l’enseignement supérieur d’aujourd’hui, il y a probablem
 
 ### Séance simultanée 13.2 |  Aborder les inégalités {-}
 
+<mark>**Life Sciences Building LSB 101**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_2)**</mark>
+
 ```{block, type='workshop'}
 
 
@@ -138,6 +150,10 @@ Travaillant dans le cadre d’un programme éducatif axé sur le numérique, les
 ```
 
 ### Séance simultanée 13.3 |  Formations d’apprentissage et d’enseignement en ligne {-}
+
+<mark>**Life Sciences Building LSB 107**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_3)**</mark>
 
 ```{block, type='session'}
 
@@ -182,6 +198,10 @@ Cette session offrira aux participants l’occasion de réfléchir aux espaces n
 
 ## Discours d’ouverture | 11:00-12:00 {-}
 
+<mark>**Lassonde Building LAS C**</mark>
+
+<mark>[**Lien de session**](https://uvic.zoom.us/j/87104073299?pwd=Zk4rUFY1WjdUa3VhK21GTlJaWkNKZz09){target="_blank"}</mark>
+
 ```{block, type='keynote'}
  
 
@@ -200,7 +220,7 @@ L’éducation en tant qu’outil de guérison et de réconciliation a évolué 
 </details>
 
 
-##### [Session Link](){target="_blank"} {-}
+##### [**Lien de session**](){target="_blank"} {-}
 
 ```
 
@@ -211,6 +231,10 @@ L’éducation en tant qu’outil de guérison et de réconciliation a évolué 
 45 Minutes
 
 ### Séance parallèle 14.1 {-}
+
+<mark>**Life Sciences Building LSB 103**</mark>
+
+<mark>[**Lien de session**](https://uvic.zoom.us/j/89902859924?pwd=VisxNW1GUW5KWnJldW1DRjF2d0Rmdz09){target="_blank"}</mark>
 
 ```{block, type='speaker'}
 
@@ -243,6 +267,10 @@ Nous avons également une session le 2 juin concernant les changements nécessai
 
 ### Séance simultanée 15.1 |  Aborder les inégalités {-}
 
+<mark>**Life Sciences Building LSB 101**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa)**</mark>
+
 ```{block, type='session'}
 
 
@@ -266,6 +294,10 @@ Trois thèmes ont été générés dans nos analyses thématiques. L’adoption 
 ```
 
 ### Séance simultanée 15.2 |  Aborder les inégalités {-}
+
+<mark>**Life Sciences Building LSB 105**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_2)**</mark>
 
 ```{block, type='session'}
 
@@ -296,36 +328,16 @@ Le gouvernement canadien a lancé l’initiative « Familles branchées » en 20
 </details>
 ```
 
-### Séance simultanée 15.3 |  Maintenir un changement positif {-}
-
-```{block, type='session'}
-
-
-
-#### 2:30-3:00 | **Au-delà de Covid-19 : Infuser des technologies avancées dans un nouveau modèle pour l’adaptation des enfants à la nouvelle normalité** |  Recherche {-}
-
-***Liton Furukawa*** | *Royal Roads University*
-
-<!--
-**Keywords:** 
--->
-
-<details>
-<summary>**Abstract**</summary>
-<p>
-La pandémie de COVID-19 a forcé les enfants à s’adapter rapidement à l’apprentissage à domicile ou virtuel ; cependant, des défis et des difficultés sont apparus, tels que l’utilisation de la technologie pendant le processus d’apprentissage et le maintien des interactions sociales entre les enfants pendant les cours en ligne et les cours. Plus important encore, une augmentation significative des taux de maladie mentale s’est produite à la suite de la COVID-19 et les enfants connaissent maintenant une augmentation des problèmes de santé mentale et physique. Bien que des projets d’apprentissage appliquant des approches multisensorielles aient été promus, il est nécessaire de poursuivre les recherches fondées sur des preuves pour tenir compte et réimaginer l’utilisation de la technologie dans l’éducation et garantir que ces modèles nous conduisent vers des solutions/approches plus diversifiées et durables.
-
-Basée sur une solide perspective psychologique et pédagogique dans l’utilisation des technologies de pointe, telles que l’application de l’holographie, dans les milieux éducatifs, cette recherche vise à aider à combler cette lacune. Cette étude consiste à mener des recherches en cours en utilisant une approche interdisciplinaire qui vise à aider les enfants pendant et au-delà de COVID-19. Des données qualitatives et quantitatives seront recueillies et mises à la disposition des praticiens et des parents qui n’ont actuellement aucun point de référence connexe pour servir de base à des lignes directrices fondées sur des données probantes. Les résultats de la recherche élargiront la portée de la littérature actuelle qui a elle-même besoin de souligner l’importance des enquêtes empiriques sur la meilleure façon d’utiliser le modèle multisensoriel dans l’environnement d’apprentissage.
-
-</p>
-</details>
-```
 
 ## Pause avec café et collation fournis | 3:00-3:30 {-}
 
 ## Séance simultanée 16 | 3:30-5:00 {-}
 
 ### Séance simultanée 16.1 |  Caractère générique {-}
+
+<mark>**Life Sciences Building LSB 101**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa)**</mark>
 
 ```{block, type='session'}
 
@@ -371,6 +383,10 @@ Un programme de formation des enseignants en Colombie-Britannique (C.-B.) a repe
 
 ### Séance simultanée 16.2 |  Caractère générique {-}
 
+<mark>**Life Sciences Building LSB 105**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_2)**</mark>
+
 ```{block, type='session'}
 
 #### 3:30-4:30 | **Concevoir des parcours de développement de compétences agiles pour l’adaptation au climat : tirer parti des cadres de compétences ouverts et des ressources éducatives ouvertes pour développer des micro-certificats** |  Pratique {-}
@@ -414,6 +430,10 @@ Le mouvement de l’éducation ouverte a maintenant plus de vingt ans, si l’on
 ```
 
 ### Séance simultanée 16.3  |  Maintenir un changement positif {-}
+
+<mark>**Life Sciences Building LSB 107**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_3)**</mark>
 
 ```{block, type='session'}
 
@@ -477,6 +497,40 @@ La littératie en matière d’évaluation est définie comme les connaissances 
 </details>
 ```
 
+### Séance simultanée 16.4  |  Formations d’apprentissage et d’enseignement en ligne {-}
+
+
+<mark>**Life Sciences Building LSB 103**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_4)**</mark>
+
+```{block, type='session'}
+
+#### 3:30-5:00 | **Langage, narration et limites narratives de l’empire : approcher la ficelle comme outil pédagogique féministe** |  Atelier {-}
+
+***Anna Lee-Popham*** | *University of Guelph*
+
+***Aparajita Bhandari*** | *Cornell University*
+
+***Sarah York-Bertram*** | *York University*
+
+***Sarah Choukah*** | *Université de l'Ontario français*
+
+***Laurence Butet-Roch*** | *York University*
+
+<details>
+<summary><b>Abstract</b></summary>
+<p>
+Suite à l’accent mis par la réunion sur la lutte contre les inégalités et le virage vers l’apprentissage virtuel, cet atelier présente aux participants Twine en tant qu’outil de narration interactif pour défaire de manière créative les structures du langage pour tenir compte des récits d’Empire. Les participants exploreront les applications interdisciplinaires de l’outil et créeront des histoires non linéaires. Du point de vue féministe, Twine est un outil numérique accessible et gratuit qui, en ayant une faible courbe d’apprentissage (Anthropy, Evans), « défie les standards traditionnels en renversant la célébration de la difficulté, à la fois dans la production et le jeu » (Harvey).
+
+L’atelier explore Twine comme un outil pour penser autrement et façonner les possibilités futures, guidé par les questions : Comment Twine, en tant qu’outil de narration interactif, peut-il créer des opportunités pour les participants d’utiliser le mot écrit ? Comment ces engagements pourraient-ils permettre de nouveaux types d’expériences et de création de sens pour les apprenants ? Notre objectif est de faciliter l’exploration de la manière dont la non-linéarité peut refléter les formes féministes noires, anticoloniales et plurielles du futurisme et du design. Nous ne positionnons pas Twine comme une solution technologique, mais comme un outil pour générer une réflexion expansive ; s’engager dans une recherche numérique collaborative ; et créer de nouvelles significations. Nos animatrices puisent dans leurs domaines d’études et leurs perspectives pédagogiques (cultures numériques, communications, études de genre, féministes et féministes, écriture créative) pour démontrer les applications interdisciplinaires de l’outil.
+
+</p>
+</details>
+```
+
 ## Réception du Président du Congrès | 5:00-7:00 {-}
+
+<mark>**Scott Library – Atrium**</mark>
 
 ## OTESSA Social – Hall du bâtiment des sciences de la vie | 7:00-11:59 {-}

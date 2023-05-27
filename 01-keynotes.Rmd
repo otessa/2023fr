@@ -2,7 +2,7 @@
 
 ```{block, type='protip'}
 
-#### Rejoignez-nous à l’émission de radio matinale #OTESSA23 lundi, mardi, mercredi 29 30 31 mai de 7h30 à 8h30 (heure de l’Est) à [https://voiced.ca](https://voiced.ca){target="_blank"}
+#### Rejoignez-nous à l’émission de radio matinale #OTESSA23 lundi, mardi, mercredi 29 30 31 mai de 6h30 à 7h30 (heure de l’Est) à [https://voiced.ca](https://voiced.ca){target="_blank"}
 ```
 
 ## Glenda Cox & Bianca Masuku {-}
@@ -10,6 +10,8 @@
 *University of Cape Town*
 
 ***Samedi 27 mai, 11:00 AM***
+
+<mark>[**Lien de session**](https://uvic.zoom.us/j/86856564512?pwd=UGdIVS9zbDdtS290bU9OdWpXZ05UZz09){target="_blank"}</mark>
 
 Le Dr Glenda Cox est maître de conférences au [Centre pour l’innovation dans l’apprentissage et l’enseignement (CILT)](http://www.cilt.uct.ac.za/) à l’Université du Cap et son portefeuille comprend l’enseignement de troisième cycle, des projets de changement de cursus , l’éducation ouverte et le développement du personnel. Elle est titulaire de la chaire UNESCO en éducation ouverte et justice sociale (2021-2024). Elle est membre du comité de rédaction de l’International Journal of Students as Partners (rejoint en 2022). Elle est passionnée par le rôle de l’éducation ouverte dans le monde changeant de l’enseignement supérieur. Le Dr Glenda Cox est actuellement chercheuse principale de l’initiative Digital Open Textbooks for Development (DOT4D). Ses recherches actuelles incluent l’analyse du rôle des manuels ouverts pour la justice sociale.
 
@@ -21,7 +23,6 @@ Bianca est chercheuse junior dans le projet Digital Open Textbooks for Developme
 
 Le travail effectué avec les créateurs de manuels ouverts à l’UCT a permis à l’initiative DOT4D d’articuler des modèles de production de manuels ouverts qui sont employés par les universitaires de l’UCT qui utilisent leurs manuels ouverts pour lutter contre l’(in)justice sociale en classe. En nous appuyant sur ce travail de fond, nous explorons les valeurs et les attitudes des universitaires qui entreprennent la production de manuels ouverts avec des étudiants co-créateurs. L’inclusion des étudiants est saluée dans la recherche comme essentielle à l’appartenance des étudiants, mais peu de travaux ont été réalisés pour rechercher les défis impliqués lorsque la dynamique de pouvoir traditionnelle est perturbée. Dans cette recherche, nous décrivons un lien potentiel entre trois composantes complémentaires : les manuels scolaires ouverts, la justice sociale et les étudiants en tant que partenaires. Nous étudions les affordances du manuel ouvert pour faciliter le changement dans la dynamique du pouvoir de la production de contenu ainsi que dans la pratique en classe.
 
-##### [Session Link](){target="_blank"} {-}
 
 ```
 
@@ -31,13 +32,18 @@ Le travail effectué avec les créateurs de manuels ouverts à l’UCT a permis 
 
 ***Lundi, 29, mai 11:00 AM***
 
+<mark>[**Lien de session**](https://uvic.zoom.us/j/87672746834?pwd=ODNmUk5GOTVTZGc5NzRmakhtR2FRQT09){target="_blank"}</mark>
+
 Sarah Elaine Eaton, PhD, est professeure associée à la Werklund School of Education, Université de Calgary, Canada et professeure associée honoraire, Université Deakin, Australie. Elle a reçu des prix d’excellence en recherche pour sa bourse sur l’intégrité académique de la Société canadienne pour l’étude de l’enseignement supérieur (SCSHE) (2020) et du Réseau européen pour l’intégrité académique (ENAI) (2022). Le Dr Eaton a écrit et présenté de nombreux articles sur l’intégrité académique et l’éthique dans l’enseignement supérieur et est régulièrement invité en tant qu’invité des médias pour parler de l’inconduite académique. Le Dr Eaton est rédacteur en chef de l’International Journal for Educational Integrity.
 
 Ses livres incluent Plagiarism in Higher Education: Tackling Tough Topics in Academic Integrity, Academic Integrity in Canada: An Enduring and Essential Challenge (Eaton & Christensen Hughes, eds.), Contract Cheating in Higher Education: Global Perspectives on Theory, Practice, and Policy (Eaton, Curtis, Stoesz, Clare, Rundle et Seeland, éd.), et Éthique et intégrité dans la formation des enseignants (Eaton et Khan, éd.) et Faux diplômes et diplômes frauduleux dans l’enseignement supérieur (Eaton, Carmichael et Pethrick, éd.). Elle est également rédactrice en chef du Handbook of Academic Integrity (2e éd., Springer), qui est actuellement en cours d’élaboration.
 
-[Profil de la faculté](https://profiles.ucalgary.ca/sarah-elaine-eaton)    
+[Profil de la faculté](https://profiles.ucalgary.ca/sarah-elaine-eaton)   
+
 [Blog personnel](https://drsaraheaton.wordpress.com/)   
+
 [Twitter](https://twitter.com/DrSarahEaton)  
+
 [LinkedIn](https://ca.linkedin.com/in/drsaraheaton)
 
 ```{block, type='keynote'}
@@ -49,14 +55,16 @@ Ses livres incluent Plagiarism in Higher Education: Tackling Tough Topics in Aca
 Ces questions dominent les cercles d’enseignement et d’apprentissage et les médias sociaux depuis fin 2022, lorsque ChatGPT est apparu. Dans ce discours, Sarah donne un aperçu de l’impact des outils d’intelligence artificielle sur l’enseignement supérieur. Elle partagera les idées d’un récent projet de recherche à l’Université de Calgary qui explore la question : Quelles sont les implications éthiques des technologies d’intelligence artificielle pour l’enseignement, l’apprentissage et évaluation ?
 
 
-##### [Session Link](){target="_blank"} {-}
 
 ```
 
 ## Nick Bertrand {-}
 
 *University of Calgary
+
 ***Mercredi,  31 mai, 11:00 AM***
+
+<mark>[**Lien de session**](https://uvic.zoom.us/j/87104073299?pwd=Zk4rUFY1WjdUa3VhK21GTlJaWkNKZz09){target="_blank"}</mark>
 
 Nick est un fier Kanyen’keha:ka et membre des Mohawks de la baie de Quinte. Il est père, partenaire, oncle et éducateur. Partager la vérité aux côtés de messages d’espoir et de résilience par le biais de l’éducation est ce qui intéresse et motive Nick.
 
@@ -70,13 +78,14 @@ Grâce à l’incroyable soutien et à la générosité des aînés, des gardien
 
 L’éducation en tant qu’outil de guérison et de réconciliation a évolué au fil des ans, et en particulier depuis la publication des 94 appels à l’action de la Commission de vérité et réconciliation. Huit ans plus tard, dans une société post-TRC, quelles vérités restent inconnues ? Quelles leçons avons-nous apprises en essayant de mobiliser un changement significatif ? Comment pouvons-nous, en tant qu’éducateurs, assumer nos responsabilités dans le travail de reconstruction de la relation brisée qui nous a amenés dans cet espace ? Alors que le pont de la réconciliation continue d’être construit, les systèmes éducatifs continueront de jouer un rôle clé dans le processus de sensibilisation, de compréhension et de création d’action.
 
-##### [Session Link](){target="_blank"} {-}
 
 ```
 
 ## Paul Prinsloo {-}
 
 ***Friday, June 2, 11:00 AM***
+
+<mark>[**Lien de session**](https://uvic.zoom.us/j/83832291664?pwd=M0pvTFNCWDBsRWd1NFJKaC9BbjM1QT09){target="_blank"}</mark>
 
 Paul Prinsloo est professeur-chercheur en apprentissage ouvert et à distance (ODL) au Département de gestion d’entreprise, Collège des sciences économiques et de gestion, Université d’Afrique du Sud (Unisa). Il est professeur invité à l’Université Carl von Ossietzky d’Oldenburg, en Allemagne, ainsi qu’à la National Open University of Nigeria (NOUN), associé de recherche pour Contact North/Contact Nord (Canada), membre de l’European Distance and E -Learning Network (EDEN), membre du comité exécutif de la Society of Learning Analytics Research (SoLAR) et membre de plusieurs comités de rédaction. Ses recherches portent sur la réussite des élèves dans des contextes d’éducation distribuée, la collecte, l’analyse et l’utilisation éthiques des données des élèves dans l’analyse de l’apprentissage et les identités numériques. Il est né curieux et en difficulté et rien n’a changé depuis.
 
@@ -88,7 +97,6 @@ Il blogue sur <https://opendistanceteachingandlearning.wordpress.com/> et son al
 
 L’éducation a toujours collecté et utilisé des données sur l’apprentissage des élèves en combinaison avec une gamme d’autres données, par exemple des données démographiques, financières et d’apprentissage antérieur à diverses fins, telles que l’évaluation et le suivi des progrès des élèves, l’identification des élèves qui pourraient avoir besoin d’un soutien supplémentaire. Il y a toujours eu des inquiétudes concernant les préjugés possibles, les stéréotypes et l’impact de la catégorisation des élèves. La confidentialité (des données) (apprentissage) des étudiants se trouvait quelque part parmi les fichiers transportés d’un bureau à l’autre, les fichiers égarés, les stockages déverrouillés et, éventuellement, une approche de laisser-faire pour protéger la confidentialité des données des étudiants, car ce qui s’est passé dans la salle de classe et l’école, sont restés dans la salle de classe (surtout). Même si cette représentation de la confidentialité des données des étudiants peut sembler idéaliste et plutôt simpliste, nous devons tenir compte de la façon dont la numérisation et la datafication croissantes de l’enseignement et de l’apprentissage modifient non seulement la portée de la confidentialité (des données) des étudiants, mais tentent également de protéger leur (et notre) données. Dans cette présentation, j’espère provoquer une réflexion sur la légèreté (in)supportable de la confidentialité des données des étudiants et examiner ce que cela signifie pour les étudiants, les professeurs et la gouvernance des données institutionnelles au milieu de l’intensification et de l’expansion du regard sur les données.
 
-##### [Session Link](){target="_blank"}
 
 ```
 

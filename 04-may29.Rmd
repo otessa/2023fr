@@ -2,7 +2,7 @@
 
 ```{block, type='protip'}
 
-#### Rejoignez-nous à l’émission de radio matinale #OTESSA23 lundi, mardi, mercredi 29 30 31 mai de 7h30 à 8h30 (heure de l’Est) à [https://voiced.ca](https://voiced.ca){target="_blank"}
+#### Rejoignez-nous à l’émission de radio matinale #OTESSA23 lundi, mardi, mercredi 29 30 31 mai de 6h30 à 7h30 (heure de l’Est) à [https://voiced.ca](https://voiced.ca){target="_blank"}
 ```
 
 ### Session Types {-}
@@ -61,11 +61,18 @@
 
 ## Bienvenue à la conférence, annonces et reconnaissance des terres | 9:00-9:15 {-}
 
+<mark>**Life Sciences Building LSB 103 @ York**</mark>
+
+ **<mark> [**Lien de session**](https://uvic.zoom.us/j/89902859924?pwd=VisxNW1GUW5KWnJldW1DRjF2d0Rmdz09){target="_blank"}</mark>
 ## Casser | 9:15-9:30 {-}
 
 ## Séance simultanée 5 | 9:30-10:30 {-}
 
 ### Séance simultanée 5.1 |  Maintenir un changement positif {-}
+
+<mark>**Life Sciences Building LSB 105**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa)**</mark>
 
 ```{block, type='session'}
 
@@ -92,6 +99,11 @@ Cette présentation discutera des efforts de recherche, du cadre de compétences
 
 ### Séance simultanée 5.2 |  Maintenir un changement positif {-}
 
+
+<mark>**Life Sciences Building LSB 103**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_2)**</mark>
+
 ```{block, type='session'}
 
 #### 9:30 - 10:30 | **Ascension de la montagne : examen des ressources éducatives ouvertes nationales (REL)** |  Pratique {-}
@@ -116,6 +128,10 @@ Cette séance examine les travaux en cours d’un groupe multipartite pour élab
 ```
 
 ### Séance simultanée 5.3 |  Maintenir un changement positif {-}
+
+<mark>**Life Sciences Building LSB 101**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_3)**</mark>
 
 ```{block, type='session'}
 
@@ -168,6 +184,10 @@ Les cours d’écologie de la restauration insistent sur le fait que les étudia
 
 ### Séance simultanée 5.4 |  Formations d’apprentissage et d’enseignement en ligne {-}
 
+<mark>**Life Sciences Building LSB 107**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_4)**</mark>
+
 ```{block, type='session'}
 
 #### 9:30 - 10:00 | **Premiers résultats d’une expérience d’enseignement à distance avec des élèves du secondaire** |  Recherche {-}
@@ -218,6 +238,10 @@ Les étudiants diplômés subissent une pression croissante pour participer à l
 
 ## Discours d’ouverture | 11:00-12:00 {-}
 
+<mark>**Lassonde Building LAS C**</mark>
+
+<mark>[**Lien de session**](https://uvic.zoom.us/j/87672746834?pwd=ODNmUk5GOTVTZGc5NzRmakhtR2FRQT09){target="_blank"}</mark>
+
 ```{block, type='keynote'}
 
 
@@ -236,7 +260,7 @@ Ces questions dominent les cercles d’enseignement et d’apprentissage et les 
 </details>
 
 
-##### [Session Link](){target="_blank"} {-}
+##### [**Lien de session**](){target="_blank"} {-}
 
 ```
 
@@ -247,6 +271,10 @@ Ces questions dominent les cercles d’enseignement et d’apprentissage et les 
 45 Minutes
 
 ### Séance parallèle  6.1 {-}
+
+<mark>**Life Sciences Building LSB 103 @ York**
+
+<mark>[**Lien de session**](https://uvic.zoom.us/j/89316556882?pwd=c3lDQy92SmozZGV1Mm9RRDBCZXg2UT09){target="_blank"}</mark>
 
 ```{block, type='speaker'}
 
@@ -269,11 +297,18 @@ Les ensembles numériques créent un espace culturel pour le savoir autochtone g
 
 ### Séance parallèle  6.2 {-}
 
+<mark>**Life Sciences Building LSB 105**</mark>
+
+<mark>[**Lien de session**](https://uvic.zoom.us/j/82721893745?pwd=N0dERGRFdTMzZWdzZXE4KzVESnQyZz09){target="_blank"}</mark>
+
 ```{block, type='speaker'}
 
-#### Conférencier de la session : à déterminer {-} 
+#### Isabel Pedersen {-} 
 
-*Titre de la session : à déterminer*
+*Ontario Tech University*
+
+
+*Choc et crainte : composition de l’'IA générative, adaptation culturelle et éducation postsecondaire*
 
 <!--
 **Keywords:** 
@@ -282,6 +317,7 @@ Les ensembles numériques créent un espace culturel pour le savoir autochtone g
 <details>
 <summary>**Abstract**</summary>
 <p>
+Le lancement de ChatGPT d’OpenAI a été un événement dramatique faisant de l’intelligence artificielle générative un phénomène courant. La journaliste de données, Katharina Buchholz, explique que « ChatGPT a gagné un million d’utilisateurs cinq jours seulement après son lancement en novembre » de 2022 (Statista, 2023). L’IA générative peut produire des phrases, des paragraphes et des documents stylistiquement corrects dans une multitude de genres. Il peut produire des images visuelles et des vidéos de qualité professionnelle. Bien que fortement débattu, on pourrait soutenir que l’IA générative « crée ». Par conséquent, l’IA générative peut aider les élèves à créer de l’art, à écrire ou à collaborer avec d’autres élèves. Cependant, l’IA générative peut accomplir toutes ces tâches pour les étudiants sans nécessiter beaucoup d’effort humain, ce qui perturbe le principe général d’apprentissage de la composition. Dans le même temps, ses créations sont susceptibles de produire de fausses informations et des résultats discriminatoires en raison des sources de formation. Cette présentation fait valoir que le choc provoqué par les grandes entreprises technologiques, lançant ces produits à travers la rhétorique du battage médiatique et de la peur, alimente l’adoption massive plutôt qu’une approche mesurée. Les éducateurs, les étudiants et les administrateurs universitaires sont confrontés à la gestion de l’adaptation culturelle aux générateurs d’IA qui remettent en question les traditions de créativité humaine et d’éducation formelle. S’appuyant sur les études et la rhétorique des médias (Pedersen et Iliadis 2020), les études sur la littératie numérique (Duin et Pedersen 2021) et les études critiques sur l’IA (Bender, Gebru, McMillan-Major et Shmitchell 2021), cette discussion pointe vers le processus de re- imaginer les attentes d’apprentissage dans les cours universitaires au milieu de l’assaut de l’émergence de l’IA générative.
 
 </p>
 </details>
@@ -295,11 +331,14 @@ Les ensembles numériques créent un espace culturel pour le savoir autochtone g
 
 ### Séance simultanée 7.1 |  Caractère générique {-}
 
+<mark>**Life Sciences Building LSB 103**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa)**</mark>
+
 ```{block, type='vendor'}
 
 #### 2:30-3:00 | **L’impact de l’annotation sociale sur l’apprentissage** |  Pratique {-}
 
-**Will be repeated online in Session 18.3 (Friday, June 2)**
 
 ***Sean O'Reilly*** | *hypothes.is*
 
@@ -317,6 +356,10 @@ L’annotation sociale amène le processus séculaire de balisage des textes dan
 ```
 
 ### Séance simultanée 7.2 |  Maintenir un changement positif {-}
+
+<mark>**Life Sciences Building LSB 101**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_2)**</mark>
 
 ```{block, type='session'}
 
@@ -338,6 +381,10 @@ La technologie moderne joue un rôle important en aidant les étudiants de tous 
 ```
 
 ### Séance simultanée 7.3 |  Aborder les inégalités {-}
+
+<mark>**Life Sciences Building LSB 105**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_3)**</mark>
 
 ```{block, type='session'}
 
@@ -366,6 +413,10 @@ Les systèmes numériques datafiés ont imprégné l’enseignement supérieur a
 
 ### Séance simultanée 8.1 |  Aborder les inégalités {-}
 
+<mark>**Life Sciences Building LSB 105**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa)**</mark>
+
 ```{block, type='workshop'}
 
 #### 3:30-5:00 | **Les données lexicographiques de Wikidata : de l’enregistrement des mots aux lexèmes et au-delà** |  Atelier {-}
@@ -386,6 +437,10 @@ Depuis le lancement de Wikidata en 2012, la base de connaissances multilingue s�
 ```
 
 ### Séance simultanée 8.2 |  Maintenir un changement positif {-}
+
+<mark>**Life Sciences Building LSB 101**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_2)**</mark>
 
 ```{block, type='session'}
 
@@ -435,6 +490,10 @@ Les perspectives centrées sur les blancs se manifestent dans de nombreuses cult
 
 ### Séance simultanée 8.3 |  Caractère générique {-}
 
+<mark>**Life Sciences Building LSB 103**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_3)**</mark>
+
 ```{block, type='session'}
 
 
@@ -460,9 +519,9 @@ L’apprentissage adaptatif (AL) exploite la puissance de la technologie pour mo
 
 ```{block, type='session'}
 
-#### 4:30-5:00 | **Un livre électronique à soi** |  Pratique {-}
+#### 4:30-5:00 | **Réaliser des examens de la portée : opportunités et défis pour examiner l’utilisation des médias sociaux pour l’apprentissage** |  Recherche {-}
 
-***Terry Greene*** | *Trent University*
+***Richard Hayman & Erika E. Smith*** | *Mount Royal University*
 
 <!--
 **Keywords:** 
@@ -471,21 +530,18 @@ L’apprentissage adaptatif (AL) exploite la puissance de la technologie pour mo
 <details>
 <summary>**Abstract**</summary>
 <p>
-La prolifération des technologies numériques a créé une multitude d’opportunités pour l’enseignement, l’apprentissage et la recherche dans l’enseignement supérieur. Cependant, de nombreux établissements n’ont pas pleinement adopté ces technologies pour permettre à leurs professeurs et étudiants de créer, de collaborer et de partager leur travail en ligne. Une combinaison de Domain of One’s Own et de Pressbooks peut offrir une solution à ce problème en fournissant aux professeurs et aux étudiants les outils et la structure dont ils ont besoin pour créer et publier en ligne d’une manière à la fois sécurisée, évolutive et accessible à tous. mais le plus fluide numériquement.
-
-Dans cette présentation, nous explorerons les avantages de combiner la pratique de Domain of One’s Own avec l’utilisation d’une instance institutionnelle de Pressbooks. Ces avantages comprennent :
-
-- Fournir aux professeurs et aux étudiants une plate-forme pour créer et partager leur travail en ligne d’une manière qui met l’accent sur la facilité d’utilisation.  
-- Permettre aux professeurs et aux étudiants de prendre le contrôle de leur apprentissage en créant un livre électronique personnel qui reflète la croissance de leur apprentissage tout au long de leur programme.  
-- Permettre aux professeurs de créer et de publier des ressources éducatives ouvertes (REL) et d’autres ressources numériques pouvant être utilisées par les étudiants et d’autres éducateurs du monde entier.  
-- Soutenir la création de communautés de pratique et de collaboration en ligne, où les professeurs et les étudiants peuvent partager leur travail, échanger des idées et fournir des commentaires.  
-La présentation s’adressera aux professeurs, aux concepteurs pédagogiques, aux bibliothécaires et aux technologues en éducation qui souhaitent explorer cette approche de l’enseignement, de l’apprentissage et de la recherche. Les participants découvriront les avantages de simplifier Domain of One’s Own avec Pressbooks.
+Les communautés savantes reconnaissent de plus en plus la valeur que les revues de littérature contribuent à synthétiser les connaissances et à comprendre les questions de recherche importantes. Bien que différentes méthodologies d’examen (par exemple, cadrage, systématique, méta-analyse, etc.) utilisent des normes et des méthodes distinctes, elles partagent généralement un objectif commun : positionner et relier un problème de recherche particulier dans un contexte plus large, identifier les recherches connexes et fournir une orientation et une justification pour une étude plus approfondie dans la région (McGregor, 2018). En regardant rétrospectivement et à l’avance les principaux problèmes, tendances et lacunes dans le domaine de la technologie éducative, la réalisation d’examens et l’examen des approches méthodologiques utilisées dans les examens sont des activités nécessaires.
+En parlant du thème « Reckonings and (Re)Imagining », dans cette session, nous discuterons de manière critique pourquoi et comment de telles revues peuvent et devraient apporter de la valeur, maintenant et dans le futur. En utilisant le cas de notre projet d’examen actuel sur l’utilisation des technologies des médias sociaux au premier cycle et avec la bourse d’enseignement et d’apprentissage (SoTL) comme objectif principal, nous présenterons un exemple de processus pour établir un protocole d’examen de la portée. En faisant le point sur les opportunités, les défis et les leçons apprises plus larges pour les revues de cadrage en tant que contributions de méta-recherche dans le domaine, nous invitons une discussion critique entre SoTL et les chercheurs en technologie éducative envisageant des moyens d’améliorer ou d’étendre potentiellement leurs propres processus de revue de la littérature.
 
 </p>
 </details>
 ```
 
 ### Séance simultanée 8.4 |  Formations d’apprentissage et d’enseignement en ligne {-}
+
+<mark>**Life Sciences Building LSB 107**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_4)**</mark>
 
 ```{block, type='session'}
 
@@ -506,23 +562,6 @@ S’engageant dans une discussion sur les principaux résultats, cette session v
 </details>
 ```
 
-```{block, type='session'}
-
-#### 4:30-5:00 | **L’apprentissage en ligne au Québec : résultats de l’enquête annuelle 2022 de l’ACRFL (en français)** |  Pratique {-}
-
-*** Bruno Poellhuber & Simon Parent*** | *Université de Montréal*
-
-<!--
-**Keywords:** 
--->
-
-<details>
-<summary>**Abstract**</summary>
-<p>
-
-</p>
-</details>
-```
 
 ## Voir la programmation du Congrès pour les tentes sociales et les options alimentaires | 5:00-7:00 {-}
 

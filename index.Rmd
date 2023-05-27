@@ -1,7 +1,7 @@
 --- 
 title: "Programme de la conférence 2023"
 author: "OTESSA Program Committee"
-date: "Last updated `r format(Sys.time(), '%A, %b %d, %H:%M %p, %Z')`"
+date: "Last updated `r format(Sys.time(), '%A, %b %d, %H:%M %p')`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
@@ -26,4 +26,9 @@ Tous les participants OTESSA peuvent assister à la série de conférences « [V
 
 Tous les inscrits OTESSA peuvent également assister aux sessions de conférence offertes par [l’Association canadienne pour l’étude de l’éducation (CSSE)](https://csse-scee.ca/){target="_blank"}, [l’Association canadienne pour l’étude de l’enseignement supérieur (CSSHE)](https://csshe-scees.ca/){target="_blank"}, et [l’Association canadienne des revues savantes (CALJ)](https://www.calj-acrs.ca/){target="_blank"} car nous avons des accords de réciprocité en place. Veuillez noter que les présentateurs doivent s’inscrire à chaque conférence dans laquelle ils présentent.
 
-Rejoignez-nous à l’émission de radio matinale #OTESSA23 tous les matins à déterminer (heure de l’Est) à [https://voiced.ca](https://voiced.ca){target="_blank"}
+```{block, type='protip'}
+
+
+#### Rejoignez-nous à l’émission de radio matinale #OTESSA23 lundi, mardi, mercredi 29 30 31 mai de 6h30 à 7h30 (heure de l’Est) à [https://voiced.ca](https://voiced.ca){target="_blank"}
+
+```

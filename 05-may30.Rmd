@@ -2,7 +2,7 @@
 
 ```{block, type='protip'}
 
-#### Rejoignez-nous à l’émission de radio matinale #OTESSA23 lundi, mardi, mercredi 29 30 31 mai de 7h30 à 8h30 (heure de l’Est) à [https://voiced.ca](https://voiced.ca){target="_blank"}
+#### Rejoignez-nous à l’émission de radio matinale #OTESSA23 lundi, mardi, mercredi 29 30 31 mai de 6h30 à 7h30 (heure de l’Est) à [https://voiced.ca](https://voiced.ca){target="_blank"}
 ```
 
 ### Session Types {-}
@@ -61,6 +61,10 @@
 
 ## Bienvenue à la conférence, annonces et reconnaissance des terres | 9:00-9:15 {-}
 
+<mark>**Life Sciences Building LSB 103 @ York**</mark>
+
+<mark>[**Lien de session**](https://uvic.zoom.us/j/89902859924?pwd=VisxNW1GUW5KWnJldW1DRjF2d0Rmdz09){target="_blank"}</mark>
+
 ## Casser | 9:15-9:30 {-}
 
 ## Séance simultanée 9 | 9:30-10:30 {-}
@@ -68,6 +72,10 @@
 1 hour
 
 ### Séance simultanée 9.1 |  Formations d’apprentissage et d’enseignement en ligne {-}
+
+<mark>**Life Sciences Building LSB 105**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa)**</mark>
 
 ```{block, type='session'}
 
@@ -92,26 +100,13 @@ Cette présentation se concentrera sur les façons dont les formateurs d’ensei
 </details>
 ```
 
-```{block, type='session'}
 
-#### 10:00-10:30 | **La distance technologique : une nouvelle façon de conceptualiser la « distance » dans l’enseignement à distance** |  Recherche {-}
-
-***Jon Dron*** | *Athabasca University*
-
-<!--
-**Keywords:** 
--->
-
-<details>
-<summary>**Abstract**</summary>
-<p>
-Cet article présente le concept de distance technologique, qui décrit un écart entre les technologies (au sens large pour inclure les méthodes, les outils, les principes et les processus) disponibles pour qu’un apprenant puisse apprendre, et celles nécessaires pour compléter cet apprentissage. Cet écart est une mesure à la fois de la participation et de l’autonomie des apprenants dans le processus. Les technologies disponibles peuvent inclure celles fournies par les enseignants et les institutions ainsi que par de nombreux autres, notamment les apprenants eux-mêmes. Cependant, les technologies qui composent l’assemblage ne sont que des composants. Ce qui compte le plus, c’est la façon dont les apprenants comblent les lacunes entre eux pour atteindre leurs objectifs d’apprentissage. Celles-ci sont fondamentalement situées, idiosyncratiques et humaines. La distance technologique fournit de nouvelles perspectives sur d’autres modèles qui utilisent des métaphores spatiales, telles que la présence de communautés d’enquête et la distance transactionnelle.
-
-</p>
-</details>
-```
 
 ### Séance simultanée 9.2 |  Formations d’apprentissage et d’enseignement en ligne {-}
+
+<mark>**Life Sciences Building LSB 101**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_2)**</mark>
 
 ```{block, type='session'}
 
@@ -153,11 +148,15 @@ Cette présentation aborde l’apprentissage en ligne pendant les fermetures d�
 
 ### Séance simultanée 9.3 |  Maintenir un changement positif {-}
 
+<mark>**Life Sciences Building LSB 107**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_3)**</mark>
+
 ```{block, type='session'}
 
 #### 9:30-10:00 | **Écrire attentivement sur la sécurité culturelle autochtone et l’humilité culturelle : une réflexion de colons engagés dans la réconciliation dans le développement des REL** |  Pratique {-}
 
-***Deb Nielsen*** | *College of New Caledonia*
+***Deb Nielsen & Emily Ballantyne*** | *College of New Caledonia*
 
 <!--
 **Keywords:** 
@@ -200,6 +199,7 @@ Cette présentation explorera la question émergente de l’écriture artificiel
 
 ## Non-conférence sur l’éducation numérique, en ligne et ouverte (sur place à York) | 11:00-12:00 {-}
 
+**Emplacements répartis sur LSB 101, 103, 105, 107. Voir le site Web du programme OTESSA pour plus de détails.**
 
 Une non-conférence est une session axée sur les participants destinée à réduire l’accent mis sur les discours formels et à éviter les aspects hiérarchiques d’une session de conférence didactique. Tous les participants au Congrès sont invités à participer à cette non-conférence en face à face ; cependant, les participants inscrits à la conférence OTESSA recevront une invitation à suggérer des sujets et à voter pour sélectionner à l’avance les sujets de la salle de sous-commission. Au moment de cette session, les affectations de sujet à salle seront terminées et publiées sur le site Web de notre programme à <https://otessa.org/2023/program/>. Vous êtes invités à vous déplacer entre les salles thématiques et à aller et venir à votre guise ! Nous nous réjouissons d’accueillir des discussions ciblées sur vos sujets favoris ! Veuillez noter qu’il s’agit de la non-conférence en personne. Il y aura également une contre-conférence en ligne qui aura lieu le vendredi 2 juin de 12h30 à 13h15 dans une salle Zoom dans le cadre de la conférence OTESSA.Séance hors conférence TBA
 
@@ -211,6 +211,10 @@ Une non-conférence est une session axée sur les participants destinée à réd
 45 Minutes
 
 ### Séance parallèle 10.1 {-}
+
+<mark>**Life Sciences Building LSB 103**</mark>
+
+<mark>[**Lien de session**](https://uvic.zoom.us/j/86250728368?pwd=dEFWYXJQcy9uVm91dDArT0RzanVNQT09){target="_blank"}</mark>
 
 ```{block, type='speaker'}
 
@@ -225,12 +229,21 @@ Une non-conférence est une session axée sur les participants destinée à réd
 <details>
 <summary>**Abstract**</summary>
 <p>
-TBA
+Que signifie l’écosystème numérique actuel de surveillance numérique omniprésente, d’exploration de données et d’intelligence artificielle envahissante pour les possibilités participatives de la pédagogie ouverte et de l’apprentissage numérique ? Qu’est-ce qui constitue une réponse critique et éthique à cet écosystème de plus en plus colonisateur et extractif ?
+
+S’appuyant sur deux modèles de changement fondamentaux – et potentiellement contradictoires – qui se croisent actuellement dans l’apprentissage numérique, cette conférence se concentrera sur le dilemme éthique que cette intersection crée pour l’éducation ouverte et numérique. D’un côté se trouvent les pratiques numériques ouvertes relationnelles et participatives qui utilisent l’infrastructure du Web pour engager les apprenants dans l’abondance de connaissances. D’autre part, la datafication de l’enseignement supérieur et l’enfermement résultant des plateformes sur lesquelles se produisent les pratiques ouvertes, par des entreprises extractrices de données et même prédatrices. La session examinera comment l’essor des outils basés sur les données et de l’IA exige une réponse critique et éthique, mais une réponse que notre culture contemporaine du « clic oui » rend extrêmement difficile à mettre en place. Il décrira les logiques de capture du marché et de battage médiatique qui façonnent actuellement les récits autour des outils numériques, et les obstacles que cela crée pour le développement de données authentiques, critiques et agentielles et de connaissances en IA parmi les professeurs et les étudiants.
+
+La session est conçue pour soulever des questions plutôt que pour offrir des réponses, mais mettra en évidence deux projets de classe numérique actuels que le présentateur utilise pour tenter de combler les tensions mentionnées ci-dessus. Ces projets visent à favoriser les pratiques ouvertes et la littératie des données chez les futurs enseignants, et à les encourager à voir leur rôle de travailleurs du savoir sous un nouveau jour. La conférence invitera les participants à considérer notre responsabilité mutuelle – quoique toujours différentielle – d’aborder l’éducation numérique et ouverte avec un regard critique sur les écosystèmes numériques complexes et souvent potentiellement dangereux sur lesquels elle repose, tout en visant toujours à favoriser des espaces d’apprentissage participatif, ouverts partage et changement. En fin de compte, cela demandera une approche éthique de la datafication à l’échelle du secteur et invitera des commentaires sur ce à quoi cela pourrait ressembler.
+
 </p>
 </details>
 ```
 
 ### Séance parallèle 10.2 {-}
+
+<mark>**Life Sciences Building LSB 105**</mark>
+
+<mark>[**Lien de session**](https://uvic.zoom.us/j/82916752574?pwd=OG90Z0FwcjNkbmpvY2ZKYzRCVVQ5Zz09){target="_blank"}</mark>
 
 ```{block, type='speaker'}
 
@@ -259,12 +272,16 @@ Dans cette table ronde, les membres du réseau réfléchiront sur le quoi, le po
 
 ### Séance simultanée 11.1 |  Caractère générique {-}
 
+<mark>**Life Sciences Building LSB 103**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa)**</mark>
+
 ```{block, type='session'}
 
 
-#### 2:30-3:00 | **Réaliser des examens de la portée : opportunités et défis pour examiner l’utilisation des médias sociaux pour l’apprentissage** |  Recherche {-}
+#### 2:30-3:00 | **Un livre électronique à soi** |  Pratique {-}
 
-***Richard Hayman & Erika E. Smith*** | *Mount Royal University*
+***Terry Greene & Christian Metaxes*** | *Trent University*
 
 <!--
 **Keywords:** 
@@ -273,15 +290,24 @@ Dans cette table ronde, les membres du réseau réfléchiront sur le quoi, le po
 <details>
 <summary>**Abstract**</summary>
 <p>
-Les communautés savantes reconnaissent de plus en plus la valeur que les revues de littérature contribuent à synthétiser les connaissances et à comprendre les questions de recherche importantes. Bien que différentes méthodologies d’examen (par exemple, cadrage, systématique, méta-analyse, etc.) utilisent des normes et des méthodes distinctes, elles partagent généralement un objectif commun : positionner et relier un problème de recherche particulier dans un contexte plus large, identifier les recherches connexes et fournir une orientation et une justification pour une étude plus approfondie dans la région (McGregor, 2018). En regardant rétrospectivement et à l’avance les principaux problèmes, tendances et lacunes dans le domaine de la technologie éducative, la réalisation d’examens et l’examen des approches méthodologiques utilisées dans les examens sont des activités nécessaires.
+La prolifération des technologies numériques a créé une multitude d’opportunités pour l’enseignement, l’apprentissage et la recherche dans l’enseignement supérieur. Cependant, de nombreux établissements n’ont pas pleinement adopté ces technologies pour permettre à leurs professeurs et étudiants de créer, de collaborer et de partager leur travail en ligne. Une combinaison de Domain of One’s Own et de Pressbooks peut offrir une solution à ce problème en fournissant aux professeurs et aux étudiants les outils et la structure dont ils ont besoin pour créer et publier en ligne d’une manière à la fois sécurisée, évolutive et accessible à tous. mais le plus fluide numériquement.
+Dans cette présentation, nous explorerons les avantages de combiner la pratique de Domain of One’s Own avec l’utilisation d’une instance institutionnelle de Pressbooks. Ces avantages comprennent :
+–	Fournir aux professeurs et aux étudiants une plate-forme pour créer et partager leur travail en ligne d’une manière qui met l’accent sur la facilité d’utilisation.
+–	Permettre aux professeurs et aux étudiants de prendre le contrôle de leur apprentissage en créant un livre électronique personnel qui reflète la croissance de leur apprentissage tout au long de leur programme.
+–	Permettre aux professeurs de créer et de publier des ressources éducatives ouvertes (REL) et d’autres ressources numériques pouvant être utilisées par les étudiants et d’autres éducateurs du monde entier.
+–	Soutenir la création de communautés de pratique et de collaboration en ligne, où les professeurs et les étudiants peuvent partager leur travail, échanger des idées et fournir des commentaires.
+La présentation s’adressera aux professeurs, aux concepteurs pédagogiques, aux bibliothécaires et aux technologues en éducation qui souhaitent explorer cette approche de l’enseignement, de l’apprentissage et de la recherche. Les participants découvriront les avantages de simplifier Domain of One’s Own avec Pressbooks.
 
-En parlant du thème « Reckonings and (Re)Imagining », dans cette session, nous discuterons de manière critique pourquoi et comment de telles revues peuvent et devraient apporter de la valeur, maintenant et dans le futur. En utilisant le cas de notre projet d’examen actuel sur l’utilisation des technologies des médias sociaux au premier cycle et avec la bourse d’enseignement et d’apprentissage (SoTL) comme objectif principal, nous présenterons un exemple de processus pour établir un protocole d’examen de la portée. En faisant le point sur les opportunités, les défis et les leçons apprises plus larges pour les revues de cadrage en tant que contributions de méta-recherche dans le domaine, nous invitons une discussion critique entre SoTL et les chercheurs en technologie éducative envisageant des moyens d’améliorer ou d’étendre potentiellement leurs propres processus de revue de la littérature.
 
 </p>
 </details>
 ```
 
 ### Séance simultanée 11.2 |  Formations d’apprentissage et d’enseignement en ligne {-}
+
+<mark>**Life Sciences Building LSB 107**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_2)**</mark>
 
 ```{block, type='session'}
 
@@ -304,6 +330,10 @@ Les technologies numériques sont potentiellement plus utilisées dans les class
 
 ### Séance simultanée 11.3 |  Maintenir un changement positif {-}
 
+<mark>**Life Sciences Building LSB 105**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_3)**</mark>
+
 ```{block, type='session'}
 
 #### 2:30-3:00 | **Risques liés aux données sur les plateformes de classe en ligne : une analyse comparative des documents de politique** |  Recherche {-}
@@ -323,26 +353,8 @@ Les plateformes de visioconférence en ligne ont été largement utilisées comm
 </details>
 ```
 
-### Séance simultanée 11.4 |  Formations d’apprentissage et d’enseignement en ligne {-}
 
-```{block, type='session'}
 
-#### 2:30-3:00 | **Ouvrir à la croisée des chemins : forger des voies de littératie médiatique et numérique** |  Recherche {-}
-
-***Helen DeWaard*** | *LAkehead University & University of British Columbia*
-
-<!--
-**Keywords:** 
--->
-
-<details>
-<summary>**Abstract**</summary>
-<p>
-Afin de repenser l’éducation ouverte et en ligne, et de répondre au thème de la conférence Reckonings and Reimaginings, cette session se concentrera sur les comptes rendus avec les technologies numériques et la production médiatique dans les facultés d’éducation canadiennes pour soutenir une vision des écosphères d’apprentissage ouvert tout en réimaginant Marshall Les paroles prophétiques de McLuhan « le médium est le message » (McLuhan, 1977). À l’heure actuelle, les éducateurs des espaces éducatifs ouverts et en ligne se trouvent à la croisée des chemins, face aux orientations et aux voies des médias et du numérique vers des avenirs incertains. Cette présentation commencera par explorer les assemblages passés de définitions et de pratiques des médias et de la littératie numérique qui ont un impact sur les décisions de naviguer au grand jour. Ensuite, les futurs possibles pour l’éducation en ligne sont partagés. Le présentateur fournit des perspectives et des orientations vers les possibilités émergeant de sa recherche. La session se terminera par une activité de cartographie et d’orientation collaborative et participative pour étudier les voies potentielles vers la création de nouveaux médias et de pistes numériques tout en explorant ensemble des écologies ouvertes inexplorées.
-
-</p>
-</details>
-```
 
 ## Pause avec café et collation fournis | 3:00-3:30 {-}
 
@@ -351,6 +363,10 @@ Afin de repenser l’éducation ouverte et en ligne, et de répondre au thème d
 1.5 heures
 
 ### Séance simultanée 12.1 |  Formations d’apprentissage et d’enseignement en ligne {-}
+
+<mark>**Life Sciences Building LSB 105**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa)**</mark>
 
 ```{block, type='session'}
 
@@ -377,17 +393,9 @@ Les enseignants et les employeurs ont désormais une chance égale de devenir de
 
 ```{block, type='session'}
 
-#### 4:30-5:00 | **Langage, narration et limites narratives de l’empire : approcher la ficelle comme outil pédagogique féministe** |  Pratique {-}
+#### 4:30-5:00 | **Ouvrir à la croisée des chemins : forger des voies de littératie médiatique et numérique** |  Recherche {-}
 
-***Anna Lee-Popham*** | *University of Guelph*
-
-***Aparajita Bhandari*** | *Cornell University*
-
-***Sarah York-Bertram*** | *York University*
-
-***Sarah Choukah*** | *Université de l'Ontario français*
-
-***Laurence Butet-Roch*** | *York University*
+***Helen DeWaard*** | *Lakehead University & University of British Columbia*
 
 <!--
 **Keywords:** 
@@ -396,15 +404,19 @@ Les enseignants et les employeurs ont désormais une chance égale de devenir de
 <details>
 <summary>**Abstract**</summary>
 <p>
-Suite à l’accent mis par la réunion sur la lutte contre les inégalités et le virage vers l’apprentissage virtuel, cet atelier présente aux participants Twine en tant qu’outil de narration interactif pour défaire de manière créative les structures du langage pour tenir compte des récits d’Empire. Les participants exploreront les applications interdisciplinaires de l’outil et créeront des histoires non linéaires. Du point de vue féministe, Twine est un outil numérique accessible et gratuit qui, en ayant une faible courbe d’apprentissage (Anthropy, Evans), « défie les standards traditionnels en renversant la célébration de la difficulté, à la fois dans la production et le jeu » (Harvey).
-
-L’atelier explore Twine comme un outil pour penser autrement et façonner les possibilités futures, guidé par les questions : Comment Twine, en tant qu’outil de narration interactif, peut-il créer des opportunités pour les participants d’utiliser le mot écrit ? Comment ces engagements pourraient-ils permettre de nouveaux types d’expériences et de création de sens pour les apprenants ? Notre objectif est de faciliter l’exploration de la manière dont la non-linéarité peut refléter les formes féministes noires, anticoloniales et plurielles du futurisme et du design. Nous ne positionnons pas Twine comme une solution technologique, mais comme un outil pour générer une réflexion expansive ; s’engager dans une recherche numérique collaborative ; et créer de nouvelles significations. Nos animatrices puisent dans leurs domaines d’études et leurs perspectives pédagogiques (cultures numériques, communications, études de genre, féministes et féministes, écriture créative) pour démontrer les applications interdisciplinaires de l’outil.
+Afin de repenser l’éducation ouverte et en ligne, et de répondre au thème de la conférence Reckonings and Reimaginings, cette session se concentrera sur les comptes rendus avec les technologies numériques et la production médiatique dans les facultés d’éducation canadiennes pour soutenir une vision des écosphères d’apprentissage ouvert tout en réimaginant Marshall Les paroles prophétiques de McLuhan « le médium est le message » (McLuhan, 1977). À l’heure actuelle, les éducateurs des espaces éducatifs ouverts et en ligne se trouvent à la croisée des chemins, face aux orientations et aux voies des médias et du numérique vers des avenirs incertains. Cette présentation commencera par explorer les assemblages passés de définitions et de pratiques des médias et de la littératie numérique qui ont un impact sur les décisions de naviguer au grand jour. Ensuite, les futurs possibles pour l’éducation en ligne sont partagés. Le présentateur fournit des perspectives et des orientations vers les possibilités émergeant de sa recherche. La session se terminera par une activité de cartographie et d’orientation collaborative et participative pour étudier les voies potentielles vers la création de nouveaux médias et de pistes numériques tout en explorant ensemble des écologies ouvertes inexplorées.
 
 </p>
 </details>
 ```
 
+
+
 ### Séance simultanée 12.2 |  Caractère générique {-}
+
+<mark>**Life Sciences Building LSB 107**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_2)**</mark>
 
 ```{block, type='session'}
 
@@ -450,6 +462,10 @@ La gamification a fait l’objet de recherches approfondies car elle permet pote
 
 ### Séance simultanée 12.3 |  Maintenir un changement positif {-}
 
+<mark>**Life Sciences Building LSB 101**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_3)**</mark>
+
 ```{block, type='session'}
 
 #### 3:30-4:30 | **Re/storying Pédagogie pour l’université postnumérique : examiner le pouvoir de la narration critique pour imaginer un avenir meilleur** |  Pratique {-}
@@ -471,25 +487,13 @@ Cette session invite les instructeurs, le personnel académique, les étudiants 
 </details>
 ```
 
-```{block, type='session'}
 
-#### 4:30-5:00 | **TBA** |  Recherche {-}
-
-***Speaker: TBA*** | **
-
-<!--
-**Keywords:** 
--->
-
-<details>
-<summary>**Abstract**</summary>
-<p>
-
-</p>
-</details>
-```
 
 ### Séance simultanée 12.4 |  Maintenir un changement positif {-}
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_4)**</mark>
+
+<mark>**Life Sciences Building LSB 103**</mark>
 
 ```{block, type='session'}
 
