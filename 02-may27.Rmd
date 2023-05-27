@@ -498,7 +498,7 @@ Cet article explore le potentiel de la baladodiffusion en tant que technologie �
 
 ### Séance simultanée 3.2 |  Maintenir un changement positif {-}
 
-<mark>[**Lien de session**](https://uvic.zoom.us/j/87500178048?pwd=TUVWUjljYUVRVmROK0Z2b2paZW4wUT09){target="_blank"}</mark>
+<mark>[**Session Link**](https://uvic.zoom.us/j/84849983422?pwd=V0NDeVhSUjA2eDF5M2U2QUU0OFUvZz09){target="_blank"}</mark>
 
 ```{block, type='session'}
 
@@ -544,7 +544,7 @@ La pandémie a contraint les enseignants à s’adapter avec une plus grande fle
 
 ### Séance simultanée 3.3 |  Caractère générique {-}
 
-<mark>[**Lien de session**](https://uvic.zoom.us/j/82549216587?pwd=NlhWZ1o0TXUwQlJOL1dzWk9wdFNQZz09){target="_blank"}</mark>
+<mark>[**Session Link**](https://uvic.zoom.us/j/81832796337?pwd=d2lkclVtby9lZUo3QkZMR2V5RzFKdz09){target="_blank"}</mark>
 
 ```{block, type='session'}
 
@@ -639,7 +639,7 @@ Pendant la pandémie de COVID-19, l’enseignement et l’apprentissage en ligne
 
 ### Séance simultanée 3.5 |  Maintenir un changement positif {-}
 
-<mark>[**Lien de session**](https://uvic.zoom.us/j/88626428930?pwd=NkVGRXhYRUtJWmRuc1M1Z2NkOVhaZz09){target="_blank"}</mark>
+<mark>[**Session Link**](https://uvic.zoom.us/j/81001564554?pwd=RlNJSzg4SE1HemhiL1BvRmxhWDl5Zz09){target="_blank"}</mark>
 
 ```{block, type='session'}
 
@@ -694,7 +694,7 @@ Cette présentation abordera la question de la littératie algorithmique du poin
 45 Minutes
 ### Séance parallèle 4.1 {-}
 
-<mark>[**Lien de session**](https://uvic.zoom.us/j/88611545139?pwd=NWErdnVwNjFqaVdLbk9QWFM1ZlFvdz09){target="_blank"}</mark>
+<mark>[**Session Link**](https://uvic.zoom.us/j/82898272461?pwd=OW50MHEyajd1SUNLTDRWTHNkdzJUQT09){target="_blank"}</mark>
 
 ```{block, type='speaker'}
 
@@ -718,7 +718,7 @@ Dans cette présentation, le Dr Alec Couros explorera les possibilités et l’i
 
 ### Séance parallèle 4.2 {-}
 
-<mark>[**Lien de session**](https://uvic.zoom.us/j/83845391748?pwd=U2o3ejhqS2MwZ3l1ejl1ZitKNnVqUT09){target="_blank"}</mark>
+<mark>[**Session Link**](https://uvic.zoom.us/j/84849983422?pwd=V0NDeVhSUjA2eDF5M2U2QUU0OFUvZz09){target="_blank"}</mark>
 
 ```{block, type='speaker'}
 
@@ -743,4 +743,4 @@ De nombreuses conversations autour de l’éducation ouverte se concentrent sur 
 
 ## Module de discussion/réseautage | 6:15-6:30 {-}
 
-<mark>[**Lien de session**](https://uvic.zoom.us/j/87334254291?pwd=RThZM0t2cloyVmI5Nmt5bTRuVERTZz09){target="_blank"}</mark>
+<mark>[**Session Link**](https://uvic.zoom.us/j/87334254291?pwd=RThZM0t2cloyVmI5Nmt5bTRuVERTZz09){target="_blank"}</mark>
