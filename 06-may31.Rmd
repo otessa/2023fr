@@ -193,6 +193,35 @@ Cette session offrira aux participants l’occasion de réfléchir aux espaces n
 </p>
 </details>
 ```
+### Séance simultanée 13.4 |  Maintenir un changement positif {-}
+
+
+<mark>[**Session Link**](https://uvic.zoom.us/j/81832796337?pwd=d2lkclVtby9lZUo3QkZMR2V5RzFKdz09){target="_blank"}</mark>
+
+```{block, type='session'}
+
+#### 9:30- 10:30 | **Être(com)ing bibliothécaires OE en Ukraine en temps de guerre : éliminer les barrières linguistiques et pratiquer l’inclusion** |  Pratique {-}
+
+***Paola Corti*** | *SPARC Europe*
+
+***Tetiana Kolesnykova*** | *Ukrainian State University of Science and Technologies*
+
+***Mira Buist- Zhuk*** | *University of Groningen*
+
+<!--
+**Keywords:** 
+-->
+
+<details>
+<summary>**Abstract**</summary>
+<p>
+Les bibliothécaires ukrainiens sont les champions du changement positif malgré la guerre en cours avec la Russie. La bibliothèque universitaire de l’Université d’État ukrainienne des sciences et technologies a continué à soutenir les étudiants et les professeurs, même en travaillant à distance depuis les sous-sols de la maison, en partageant des ordinateurs et en prenant soin des enfants des autres, malgré les alarmes anti-aériennes et l’électricité et le chauffage quotidiens. pannes. Cependant, ce n’est qu’une partie de leur travail. Ils saisissent toutes les occasions de faire avancer leur programme ouvert en améliorant leurs compétences grâce à l’apprentissage entre pairs, en participant à des réseaux internationaux et en adaptant les REL existantes et en créant de nouvelles. Ils construisent des ponts entre le présent et l’avenir : dès que cette guerre sera terminée, les bibliothécaires ukrainiens faciliteront de meilleures opportunités d’enseignement et d’apprentissage avec de nouvelles compétences professionnelles et des collaborations externes.
+
+Tout cela en faisant face sans relâche aux problèmes linguistiques : rejeter les tentatives de « linguicide » de la Russie et travailler avec des collègues d’autres pays. Ce dernier incite la communauté internationale à apporter son soutien. Le premier nécessite une stratégie différente : les bibliothécaires ukrainiens travaillent activement à préserver la langue et le patrimoine de leur pays, en veillant à ce que son histoire et sa culture ne soient pas oubliées, malgré la guerre. Cette présentation offre l’opportunité d’entendre leur histoire et de construire de nouvelles voies de collaboration tout en renforçant celles qui existent déjà.
+
+</p>
+</details>
+```
 
 ## Casser | 10:30-11:00 {-}
 
@@ -323,6 +352,33 @@ Trois thèmes ont été générés dans nos analyses thématiques. L’adoption 
 <summary>**Abstract**</summary>
 <p>
 Le gouvernement canadien a lancé l’initiative « Familles branchées » en 2018. L’objectif était de fournir un accès Internet aux familles à faible revenu partout au Canada. Au tournant du millénaire, Internet est devenu un outil incontournable pour accéder à l’information et au savoir. Pourtant, le Canada, comme de nombreux autres pays dans le monde, fait face à des défis en matière d’accessibilité pour de multiples raisons : géographie, culture, histoire, etc. (Howard et al., 2018). En ce sens, des écarts technologiques se sont développés en fonction de l’âge, de la langue, du revenu familial, de l’origine, etc. Howard et al. (2018) soulignent que l’éducation, l’âge et le revenu sont corrélés à un accès limité à Internet et à une faible littératie numérique. L’enquête diffusée consistait en 30 questions portant sur : les caractéristiques sociodémographiques, les ressources numériques accessibles, les habitudes avec la technologie, les besoins d’initiative, les usages et les défis d’Internet. Au total, 89 776 questionnaires (P1 = 28 444 ; P2 = 9 163 ; P3 = 34 327 ; P4 = 17 842) ont été remplis par les participants à l’initiative. En plus du questionnaire, des entretiens ont été menés à chaque phase avec un nombre variable de participants (entre 20 et 50) pour clarifier les idées. Les résultats longitudinaux mettent en lumière l’impact d’une telle initiative sur les familles à faible revenu, ainsi que les effets de la pandémie mondiale de COVID-19 sur les habitudes d’un groupe à risque.
+
+</p>
+</details>
+```
+### Séance simultanée 15.3 |  Maintenir un changement positif {-}
+
+<mark>Cette session a été reportée de la session 3.5.</mark>
+
+
+<mark>[**Session Link**](https://uvic.zoom.us/j/81832796337?pwd=d2lkclVtby9lZUo3QkZMR2V5RzFKdz09){target="_blank"}</mark>
+
+```{block, type='session'}
+
+#### 2:30-3:00 | **Le rôle des bibliothèques universitaires dans la promotion de la littératie algorithmique dans les universités canadiennes : un métalalphabète** |  Recherche {-}
+
+***Marta Samokishyn*** | *Saint Paul University*
+
+<!--
+**Keywords:** 
+-->
+
+<details>
+<summary>**Abstract**</summary>
+<p>
+Les algorithmes deviennent partie intégrante de notre écosystème socio-numérique : l’impact de Facebook sur les pratiques de vote, le filtrage des CV d’Amazon, les logiciels de profilage racial et même la possibilité d’obtenir un prêt. En conséquence, il est urgent d’aborder la question de la sensibilisation algorithmique et de la littératie algorithmique dans l’enseignement supérieur afin de promouvoir les compétences de pensée critique à l’égard des biais algorithmiques et de leur impact sur l’infrastructure sociale.
+
+Cette présentation abordera la question de la littératie algorithmique du point de vue de la littératie informationnelle et de la métallittératie. Le présentateur discutera du rôle de l’éducation à la maîtrise de l’information dans la promotion de la sensibilisation algorithmique dans l’enseignement supérieur et abordera l’adoption de pratiques d’enseignement pour promouvoir une conscience critique sur les algorithmes dans les établissements postsecondaires au Canada
 
 </p>
 </details>

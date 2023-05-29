@@ -353,7 +353,32 @@ Les plateformes de visioconférence en ligne ont été largement utilisées comm
 </details>
 ```
 
+### Séance simultanée 11.4 |  Formations d’apprentissage et d’enseignement en ligne  {-}
 
+<mark>Cette session a été reportée de la session 3.4</mark>
+
+
+<mark>[**Session Link**](https://uvic.zoom.us/j/81832796337?pwd=d2lkclVtby9lZUo3QkZMR2V5RzFKdz09){target="_blank"}</mark>
+
+```{block, type='session'}
+
+#### 2:30- 3:00 | **Face à face, en ligne ou quelque chose entre les deux – Perceptions des étudiants sur l’engagement des étudiants dans différents environnements d’apprentissage** |  Recherche {-}
+
+***Hongran Cui, Michelle Harrison & Victoria Handford*** | *Thompson Rivers University*
+
+<!--
+**Keywords:** 
+-->
+
+<details>
+<summary>**Abstract**</summary>
+<p>
+Pendant la pandémie de COVID-19, l’enseignement et l’apprentissage en ligne sont devenus le principal modèle d’éducation, et nous appelons cela l’enseignement à distance d’urgence (ERE) (Bozkurt et al., 2020). Des études antérieures ont accumulé de riches théories et ont prouvé que l’engagement étudiant (ES) est positivement lié à la réussite scolaire de l’étudiant. Cependant, seules quelques études se sont spécifiquement concentrées sur SE dans l’ERE, ce qui constitue une lacune dans la recherche. Cette recherche a révélé qu’il y avait des différences dans l’engagement des étudiants entre F2F et ERE ; les principales raisons à l’origine des différences étaient la conception et l’organisation des cours, l’apprentissage avec les pairs, l’interaction étudiant-professeur et l’interaction sociale. Les étudiants préféraient les cours synchrones et percevaient subjectivement moins d’interaction avec les instructeurs et les pairs. Cependant, un environnement favorable qui a été inclus dans l’engagement des étudiants dans l’apprentissage F2F mais qui n’est pas considéré comme un facteur influencé dans le modèle de communauté d’enquête s’est révélé dans cette étude comme un facteur constructif dans l’ERE. Sharma et Alvi (2021) ont constaté que les élèves étaient plus favorables à l’apprentissage mixte après la pandémie. Les résultats de cette étude fournissent la raison et le fondement théorique de la modification de l’éducation en ligne.
+
+</p>
+</details>
+```
+<mark>Cette session a été reportée de la session 3.5.</mark>
 
 
 ## Pause avec café et collation fournis | 3:00-3:30 {-}

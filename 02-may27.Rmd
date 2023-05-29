@@ -666,6 +666,8 @@ Tout cela en faisant face sans relâche aux problèmes linguistiques : rejeter l
 </details>
 ```
 
+<mark>Cette séance a été reportée à la séance simultanée 15.3 le 31 mai.</mark> 
+
 ```{block, type='session'}
 
 #### 4:45 - 5:15 | **Le rôle des bibliothèques universitaires dans la promotion de la littératie algorithmique dans les universités canadiennes : un métalalphabète** |  Recherche {-}
