@@ -272,7 +272,7 @@ Dans cette table ronde, les membres du réseau réfléchiront sur le quoi, le po
 
 ### Séance simultanée 11.1 |  Caractère générique {-}
 
-<mark>**Life Sciences Building LSB 103**</mark>
+<mark>**Life Sciences Building LSB 101**</mark>
 
 <mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa)**</mark>
 
@@ -330,7 +330,7 @@ Les technologies numériques sont potentiellement plus utilisées dans les class
 
 ### Séance simultanée 11.3 |  Maintenir un changement positif {-}
 
-<mark>**Life Sciences Building LSB 105**</mark>
+<mark>**Life Sciences Building LSB 103**</mark>
 
 <mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_3)**</mark>
 
@@ -356,6 +356,8 @@ Les plateformes de visioconférence en ligne ont été largement utilisées comm
 ### Séance simultanée 11.4 |  Formations d’apprentissage et d’enseignement en ligne  {-}
 
 <mark>Cette session a été reportée de la session 3.4</mark>
+
+<mark>**Life Sciences Building LSB 105**</mark>
 
 
 <mark>[**Session Link**](https://uvic.zoom.us/j/81832796337?pwd=d2lkclVtby9lZUo3QkZMR2V5RzFKdz09){target="_blank"}</mark>
