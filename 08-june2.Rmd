@@ -248,7 +248,7 @@ L’étude de cas est guidée par des compréhensions théoriques de l’environ
 ```{block, type='session'}
 
 
-#### 2:30-3:00 | **L’auto-efficacité et la conviction de l’enseignant dans la mise en œuvre de S STEM, iSTEM ou STEAM dans sa classe** |  Recherche {-}
+#### 2:00-2:30 | **L’auto-efficacité et la conviction de l’enseignant dans la mise en œuvre de S STEM, iSTEM ou STEAM dans sa classe** |  Recherche {-}
 
 ***Atiya Razi*** | *University of Windsor*
 
@@ -267,7 +267,7 @@ Ces dernières années, STEM, iSTEM (STEM intégré) et STEAM (paradigmes STEM) 
 
 ```{block, type='vendor'}
 
-#### 3:00-3:30 | **Leveraging Social Annotation in the Age of AI** |  Research {-}
+#### 2:30-3:00 | **Leveraging Social Annotation in the Age of AI** |  Research {-}
 
 
 ***Jessica Fuller*** | *hypothes.is*
