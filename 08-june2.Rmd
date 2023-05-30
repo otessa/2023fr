@@ -267,7 +267,7 @@ Ces dernières années, STEM, iSTEM (STEM intégré) et STEAM (paradigmes STEM) 
 
 ```{block, type='vendor'}
 
-#### 2:30-3:00 | **Leveraging Social Annotation in the Age of AI** |  Research {-}
+#### 3:00-3:30 | **Leveraging Social Annotation in the Age of AI** |  Research {-}
 
 
 ***Jessica Fuller*** | *hypothes.is*
