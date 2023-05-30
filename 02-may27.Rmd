@@ -498,7 +498,7 @@ Cet article explore le potentiel de la baladodiffusion en tant que technologie �
 
 ### Séance simultanée 3.2 |  Maintenir un changement positif {-}
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/84849983422?pwd=V0NDeVhSUjA2eDF5M2U2QUU0OFUvZz09){target="_blank"}</mark>
+<mark>[**Lien de session**](https://uvic.zoom.us/j/84849983422?pwd=V0NDeVhSUjA2eDF5M2U2QUU0OFUvZz09){target="_blank"}</mark>
 
 ```{block, type='session'}
 
@@ -544,7 +544,7 @@ La pandémie a contraint les enseignants à s’adapter avec une plus grande fle
 
 ### Séance simultanée 3.3 |  Caractère générique {-}
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/81832796337?pwd=d2lkclVtby9lZUo3QkZMR2V5RzFKdz09){target="_blank"}</mark>
+<mark>[**Lien de session**](https://uvic.zoom.us/j/81832796337?pwd=d2lkclVtby9lZUo3QkZMR2V5RzFKdz09){target="_blank"}</mark>
 
 ```{block, type='session'}
 
@@ -639,7 +639,7 @@ Pendant la pandémie de COVID-19, l’enseignement et l’apprentissage en ligne
 
 ### Séance simultanée 3.5 |  Maintenir un changement positif {-}
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/81001564554?pwd=RlNJSzg4SE1HemhiL1BvRmxhWDl5Zz09){target="_blank"}</mark>
+<mark>[**Lien de session**](https://uvic.zoom.us/j/81001564554?pwd=RlNJSzg4SE1HemhiL1BvRmxhWDl5Zz09){target="_blank"}</mark>
 
 ```{block, type='session'}
 
@@ -745,4 +745,4 @@ De nombreuses conversations autour de l’éducation ouverte se concentrent sur 
 
 ## Module de discussion/réseautage | 6:15-6:30 {-}
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/87334254291?pwd=RThZM0t2cloyVmI5Nmt5bTRuVERTZz09){target="_blank"}</mark>
+<mark>[**Lien de session**](https://uvic.zoom.us/j/87334254291?pwd=RThZM0t2cloyVmI5Nmt5bTRuVERTZz09){target="_blank"}</mark>

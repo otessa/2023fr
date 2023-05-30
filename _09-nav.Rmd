@@ -13,7 +13,7 @@ There are three ways to do this.
 
 ### **OPTION 1** {-}
 
-In the bottom corner of each session on the [OTESSA Program page](https://otessa.org/2022/program), there is a 'Session Link', which will take you to the Events listing page in the Congress virtual platform. You may need to sign in.
+In the bottom corner of each session on the [OTESSA Program page](https://otessa.org/2022/program), there is a 'Lien de session', which will take you to the Events listing page in the Congress virtual platform. You may need to sign in.
 
 Each session contains the same link to the events listing page, so if you don't see one, pick another!
 
