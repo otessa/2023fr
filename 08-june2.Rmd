@@ -95,6 +95,21 @@ L’éducation a toujours collecté et utilisé des données sur l’apprentissa
 
 Une non-conférence est une session axée sur les participants destinée à réduire l’accent mis sur les discours formels et à éviter les aspects hiérarchiques d’une session de conférence didactique. Tous les participants au Congrès sont invités à participer à cette contre-conférence en ligne ; cependant, les participants inscrits à la conférence OTESSA recevront une invitation à suggérer des sujets et à voter pour sélectionner à l’avance les sujets de la salle de sous-commission. Au moment de cette session, les affectations du sujet à la salle de sous-commission seront terminées et publiées sur le site Web de notre programme à l’adresse <https://otessa.org/2023/program/>. Vous êtes invités à vous déplacer entre les salles de discussion thématiques et à aller et venir à votre guise ! Nous nous réjouissons d’accueillir des discussions ciblées sur vos sujets favoris ! Il y aura également une contre-conférence en personne qui aura lieu le mardi 30 mai de 11h00 à 12h00 dans le bâtiment des sciences de la vie de l’Université York dans le cadre de la conférence OTESSA.
 
+###  [Topic Survey](https://surveys.otessa.org/index.php/761431?lang=en) {-}
+
+<!--### [Voting Survey](https://surveys.otessa.org/index.php/941512?lang=en){-}-->
+
+<!--
+### Topics
+
+- [Topic 1](https://docs.google.com/document/d/1Wn8PBfTJsHJ5hGipNzEyMoViq4fvTirjj6VQm36ghbQ/edit?usp=sharing)  
+- [Topic 2](https://docs.google.com/document/d/1CYpwgI5_f6DIM9Izu6tagCbKPnTocFECqA0OUJDnT9g/edit?usp=sharing)  
+- [Topic 3](https://docs.google.com/document/d/1wl501fSK2J1XL0WniF8cYEXlG6n8r14donxVMjX_7F4/edit?usp=sharing)  
+- [Topic 4](https://docs.google.com/document/d/1ZEeB0SZARK1VQEqn0QRbj_QISzi0TO6De8hjDHYhsrk/edit?usp=sharing)  
+- [Topic 5](https://docs.google.com/document/d/1EdYVMIA_bCHCO8nc1AYuu4kQMMJD_mCacSbVmw7iKcw/edit?usp=sharing)  
+
+-->
+
 ## Casser | 1:15-1:30 {-}
 
 ## Séance simultanée 18 | 1:30-3:00 {-}
@@ -368,6 +383,30 @@ L’Open Book Collective, dont le lancement est prévu en novembre 2022, rassemb
 </p>
 </details>
 ```
+
+```{block, type='session'}
+
+
+#### 2:30-3:00 | **Recherche ? Quelle Recherche ? Technologie, évaluation et enseignement supérieur en tension** |  Recherche {-}
+
+***Colin Madland*** | *University of Victoria*
+
+<mark>**Reporté à partir de mardi**</mark>
+
+<!--
+**Keywords:** 
+-->
+
+<details>
+<summary>**Abstract**</summary>
+<p>
+En utilisant la théorie de l’apprentissage médiatisé par la technologie de Bower comme cadre, les participants seront invités à s’engager dans une conversation générative sur les approches possibles pour résoudre le problème des corpus de littérature fragmentés et cloisonnés liés à l’évaluation intégrée à la technologie dans l’enseignement supérieur. Les pratiques d’évaluation intégrées à la technologie dans l’enseignement supérieur font l’objet d’un examen minutieux avec une autre « menace existentielle » sous la forme de la génération automatisée de textes. Pour ceux dont les disciplines nécessitent une écriture ou un codage approfondi, cela a conduit à une certaine lamentation concernant ce qui semble être à risque : la capacité de croire que les apprenants se sont engagés dans le travail cognitif de création de sens et présentent les résultats de ce travail. Dans mes propres observations et dans le processus d’examen de la littérature sur l’évaluation intégrée de la technologie dans l’enseignement supérieur, les réponses à ce développement semblent correspondre à des corpus de littérature distincts avec de faibles liens entre eux. Les réponses semblent être orientées vers la technologie, les approches d’évaluation ou les perspectives disciplinaires individuelles. Les liens entre ces corpus de littérature cloisonnés et les difficultés sur le terrain à réagir aux défis de l’évaluation intégrée à la technologie dans l’enseignement supérieur seront problématisés et explorés et les participants engageront une conversation pour susciter et maintenir un changement positif pour le bien de l’académie. et la société.
+
+</p>
+</details>
+```
+
+
 ## Casser | 3:00-3:15 {-}
 
 ## Social | 3:15-3:45 {-}
