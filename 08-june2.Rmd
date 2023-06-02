@@ -97,7 +97,7 @@ Une non-conférence est une session axée sur les participants destinée à réd
 
 ###  [Topic Survey](https://surveys.otessa.org/index.php/761431?lang=en) {-}
 
-<!--### [Voting Survey](https://surveys.otessa.org/index.php/941512?lang=en){-}-->
+### [Voting Survey](https://surveys.otessa.org/index.php/858459?lang=fr){-}
 
 <!--
 ### Topics
