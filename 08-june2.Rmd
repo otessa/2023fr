@@ -100,12 +100,13 @@ Une non-conférence est une session axée sur les participants destinée à réd
 ### [Voting Survey](https://surveys.otessa.org/index.php/858459?lang=fr){-}
 
 
-### Topics
+### Topic List & Google Docs {-}
 
-- [Topic 1](https://docs.google.com/document/d/1Wn8PBfTJsHJ5hGipNzEyMoViq4fvTirjj6VQm36ghbQ/edit?usp=sharing)  
-- [Topic 2](https://docs.google.com/document/d/1CYpwgI5_f6DIM9Izu6tagCbKPnTocFECqA0OUJDnT9g/edit?usp=sharing)  
-- [Topic 3](https://docs.google.com/document/d/1wl501fSK2J1XL0WniF8cYEXlG6n8r14donxVMjX_7F4/edit?usp=sharing)  
 
+
+- [Co-design of courses, curriculum, and OERs / Inventory useful of free and open source projects for teaching and learning, organized by desktop, hosted, server.](https://docs.google.com/document/d/1Wn8PBfTJsHJ5hGipNzEyMoViq4fvTirjj6VQm36ghbQ/edit?usp=sharing){target="_blank"}
+- [How to energize the present/inspire the future of EdTech in Education/Society](https://docs.google.com/document/d/1CYpwgI5_f6DIM9Izu6tagCbKPnTocFECqA0OUJDnT9g/edit?usp=sharing){target="_blank"}
+- [Fostering digital literacy with leadership/design-makers](https://docs.google.com/document/d/1wl501fSK2J1XL0WniF8cYEXlG6n8r14donxVMjX_7F4/edit?usp=sharing){target="_blank"}  
 
 
 ## Casser | 1:15-1:30 {-}
