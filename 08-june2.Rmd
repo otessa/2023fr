@@ -83,8 +83,6 @@ L’éducation a toujours collecté et utilisé des données sur l’apprentissa
 </details>
 
 
-##### [**Lien de session**](){target="_blank"} {-}
-
 ```
 
 ## Casser | 12:00-12:30 {-}
