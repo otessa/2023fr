@@ -59,11 +59,9 @@
 
 ## Bienvenue à la conférence, annonces et reconnaissance des terres | 10:30-11:00 {-}
 
-<mark>[**Lien de session**](https://uvic.zoom.us/j/87072450625?pwd=d3dSNG9SQ0lkZXByUElDK3EycG82QT09){target="_blank"}</mark>
 
 ## Discours d’ouverture | 11:00-12:00    {-}
 
-<mark>[**Lien de session**](https://uvic.zoom.us/j/83832291664?pwd=M0pvTFNCWDBsRWd1NFJKaC9BbjM1QT09){target="_blank"}</mark>
 
 ```{block, type='keynote'}
  
@@ -91,7 +89,6 @@ L’éducation a toujours collecté et utilisé des données sur l’apprentissa
 
 (45 minutes)
 
-<mark>[**Lien de session**](https://uvic.zoom.us/j/86010785627?pwd=Nm83LzM1RXRXQU9JVFJldWg3RmhPZz09){target="_blank"}</mark>
 
 Une non-conférence est une session axée sur les participants destinée à réduire l’accent mis sur les discours formels et à éviter les aspects hiérarchiques d’une session de conférence didactique. Tous les participants au Congrès sont invités à participer à cette contre-conférence en ligne ; cependant, les participants inscrits à la conférence OTESSA recevront une invitation à suggérer des sujets et à voter pour sélectionner à l’avance les sujets de la salle de sous-commission. Au moment de cette session, les affectations du sujet à la salle de sous-commission seront terminées et publiées sur le site Web de notre programme à l’adresse <https://otessa.org/2023/program/>. Vous êtes invités à vous déplacer entre les salles de discussion thématiques et à aller et venir à votre guise ! Nous nous réjouissons d’accueillir des discussions ciblées sur vos sujets favoris ! Il y aura également une contre-conférence en personne qui aura lieu le mardi 30 mai de 11h00 à 12h00 dans le bâtiment des sciences de la vie de l’Université York dans le cadre de la conférence OTESSA.
 
@@ -117,7 +114,6 @@ Une non-conférence est une session axée sur les participants destinée à réd
 
 ### Séance simultanée 18.1 |  Formations d’apprentissage et d’enseignement en ligne {-}
 
-<mark>[**Lien de session**](https://uvic.zoom.us/j/82898272461?pwd=OW50MHEyajd1SUNLTDRWTHNkdzJUQT09){target="_blank"}</mark>
 
 ```{block, type='workshop'}
 
@@ -167,7 +163,6 @@ Au cours de la dernière décennie, les établissements d’enseignement supéri
 
 ### Séance simultanée 18.2 |  Formations d’apprentissage et d’enseignement en ligne {-}
 
-<mark>[**Lien de session**](https://uvic.zoom.us/j/84849983422?pwd=V0NDeVhSUjA2eDF5M2U2QUU0OFUvZz09){target="_blank"}</mark>
 
 ```{block, type='session'}
 
@@ -233,7 +228,6 @@ Cet article présente le concept de distance technologique, qui décrit un écar
 
 ### Séance simultanée 18.3 |  Caractère générique {-}
 
-<mark>[**Lien de session**](https://uvic.zoom.us/j/81832796337?pwd=d2lkclVtby9lZUo3QkZMR2V5RzFKdz09){target="_blank"}</mark>
 
 ```{block, type='session'}
 
@@ -298,7 +292,6 @@ The emergence of cutting-edge technologies, like ChatGPT, has sparked a critical
 
 ### Séance simultanée 18.4 |  Aborder les inégalités {-}
 
-<mark>[**Lien de session**](https://uvic.zoom.us/j/87836094846?pwd=UnRMVERJQUtLZW13NEFkZ2hmM0hLZz09){target="_blank"}</mark>
 
 ```{block, type='session'}
 
@@ -359,7 +352,6 @@ Dans cette présentation, nous partageons et recherchons une collaboration sur u
 ### Séance simultanée 18.5 |   Maintenir un changement positif {-}
 
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/81001564554?pwd=RlNJSzg4SE1HemhiL1BvRmxhWDl5Zz09a){target="_blank"} PASSCODE: 583793</mark>
 
 
 
@@ -410,7 +402,6 @@ En utilisant la théorie de l’apprentissage médiatisé par la technologie de 
 
 ## Social | 3:15-3:45 {-}
 
-<mark>[**Lien de session**](https://uvic.zoom.us/j/87072450625?pwd=d3dSNG9SQ0lkZXByUElDK3EycG82QT09){target="_blank"}</mark>
 
 ```{block, type='social'}
 
@@ -424,7 +415,6 @@ En utilisant la théorie de l’apprentissage médiatisé par la technologie de 
 
 ### Séance simultanée 19.1 |  Caractère générique {-}
 
-<mark>[**Lien de session**](https://uvic.zoom.us/j/82898272461?pwd=OW50MHEyajd1SUNLTDRWTHNkdzJUQT09){target="_blank"}</mark>
 
 ```{block, type='session'}
 
@@ -469,7 +459,6 @@ L’accès au financement du gouvernement fédéral pour soutenir la recherche e
 
 ### Séance simultanée 19.2 |  Maintenir un changement positif {-}
 
-<mark>[**Lien de session**](https://uvic.zoom.us/j/84849983422?pwd=V0NDeVhSUjA2eDF5M2U2QUU0OFUvZz09){target="_blank"}</mark>
 
 ```{block, type='session'}
 
@@ -519,7 +508,6 @@ En Colombie, l’éducation à la paix a été reconnue comme essentielle pour c
 
 ### Séance simultanée 19.3 |  Maintenir un changement positif {-}
 
-<mark>[**Lien de session**](https://uvic.zoom.us/j/81832796337?pwd=d2lkclVtby9lZUo3QkZMR2V5RzFKdz09){target="_blank"}</mark>
 
 ```{block, type='workshop'}
 
@@ -546,7 +534,6 @@ La réalité virtuelle est une technologie où les utilisateurs sont immergés d
 
 ### Séance simultanée 19.4 |  Maintenir un changement positif {-}
 
-<mark>[**Lien de session**](https://uvic.zoom.us/j/87836094846?pwd=UnRMVERJQUtLZW13NEFkZ2hmM0hLZz09){target="_blank"}</mark>
 
 ```{block, type='session'}
 
@@ -630,7 +617,6 @@ Une approche collaborative réflexive critique (Hamilton & Pinnegar, 2014) est u
 
 ### Séance Parallèle 20.1 {-}
 
-<mark>[**Lien de session**](https://uvic.zoom.us/j/89906555580?pwd=bndpdDZUZkNJa3VIY1UxeGVCbDdOQT09){target="_blank"}</mark>
 
 ```{block, type='speaker'}
 
@@ -655,7 +641,6 @@ Présentée en français, cette conférence dévoilera des recommandations émer
 
 ### Séance simultanée 20.2 {-}
 
-<mark>[**Lien de session**](https://uvic.zoom.us/j/84461790793?pwd=S1JqcC9FejBtREMrOEJjVGxwVFRhUT09){target="_blank"}</mark>
 
 ```{block, type='speaker'}
 
@@ -678,4 +663,3 @@ Rejoignez cette session pour acquérir une compréhension des principes de conce
 
 ## Clôture de la conférence | 6:15-6:30 {-}
 
-<mark>[**Lien de session**](https://uvic.zoom.us/j/87072450625?pwd=d3dSNG9SQ0lkZXByUElDK3EycG82QT09){target="_blank"}</mark>

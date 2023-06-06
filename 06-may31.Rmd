@@ -65,7 +65,6 @@
 
 <mark>**Life Sciences Building LSB 103**</mark>
 
-<mark>[**Lien de session**](https://uvic.zoom.us/j/89902859924?pwd=VisxNW1GUW5KWnJldW1DRjF2d0Rmdz09){target="_blank"}</mark>
 
 ## Casser | 9:15-9:30 {-}
 
@@ -196,7 +195,6 @@ Cette session offrira aux participants l’occasion de réfléchir aux espaces n
 ### Séance simultanée 13.4 |  Maintenir un changement positif {-}
 
 
-<mark>[**Lien de session**](https://uvic.zoom.us/j/81832796337?pwd=d2lkclVtby9lZUo3QkZMR2V5RzFKdz09){target="_blank"}</mark>
 
 <mark>**Life Sciences Building LSB 105**</mark>
 
@@ -231,7 +229,6 @@ Tout cela en faisant face sans relâche aux problèmes linguistiques : rejeter l
 
 <mark>**Lassonde Building LAS C**</mark>
 
-<mark>[**Lien de session**](https://uvic.zoom.us/j/87104073299?pwd=Zk4rUFY1WjdUa3VhK21GTlJaWkNKZz09){target="_blank"}</mark>
 
 ```{block, type='keynote'}
  
@@ -265,7 +262,6 @@ L’éducation en tant qu’outil de guérison et de réconciliation a évolué 
 
 <mark>**Life Sciences Building LSB 103**</mark>
 
-<mark>[**Lien de session**](https://uvic.zoom.us/j/89902859924?pwd=VisxNW1GUW5KWnJldW1DRjF2d0Rmdz09){target="_blank"}</mark>
 
 ```{block, type='speaker'}
 
@@ -363,7 +359,6 @@ Le gouvernement canadien a lancé l’initiative « Familles branchées » en 20
 <mark>Cette session a été reportée de la session 3.5.</mark>
 
 
-<mark>[**Lien de session**](https://uvic.zoom.us/j/81832796337?pwd=d2lkclVtby9lZUo3QkZMR2V5RzFKdz09){target="_blank"}</mark>
 
 ```{block, type='session'}
 
